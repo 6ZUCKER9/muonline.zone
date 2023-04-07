@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MonsterSetBase>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<NPC>
+		<Config Class="229" Range="0" PositionX="183" PositionY="30" Direction="3" Element="0" /> <!-- "Marlon" -->
+		<Config Class="236" Range="0" PositionX="226" PositionY="66" Direction="1" Element="0" /> <!-- "Golden Archer" -->
+		<Config Class="233" Range="0" PositionX="209" PositionY="30" Direction="1" Element="0" /> <!-- "Messenger of Archangel" -->
+		<Config Class="233" Range="0" PositionX="219" PositionY="9" Direction="3" Element="0" /> <!-- "Messenger of Archangel" -->
+		<Config Class="235" Range="0" PositionX="183" PositionY="32" Direction="3" Element="0" /> <!-- "Sebina the Priest" -->
+		<Config Class="244" Range="0" PositionX="226" PositionY="25" Direction="3" Element="0" /> <!-- "Caren the Barmaid" -->
+		<Config Class="245" Range="0" PositionX="225" PositionY="41" Direction="3" Element="0" /> <!-- "Wizard Izabel" -->
+		<Config Class="246" Range="0" PositionX="186" PositionY="47" Direction="3" Element="0" /> <!-- "Weapons Merchant Zienna" -->
+		<Config Class="247" Range="20" PositionX="224" PositionY="79" Direction="5" Element="0" /> <!-- "Guard" -->
+		<Config Class="247" Range="20" PositionX="219" PositionY="79" Direction="5" Element="0" /> <!-- "Guard" -->
+		<Config Class="247" Range="20" PositionX="169" PositionY="45" Direction="7" Element="0" /> <!-- "Guard" -->
+		<Config Class="247" Range="20" PositionX="169" PositionY="39" Direction="7" Element="0" /> <!-- "Guard" -->
+		<Config Class="241" Range="0" PositionX="215" PositionY="45" Direction="1" Element="0" /> <!-- "Royal Guard Captain Lorence" -->
+		<Config Class="240" Range="0" PositionX="218" PositionY="63" Direction="2" Element="0" /> <!-- "Safety Guardian" -->
+		<Config Class="257" Range="0" PositionX="219" PositionY="73" Direction="3" Element="0" /> <!-- "Shadow Phantom Soldier" -->
+		<Config Class="257" Range="0" PositionX="172" PositionY="44" Direction="1" Element="0" /> <!-- "Shadow Phantom Soldier" -->
+		<Config Class="566" Range="0" PositionX="204" PositionY="61" Direction="1" Element="0" /> <!-- "Mercenary Guild Manager Tercia" -->
+		<Config Class="478" Range="0" PositionX="191" PositionY="17" Direction="3" Element="0" /> <!-- "Delgado" -->
+		<Config Class="379" Range="0" PositionX="32" PositionY="31" Direction="3" Element="0" /> <!-- "Natasha the Firecracker Merchan" -->
+		<Config Class="522" Range="0" PositionX="229" PositionY="221" Direction="1" Element="0" /> <!-- "Jerint the Assistant" -->
+		<Config Class="584" Range="0" PositionX="240" PositionY="53" Direction="7" Element="0" /> <!-- "Sir Lesnar" -->
+	</NPC>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<SPOT>
+<Config	Class="	24	"	Range="5"	BeginPosX="	238	"	BeginPosY="	79	"	EndPosX="	244	"	EndPosY="	85	"	Direction="-1" Quantity="5" Element="0"/>	<!--		Worms	a"	-->
+<Config	Class="	24	"	Range="5"	BeginPosX="	213	"	BeginPosY="	86	"	EndPosX="	219	"	EndPosY="	92	"	Direction="-1" Quantity="5" Element="0"/>	<!--		Worms	a"	-->
+<Config	Class="	24	"	Range="5"	BeginPosX="	185	"	BeginPosY="	76	"	EndPosX="	191	"	EndPosY="	82	"	Direction="-1" Quantity="5" Element="0"/>	<!--		Worms	a"	-->
+<Config	Class="	24	"	Range="5"	BeginPosX="	165	"	BeginPosY="	62	"	EndPosX="	171	"	EndPosY="	68	"	Direction="-1" Quantity="5" Element="0"/>	<!--		Worms	a"	-->
+<Config	Class="	24	"	Range="5"	BeginPosX="	158	"	BeginPosY="	46	"	EndPosX="	164	"	EndPosY="	52	"	Direction="-1" Quantity="5" Element="0"/>	<!--		Worms	a"	-->
+<Config	Class="	24	"	Range="5"	BeginPosX="	165	"	BeginPosY="	7	"	EndPosX="	171	"	EndPosY="	13	"	Direction="-1" Quantity="5" Element="0"/>	<!--		Worms	a"	-->
+<Config	Class="	21	"	Range="5"	BeginPosX="	52	"	BeginPosY="	9	"	EndPosX="	58	"	EndPosY="	15	"	Direction="-1" Quantity="5" Element="0"/>	<!--		Assassin	a"	-->
+<Config	Class="	21	"	Range="5"	BeginPosX="	71	"	BeginPosY="	11	"	EndPosX="	77	"	EndPosY="	17	"	Direction="-1" Quantity="5" Element="0"/>	<!--		Assassin	a"	-->
+<Config	Class="	21	"	Range="5"	BeginPosX="	61	"	BeginPosY="	32	"	EndPosX="	67	"	EndPosY="	38	"	Direction="-1" Quantity="5" Element="0"/>	<!--		Assassin	a"	-->
+<Config	Class="	22	"	Range="5"	BeginPosX="	58	"	BeginPosY="	51	"	EndPosX="	64	"	EndPosY="	57	"	Direction="-1" Quantity="5" Element="0"/>	<!--		Ice Monster	a"	-->
+<Config	Class="	22	"	Range="5"	BeginPosX="	40	"	BeginPosY="	63	"	EndPosX="	46	"	EndPosY="	69	"	Direction="-1" Quantity="5" Element="0"/>	<!--		Ice Monster	a"	-->
+<Config	Class="	22	"	Range="5"	BeginPosX="	19	"	BeginPosY="	52	"	EndPosX="	25	"	EndPosY="	58	"	Direction="-1" Quantity="5" Element="0"/>	<!--		Ice Monster	a"	-->
+<Config	Class="	19	"	Range="5"	BeginPosX="	22	"	BeginPosY="	79	"	EndPosX="	28	"	EndPosY="	85	"	Direction="-1" Quantity="5" Element="0"/>	<!--		Yeti	a"	-->
+<Config	Class="	19	"	Range="5"	BeginPosX="	16	"	BeginPosY="	105	"	EndPosX="	22	"	EndPosY="	111	"	Direction="-1" Quantity="5" Element="0"/>	<!--		Yeti	a"	-->
+<Config	Class="	19	"	Range="5"	BeginPosX="	7	"	BeginPosY="	138	"	EndPosX="	13	"	EndPosY="	144	"	Direction="-1" Quantity="5" Element="0"/>	<!--		Yeti	a"	-->
+<Config	Class="	20	"	Range="5"	BeginPosX="	63	"	BeginPosY="	128	"	EndPosX="	69	"	EndPosY="	134	"	Direction="-1" Quantity="5" Element="0"/>	<!--		Elite Yeti	a"	-->
+<Config	Class="	20	"	Range="5"	BeginPosX="	84	"	BeginPosY="	147	"	EndPosX="	90	"	EndPosY="	153	"	Direction="-1" Quantity="5" Element="0"/>	<!--		Elite Yeti	a"	-->
+<Config	Class="	20	"	Range="5"	BeginPosX="	99	"	BeginPosY="	165	"	EndPosX="	105	"	EndPosY="	171	"	Direction="-1" Quantity="5" Element="0"/>	<!--		Elite Yeti	a"	-->
+<Config	Class="	20	"	Range="5"	BeginPosX="	111	"	BeginPosY="	194	"	EndPosX="	117	"	EndPosY="	200	"	Direction="-1" Quantity="5" Element="0"/>	<!--		Elite Yeti	a"	-->
+<Config	Class="	20	"	Range="5"	BeginPosX="	109	"	BeginPosY="	227	"	EndPosX="	115	"	EndPosY="	233	"	Direction="-1" Quantity="5" Element="0"/>	<!--		Elite Yeti	a"	-->
+<Config	Class="	20	"	Range="5"	BeginPosX="	235	"	BeginPosY="	190	"	EndPosX="	241	"	EndPosY="	196	"	Direction="-1" Quantity="5" Element="0"/>	<!--		Elite Yeti	a"	-->
+<Config	Class="	20	"	Range="5"	BeginPosX="	195	"	BeginPosY="	177	"	EndPosX="	201	"	EndPosY="	183	"	Direction="-1" Quantity="5" Element="0"/>	<!--		Elite Yeti	a"	-->
+<Config	Class="	20	"	Range="5"	BeginPosX="	186	"	BeginPosY="	151	"	EndPosX="	192	"	EndPosY="	157	"	Direction="-1" Quantity="5" Element="0"/>	<!--		Elite Yeti	a"	-->
+<Config	Class="	20	"	Range="5"	BeginPosX="	215	"	BeginPosY="	152	"	EndPosX="	221	"	EndPosY="	158	"	Direction="-1" Quantity="5" Element="0"/>	<!--		Elite Yeti	a"	-->
+<Config	Class="	20	"	Range="5"	BeginPosX="	194	"	BeginPosY="	207	"	EndPosX="	200	"	EndPosY="	213	"	Direction="-1" Quantity="5" Element="0"/>	<!--		Elite Yeti	a"	-->
+<Config	Class="	20	"	Range="5"	BeginPosX="	195	"	BeginPosY="	238	"	EndPosX="	201	"	EndPosY="	244	"	Direction="-1" Quantity="5" Element="0"/>	<!--		Hommerd	a"	-->
+<Config	Class="	23	"	Range="5"	BeginPosX="	204	"	BeginPosY="	114	"	EndPosX="	210	"	EndPosY="	120	"	Direction="-1" Quantity="5" Element="0"/>	<!--		Hommerd	a"	-->
+<Config	Class="	23	"	Range="5"	BeginPosX="	235	"	BeginPosY="	126	"	EndPosX="	241	"	EndPosY="	132	"	Direction="-1" Quantity="5" Element="0"/>	<!--		Hommerd	a"	-->
+<Config	Class="	23	"	Range="5"	BeginPosX="	172	"	BeginPosY="	105	"	EndPosX="	178	"	EndPosY="	111	"	Direction="-1" Quantity="5" Element="0"/>	<!--		Hommerd	a"	-->
+
+
+	</SPOT>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<MONSTER>
+			<!--Elite Yeti-->
+			<Config Class="20" Range="30" BeginPosX="196" BeginPosY="235" Direction="-1" />
+			<!--Elite Yeti-->
+			<Config Class="20" Range="30" BeginPosX="194" BeginPosY="241" Direction="-1" />
+			<!--Elite Yeti-->
+			<Config Class="20" Range="30" BeginPosX="201" BeginPosY="237" Direction="-1" />
+			<!--Elite Yeti-->
+			<Config Class="20" Range="30" BeginPosX="209" BeginPosY="224" Direction="-1" />
+			<!--Elite Yeti-->
+			<Config Class="20" Range="30" BeginPosX="186" BeginPosY="224" Direction="-1" />
+			<!--Elite Yeti-->
+			<Config Class="20" Range="30" BeginPosX="200" BeginPosY="171" Direction="-1" />
+			<!--Elite Yeti-->
+			<Config Class="20" Range="30" BeginPosX="207" BeginPosY="158" Direction="-1" />
+			<!--Elite Yeti-->
+			<Config Class="20" Range="30" BeginPosX="221" BeginPosY="177" Direction="-1" />
+			<!--Elite Yeti-->
+			<Config Class="20" Range="30" BeginPosX="213" BeginPosY="193" Direction="-1" />
+			<!--Elite Yeti-->
+			<Config Class="20" Range="30" BeginPosX="196" BeginPosY="218" Direction="-1" />
+			<!--Elite Yeti-->
+			<Config Class="20" Range="30" BeginPosX="230" BeginPosY="200" Direction="-1" />
+			<!--Elite Yeti-->
+			<Config Class="20" Range="30" BeginPosX="221" BeginPosY="160" Direction="-1" />
+			<!--Elite Yeti-->
+			<Config Class="20" Range="30" BeginPosX="205" BeginPosY="149" Direction="-1" />
+			<!--Elite Yeti-->
+			<Config Class="20" Range="30" BeginPosX="184" BeginPosY="166" Direction="-1" />
+			<!--Elite Yeti-->
+			<Config Class="20" Range="30" BeginPosX="212" BeginPosY="170" Direction="-1" />
+			<!--Elite Yeti-->
+			<Config Class="20" Range="30" BeginPosX="203" BeginPosY="201" Direction="-1" />
+			<!--Elite Yeti-->
+			<Config Class="20" Range="30" BeginPosX="190" BeginPosY="146" Direction="-1" />
+			<!--Elite Yeti-->
+			<Config Class="20" Range="30" BeginPosX="189" BeginPosY="160" Direction="-1" />
+			<!--Elite Yeti-->
+			<Config Class="20" Range="30" BeginPosX="207" BeginPosY="183" Direction="-1" />
+			<!--Elite Yeti-->
+			<Config Class="20" Range="30" BeginPosX="218" BeginPosY="201" Direction="-1" />
+			<!--Elite Yeti-->
+			<Config Class="20" Range="30" BeginPosX="240" BeginPosY="207" Direction="-1" />
+			<!--Elite Yeti-->
+			<Config Class="20" Range="30" BeginPosX="238" BeginPosY="184" Direction="-1" />
+			<!--Elite Yeti-->
+			<Config Class="20" Range="30" BeginPosX="227" BeginPosY="167" Direction="-1" />
+			<!--Elite Yeti-->
+			<Config Class="20" Range="30" BeginPosX="202" BeginPosY="209" Direction="-1" />
+			<!--Elite Yeti-->
+			<Config Class="20" Range="30" BeginPosX="113" BeginPosY="105" Direction="-1" />
+			<!--Elite Yeti-->
+			<Config Class="20" Range="30" BeginPosX="96" BeginPosY="103" Direction="-1" />
+			<!--Elite Yeti-->
+			<Config Class="20" Range="30" BeginPosX="102" BeginPosY="117" Direction="-1" />
+			<!--Elite Yeti-->
+			<Config Class="20" Range="30" BeginPosX="241" BeginPosY="198" Direction="-1" />
+			<!--Elite Yeti-->
+			<Config Class="20" Range="30" BeginPosX="228" BeginPosY="184" Direction="-1" />
+			<!--Elite Yeti-->
+			<Config Class="20" Range="30" BeginPosX="200" BeginPosY="243" Direction="-1" />
+			<!--Elite Yeti-->
+			<Config Class="20" Range="30" BeginPosX="214" BeginPosY="152" Direction="-1" />
+			<!--Elite Yeti-->
+			<Config Class="20" Range="30" BeginPosX="197" BeginPosY="183" Direction="-1" />
+			<!--Worm-->
+			<Config Class="24" Range="30" BeginPosX="170" BeginPosY="6" Direction="-1" />
+			<!--Worm-->
+			<Config Class="24" Range="30" BeginPosX="161" BeginPosY="58" Direction="-1" />
+			<!--Worm-->
+			<Config Class="24" Range="30" BeginPosX="180" BeginPosY="78" Direction="-1" />
+			<!--Worm-->
+			<Config Class="24" Range="30" BeginPosX="162" BeginPosY="11" Direction="-1" />
+			<!--Worm-->
+			<Config Class="24" Range="30" BeginPosX="244" BeginPosY="80" Direction="-1" />
+			<!--Worm-->
+			<Config Class="24" Range="30" BeginPosX="238" BeginPosY="88" Direction="-1" />
+			<!--Worm-->
+			<Config Class="24" Range="30" BeginPosX="229" BeginPosY="83" Direction="-1" />
+	</MONSTER>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<EVENT>
+	</EVENT>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+</MonsterSetBase>

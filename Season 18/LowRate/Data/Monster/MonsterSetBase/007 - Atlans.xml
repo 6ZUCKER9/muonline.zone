@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MonsterSetBase>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<NPC>
+	</NPC>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<SPOT>
+<Config	Class="	45	"	Range="5"	BeginPosX="	19	"	BeginPosY="	45	"	EndPosX="	25	"	EndPosY="	51	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Bahamut	a"	-->
+<Config	Class="	45	"	Range="5"	BeginPosX="	43	"	BeginPosY="	66	"	EndPosX="	49	"	EndPosY="	72	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Bahamut	a"	-->
+<Config	Class="	45	"	Range="5"	BeginPosX="	63	"	BeginPosY="	53	"	EndPosX="	69	"	EndPosY="	59	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Bahamut	a"	-->
+<Config	Class="	45	"	Range="5"	BeginPosX="	78	"	BeginPosY="	39	"	EndPosX="	84	"	EndPosY="	45	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Bahamut	a"	-->
+<Config	Class="	45	"	Range="5"	BeginPosX="	44	"	BeginPosY="	6	"	EndPosX="	50	"	EndPosY="	12	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Bahamut	a"	-->
+<Config	Class="	46	"	Range="5"	BeginPosX="	73	"	BeginPosY="	16	"	EndPosX="	79	"	EndPosY="	22	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Vepar	a"	-->
+<Config	Class="	46	"	Range="5"	BeginPosX="	22	"	BeginPosY="	74	"	EndPosX="	28	"	EndPosY="	80	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Vepar	a"	-->
+<Config	Class="	46	"	Range="5"	BeginPosX="	17	"	BeginPosY="	97	"	EndPosX="	23	"	EndPosY="	103	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Vepar	a"	-->
+<Config	Class="	46	"	Range="5"	BeginPosX="	15	"	BeginPosY="	117	"	EndPosX="	21	"	EndPosY="	123	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Vepar	a"	-->
+<Config	Class="	46	"	Range="5"	BeginPosX="	42	"	BeginPosY="	103	"	EndPosX="	48	"	EndPosY="	109	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Vepar	a"	-->
+<Config	Class="	47	"	Range="5"	BeginPosX="	64	"	BeginPosY="	83	"	EndPosX="	70	"	EndPosY="	89	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Valkyrie	a"	-->
+<Config	Class="	47	"	Range="5"	BeginPosX="	86	"	BeginPosY="	61	"	EndPosX="	92	"	EndPosY="	67	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Valkyrie	a"	-->
+<Config	Class="	47	"	Range="5"	BeginPosX="	106	"	BeginPosY="	41	"	EndPosX="	112	"	EndPosY="	47	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Valkyrie	a"	-->
+<Config	Class="	47	"	Range="5"	BeginPosX="	116	"	BeginPosY="	21	"	EndPosX="	122	"	EndPosY="	27	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Valkyrie	a"	-->
+<Config	Class="	47	"	Range="5"	BeginPosX="	140	"	BeginPosY="	13	"	EndPosX="	146	"	EndPosY="	19	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Valkyrie	a"	-->
+<Config	Class="	47	"	Range="5"	BeginPosX="	177	"	BeginPosY="	18	"	EndPosX="	183	"	EndPosY="	24	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Valkyrie	a"	-->
+<Config	Class="	51	"	Range="5"	BeginPosX="	234	"	BeginPosY="	16	"	EndPosX="	240	"	EndPosY="	22	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Great Bahamut	a"	-->
+<Config	Class="	51	"	Range="5"	BeginPosX="	187	"	BeginPosY="	45	"	EndPosX="	197	"	EndPosY="	55	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Great Bahamut	a"	-->
+<Config	Class="	51	"	Range="5"	BeginPosX="	151	"	BeginPosY="	61	"	EndPosX="	157	"	EndPosY="	67	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Great Bahamut	a"	-->
+<Config	Class="	51	"	Range="5"	BeginPosX="	127	"	BeginPosY="	63	"	EndPosX="	133	"	EndPosY="	69	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Great Bahamut	a"	-->
+<Config	Class="	51	"	Range="5"	BeginPosX="	105	"	BeginPosY="	96	"	EndPosX="	111	"	EndPosY="	102	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Great Bahamut	a"	-->
+<Config	Class="	51	"	Range="5"	BeginPosX="	78	"	BeginPosY="	119	"	EndPosX="	84	"	EndPosY="	125	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Great Bahamut	a"	-->
+<Config	Class="	51	"	Range="5"	BeginPosX="	224	"	BeginPosY="	74	"	EndPosX="	230	"	EndPosY="	80	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Great Bahamut	a"	-->
+<Config	Class="	51	"	Range="5"	BeginPosX="	220	"	BeginPosY="	124	"	EndPosX="	226	"	EndPosY="	130	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Great Bahamut	a"	-->
+<Config	Class="	51	"	Range="5"	BeginPosX="	224	"	BeginPosY="	151	"	EndPosX="	230	"	EndPosY="	157	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Great Bahamut	a"	-->
+<Config	Class="	48	"	Range="5"	BeginPosX="	220	"	BeginPosY="	172	"	EndPosX="	226	"	EndPosY="	178	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Lizard King	a"	-->
+<Config	Class="	48	"	Range="5"	BeginPosX="	207	"	BeginPosY="	186	"	EndPosX="	213	"	EndPosY="	192	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Lizard King	a"	-->
+<Config	Class="	48	"	Range="5"	BeginPosX="	226	"	BeginPosY="	201	"	EndPosX="	232	"	EndPosY="	207	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Lizard King	a"	-->
+<Config	Class="	52	"	Range="5"	BeginPosX="	178	"	BeginPosY="	95	"	EndPosX="	184	"	EndPosY="	101	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Silver Valkyrie	a"	-->
+<Config	Class="	52	"	Range="5"	BeginPosX="	154	"	BeginPosY="	114	"	EndPosX="	160	"	EndPosY="	120	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Silver Valkyrie	a"	-->
+<Config	Class="	52	"	Range="5"	BeginPosX="	119	"	BeginPosY="	141	"	EndPosX="	125	"	EndPosY="	147	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Silver Valkyrie	a"	-->
+<Config	Class="	52	"	Range="5"	BeginPosX="	90	"	BeginPosY="	142	"	EndPosX="	96	"	EndPosY="	148	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Silver Valkyrie	a"	-->
+<Config	Class="	52	"	Range="5"	BeginPosX="	32	"	BeginPosY="	161	"	EndPosX="	38	"	EndPosY="	167	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Silver Valkyrie	a"	-->
+<Config	Class="	52	"	Range="5"	BeginPosX="	62	"	BeginPosY="	180	"	EndPosX="	68	"	EndPosY="	186	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Silver Valkyrie	a"	-->
+<Config	Class="	52	"	Range="5"	BeginPosX="	110	"	BeginPosY="	178	"	EndPosX="	116	"	EndPosY="	184	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Silver Valkyrie	a"	-->
+<Config	Class="	52	"	Range="5"	BeginPosX="	143	"	BeginPosY="	165	"	EndPosX="	149	"	EndPosY="	171	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Silver Valkyrie	a"	-->
+<Config	Class="	52	"	Range="5"	BeginPosX="	165	"	BeginPosY="	142	"	EndPosX="	171	"	EndPosY="	148	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Silver Valkyrie	a"	-->
+<Config	Class="	48	"	Range="5"	BeginPosX="	173	"	BeginPosY="	174	"	EndPosX="	179	"	EndPosY="	180	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Lizard King	a"	-->
+<Config	Class="	48	"	Range="5"	BeginPosX="	142	"	BeginPosY="	199	"	EndPosX="	148	"	EndPosY="	205	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Lizard King	a"	-->
+<Config	Class="	48	"	Range="5"	BeginPosX="	116	"	BeginPosY="	205	"	EndPosX="	122	"	EndPosY="	211	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Lizard King	a"	-->
+<Config	Class="	48	"	Range="5"	BeginPosX="	71	"	BeginPosY="	213	"	EndPosX="	77	"	EndPosY="	219	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Lizard King	a"	-->
+<Config	Class="	48	"	Range="5"	BeginPosX="	43	"	BeginPosY="	220	"	EndPosX="	49	"	EndPosY="	226	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Lizard King	a"	-->
+<Config	Class="	48	"	Range="5"	BeginPosX="	21	"	BeginPosY="	227	"	EndPosX="	27	"	EndPosY="	233	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Lizard King	a"	-->		
+	</SPOT>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<MONSTER>
+	</MONSTER>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<EVENT>
+	</EVENT>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+</MonsterSetBase>

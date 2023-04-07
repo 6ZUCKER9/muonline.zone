@@ -1,0 +1,200 @@
+06:48:24 SELECT * FROM BanMacInfo WHERE HardwareId=?
+06:48:24 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][Shared Memory]ConnectionWrite (send()).
+06:48:24 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver][Shared Memory]General network error. Check your network documentation.
+06:48:24 SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='Admin'
+06:48:24 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+06:48:28 SELECT * FROM BanMacInfo WHERE HardwareId=?
+06:48:28 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+06:48:28 SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+06:48:28 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+06:48:31 SELECT * FROM BanMacInfo WHERE HardwareId=?
+06:48:31 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+06:48:31 SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+06:48:31 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+06:49:09 SELECT * FROM BanMacInfo WHERE HardwareId=?
+06:49:09 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+06:49:09 SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+06:49:09 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+06:49:11 SELECT * FROM BanMacInfo WHERE HardwareId=?
+06:49:11 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+06:49:11 SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+06:49:11 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+06:49:16 SELECT * FROM BanMacInfo WHERE HardwareId=?
+06:49:16 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+06:49:16 SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+06:49:16 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+06:50:33 SELECT * FROM BanMacInfo WHERE HardwareId=?
+06:50:33 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+06:50:33 SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+06:50:33 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+06:50:36 SELECT * FROM BanMacInfo WHERE HardwareId=?
+06:50:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+06:50:36 SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+06:50:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+06:50:42 SELECT * FROM BanMacInfo WHERE HardwareId=?
+06:50:42 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+06:50:42 SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+06:50:42 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+06:52:10 AllowableIpList.txt reloaded
+06:52:10 AllowConectionManagerList.txt reloaded
+06:52:10 HardwareIdExceptionList.txt reloaded
+06:52:12 AllowableIpList.txt reloaded
+06:52:12 AllowConectionManagerList.txt reloaded
+06:52:12 HardwareIdExceptionList.txt reloaded
+06:53:27 AllowableIpList.txt reloaded
+06:53:27 AllowConectionManagerList.txt reloaded
+06:53:27 HardwareIdExceptionList.txt reloaded
+06:54:04 SELECT * FROM BanMacInfo WHERE HardwareId=?
+06:54:04 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+06:54:04 SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+06:54:04 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+06:55:40 SELECT * FROM BanMacInfo WHERE HardwareId=?
+06:55:40 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+06:55:40 SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='xanadu0'
+06:55:40 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+06:55:56 [ServerManager][0] DelServer (127.0.0.1)
+06:56:08 [SocketManager] Server started at port [55970]
+06:56:08 [SocketManager] Server started at port [55557]
+06:56:10 [ServerManager][0] AddServer (127.0.0.1)
+06:56:10 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+06:56:15 [ServerManager][1] AddServer (127.0.0.1)
+06:56:15 [ServerManager][1] ServerInfo (MuDevs) (55901) (20)
+06:56:18 [ServerManager][2] AddServer (127.0.0.1)
+06:57:05 [AllowConectionManager][ADD][+][HWID:55D3B74A-9689C29F-F428D523-8826B7EE-49656E69-00000016-BFEBFBFF-7FFAFBFF][ConectionCount:1][Account:xanadu0]
+06:59:24 [AllowConectionManager][ADD][=][HWID:55D3B74A-9689C29F-F428D523-8826B7EE-49656E69-00000016-BFEBFBFF-7FFAFBFF][ConectionCount:2][Account:admin]
+07:59:44 [AllowConectionManager][DEL][OK][AccountInfo][HWID:55D3B74A-9689C29F-F428D523-8826B7EE-49656E69-00000016-BFEBFBFF-7FFAFBFF][ConectionCount:1][Account:xanadu0]
+08:04:44 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:55D3B74A-9689C29F-F428D523-8826B7EE-49656E69-00000016-BFEBFBFF-7FFAFBFF][ConectionCount:0][Account:admin]
+08:04:45 [ServerManager][0] DelServer (127.0.0.1)
+08:05:03 [SocketManager] Server started at port [55970]
+08:05:03 [SocketManager] Server started at port [55557]
+08:05:10 [ServerManager][0] AddServer (127.0.0.1)
+08:05:10 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+08:05:11 [ServerManager][1] AddServer (127.0.0.1)
+08:05:11 [ServerManager][1] ServerInfo (MuDevs) (55901) (20)
+08:05:22 [ServerManager][2] AddServer (127.0.0.1)
+08:06:01 [AllowConectionManager][ADD][+][HWID:55D3B74A-9689C29F-F428D523-8826B7EE-49656E69-00000016-BFEBFBFF-7FFAFBFF][ConectionCount:1][Account:admin]
+08:33:20 [ServerManager][0] DelServer (127.0.0.1)
+08:33:32 [SocketManager] Server started at port [55970]
+08:33:32 [SocketManager] Server started at port [55557]
+08:33:35 [ServerManager][0] AddServer (127.0.0.1)
+08:33:35 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+08:33:40 [ServerManager][1] AddServer (127.0.0.1)
+08:33:40 [ServerManager][1] ServerInfo (MuDevs) (55901) (20)
+08:33:42 [ServerManager][2] AddServer (127.0.0.1)
+08:34:22 [AllowConectionManager][ADD][+][HWID:55D3B74A-9689C29F-F428D523-8826B7EE-49656E69-00000016-BFEBFBFF-7FFAFBFF][ConectionCount:1][Account:admin]
+08:43:13 [ServerManager][1] DelServer (127.0.0.1)
+08:43:13 [AllowConectionManager][DELS][OK][AccountInfo][HWID:55D3B74A-9689C29F-F428D523-8826B7EE-49656E69-00000016-BFEBFBFF-7FFAFBFF][ConectionCount:0][Account:admin]
+08:43:13 [AllowConectionManager][DELSALL][OK][AccountInfo][HWID:55D3B74A-9689C29F-F428D523-8826B7EE-49656E69-00000016-BFEBFBFF-7FFAFBFF][ConectionCount:0]
+08:45:49 [ServerManager][0] DelServer (127.0.0.1)
+08:46:00 [SocketManager] Server started at port [55970]
+08:46:00 [SocketManager] Server started at port [55557]
+08:46:03 [ServerManager][0] AddServer (127.0.0.1)
+08:46:03 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+08:46:10 [ServerManager][1] AddServer (127.0.0.1)
+08:46:10 [ServerManager][1] ServerInfo (MuDevs) (55901) (20)
+08:46:13 [ServerManager][2] AddServer (127.0.0.1)
+08:50:28 [AllowConectionManager][ADD][+][HWID:55D3B74A-9689C29F-F428D523-8826B7EE-49656E69-00000016-BFEBFBFF-7FFAFBFF][ConectionCount:1][Account:admin]
+08:54:03 AllowableIpList.txt reloaded
+08:54:03 AllowConectionManagerList.txt reloaded
+08:54:03 HardwareIdExceptionList.txt reloaded
+11:24:22 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:55D3B74A-9689C29F-F428D523-8826B7EE-49656E69-00000016-BFEBFBFF-7FFAFBFF][ConectionCount:0][Account:admin]
+11:24:30 [ServerManager][0] DelServer (127.0.0.1)
+11:26:51 [SocketManager] Server started at port [55970]
+11:26:51 [SocketManager] Server started at port [55557]
+11:26:54 [ServerManager][0] AddServer (127.0.0.1)
+11:26:54 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+11:27:02 [ServerManager][1] AddServer (127.0.0.1)
+11:27:02 [ServerManager][1] ServerInfo (MuDevs) (55901) (20)
+11:27:05 [ServerManager][2] AddServer (127.0.0.1)
+11:31:08 [AllowConectionManager][ADD][+][HWID:55D3B74A-9689C29F-F428D523-8826B7EE-49656E69-00000016-BFEBFBFF-7FFAFBFF][ConectionCount:1][Account:admin]
+11:34:47 [AllowConectionManager][ADD][+][HWID:21A5B34D-D6C5F5DA-C569E07D-BE1EEAA4-49656E69-00000016-BFEBFBFF-7FFAFBBF][ConectionCount:1][Account:grun]
+11:35:06 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:21A5B34D-D6C5F5DA-C569E07D-BE1EEAA4-49656E69-00000016-BFEBFBFF-7FFAFBBF][ConectionCount:0][Account:grun]
+11:35:23 [AllowConectionManager][ADD][+][HWID:21A5B34D-D6C5F5DA-C569E07D-BE1EEAA4-49656E69-00000016-BFEBFBFF-7FFAFBBF][ConectionCount:1][Account:grun]
+12:45:25 AllowableIpList.txt reloaded
+12:45:25 AllowConectionManagerList.txt reloaded
+12:45:25 HardwareIdExceptionList.txt reloaded
+12:45:26 AllowableIpList.txt reloaded
+12:45:26 AllowConectionManagerList.txt reloaded
+12:45:26 HardwareIdExceptionList.txt reloaded
+12:45:26 AllowableIpList.txt reloaded
+12:45:26 AllowConectionManagerList.txt reloaded
+12:45:26 HardwareIdExceptionList.txt reloaded
+13:15:19 [ServerManager][0] DelServer (127.0.0.1)
+13:15:47 [SocketManager] Server started at port [55970]
+13:15:47 [SocketManager] Server started at port [55557]
+13:15:52 [ServerManager][0] AddServer (127.0.0.1)
+13:15:52 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+13:15:54 [ServerManager][1] AddServer (127.0.0.1)
+13:15:54 [ServerManager][1] ServerInfo (MuDevs) (55901) (20)
+13:15:56 [ServerManager][2] AddServer (127.0.0.1)
+13:16:29 [AllowConectionManager][ADD][+][HWID:21A5B34D-D6C5F5DA-C569E07D-BE1EEAA4-49656E69-00000016-BFEBFBFF-7FFAFBBF][ConectionCount:1][Account:grun]
+13:16:47 [AllowConectionManager][ADD][+][HWID:55D3B74A-9689C29F-F428D523-8826B7EE-49656E69-00000016-BFEBFBFF-7FFAFBFF][ConectionCount:1][Account:admin]
+14:03:17 [ServerManager][0] DelServer (127.0.0.1)
+14:03:41 [SocketManager] Server started at port [55970]
+14:03:41 [SocketManager] Server started at port [55557]
+14:03:41 [ServerManager][0] AddServer (127.0.0.1)
+14:03:41 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+14:04:01 [ServerManager][1] AddServer (127.0.0.1)
+14:04:01 [ServerManager][1] ServerInfo (MuDevs) (55901) (20)
+14:04:06 [ServerManager][2] AddServer (127.0.0.1)
+14:04:17 [AllowConectionManager][ADD][+][HWID:21A5B34D-D6C5F5DA-C569E07D-BE1EEAA4-49656E69-00000016-BFEBFBFF-7FFAFBBF][ConectionCount:1][Account:grun]
+14:05:12 [AllowConectionManager][ADD][+][HWID:55D3B74A-9689C29F-F428D523-8826B7EE-49656E69-00000016-BFEBFBFF-7FFAFBFF][ConectionCount:1][Account:admin]
+15:43:25 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:21A5B34D-D6C5F5DA-C569E07D-BE1EEAA4-49656E69-00000016-BFEBFBFF-7FFAFBBF][ConectionCount:0][Account:grun]
+15:47:48 [ServerManager][0] DelServer (127.0.0.1)
+15:48:14 [SocketManager] Server started at port [55970]
+15:48:14 [SocketManager] Server started at port [55557]
+15:48:22 [ServerManager][0] AddServer (127.0.0.1)
+15:48:22 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+15:48:23 [ServerManager][1] AddServer (127.0.0.1)
+15:48:23 [ServerManager][1] ServerInfo (MuDevs) (55901) (20)
+15:48:26 [ServerManager][2] AddServer (127.0.0.1)
+15:48:40 [AllowConectionManager][ADD][+][HWID:55D3B74A-9689C29F-F428D523-8826B7EE-49656E69-00000016-BFEBFBFF-7FFAFBFF][ConectionCount:1][Account:admin]
+15:52:03 [ServerManager][0] DelServer (127.0.0.1)
+15:52:19 [SocketManager] Server started at port [55970]
+15:52:19 [SocketManager] Server started at port [55557]
+15:52:19 [ServerManager][0] AddServer (127.0.0.1)
+15:52:19 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+15:52:40 [ServerManager][1] AddServer (127.0.0.1)
+15:52:40 [ServerManager][1] ServerInfo (MuDevs) (55901) (20)
+15:52:52 [ServerManager][2] AddServer (127.0.0.1)
+15:53:22 [AllowConectionManager][ADD][+][HWID:55D3B74A-9689C29F-F428D523-8826B7EE-49656E69-00000016-BFEBFBFF-7FFAFBFF][ConectionCount:1][Account:admin]
+15:54:27 [ServerManager][0] DelServer (127.0.0.1)
+15:54:52 [SocketManager] Server started at port [55970]
+15:54:52 [SocketManager] Server started at port [55557]
+15:55:01 [ServerManager][0] AddServer (127.0.0.1)
+15:55:01 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+15:55:04 [ServerManager][1] AddServer (127.0.0.1)
+15:55:04 [ServerManager][1] ServerInfo (MuDevs) (55901) (20)
+15:55:06 [ServerManager][2] AddServer (127.0.0.1)
+15:55:39 [AllowConectionManager][ADD][+][HWID:55D3B74A-9689C29F-F428D523-8826B7EE-49656E69-00000016-BFEBFBFF-7FFAFBFF][ConectionCount:1][Account:admin]
+15:56:40 [AllowConectionManager][ADD][+][HWID:21A5B34D-D6C5F5DA-C569E07D-BE1EEAA4-49656E69-00000016-BFEBFBFF-7FFAFBBF][ConectionCount:1][Account:grun]
+15:59:22 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:21A5B34D-D6C5F5DA-C569E07D-BE1EEAA4-49656E69-00000016-BFEBFBFF-7FFAFBBF][ConectionCount:0][Account:grun]
+21:20:03 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:55D3B74A-9689C29F-F428D523-8826B7EE-49656E69-00000016-BFEBFBFF-7FFAFBFF][ConectionCount:0][Account:admin]
+21:20:05 [ServerManager][0] DelServer (127.0.0.1)
+21:20:22 [SocketManager] Server started at port [55970]
+21:20:22 [SocketManager] Server started at port [55557]
+21:20:25 [ServerManager][0] AddServer (127.0.0.1)
+21:20:25 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+21:20:31 [ServerManager][1] AddServer (127.0.0.1)
+21:20:31 [ServerManager][1] ServerInfo (MuDevs) (55901) (20)
+21:20:33 [ServerManager][2] AddServer (127.0.0.1)
+21:22:19 [AllowConectionManager][ADD][+][HWID:55D3B74A-9689C29F-F428D523-8826B7EE-49656E69-00000016-BFEBFBFF-7FFAFBFF][ConectionCount:1][Account:admin]
+21:38:56 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:55D3B74A-9689C29F-F428D523-8826B7EE-49656E69-00000016-BFEBFBFF-7FFAFBFF][ConectionCount:0][Account:admin]
+21:38:57 [ServerManager][0] DelServer (127.0.0.1)
+21:39:10 [SocketManager] Server started at port [55970]
+21:39:10 [SocketManager] Server started at port [55557]
+21:39:13 [ServerManager][0] AddServer (127.0.0.1)
+21:39:13 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+21:39:18 [ServerManager][1] AddServer (127.0.0.1)
+21:39:18 [ServerManager][1] ServerInfo (MuDevs) (55901) (20)
+21:39:21 [ServerManager][2] AddServer (127.0.0.1)
+21:40:31 [AllowConectionManager][ADD][+][HWID:55D3B74A-9689C29F-F428D523-8826B7EE-49656E69-00000016-BFEBFBFF-7FFAFBFF][ConectionCount:1][Account:admin]
+22:25:26 [ServerManager][0] DelServer (127.0.0.1)
+22:25:37 [SocketManager] Server started at port [55970]
+22:25:37 [SocketManager] Server started at port [55557]
+22:25:40 [ServerManager][0] AddServer (127.0.0.1)
+22:25:40 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+22:25:46 [ServerManager][1] AddServer (127.0.0.1)
+22:25:46 [ServerManager][1] ServerInfo (MuDevs) (55901) (20)
+22:25:50 [ServerManager][2] AddServer (127.0.0.1)
+22:26:17 [AllowConectionManager][ADD][+][HWID:55D3B74A-9689C29F-F428D523-8826B7EE-49656E69-00000016-BFEBFBFF-7FFAFBFF][ConectionCount:1][Account:admin]

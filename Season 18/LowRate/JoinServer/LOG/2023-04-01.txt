@@ -1,0 +1,17 @@
+17:51:01 SELECT * FROM BanMacInfo WHERE HardwareId=?
+17:51:01 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:51:01 SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='osaq'
+17:51:01 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:51:04 SELECT * FROM BanMacInfo WHERE HardwareId=?
+17:51:04 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:51:04 SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='osaq'
+17:51:04 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:51:26 SELECT * FROM BanMacInfo WHERE HardwareId=?
+17:51:26 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:51:26 SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='osaq'
+17:51:26 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+21:05:43 [SocketManager] Server started at port [55970]
+21:05:43 [SocketManager] Server started at port [55557]
+21:05:45 [ServerManager][0] AddServer (127.0.0.1)
+21:05:45 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+21:05:50 [ServerManager][1] AddServer (127.0.0.1)

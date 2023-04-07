@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MonsterSetBase>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<NPC>
+		<Config Class="577" Range="0" PositionX="121" PositionY="102" Direction="3" Element="0" /> <!-- "Leina the General Goods Merchan" -->
+		<Config Class="578" Range="0" PositionX="117" PositionY="126" Direction="3" Element="0" /> <!-- "Weapons Merchant Bolo" -->
+		<Config Class="240" Range="0" PositionX="123" PositionY="132" Direction="2" Element="0" /> <!-- "Safety Guardian" -->
+		<Config Class="240" Range="0" PositionX="122" PositionY="96" Direction="3" Element="0" /> <!-- "Safety Guardian" -->
+		<Config Class="240" Range="0" PositionX="157" PositionY="127" Direction="1" Element="0" /> <!-- "Safety Guardian" -->
+	</NPC>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<SPOT>
+<Config	Class="	569	"	Range="5"	BeginPosX="	81	"	BeginPosY="	119	"	EndPosX="	87	"	EndPosY="	125	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Venomous Chain Scorpion	a"	-->
+<Config	Class="	569	"	Range="5"	BeginPosX="	61	"	BeginPosY="	117	"	EndPosX="	67	"	EndPosY="	123	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Venomous Chain Scorpion	a"	-->
+<Config	Class="	570	"	Range="5"	BeginPosX="	88	"	BeginPosY="	68	"	EndPosX="	94	"	EndPosY="	74	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Bone Scorpion	a"	-->
+<Config	Class="	571	"	Range="5"	BeginPosX="	35	"	BeginPosY="	60	"	EndPosX="	41	"	EndPosY="	66	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Orcus	a"	-->
+<Config	Class="	572	"	Range="5"	BeginPosX="	38	"	BeginPosY="	86	"	EndPosX="	44	"	EndPosY="	92	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Gollock	a"	-->
+<Config	Class="	572	"	Range="5"	BeginPosX="	28	"	BeginPosY="	138	"	EndPosX="	34	"	EndPosY="	144	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Gollock	a"	-->
+<Config	Class="	572	"	Range="5"	BeginPosX="	48	"	BeginPosY="	152	"	EndPosX="	54	"	EndPosY="	158	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Gollock	a"	-->
+<Config	Class="	572	"	Range="5"	BeginPosX="	36	"	BeginPosY="	181	"	EndPosX="	42	"	EndPosY="	187	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Gollock	a"	-->
+<Config	Class="	571	"	Range="5"	BeginPosX="	90	"	BeginPosY="	163	"	EndPosX="	96	"	EndPosY="	169	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Orcus	a"	-->
+<Config	Class="	571	"	Range="5"	BeginPosX="	100	"	BeginPosY="	190	"	EndPosX="	106	"	EndPosY="	196	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Orcus	a"	-->
+<Config	Class="	571	"	Range="5"	BeginPosX="	139	"	BeginPosY="	149	"	EndPosX="	145	"	EndPosY="	155	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Orcus	a"	-->
+<Config	Class="	571	"	Range="5"	BeginPosX="	158	"	BeginPosY="	174	"	EndPosX="	164	"	EndPosY="	180	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Orcus	a"	-->
+<Config	Class="	571	"	Range="5"	BeginPosX="	179	"	BeginPosY="	154	"	EndPosX="	185	"	EndPosY="	160	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Orcus	a"	-->
+<Config	Class="	571	"	Range="5"	BeginPosX="	220	"	BeginPosY="	167	"	EndPosX="	226	"	EndPosY="	173	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Orcus	a"	-->
+<Config	Class="	569	"	Range="5"	BeginPosX="	180	"	BeginPosY="	111	"	EndPosX="	186	"	EndPosY="	117	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Venomous Chain Scorpion	a"	-->
+<Config	Class="	569	"	Range="5"	BeginPosX="	163	"	BeginPosY="	90	"	EndPosX="	169	"	EndPosY="	96	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Venomous Chain Scorpion	a"	-->
+<Config	Class="	569	"	Range="5"	BeginPosX="	147	"	BeginPosY="	76	"	EndPosX="	153	"	EndPosY="	82	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Venomous Chain Scorpion	a"	-->
+<Config	Class="	570	"	Range="5"	BeginPosX="	160	"	BeginPosY="	47	"	EndPosX="	170	"	EndPosY="	57	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Bone Scorpion	a"	-->
+<Config	Class="	570	"	Range="5"	BeginPosX="	181	"	BeginPosY="	71	"	EndPosX="	187	"	EndPosY="	77	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Bone Scorpion	a"	-->
+<Config	Class="	570	"	Range="5"	BeginPosX="	181	"	BeginPosY="	91	"	EndPosX="	187	"	EndPosY="	97	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Bone Scorpion	a"	-->
+<Config	Class="	572	"	Range="5"	BeginPosX="	209	"	BeginPosY="	85	"	EndPosX="	215	"	EndPosY="	91	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Gollock	a"	-->
+<Config	Class="	572	"	Range="5"	BeginPosX="	225	"	BeginPosY="	102	"	EndPosX="	231	"	EndPosY="	108	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Gollock	a"	-->
+<Config	Class="	572	"	Range="5"	BeginPosX="	184	"	BeginPosY="	39	"	EndPosX="	190	"	EndPosY="	45	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Gollock	a"	-->
+<Config	Class="	572	"	Range="5"	BeginPosX="	211	"	BeginPosY="	33	"	EndPosX="	217	"	EndPosY="	39	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Gollock	a"	-->
+
+	</SPOT>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<MONSTER>
+	</MONSTER>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<EVENT>
+	</EVENT>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+</MonsterSetBase>

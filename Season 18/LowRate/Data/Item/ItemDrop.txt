@@ -1,0 +1,810 @@
+//Index   Level   Grade   LevelOption0   SkillOption1   LuckOption2   JoLOption3   ExeOption4   Option5   Option6   Duration   MapNumber   MonsterClass   MonsterLevelMin   MonsterLevelMax   DropRate   Commen
+6176	0	0	*	*	*	*	*	*	*	0	*	*	12	49	0	//Box of Red Ribbon
+6177	0	0	*	*	*	*	*	*	*	0	*	*	50	69	0	//Box of Green Ribbon
+6178	0	0	*	*	*	*	*	*	*	0	*	*	70	97	0	//Box of Blue Ribbon
+6214	0	0	*	*	*	*	*	*	*	0	*	*	58	76	1000	//Sphere (Mono)    
+6215	0	0	*	*	*	*	*	*	*	0	*	*	77	101	1000	//Sphere (Di)
+6216	0	0	*	*	*	*	*	*	*	0	*	*	102	150	1000	//Sphere (Tri)
+6344	0	0	*	*	*	*	*	*	5	0	*	18	 *	 *	 5000	//Muren's Book of Magic
+6344	0	0	*	*	*	*	*	*	5	0	*	25	 *	 *	 5000	//Muren's Book of Magic
+6344	0	0	*	*	*	*	*	*	5	0	*	38	 *	 *	 5000	//Muren's Book of Magic
+6344	0	0	*	*	*	*	*	*	5	0	*	49	 *	 *	 5000	//Muren's Book of Magic
+6344	0	0	*	*	*	*	*	*	5	0	*	77	 *	 *	 5000	//Muren's Book of Magic
+6344	0	0	*	*	*	*	*	*	5	0	*	309	*	 *	 5000	//Muren's Book of Magic
+6344	0	0	*	*	*	*	*	*	5	0	*	586	*	 *	 1000	//Muren's Book of Magic
+6344	0	0	*	*	*	*	*	*	5	0	*	587	*	 *	 1000	//Muren's Book of Magic
+6344	0	0	*	*	*	*	*	*	5	0	*	588	*	 *	 1000	//Muren's Book of Magic
+6344	0	0	*	*	*	*	*	*	5	0	*	589	*	 *	 1000	//Muren's Book of Magic
+6344	0	0	*	*	*	*	*	*	5	0	*	590	*	 *	 1000	//Muren's Book of Magic
+6344	0	0	*	*	*	*	*	*	5	0	*	591	*	 *	 1000	//Muren's Book of Magic
+6345	0	0	*	*	*	*	*	*	5	0	*	18	 *	 *	 1000	//Scroll of Etramu
+6345	0	0	*	*	*	*	*	*	5	0	*	25	 *	 *	 1000	//Scroll of Etramu
+6345	0	0	*	*	*	*	*	*	5	0	*	38	 *	 *	 1000	//Scroll of Etramu
+6345	0	0	*	*	*	*	*	*	5	0	*	49	 *	 *	 1000	//Scroll of Etramu
+6345	0	0	*	*	*	*	*	*	5	0	*	77	 *	 *	 1000	//Scroll of Etramu
+6345	0	0	*	*	*	*	*	*	5	0	*	309	*	 *	 1000	//Scroll of Etramu
+6345	0	0	*	*	*	*	*	*	5	0	*	586	*	 *	 1000	//Scroll of Etramu
+6345	0	0	*	*	*	*	*	*	5	0	*	587	*	 *	 1000	//Scroll of Etramu
+6345	0	0	*	*	*	*	*	*	5	0	*	588	*	 *	 1000	//Scroll of Etramu
+6345	0	0	*	*	*	*	*	*	5	0	*	589	*	 *	 1000	//Scroll of Etramu
+6345	0	0	*	*	*	*	*	*	5	0	*	590	*	 *	 1000	//Scroll of Etramu
+6345	0	0	*	*	*	*	*	*	5	0	*	591	*	 *	 1000	//Scroll of Etramu
+6346	0	0	*	*	*	*	*	*	5	0	*	608	*	 *	 50	//Lorencia Knights' Iron Shield
+6346	0	0	*	*	*	*	*	*	5	0	*	609	*	 *	 50	//Lorencia Knights' Iron Shield
+6346	0	0	*	*	*	*	*	*	5	0	*	610	*	 *	 50	//Lorencia Knights' Iron Shield
+6347	0	0	*	*	*	*	*	*	5	0	*	592	*	 *	 100	//Iron Shield of the Magic
+6347	0	0	*	*	*	*	*	*	5	0	*	595	*	 *	 100	//Iron Shield of the Magic
+6347	0	0	*	*	*	*	*	*	5	0	*	608	*	 *	 20	//Iron Shield of the Magic
+6347	0	0	*	*	*	*	*	*	5	0	*	609	*	 *	 20	//Iron Shield of the Magic
+6347	0	0	*	*	*	*	*	*	5	0	*	610	*	 *	 20	//Iron Shield of the Magic
+6348	0	0	*	*	*	*	*	*	5	0	*	608	*	 *	 50	//Hero Elixir
+6348	0	0	*	*	*	*	*	*	5	0	*	609	*	 *	 50	//Hero Elixir
+6348	0	0	*	*	*	*	*	*	5	0	*	610	*	 *	 50	//Hero Elixir
+6349	0	0	*	*	*	*	*	*	5	0	*	593	*	 *	 100	//Brave Hero Elixir
+6349	0	0	*	*	*	*	*	*	5	0	*	596	*	 *	 100	//Brave Hero Elixir
+6349	0	0	*	*	*	*	*	*	5	0	*	608	*	 *	 20	//Brave Hero Elixir
+6349	0	0	*	*	*	*	*	*	5	0	*	609	*	 *	 20	//Brave Hero Elixir
+6349	0	0	*	*	*	*	*	*	5	0	*	610	*	 *	 20	//Brave Hero Elixir
+6350	0	0	*	*	*	*	*	*	5	0	*	608	*	 *	 50	//Gladiator's Dagger
+6350	0	0	*	*	*	*	*	*	5	0	*	609	*	 *	 50	//Gladiator's Dagger
+6350	0	0	*	*	*	*	*	*	5	0	*	610	*	 *	 50	//Gladiator's Dagger
+6351	0	0	*	*	*	*	*	*	5	0	*	594	*	 *	 100	//Merciless Gladiator's Dagger
+6351	0	0	*	*	*	*	*	*	5	0	*	608	*	 *	 20	//Merciless Gladiator's Dagger
+6351	0	0	*	*	*	*	*	*	5	0	*	609	*	 *	 20	//Merciless Gladiator's Dagger
+6351	0	0	*	*	*	*	*	*	5	0	*	610	*	 *	 20	//Merciless Gladiator's Dagger
+6352	0	0	*	*	*	*	*	*	5	0	*	611	*	 *	 50	//Kundun's Madness Blade
+6352	0	0	*	*	*	*	*	*	5	0	*	612	*	 *	 50	//Kundun's Madness Blade
+6352	0	0	*	*	*	*	*	*	5	0	*	613	*	 *	 50	//Kundun's Madness Blade
+6352	0	0	*	*	*	*	*	*	5	0	*	614	*	 *	 50	//Kundun's Madness Blade
+6352	0	0	*	*	*	*	*	*	5	0	*	615	*	 *	 50	//Kundun's Madness Blade
+6353	0	0	*	*	*	*	*	*	5	0	*	611	*	 *	 50	//Kundun's Magic Spell Scroll
+6353	0	0	*	*	*	*	*	*	5	0	*	612	*	 *	 50	//Kundun's Magic Spell Scroll
+6353	0	0	*	*	*	*	*	*	5	0	*	613	*	 *	 50	//Kundun's Magic Spell Scroll
+6353	0	0	*	*	*	*	*	*	5	0	*	614	*	 *	 50	//Kundun's Magic Spell Scroll
+6353	0	0	*	*	*	*	*	*	5	0	*	615	*	 *	 50	//Kundun's Magic Spell Scroll
+6354	0	0	*	*	*	*	*	*	5	0	*	611	*	 *	 50	//Empire Guardians' Stronghold
+6354	0	0	*	*	*	*	*	*	5	0	*	612	*	 *	 50	//Empire Guardians' Stronghold
+6354	0	0	*	*	*	*	*	*	5	0	*	613	*	 *	 50	//Empire Guardians' Stronghold
+6354	0	0	*	*	*	*	*	*	5	0	*	614	*	 *	 50	//Empire Guardians' Stronghold
+6354	0	0	*	*	*	*	*	*	5	0	*	615	*	 *	 50	//Empire Guardians' Stronghold
+6355	0	0	*	*	*	*	*	*	5	0	*	611	*	 *	 50	//Ancient Icarus Scroll
+6355	0	0	*	*	*	*	*	*	5	0	*	612	*	 *	 50	//Ancient Icarus Scroll
+6355	0	0	*	*	*	*	*	*	5	0	*	613	*	 *	 50	//Ancient Icarus Scroll
+6355	0	0	*	*	*	*	*	*	5	0	*	614	*	 *	 50	//Ancient Icarus Scroll
+6355	0	0	*	*	*	*	*	*	5	0	*	615	*	 *	 50	//Ancient Icarus Scroll
+6722	0	0	*	*	*	*	*	*	*	0	*	466	*	 *	 0	//Invitation to Santa Village
+7179	1	0	*	*	*	*	*	*	*	0	*	*	12	69	0	//Star of Christmas
+7179	3	0	*	*	*	*	*	*	*	0	*	*	12	69	0	//Heart of Love
+7179	5	0	*	*	*	*	*	*	*	0	*	*	12	49	0	//Silver Medal
+7179	6	0	*	*	*	*	*	*	*	0	*	*	50	69	0	//Gold Medal
+7179	7	0	*	*	*	*	*	*	*	0	*	*	50	69	0	//Box of Heaven
+7179	13	0	*	*	*	*	*	*	*	0	*	*	50	69	0	//Blue Heart	
+7200	0	0	*	*	*	*	*	*	*	0	*	*	12	49	0	//Pink Chocolate Box
+7200	1	0	*	*	*	*	*	*	*	0	*	*	12	49	0	//Lilac Candy Box
+7201	0	0	*	*	*	*	*	*	*	0	*	*	50	69	0	//Red Chocolate Box
+7201	1	0	*	*	*	*	*	*	*	0	*	*	50	69	0	//Orange Candy Box
+7202	0	0	*	*	*	*	*	*	*	0	*	*	70	97	0	//Blue Chocolate Box
+7202	1	0	*	*	*	*	*	*	*	0	*	*	70	97	0	//Navy Candy Box
+7213	0	0	*	*	*	*	*	*	*	0	*	*	25	150	0	//Pumpkin of Luck	
+7258	0	0	*	*	*	*	*	*	*	0	*	*	58	150	0	//Golden Cherry Blossom Branch
+7269	0	0	*	*	*	*	*	*	*	0	*	*	60	150	1000	//Suspicious Scrap of Paper
+7289	0	0	*	*	*	*	*	*	*	0	*	*	25	150	1000	//Sealed Golden Box
+7290	0	0	*	*	*	*	*	*	*	0	*	*	25	150	1000	//Sealed Silver Box
+7348	0	0	*	*	*	*	*	*	*	0	*	454	*	 *	 1000	//Ice Walker's Mane
+7349	0	0	*	*	*	*	*	*	*	0	*	455	*	 *	 1000	//Mammoth's Bundle of Fur
+7350	0	0	*	*	*	*	*	*	*	0	*	456	*	 *	 1000	//Giant's Icicle
+7351	0	0	*	*	*	*	*	*	*	0	*	457	*	 *	 1000	//Coolutin's Poison
+7352	0	0	*	*	*	*	*	*	*	0	*	458	*	 *	 1000	//Iron Knight's Heart
+7353	0	0	*	*	*	*	*	*	*	0	*	562	*	 *	 1000	//Dark Mammoth's Horn
+7354	0	0	*	*	*	*	*	*	*	0	*	563	*	 *	 1000	//Dark Giant's Axe
+7355	0	0	*	*	*	*	*	*	*	0	*	564	*	 *	 1000	//Dark Coolutin's Blood
+7356	0	0	*	*	*	*	*	*	*	0	*	565	*	 *	 1000	//Dark Iron Knight's Sword
+7359	0	0	*	*	*	*	*	*	*	0	57	*	102	150	1000	//Sonic Combination Note
+7360	0	0	*	*	*	*	*	*	*	0	57	*	102	150	1000	//Cyclone Combination Note
+7361	0	0	*	*	*	*	*	*	*	0	57	*	102	150	1000	//Blast Combination Note
+7362	0	0	*	*	*	*	*	*	*	0	57	*	102	150	1000	//Magma Combination Note
+7363	0	0	*	*	*	*	*	*	*	0	57	*	102	150	1000	//Horn Combination Note
+7364	0	0	*	*	*	*	*	*	*	0	57	*	102	150	1000	//Angelic Combination Note
+7365	0	0	*	*	*	*	*	*	*	0	57	*	102	150	1000	//Devil Cross Combination Note
+7366	0	0	*	*	*	*	*	*	*	0	57	*	102	150	1000	//Miracle Combination Note
+7367	0	0	*	*	*	*	*	*	*	0	57	*	102	150	1000	//Spite Combination Note
+7368	0	0	*	*	*	*	*	*	*	0	57	*	102	150	1000	//Asura Combination Note
+7369	0	0	*	*	*	*	*	*	*	0	57	*	102	150	1000	//Thunder Combination Note
+7370	0	0	*	*	*	*	*	*	*	0	57	*	102	150	1000	//Soul Combination Note
+7231	0	0	*	*	*	*	*	*	*	0	*	*	12	150	0	//Firecracker  
+10279	0	0	*	*	*	1	*	*	6	0	*	*	170	300	5000	//Jade Necklace
+10279	0	0	*	*	*	1	*	*	6	0	*	*	410	530	5000	//Jade Necklace
+10279	0	0	*	*	*	1	*	*	6	0	*	*	490	560	5000	//Jade Necklace
+10280	0	0	*	*	*	1	*	*	6	0	*	*	170	300	5000	//Lapis Lazuli Necklace
+10280	0	0	*	*	*	1	*	*	6	0	*	*	410	530	5000	//Lapis Lazuli Necklace
+10280	0	0	*	*	*	1	*	*	6	0	*	*	490	560	5000	//Lapis Lazuli Necklace
+10281	0	0	*	*	*	1	*	*	6	0	*	*	170	300	1000	//Battle Jade Necklace
+10281	0	0	*	*	*	1	*	*	6	0	*	*	410	530	1000	//Battle Jade Necklace
+10281	0	0	*	*	*	1	*	*	6	0	*	*	490	560	1000	//Battle Jade Necklace
+10282	0	0	*	*	*	1	*	*	6	0	*	*	170	300	1000	//Battle Lapis Lazuli Necklace
+10282	0	0	*	*	*	1	*	*	6	0	*	*	410	530	1000	//Battle Lapis Lazuli Necklace
+10282	0	0	*	*	*	1	*	*	6	0	*	*	490	560	1000	//Battle Lapis Lazuli Necklace
+//Special Items
+6670	0	0	*	*	*	*	*	*	*	0	10	*	25	150	1000	//Loch's Feather  
+6670	1	0	*	*	*	*	*	*	*	0	10	*	25	150	1000	//Monarch's Crest 
+6687	0	0	*	*	*	*	*	*	*	0	*	*	60	*	1000	//Spirit of Dark Horse	
+6687	1	0	*	*	*	*	*	*	*	0	*	*	60	*	1000	//Spirit of Dark Spirit
+6688	0	0	*	*	*	*	*	*	*	0	34	*	97	134	2000	//Splinter of Armor
+6689	0	0	*	*	*	*	*	*	*	0	34	*	97	134	2000	//Bless of Guardian
+6690	0	0	*	*	*	*	*	*	*	0	34	*	97	134	2000	//Claw of Beast
+6708	0	0	*	*	*	*	*	*	*	0	41	*	25	150	1000	//Condor Flame
+6288	0	0	*	*	*	*	*	*	*	0	91	*	88	150	5000	//Mithril Fragment
+6290	0	0	*	*	*	*	*	*	*	0	91	*	88	150	2500	//Elixir Fragment
+6294	0	0	*	*	*	*	*	*	*	0	91	*	88	150	1000	//Jewel Combination Frame
+6295	0	0	*	*	*	*	*	*	*	0	91	*	88	150	1000	//Spirit Powder
+//Event Items
+7268	0	0	*	*	*	*	*	*	*	0	*	*	60	*	0	//Lucky Coin
+7189	3	0	*	*	*	*	*	*	*	0	*	*	60	*	3000	//Sign of the Lord
+6694	0	0	*	*	*	*	*	*	*	0	38	*	60	*	5000	//Moonstone Pendant
+7672	0	0	*	*	*	*	*	*	*	0	*	*	60	*	1000	//Maple leaf
+7383	0	0	*	*	*	*	*	*	*	0	*	*	60	*	5000	//Card Piece
+6801	0	0	*	*	*	*	*	*	*	0	*	*	25	150	3000	//Spirit Map Fragment
+7278	0	0	*	*	*	*	*	*	*	0	*	*	60	*	1000	//Sign of Dimensions
+6672	1	0	*	*	*	*	*	*	*	0	*	*	1	 32	1000	//Scroll of Archangel 1
+6672	2	0	*	*	*	*	*	*	*	0	*	*	33	45	1000	//Scroll of Archangel 2
+6672	3	0	*	*	*	*	*	*	*	0	*	*	46	57	1000	//Scroll of Archangel 3
+6672	4	0	*	*	*	*	*	*	*	0	*	*	58	68	1000	//Scroll of Archangel 4
+6672	5	0	*	*	*	*	*	*	*	0	*	*	69	76	1000	//Scroll of Archangel 5
+6672	6	0	*	*	*	*	*	*	*	0	*	*	77	84	1000	//Scroll of Archangel 6
+6672	7	0	*	*	*	*	*	*	*	0	*	*	85	101	1000	//Scroll of Archangel 7
+6673	1	0	*	*	*	*	*	*	*	0	*	*	1	 32	1000	//Blood Bone 1
+6673	2	0	*	*	*	*	*	*	*	0	*	*	33	45	1000	//Blood Bone 2
+6673	3	0	*	*	*	*	*	*	*	0	*	*	46	57	1000	//Blood Bone 3
+6673	4	0	*	*	*	*	*	*	*	0	*	*	58	68	1000	//Blood Bone 4
+6673	5	0	*	*	*	*	*	*	*	0	*	*	69	76	1000	//Blood Bone 5
+6673	6	0	*	*	*	*	*	*	*	0	*	*	77	84	1000	//Blood Bone 6
+6673	7	0	*	*	*	*	*	*	*	0	*	*	85	101	1000	//Blood Bone 7
+7197	1	0	*	*	*	*	*	*	*	0	*	*	25	46	1000	//Symbol of Kundun 1
+7197	2	0	*	*	*	*	*	*	*	0	*	*	47	65	1000	//Symbol of Kundun 2
+7197	3	0	*	*	*	*	*	*	*	0	*	*	66	77	1000	//Symbol of Kundun 3
+7197	4	0	*	*	*	*	*	*	*	0	*	*	78	83	1000	//Symbol of Kundun 4
+7197	5	0	*	*	*	*	*	*	*	0	*	*	84	91	1000	//Symbol of Kundun 5
+7197	6	0	*	*	*	*	*	*	*	0	*	*	92	113	1000	//Symbol of Kundun 6
+7197	7	0	*	*	*	*	*	*	*	0	*	*	114	150	1000	//Symbol of Kundun 7
+7185	1	0	*	*	*	*	*	*	*	0	*	*	1	 32	1000	//Devil's Eye 1
+7185	2	0	*	*	*	*	*	*	*	0	*	*	33	45	1000	//Devil's Eye 2
+7185	3	0	*	*	*	*	*	*	*	0	*	*	46	57	1000	//Devil's Eye 3
+7185	4	0	*	*	*	*	*	*	*	0	*	*	58	68	1000	//Devil's Eye 4
+7185	5	0	*	*	*	*	*	*	*	0	*	*	69	76	1000	//Devil's Eye 5
+7185	6	0	*	*	*	*	*	*	*	0	*	*	77	84	1000	//Devil's Eye 6
+7185	7	0	*	*	*	*	*	*	*	0	*	*	85	150	1000	//Devil's Eye 7
+7186	1	0	*	*	*	*	*	*	*	0	*	*	1	 32	1000	//Devil's Key 1
+7186	2	0	*	*	*	*	*	*	*	0	*	*	33	45	1000	//Devil's Key 2
+7186	3	0	*	*	*	*	*	*	*	0	*	*	46	57	1000	//Devil's Key 3
+7186	4	0	*	*	*	*	*	*	*	0	*	*	58	68	1000	//Devil's Key 4
+7186	5	0	*	*	*	*	*	*	*	0	*	*	69	76	1000	//Devil's Key 5
+7186	6	0	*	*	*	*	*	*	*	0	*	*	77	84	1000	//Devil's Key 6
+7186	7	0	*	*	*	*	*	*	*	0	*	*	85	150	1000	//Devil's Key 7
+6705	1	0	*	*	*	*	*	*	*	0	*	*	46	57	1000	//Old Scroll 1
+6705	2	0	*	*	*	*	*	*	*	0	*	*	58	68	1000	//Old Scroll 2
+6705	3	0	*	*	*	*	*	*	*	0	*	*	69	76	1000	//Old Scroll 3
+6705	4	0	*	*	*	*	*	*	*	0	*	*	77	84	1000	//Old Scroll 4
+6705	5	0	*	*	*	*	*	*	*	0	*	*	85	101	1000	//Old Scroll 5
+6705	6	0	*	*	*	*	*	*	*	0	*	*	102	150	1000	//Old Scroll 6
+6706	1	0	*	*	*	*	*	*	*	0	*	*	46	57	1000	//Illusion Sorcerer Covenant 1
+6706	2	0	*	*	*	*	*	*	*	0	*	*	58	68	1000	//Illusion Sorcerer Covenant 2
+6706	3	0	*	*	*	*	*	*	*	0	*	*	69	76	1000	//Illusion Sorcerer Covenant 3
+6706	4	0	*	*	*	*	*	*	*	0	*	*	77	84	1000	//Illusion Sorcerer Covenant 4
+6706	5	0	*	*	*	*	*	*	*	0	*	*	85	101	1000	//Illusion Sorcerer Covenant 5
+6706	6	0	*	*	*	*	*	*	*	0	*	*	102	150	1000	//Illusion Sorcerer Covenant 6
+//Jewel Drop
+6159	0	0	*	*	*	*	*	*	*	0	*	*	*	 50	 100	//Jewel of Chaos
+7181	0	0	*	*	*	*	*	*	*	0	*	*	*	 50	 500	//Jewel of Bless
+7182	0	0	*	*	*	*	*	*	*	0	*	*	*	 50	 500	//Jewel of Soul
+7184	0	0	*	*	*	*	*	*	*	0	*	*	*	 50	 100	//Jewel of Life
+7190	0	0	*	*	*	*	*	*	*	0	*	*	*	 50	 100	//Jewel of Creation
+6159	0	0	*	*	*	*	*	*	*	0	*	*	50	100	 500	//Jewel of Chaos
+7181	0	0	*	*	*	*	*	*	*	0	*	*	50	100	 1000	//Jewel of Bless
+7182	0	0	*	*	*	*	*	*	*	0	*	*	50	100	 1000	//Jewel of Soul
+7184	0	0	*	*	*	*	*	*	*	0	*	*	50	100	 500	//Jewel of Life
+7190	0	0	*	*	*	*	*	*	*	0	*	*	50	100	 500	//Jewel of Creation
+6159	0	0	*	*	*	*	*	*	*	0	*	*	101	*	1000	//Jewel of Chaos
+7181	0	0	*	*	*	*	*	*	*	0	*	*	80	*	2000	//Jewel of Blessii
+7182	0	0	*	*	*	*	*	*	*	0	*	*	80	*	2000	//Jewel of Soul
+7184	0	0	*	*	*	*	*	*	*	0	*	*	101	*	1000	//Jewel of Life
+7190	0	0	*	*	*	*	*	*	*	0	*	*	101	*	1000	//Jewel of Creation
+7209	0	0	*	*	*	*	*	*	*	0	39	*	69	150	1000	//Gemstone
+//ITEM SKILL DROP
+7680	0	0	*	*	*	*	*	*	*	*	*	*	25	45	8000	//	Scroll of Poison
+7681	0	0	*	*	*	*	*	*	*	*	*	*	16	36	8000	//	Scroll of Meteorite
+7682	0	0	*	*	*	*	*	*	*	*	*	*	8	28	8000	//	Scroll of Lighting
+7683	0	0	*	*	*	*	*	*	*	*	*	*	1	21	8000	//	Scroll of Fire Ball
+7684	0	0	*	*	*	*	*	*	*	*	*	*	30	50	8000	//	Scroll of Flame
+7685	0	0	*	*	*	*	*	*	*	*	*	*	12	32	8000	//	Scroll of Teleport
+7686	0	0	*	*	*	*	*	*	*	*	*	*	20	40	8000	//	Scroll of Ice
+7687	0	0	*	*	*	*	*	*	*	*	*	*	35	55	8000	//	Scroll of Twister
+7688	0	0	*	*	*	*	*	*	*	*	*	*	45	75	8000	//	Scroll of Evil Spirit
+7689	0	0	*	*	*	*	*	*	*	*	*	*	55	85	8000	//	Scroll of Hellfire
+7690	0	0	*	*	*	*	*	*	*	*	*	*	4	34	8000	//	Scroll of Power Wave
+7691	0	0	*	*	*	*	*	*	*	*	*	*	69	99	8000	//	Scroll of Aqua Beam
+7692	0	0	*	*	*	*	*	*	*	*	*	*	75	105	8000	//	Scroll of Cometfall
+7693	0	0	*	*	*	*	*	*	*	*	*	*	83	113	8000	//	Scroll of Inferno
+7694	0	0	*	*	*	*	*	*	*	*	*	*	78	108	8000	//	Scroll of Teleport Ally
+7695	0	0	*	*	*	*	*	*	*	*	*	*	72	102	8000	//	Scroll of Soul Barrier
+7696	0	0	*	*	*	*	*	*	*	*	*	*	91	121	8000	//	Scroll of Decay
+7697	0	0	*	*	*	*	*	*	*	*	*	*	88	118	8000	//	Scroll of Ice Storm
+7698	0	0	*	*	*	*	*	*	*	*	*	*	95	125	8000	//	Scroll of Nova
+7708	0	0	*	*	*	*	*	*	*	*	*	*	95	125	8000	//	Scroll of Wizardry Enhance
+7709	0	0	*	*	*	*	*	*	*	*	*	*	95	125	8000	//	Scroll of Gigantic Storm
+7717	0	0	*	*	*	*	*	*	*	*	*	*	45	75	8000	//	Magic Arrow Act
+7718	0	0	*	*	*	*	*	*	*	*	*	*	75	105	8000	//	Plasma Ball Act
+7719	0	0	*	*	*	*	*	*	*	*	*	*	95	125	8000	//	Lightning Storm Act
+7720	0	0	*	*	*	*	*	*	*	*	*	*	85	115	8000	//	Burst Act
+7721	0	0	*	*	*	*	*	*	*	*	*	*	95	125	8000	//	Haste Act
+7727	0	0	*	*	*	*	*	*	*	*	*	*	45	75	8000	//	Shining Bird Law Book
+7728	0	0	*	*	*	*	*	*	*	*	*	*	75	105	8000	//	Dragon Violent Law Book
+7730	0	0	*	*	*	*	*	*	*	*	*	*	72	102	8000	//	Reflection Barrier Book
+7731	0	0	*	*	*	*	*	*	*	*	*	*	45	75	8000	//	Marvel Burst Law Book
+7732	0	0	*	*	*	*	*	*	*	*	*	*	75	105	8000	//	Unleash Marvel's Book
+6165	0	0	*	*	*	*	*	*	*	*	*	*	69	99	8000	//	Scroll of FireBurst
+6166	0	0	*	*	*	*	*	*	*	*	*	*	93	123	8000	//	Scroll of Summon
+6167	0	0	*	*	*	*	*	*	*	*	*	*	77	107	8000	//	Scroll of Critical Damage
+6168	0	0	*	*	*	*	*	*	*	*	*	*	87	117	8000	//	Scroll of Electric Spark
+6179	0	0	*	*	*	*	*	*	*	*	*	*	97	127	8000	//	Scroll of Fire Scream
+6192	0	0	*	*	*	*	*	*	*	*	*	*	95	125	8000	//	Scroll of Chaotic Diseier
+6415	0	0	*	*	*	*	*	*	*	*	*	*	48	78	8000	//	Spin Step Scroll
+6416	0	0	*	*	*	*	*	*	*	*	*	*	69	99	8000	//	Obsidian Scroll
+6417	0	0	*	*	*	*	*	*	*	*	*	*	75	105	8000	//	Magic Pin Scroll
+6418	0	0	*	*	*	*	*	*	*	*	*	*	53	83	8000	//	Harsh Strike Scroll
+6419	0	0	*	*	*	*	*	*	*	*	*	*	87	117	8000	//	Shining Peak Scroll
+6420	0	0	*	*	*	*	*	*	*	*	*	*	61	91	8000	//	Wrath Scroll
+6421	0	0	*	*	*	*	*	*	*	*	*	*	87	117	8000	//	Breche Scroll
+7699	0	0	*	*	*	*	*	*	*	*	*	*	70	100	8000	//	Chain Lightning Parchment
+7700	0	0	*	*	*	*	*	*	*	*	*	*	30	60	8000	//	Drain Life Parchment
+7701	0	0	*	*	*	*	*	*	*	*	*	*	88	118	8000	//	Lightning Shock Parchment
+7702	0	0	*	*	*	*	*	*	*	*	*	*	75	105	8000	//	Damage Reflection Parchment
+7703	0	0	*	*	*	*	*	*	*	*	*	*	78	108	8000	//	Berserker Parchment
+7704	0	0	*	*	*	*	*	*	*	*	*	*	35	65	8000	//	Sleep Parchment
+7706	0	0	*	*	*	*	*	*	*	*	*	*	88	118	8000	//	Weakness Parchment
+7707	0	0	*	*	*	*	*	*	*	*	*	*	95	125	8000	//	Innovation Parchment
+7710	0	0	*	*	*	*	*	*	*	*	*	*	65	95	8000	//	 Chain Drive Parchment
+7711	0	0	*	*	*	*	*	*	*	*	*	*	75	105	8000	//	Dark Side Parchment
+7712	0	0	*	*	*	*	*	*	*	*	*	*	65	95	8000	//	Dragon Roar Parchment
+7713	0	0	*	*	*	*	*	*	*	*	*	*	85	115	8000	//	Dragon Slasher Parchment
+7714	0	0	*	*	*	*	*	*	*	*	*	*	75	105	8000	//	Ignore Defense Parchment
+7715	0	0	*	*	*	*	*	*	*	*	*	*	45	75	8000	//	Increase Health Parchment
+7716	0	0	*	*	*	*	*	*	*	*	*	*	35	65	8000	//	Increase Block Parchment
+7722	0	0	*	*	*	*	*	*	*	*	*	*	70	100	8000	//	 Explosion Parchment
+7723	0	0	*	*	*	*	*	*	*	*	*	*	70	100	8000	//	Requiem Parchment
+7724	0	0	*	*	*	*	*	*	*	*	*	*	70	100	8000	//	Perlution Parchment
+7726	0	0	*	*	*	*	*	*	*	*	*	*	70	100	8000	//	Darkness Parchment
+6151	0	0	*	*	*	*	*	*	*	*	*	*	42	72	8000	//	Orb of Twisting Slash
+6156	0	0	*	*	*	*	*	*	*	*	*	*	73	103	8000	//	Orb of Anger Blow
+6157	0	0	*	*	*	*	*	*	*	*	*	*	15	45	8000	//	Orb of Impale
+6160	0	0	*	*	*	*	*	*	*	*	*	*	55	85	8000	//	Orb of Fire Slash
+6161	0	0	*	*	*	*	*	*	*	*	*	*	59	89	8000	//	Orb of Penetration
+6162	0	0	*	*	*	*	*	*	*	*	*	*	76	106	8000	//	Orb of Ice Arrow
+6163	0	0	*	*	*	*	*	*	*	*	*	*	67	97	8000	//	 Orb of Death Stab
+6188	0	0	*	*	*	*	*	*	*	*	*	*	95	125	8000	//	Crystal of Destruction
+6189	0	0	*	*	*	*	*	*	*	*	*	*	95	125	8000	//	Crystal of Multi-Shot
+6190	0	0	*	*	*	*	*	*	*	*	*	*	95	125	8000	//	Crystal of Flame Strike
+7739	0	0	*	*	*	*	*	*	*	*	*	*	45	75	8000	//	Fixed Fire Bead
+6232	0	0	*	*	*	*	*	*	*	*	*	*	95	125	8000	//	Illusion Avatar Bead
+6233	0	0	*	*	*	*	*	*	*	*	*	*	30	60	8000	//	Charge Slash Bead
+6234	0	0	*	*	*	*	*	*	*	*	*	*	59	89	8000	//	Wind Glaive Beads
+6620	0	0	*	*	*	*	*	*	*	*	*	*	5	35	8000	//	Sword Inertia Bead
+6621	0	0	*	*	*	*	*	*	*	*	*	*	15	45	8000	//	Bat Flock Bead
+6622	0	0	*	*	*	*	*	*	*	*	*	*	73	103	8000	//	 Sword Blow Bead
+6635	0	0	*	*	*	*	*	*	*	*	*	*	95	125	8000	//	Dark Plasma Bead
+6636	0	0	*	*	*	*	*	*	*	*	*	*	75	105	8000	//	Ice Break Bead
+6638	0	0	*	*	*	*	*	*	*	*	*	*	75	105	8000	//	Deathfire Orb
+6642	0	0	*	*	*	*	*	*	*	*	*	*	75	105	8000	//	Death Ice Ball
+6152	0	0	*	*	*	*	*	*	*	*	*	*	3	33	8000	//	Healing Orb
+6153	0	0	*	*	*	*	*	*	*	*	*	*	8	38	8000	//	Orb of Greater Fortitude
+6154	0	0	*	*	*	*	*	*	*	*	*	*	13	43	8000	//	Orb of Greater Damage
+6155	0	0	*	*	*	*	*	*	*	*	*	*	1	31	8000	//	Goblin Summoning Orb
+6158	0	0	*	*	*	*	*	*	*	*	*	*	55	85	8000	//	Orb of Greater Fortitude
+6190	0	0	*	*	*	*	*	*	*	*	*	*	95	125	8000	//	Crystal of Recovery
+7734	0	0	*	*	*	*	*	*	*	*	*	*	3	33	8000	//	Beginner's Treatment Bead
+7735	0	0	*	*	*	*	*	*	*	*	*	*	8	38	8000	//	 Beginner Defense Enhancement Bead
+7736	0	0	*	*	*	*	*	*	*	*	*	*	13	43	8000	//	Beginner Attack Power Enhancement Bead
+7737	0	0	*	*	*	*	*	*	*	*	*	*	95	125	8000	//	Beginner Recovery Bead
+7738	0	0	*	*	*	*	*	*	*	*	*	*	5	35	8000	//	Beginner Bless Bead
+6231	0	0	*	*	*	*	*	*	*	*	*	*	25	55	8000	//	 Illusion Blade Bead
+6622	0	0	*	*	*	*	*	*	*	*	*	*	25	55	8000	//	Detection Bead
+6629	0	0	*	*	*	*	*	*	*	*	*	*	73	103	8000	//	Swordsman's Wrath
+6630	0	0	*	*	*	*	*	*	*	*	*	*	73	103	8000	//	Strong Belief Bead
+6632	0	0	*	*	*	*	*	*	*	*	*	*	73	103	8000	//	Solid Protection Bead
+
+
+
+//ITEM NORMAL DROP
+3589	0	0	55	13	0	0	0	0	0	0	*	*	1	16	10000	//	Leather Helm
+4101	0	0	55	13	0	0	0	0	0	0	*	*	5	20	10000	//	Leather Armor
+4613	0	0	55	13	0	0	0	0	0	0	*	*	3	18	10000	//	Leather Pants
+5125	0	0	55	13	0	0	0	0	0	0	*	*	1	16	10000	//	Leather Gloves
+5637	0	0	55	13	0	0	0	0	0	0	*	*	1	16	10000	//	Leather Boots
+3584	0	0	55	13	0	0	0	0	0	0	*	*	11	26	10000	//	Bronze Helm
+4096	0	0	55	13	0	0	0	0	0	0	*	*	13	28	10000	//	Bronze Armor
+4608	0	0	55	13	0	0	0	0	0	0	*	*	10	25	10000	//	Bronze Pants
+5120	0	0	55	13	0	0	0	0	0	0	*	*	8	23	10000	//	Bronze Gloves
+5632	0	0	55	13	0	0	0	0	0	0	*	*	7	22	10000	//	Bronze Boots
+3590	0	0	55	13	0	0	0	0	0	0	*	*	21	36	10000	//	Scale Helmet
+4102	0	0	55	13	0	0	0	0	0	0	*	*	23	38	10000	//	Scale Armor
+4614	0	0	55	13	0	0	0	0	0	0	*	*	20	35	10000	//	Scale Pants
+5126	0	0	55	13	0	0	0	0	0	0	*	*	17	32	10000	//	Scale Gloves
+5638	0	0	55	13	0	0	0	0	0	0	*	*	17	32	10000	//	Scale Boots
+3592	0	0	55	13	0	0	0	0	0	0	*	*	31	46	10000	//	Brass Helm
+4104	0	0	55	13	0	0	0	0	0	0	*	*	33	48	10000	//	Brass Armor
+4616	0	0	55	13	0	0	0	0	0	0	*	*	30	45	10000	//	Brass Pants
+5128	0	0	55	13	0	0	0	0	0	0	*	*	27	42	10000	//	Brass Gloves
+5640	0	0	55	13	0	0	0	0	0	0	*	*	27	42	10000	//	Brass Boots
+3593	0	0	55	13	0	0	0	0	0	0	*	*	41	56	10000	//	Plate Helm
+4105	0	0	55	13	0	0	0	0	0	0	*	*	43	58	10000	//	Plate Armor
+4617	0	0	55	13	0	0	0	0	0	0	*	*	40	55	10000	//	Plate Pants
+5129	0	0	55	13	0	0	0	0	0	0	*	*	37	52	10000	//	Plate Gloves
+5641	0	0	55	13	0	0	0	0	0	0	*	*	37	52	10000	//	Plate Boots
+3585	0	0	55	13	0	0	0	0	0	0	*	*	52	67	10000	//	Dragon Helm
+4097	0	0	55	13	0	0	0	0	0	0	*	*	54	69	10000	//	Dragon Armor
+4609	0	0	55	13	0	0	0	0	0	0	*	*	50	65	10000	//	Dragon Pants
+5121	0	0	55	13	0	0	0	0	0	0	*	*	47	62	10000	//	Dragon Gloves
+5633	0	0	55	13	0	0	0	0	0	0	*	*	49	64	10000	//	Dragon Boots
+3618	0	0	55	13	0	0	0	0	0	0	*	*	62	77	10000	//	Ashcrow Helm
+4130	0	0	55	13	0	0	0	0	0	0	*	*	70	85	10000	//	Ashcrow Armor
+4642	0	0	55	13	0	0	0	0	0	0	*	*	64	79	10000	//	Ashcrow Pants
+5154	0	0	55	13	0	0	0	0	0	0	*	*	56	71	10000	//	Ashcrow Gloves
+5666	0	0	55	13	0	0	0	0	0	0	*	*	63	78	10000	//	Ascrow Boots
+3600	0	0	55	13	0	0	0	0	0	0	*	*	77	92	10000	//	Black Dragon Helm
+4112	0	0	55	13	0	0	0	0	0	0	*	*	85	100	10000	//	Black Dragon Armor
+4624	0	0	55	13	0	0	0	0	0	0	*	*	79	94	10000	//	Black Dragon Pants
+5136	0	0	55	13	0	0	0	0	0	0	*	*	71	86	10000	//	Black Dragon Gloves
+5648	0	0	55	13	0	0	0	0	0	0	*	*	73	88	10000	//	Black Dragon Boots
+3601	0	0	55	13	0	0	0	0	0	0	*	*	87	102	10000	//	Dark Phoenix Helm
+4113	0	0	55	13	0	0	0	0	0	0	*	*	95	110	10000	//	Dark Phoenix Armor
+4625	0	0	55	13	0	0	0	0	0	0	*	*	91	106	10000	//	Dark Phoenix Pants
+5137	0	0	55	13	0	0	0	0	0	0	*	*	81	96	10000	//	Dark Phoenix Gloves
+5649	0	0	55	13	0	0	0	0	0	0	*	*	88	103	10000	//	Dark Phoenix Boots
+3605	0	0	55	13	0	0	0	0	0	0	*	*	99	114	10000	//	Great Dragon Helm
+4117	0	0	55	13	0	0	0	0	0	0	*	*	121	136	10000	//	Great Dragon Armor
+4629	0	0	55	13	0	0	0	0	0	0	*	*	108	123	10000	//	Great Dragon Pants
+5141	0	0	55	13	0	0	0	0	0	0	*	*	89	104	10000	//	Great Dragon Gloves
+5653	0	0	55	13	0	0	0	0	0	0	*	*	93	108	10000	//	Great Dragon Boots
+3586	0	0	55	13	0	0	0	0	0	0	*	*	1	16	10000	//	Pad Helm
+4098	0	0	55	13	0	0	0	0	0	0	*	*	5	20	10000	//	Pad Armor
+4610	0	0	55	13	0	0	0	0	0	0	*	*	3	18	10000	//	Pad Pants
+5122	0	0	55	13	0	0	0	0	0	0	*	*	1	16	10000	//	Pad Gloves
+5634	0	0	55	13	0	0	0	0	0	0	*	*	1	16	10000	//	Pad Boots
+3588	0	0	55	13	0	0	0	0	0	0	*	*	13	28	10000	//	Bone Helm
+4100	0	0	55	13	0	0	0	0	0	0	*	*	17	32	10000	//	Bone Armor
+4612	0	0	55	13	0	0	0	0	0	0	*	*	15	30	10000	//	Bone Pants
+5124	0	0	55	13	0	0	0	0	0	0	*	*	9	24	10000	//	Bone Gloves
+5636	0	0	55	13	0	0	0	0	0	0	*	*	11	26	10000	//	Bone Boots
+3591	0	0	55	13	0	0	0	0	0	0	*	*	27	42	10000	//	Sphinx Mask
+4103	0	0	55	13	0	0	0	0	0	0	*	*	33	48	10000	//	Sphinx Armor
+4615	0	0	55	13	0	0	0	0	0	0	*	*	29	44	10000	//	Sphinx Pants
+5127	0	0	55	13	0	0	0	0	0	0	*	*	23	38	10000	//	Sphinx Gloves
+5639	0	0	55	13	0	0	0	0	0	0	*	*	25	40	10000	//	Sphinx Boots
+3587	0	0	55	13	0	0	0	0	0	0	*	*	45	60	10000	//	Legendary Helm
+4099	0	0	55	13	0	0	0	0	0	0	*	*	51	66	10000	//	Legendary Armor
+4611	0	0	55	13	0	0	0	0	0	0	*	*	48	63	10000	//	Legendary Pants
+5123	0	0	55	13	0	0	0	0	0	0	*	*	39	54	10000	//	Legendary Gloves
+5635	0	0	55	13	0	0	0	0	0	0	*	*	41	56	10000	//	Legendary Boots
+3619	0	0	55	13	0	0	0	0	0	0	*	*	62	77	10000	//	Eclipse Helm
+4131	0	0	55	13	0	0	0	0	0	0	*	*	70	85	10000	//	Eclipse Armor
+4643	0	0	55	13	0	0	0	0	0	0	*	*	64	79	10000	//	Eclipse Pants
+5155	0	0	55	13	0	0	0	0	0	0	*	*	56	71	10000	//	Eclipse Gloves
+5667	0	0	55	13	0	0	0	0	0	0	*	*	63	78	10000	//	Eclipse Boots
+3602	0	0	55	13	0	0	0	0	0	0	*	*	76	91	10000	//	Grand Soul Helm
+4114	0	0	55	13	0	0	0	0	0	0	*	*	86	101	10000	//	Grand Soul Armor
+4626	0	0	55	13	0	0	0	0	0	0	*	*	81	96	10000	//	Grand Soul Pants
+5138	0	0	55	13	0	0	0	0	0	0	*	*	65	80	10000	//	Grand Soul Gloves
+5650	0	0	55	13	0	0	0	0	0	0	*	*	71	86	10000	//	Grand Soul Boots
+3606	0	0	55	13	0	0	0	0	0	0	*	*	105	120	10000	//	Dark Soul Helm
+4118	0	0	55	13	0	0	0	0	0	0	*	*	117	132	10000	//	Dark Soul Armor
+4630	0	0	55	13	0	0	0	0	0	0	*	*	112	127	10000	//	Dark Soul Pants
+5142	0	0	55	13	0	0	0	0	0	0	*	*	82	97	10000	//	Dark Soul Gloves
+5654	0	0	55	13	0	0	0	0	0	0	*	*	90	105	10000	//	Dark Soul Boots
+3594	0	0	55	13	0	0	0	0	0	0	*	*	1	16	10000	//	Vine Helm
+4106	0	0	55	13	0	0	0	0	0	0	*	*	5	20	10000	//	Vine Armor
+4618	0	0	55	13	0	0	0	0	0	0	*	*	3	18	10000	//	Vine Pands
+5130	0	0	55	13	0	0	0	0	0	0	*	*	1	16	10000	//	Vine Gloves
+5642	0	0	55	13	0	0	0	0	0	0	*	*	1	16	10000	//	Vine Boots
+3595	0	0	55	13	0	0	0	0	0	0	*	*	11	26	10000	//	Silk Helm
+4107	0	0	55	13	0	0	0	0	0	0	*	*	15	30	10000	//	Silk Armor
+4619	0	0	55	13	0	0	0	0	0	0	*	*	13	28	10000	//	Silk Pants
+5131	0	0	55	13	0	0	0	0	0	0	*	*	9	24	10000	//	Silk Gloves
+5643	0	0	55	13	0	0	0	0	0	0	*	*	10	25	10000	//	Silk Boots
+3596	0	0	55	13	0	0	0	0	0	0	*	*	23	38	10000	//	Wind Helm
+4108	0	0	55	13	0	0	0	0	0	0	*	*	27	42	10000	//	Wind Armor
+4620	0	0	55	13	0	0	0	0	0	0	*	*	25	40	10000	//	Wind Pants
+5132	0	0	55	13	0	0	0	0	0	0	*	*	21	36	10000	//	Wind Gloves
+5644	0	0	55	13	0	0	0	0	0	0	*	*	22	37	10000	//	Wind Boots
+3597	0	0	55	13	0	0	0	0	0	0	*	*	35	50	10000	//	Spirit Helm
+4109	0	0	55	13	0	0	0	0	0	0	*	*	39	54	10000	//	Spirit Armor
+4621	0	0	55	13	0	0	0	0	0	0	*	*	37	52	10000	//	Spirit Pants
+5133	0	0	55	13	0	0	0	0	0	0	*	*	33	48	10000	//	Spirit Gloves
+5645	0	0	55	13	0	0	0	0	0	0	*	*	35	50	10000	//	Spirit Boots
+3598	0	0	55	13	0	0	0	0	0	0	*	*	48	63	10000	//	Guardian Helm
+4110	0	0	55	13	0	0	0	0	0	0	*	*	52	67	10000	//	Guardian Armor
+4622	0	0	55	13	0	0	0	0	0	0	*	*	49	64	10000	//	Guardian Pants
+5134	0	0	55	13	0	0	0	0	0	0	*	*	45	60	10000	//	Guardian Gloves
+5646	0	0	55	13	0	0	0	0	0	0	*	*	47	62	10000	//	Guardian Boots
+3620	0	0	55	13	0	0	0	0	0	0	*	*	62	77	10000	//	Iris Helm
+4132	0	0	55	13	0	0	0	0	0	0	*	*	70	85	10000	//	 Iris Armor
+4644	0	0	55	13	0	0	0	0	0	0	*	*	64	79	10000	//	Iris Pants
+5156	0	0	55	13	0	0	0	0	0	0	*	*	56	71	10000	//	Iris Gloves
+5668	0	0	55	13	0	0	0	0	0	0	*	*	63	78	10000	//	Iris Boots
+3603	0	0	55	13	0	0	0	0	0	0	*	*	80	95	10000	//	Holy Spirit Helm
+4115	0	0	55	13	0	0	0	0	0	0	*	*	87	102	10000	//	Holy Spirit Armor
+4627	0	0	55	13	0	0	0	0	0	0	*	*	83	98	10000	//	Holy Spirit Pants
+5139	0	0	55	13	0	0	0	0	0	0	*	*	67	82	10000	//	Holy Spirit Gloves
+5651	0	0	55	13	0	0	0	0	0	0	*	*	76	91	10000	//	Holy Spirit Boots
+3608	0	0	55	13	0	0	0	0	0	0	*	*	88	103	10000	//	Red Spirit Helm
+4120	0	0	55	13	0	0	0	0	0	0	*	*	104	119	10000	//	Red Spirit Armor
+4632	0	0	55	13	0	0	0	0	0	0	*	*	95	110	10000	//	Red Spirit Pants
+5144	0	0	55	13	0	0	0	0	0	0	*	*	79	94	10000	//	Red Spirit Gloves
+5656	0	0	55	13	0	0	0	0	0	0	*	*	82	97	10000	//	Red Spirit Boots
+4111	0	0	55	13	0	0	0	0	0	0	*	*	75	90	10000	//	Storm Crow Armor
+4623	0	0	55	13	0	0	0	0	0	0	*	*	69	84	10000	//	Storm Crow Pants
+5135	0	0	55	13	0	0	0	0	0	0	*	*	65	80	10000	//	Storm Crow Gloves
+5647	0	0	55	13	0	0	0	0	0	0	*	*	67	82	10000	//	Storm Crow Boots
+4133	0	0	55	13	0	0	0	0	0	0	*	*	100	115	10000	//	Valiant Armor
+4645	0	0	55	13	0	0	0	0	0	0	*	*	96	111	10000	//	Valiant Pants
+5157	0	0	55	13	0	0	0	0	0	0	*	*	86	101	10000	//	Valiant Gloves
+5669	0	0	55	13	0	0	0	0	0	0	*	*	93	108	10000	//	Valiant Boots
+4116	0	0	55	13	0	0	0	0	0	0	*	*	102	117	10000	//	Thunder Hawk Armor
+4628	0	0	55	13	0	0	0	0	0	0	*	*	94	109	10000	//	Thunder Hawk Pants
+5140	0	0	55	13	0	0	0	0	0	0	*	*	83	98	10000	//	Thunder Hawk Gloves
+5652	0	0	55	13	0	0	0	0	0	0	*	*	87	102	10000	//	Thunder Hawk Boots
+4119	0	0	55	13	0	0	0	0	0	0	*	*	123	138	10000	//	Hurricane Armor
+4631	0	0	55	13	0	0	0	0	0	0	*	*	117	132	10000	//	Hurricane Pants
+5143	0	0	55	13	0	0	0	0	0	0	*	*	97	112	10000	//	Hurricane Gloves
+5655	0	0	55	13	0	0	0	0	0	0	*	*	105	120	10000	//	Hurricane Boots
+3609	0	0	55	13	0	0	0	0	0	0	*	*	41	56	10000	//	Light Plate Mask
+4121	0	0	55	13	0	0	0	0	0	0	*	*	57	72	10000	//	Light Plate Armor
+4633	0	0	55	13	0	0	0	0	0	0	*	*	45	60	10000	//	Light Plate Pants
+5145	0	0	55	13	0	0	0	0	0	0	*	*	37	52	10000	//	Light Plate Gloves
+5657	0	0	55	13	0	0	0	0	0	0	*	*	40	55	10000	//	 Light Plate Boots
+3610	0	0	55	13	0	0	0	0	0	0	*	*	61	76	10000	//	Adamantine Mask
+4122	0	0	55	13	0	0	0	0	0	0	*	*	73	88	10000	//	Adamantine Armor
+4634	0	0	55	13	0	0	0	0	0	0	*	*	65	80	10000	//	Adamantine Pants
+5146	0	0	55	13	0	0	0	0	0	0	*	*	52	67	10000	//	Adamantine Gloves
+5658	0	0	55	13	0	0	0	0	0	0	*	*	55	70	10000	//	Adamantine Boots
+3611	0	0	55	13	0	0	0	0	0	0	*	*	81	96	10000	//	Dark Steel Mask
+4123	0	0	55	13	0	0	0	0	0	0	*	*	91	106	10000	//	Dark Steel Armor
+4635	0	0	55	13	0	0	0	0	0	0	*	*	87	102	10000	//	 Dark Steel Pants
+5147	0	0	55	13	0	0	0	0	0	0	*	*	70	85	10000	//	Dark Steel Gloves
+5659	0	0	55	13	0	0	0	0	0	0	*	*	78	93	10000	//	Dark Steel Boots
+3622	0	0	55	13	0	0	0	0	0	0	*	*	92	107	10000	//	Glorious Mask
+4134	0	0	55	13	0	0	0	0	0	0	*	*	100	115	10000	//	Glorious Armor
+4646	0	0	55	13	0	0	0	0	0	0	*	*	96	111	10000	//	Glorious Pants
+5158	0	0	55	13	0	0	0	0	0	0	*	*	86	101	10000	//	Glorious Gloves
+5670	0	0	55	13	0	0	0	0	0	0	*	*	93	108	10000	//	Glorious Boots
+3612	0	0	55	13	0	0	0	0	0	0	*	*	101	116	10000	//	Dark Master Mask
+4124	0	0	55	13	0	0	0	0	0	0	*	*	112	127	10000	//	Dark Master Armor
+4636	0	0	55	13	0	0	0	0	0	0	*	*	105	120	10000	//	Dark Master Pants
+5148	0	0	55	13	0	0	0	0	0	0	*	*	84	99	10000	//	Dark Master Gloves
+5660	0	0	55	13	0	0	0	0	0	0	*	*	90	105	10000	//	Dark Master Boots
+3623	0	0	55	13	0	0	0	0	0	0	*	*	23	38	10000	//	Violent Wind Helm
+4135	0	0	55	13	0	0	0	0	0	0	*	*	29	44	10000	//	Violent Wind Armor
+4647	0	0	55	13	0	0	0	0	0	0	*	*	25	40	10000	//	 Violent Wind Pants
+5159	0	0	55	13	0	0	0	0	0	0	*	*	19	34	10000	//	Violent Wind Gloves
+5671	0	0	55	13	0	0	0	0	0	0	*	*	21	36	10000	//	Violent Wind Boots
+3624	0	0	55	13	0	0	0	0	0	0	*	*	45	60	10000	//	Red Wing Helm
+4136	0	0	55	13	0	0	0	0	0	0	*	*	51	66	10000	//	Red Wing Armor
+4648	0	0	55	13	0	0	0	0	0	0	*	*	48	63	10000	//	Red Wing Pants
+5160	0	0	55	13	0	0	0	0	0	0	*	*	39	54	10000	//	Red Wing Gloves
+5672	0	0	55	13	0	0	0	0	0	0	*	*	41	56	10000	//	Red Wing Boots
+3625	0	0	55	13	0	0	0	0	0	0	*	*	63	78	10000	//	Ancient Helm
+4137	0	0	55	13	0	0	0	0	0	0	*	*	70	85	10000	//	Ancient Armor
+4649	0	0	55	13	0	0	0	0	0	0	*	*	67	82	10000	//	Ancient Pants
+5161	0	0	55	13	0	0	0	0	0	0	*	*	56	71	10000	//	Ancient Gloves
+5673	0	0	55	13	0	0	0	0	0	0	*	*	60	75	10000	//	Ancient Boots
+3626	0	0	55	13	0	0	0	0	0	0	*	*	76	91	10000	//	Demonic Helm
+4138	0	0	55	13	0	0	0	0	0	0	*	*	86	101	10000	//	Demonic Armor
+4650	0	0	55	13	0	0	0	0	0	0	*	*	81	96	10000	//	Demonic Pants
+5162	0	0	55	13	0	0	0	0	0	0	*	*	65	80	10000	//	Demonic Gloves
+5674	0	0	55	13	0	0	0	0	0	0	*	*	71	86	10000	//	Demonic Boots
+3643	0	0	55	13	0	0	0	0	0	0	*	*	49	64	10000	//	Sacred Fire Helm
+4155	0	0	55	13	0	0	0	0	0	0	*	*	61	76	10000	//	Sacred Fire Armor
+4667	0	0	55	13	0	0	0	0	0	0	*	*	57	72	10000	//	Sacred Fire Pants
+5691	0	0	55	13	0	0	0	0	0	0	*	*	45	60	10000	//	Sacred Fire Boots
+3644	0	0	55	13	0	0	0	0	0	0	*	*	65	80	10000	//	Storm Jahad Helm
+4156	0	0	55	13	0	0	0	0	0	0	*	*	77	92	10000	//	Storm Jahad Armor
+4668	0	0	55	13	0	0	0	0	0	0	*	*	73	88	10000	//	Storm Jahad Pants
+5692	0	0	55	13	0	0	0	0	0	0	*	*	57	72	10000	//	Storm Jahad Boots
+3645	0	0	55	13	0	0	0	0	0	0	*	*	85	100	10000	//	Piercing Groove Helm
+4157	0	0	55	13	0	0	0	0	0	0	*	*	96	111	10000	//	Piercing Groove Armor
+4669	0	0	55	13	0	0	0	0	0	0	*	*	90	105	10000	//	Piercing Groove Pants
+5693	0	0	55	13	0	0	0	0	0	0	*	*	77	92	10000	//	Piercing Groove Boots
+3675	0	0	55	13	0	0	0	0	0	0	*	*	15	30	10000	//	Robust Helmet
+4187	0	0	55	13	0	0	0	0	0	0	*	*	25	40	10000	//	Robust Armor
+4699	0	0	55	13	0	0	0	0	0	0	*	*	19	34	10000	//	Robust Pants
+5211	0	0	55	13	0	0	0	0	0	0	*	*	5	20	10000	//	Robust Gloves
+5723	0	0	55	13	0	0	0	0	0	0	*	*	9	24	10000	//	Robust Boots
+3676	0	0	55	13	0	0	0	0	0	0	*	*	45	60	10000	//	Gru hill Helmet
+4188	0	0	55	13	0	0	0	0	0	0	*	*	55	70	10000	//	Gru Hill Armor
+4700	0	0	55	13	0	0	0	0	0	0	*	*	49	64	10000	//	Gru Hill Pants
+5212	0	0	55	13	0	0	0	0	0	0	*	*	35	50	10000	//	Gru Hill Gloves
+5724	0	0	55	13	0	0	0	0	0	0	*	*	39	54	10000	//	Gru Hill Boots
+3677	0	0	55	13	0	0	0	0	0	0	*	*	65	80	10000	//	Princie Helmet
+4189	0	0	55	13	0	0	0	0	0	0	*	*	75	90	10000	//	Princie Armor
+4701	0	0	55	13	0	0	0	0	0	0	*	*	69	84	10000	//	Princie Pants
+5213	0	0	55	13	0	0	0	0	0	0	*	*	55	70	10000	//	Princie Gloves
+5725	0	0	55	13	0	0	0	0	0	0	*	*	59	74	10000	//	Princie Boots
+3679	0	0	55	13	0	0	0	0	0	0	*	*	86	101	10000	//	Sate Helmet
+4191	0	0	55	13	0	0	0	0	0	0	*	*	95	110	10000	//	Sate Armor
+4703	0	0	55	13	0	0	0	0	0	0	*	*	90	105	10000	//	Sate Pants
+5215	0	0	55	13	0	0	0	0	0	0	*	*	76	91	10000	//	Sate Gloves
+5727	0	0	55	13	0	0	0	0	0	0	*	*	80	95	10000	//	Sate Boots
+3678	0	0	55	13	0	0	0	0	0	0	*	*	86	101	10000	//	Hirat Helmet
+4190	0	0	55	13	0	0	0	0	0	0	*	*	95	110	10000	//	Hirat Armor
+4702	0	0	55	13	0	0	0	0	0	0	*	*	90	105	10000	//	Hirat Pants
+5214	0	0	55	13	0	0	0	0	0	0	*	*	76	91	10000	//	Hirat Gloves
+5726	0	0	55	13	0	0	0	0	0	0	*	*	80	95	10000	//	Hirat Boots
+3700	0	0	55	13	0	0	0	0	0	0	*	*	1	16	10000	//	Rune Pad Helm
+4212	0	0	55	13	0	0	0	0	0	0	*	*	4	19	10000	//	Rune Pad Armor
+4724	0	0	55	13	0	0	0	0	0	0	*	*	2	17	10000	//	Rune Pad Pants
+5236	0	0	55	13	0	0	0	0	0	0	*	*	1	16	10000	//	Rune Pads Gloves
+5748	0	0	55	13	0	0	0	0	0	0	*	*	1	16	10000	//	Rune Pad Boots
+3701	0	0	55	13	0	0	0	0	0	0	*	*	26	41	10000	//	Rune Spink Mask
+4213	0	0	55	13	0	0	0	0	0	0	*	*	32	47	10000	//	 Rune Spink Armor
+4725	0	0	55	13	0	0	0	0	0	0	*	*	28	43	10000	//	Rune Spink Pants
+5237	0	0	55	13	0	0	0	0	0	0	*	*	22	37	10000	//	Rune Spink Gloves
+5749	0	0	55	13	0	0	0	0	0	0	*	*	24	39	10000	//	Rune Spink Boots
+3702	0	0	55	13	0	0	0	0	0	0	*	*	44	59	10000	//	Rune Legendary Helmet
+4214	0	0	55	13	0	0	0	0	0	0	*	*	50	65	10000	//	Rune Legendary Armor
+4726	0	0	55	13	0	0	0	0	0	0	*	*	47	62	10000	//	Rune Legendary Pants
+5238	0	0	55	13	0	0	0	0	0	0	*	*	38	53	10000	//	Rune Legendary Gloves
+5750	0	0	55	13	0	0	0	0	0	0	*	*	40	55	10000	//	Rune Legendary Boots
+3703	0	0	55	13	0	0	0	0	0	0	*	*	75	90	10000	//	Kenaz Hood
+4215	0	0	55	13	0	0	0	0	0	0	*	*	85	100	10000	//	Kanaz Armor
+4727	0	0	55	13	0	0	0	0	0	0	*	*	80	95	10000	//	Kanaz Pants
+5239	0	0	55	13	0	0	0	0	0	0	*	*	64	79	10000	//	Kanaz Gloves
+5751	0	0	55	13	0	0	0	0	0	0	*	*	70	85	10000	//	Kanaz Boots
+3758	0	0	55	13	0	0	0	0	0	0	*	*	1	16	10000	//	Slayer Red Wing Helm
+4270	0	0	55	13	0	0	0	0	0	0	*	*	6	21	10000	//	Slayer Red Wing Armor
+4782	0	0	55	13	0	0	0	0	0	0	*	*	4	19	10000	//	Slayer Red Wing Pants
+5294	0	0	55	13	0	0	0	0	0	0	*	*	1	16	10000	//	Slayer Red Wing Gloves
+5806	0	0	55	13	0	0	0	0	0	0	*	*	1	16	10000	//	Slayer Red Wing Boots
+3759	0	0	55	13	0	0	0	0	0	0	*	*	20	35	10000	//	Slayer Ancient Helm (A)
+4271	0	0	55	13	0	0	0	0	0	0	*	*	24	39	10000	//	Slayer Ancient Armor (A)
+4783	0	0	55	13	0	0	0	0	0	0	*	*	21	36	10000	//	Slayer Ancient Pants (A)
+5295	0	0	55	13	0	0	0	0	0	0	*	*	18	33	10000	//	Slayer Ancient Gloves (A)
+5807	0	0	55	13	0	0	0	0	0	0	*	*	18	33	10000	//	Slayer Ancient Boots (A)
+3760	0	0	55	13	0	0	0	0	0	0	*	*	53	68	10000	//	Slayer Demonic Helm (A)
+4272	0	0	55	13	0	0	0	0	0	0	*	*	55	70	10000	//	Slayer Demonic Armor (A)
+4784	0	0	55	13	0	0	0	0	0	0	*	*	51	66	10000	//	Slayer Demonic Pants (A)
+5296	0	0	55	13	0	0	0	0	0	0	*	*	48	63	10000	//	Slayer Demonic Gloves (A)
+5808	0	0	55	13	0	0	0	0	0	0	*	*	50	65	10000	//	Slayer Demonic Boots (A)
+3761	0	0	55	13	0	0	0	0	0	0	*	*	95	110	10000	//	Nightwing Helm
+4273	0	0	55	13	0	0	0	0	0	0	*	*	122	137	10000	//	Nightwing Armor
+4785	0	0	55	13	0	0	0	0	0	0	*	*	109	124	10000	//	Night Wing Pants
+5297	0	0	55	13	0	0	0	0	0	0	*	*	90	105	10000	//	Nightwing Gloves
+5809	0	0	55	13	0	0	0	0	0	0	*	*	94	109	10000	//	Night Wing Boots
+3790	0	0	55	13	0	0	0	0	0	0	*	*	1	16	10000	//	LEATHER GUNNER SET
+4302	0	0	55	13	0	0	0	0	0	0	*	*	6	21	10000	//	LEATHER GUNNER SET
+4814	0	0	55	13	0	0	0	0	0	0	*	*	4	19	10000	//	LEATHER GUNNER SET
+5326	0	0	55	13	0	0	0	0	0	0	*	*	1	16	10000	//	LEATHER GUNNER SET
+5838	0	0	55	13	0	0	0	0	0	0	*	*	1	16	10000	//	LEATHER GUNNER SET
+3791	0	0	55	13	0	0	0	0	0	0	*	*	20	35	10000	//	
+4303	0	0	55	13	0	0	0	0	0	0	*	*	24	39	10000	//	
+4815	0	0	55	13	0	0	0	0	0	0	*	*	21	36	10000	//	
+5327	0	0	55	13	0	0	0	0	0	0	*	*	18	33	10000	//	
+5839	0	0	55	13	0	0	0	0	0	0	*	*	18	33	10000	//	
+3792	0	0	55	13	0	0	0	0	0	0	*	*	53	68	10000	//	
+4304	0	0	55	13	0	0	0	0	0	0	*	*	55	70	10000	//	
+4816	0	0	55	13	0	0	0	0	0	0	*	*	51	66	10000	//	
+5328	0	0	55	13	0	0	0	0	0	0	*	*	48	63	10000	//	
+5840	0	0	55	13	0	0	0	0	0	0	*	*	50	65	10000	//	
+3793	0	0	55	13	0	0	0	0	0	0	*	*	95	110	10000	//	
+4305	0	0	55	13	0	0	0	0	0	0	*	*	122	137	10000	//	
+4817	0	0	55	13	0	0	0	0	0	0	*	*	109	124	10000	//	
+5329	0	0	55	13	0	0	0	0	0	0	*	*	90	105	10000	//	
+5841	0	0	55	13	0	0	0	0	0	0	*	*	94	109	10000	//	
+3819	0	0	55	13	0	0	0	0	0	0	*	*	1	16	10000	//	GLIMMER SET
+4331	0	0	55	13	0	0	0	0	0	0	*	*	6	21	10000	//	GLIMMER SET
+4843	0	0	55	13	0	0	0	0	0	0	*	*	4	19	10000	//	GLIMMER SET
+5355	0	0	55	13	0	0	0	0	0	0	*	*	1	16	10000	//	GLIMMER SET
+5867	0	0	55	13	0	0	0	0	0	0	*	*	1	16	10000	//	GLIMMER SET
+3820	0	0	55	13	0	0	0	0	0	0	*	*	20	35	10000	//	
+4332	0	0	55	13	0	0	0	0	0	0	*	*	24	39	10000	//	
+4844	0	0	55	13	0	0	0	0	0	0	*	*	21	36	10000	//	
+5356	0	0	55	13	0	0	0	0	0	0	*	*	18	33	10000	//	
+5868	0	0	55	13	0	0	0	0	0	0	*	*	18	33	10000	//	
+3821	0	0	55	13	0	0	0	0	0	0	*	*	53	68	10000	//	
+4333	0	0	55	13	0	0	0	0	0	0	*	*	55	70	10000	//	
+4845	0	0	55	13	0	0	0	0	0	0	*	*	51	66	10000	//	
+5357	0	0	55	13	0	0	0	0	0	0	*	*	48	63	10000	//	
+5869	0	0	55	13	0	0	0	0	0	0	*	*	50	65	10000	//	
+3822	0	0	55	13	0	0	0	0	0	0	*	*	95	110	10000	//	
+4334	0	0	55	13	0	0	0	0	0	0	*	*	122	137	10000	//	
+4846	0	0	55	13	0	0	0	0	0	0	*	*	109	124	10000	//	
+5358	0	0	55	13	0	0	0	0	0	0	*	*	90	105	10000	//	
+5870	0	0	55	13	0	0	0	0	0	0	*	*	94	109	10000	//	
+3836	0	0	55	13	0	0	0	0	0	0	*	*	1	16	10000	//	MAGIC PAD SET
+4348	0	0	55	13	0	0	0	0	0	0	*	*	6	21	10000	//	MAGIC PAD SET
+4860	0	0	55	13	0	0	0	0	0	0	*	*	4	19	10000	//	MAGIC PAD SET
+5372	0	0	55	13	0	0	0	0	0	0	*	*	1	16	10000	//	MAGIC PAD SET
+5884	0	0	55	13	0	0	0	0	0	0	*	*	1	16	10000	//	MAGIC PAD SET
+3837	0	0	55	13	0	0	0	0	0	0	*	*	20	35	10000	//	
+4349	0	0	55	13	0	0	0	0	0	0	*	*	24	39	10000	//	
+4861	0	0	55	13	0	0	0	0	0	0	*	*	21	36	10000	//	
+5373	0	0	55	13	0	0	0	0	0	0	*	*	18	33	10000	//	
+5885	0	0	55	13	0	0	0	0	0	0	*	*	18	33	10000	//	
+3838	0	0	55	13	0	0	0	0	0	0	*	*	53	68	10000	//	
+4350	0	0	55	13	0	0	0	0	0	0	*	*	55	70	10000	//	
+4862	0	0	55	13	0	0	0	0	0	0	*	*	51	66	10000	//	
+5374	0	0	55	13	0	0	0	0	0	0	*	*	48	63	10000	//	
+5886	0	0	55	13	0	0	0	0	0	0	*	*	50	65	10000	//	
+3840	0	0	55	13	0	0	0	0	0	0	*	*	95	110	10000	//	
+4352	0	0	55	13	0	0	0	0	0	0	*	*	122	137	10000	//	
+4864	0	0	55	13	0	0	0	0	0	0	*	*	109	124	10000	//	
+5376	0	0	55	13	0	0	0	0	0	0	*	*	90	105	10000	//	
+5888	0	0	55	13	0	0	0	0	0	0	*	*	94	109	10000	//	
+3884	0	0	55	13	0	0	0	0	0	0	*	*	1	16	10000	//	ILLUSION KNIGHT SCALE SET
+4396	0	0	55	13	0	0	0	0	0	0	*	*	6	21	10000	//	ILLUSION KNIGHT SCALE SET
+4908	0	0	55	13	0	0	0	0	0	0	*	*	4	19	10000	//	ILLUSION KNIGHT SCALE SET
+5420	0	0	55	13	0	0	0	0	0	0	*	*	1	16	10000	//	ILLUSION KNIGHT SCALE SET
+5932	0	0	55	13	0	0	0	0	0	0	*	*	1	16	10000	//	ILLUSION KNIGHT SCALE SET
+3885	0	0	55	13	0	0	0	0	0	0	*	*	20	35	10000	//	
+4397	0	0	55	13	0	0	0	0	0	0	*	*	24	39	10000	//	
+4909	0	0	55	13	0	0	0	0	0	0	*	*	21	36	10000	//	
+5421	0	0	55	13	0	0	0	0	0	0	*	*	18	33	10000	//	
+5933	0	0	55	13	0	0	0	0	0	0	*	*	18	33	10000	//	
+3886	0	0	55	13	0	0	0	0	0	0	*	*	53	68	10000	//	
+4398	0	0	55	13	0	0	0	0	0	0	*	*	55	70	10000	//	
+4910	0	0	55	13	0	0	0	0	0	0	*	*	51	66	10000	//	
+5422	0	0	55	13	0	0	0	0	0	0	*	*	48	63	10000	//	
+5934	0	0	55	13	0	0	0	0	0	0	*	*	50	65	10000	//	
+3887	0	0	55	13	0	0	0	0	0	0	*	*	95	110	10000	//	
+4399	0	0	55	13	0	0	0	0	0	0	*	*	122	137	10000	//	
+4911	0	0	55	13	0	0	0	0	0	0	*	*	109	124	10000	//	
+5423	0	0	55	13	0	0	0	0	0	0	*	*	90	105	10000	//	
+5935	0	0	55	13	0	0	0	0	0	0	*	*	94	109	10000	//	
+512	0	0	55	13	0	0	0	0	0	0	*	*	1	12	10000	//	SMALL AXE
+513	0	0	55	13	0	0	0	0	0	0	*	*	1	12	10000	//	HAND AXE
+514	0	0	55	13	0	0	0	0	0	0	*	*	9	24	10000	//	DOUBLE AXE
+515	0	0	55	13	0	0	0	0	0	0	*	*	13	28	10000	//	TOMAHAWK
+516	0	0	55	13	0	0	0	0	0	0	*	*	21	36	10000	//	ELVEN AXE
+517	0	0	55	13	0	0	0	0	0	0	*	*	25	40	10000	//	BATTLE AXE
+518	0	0	55	13	0	0	0	0	0	0	*	*	29	44	10000	//	NIKEA AXE
+519	0	0	55	13	0	0	0	0	0	0	*	*	41	56	10000	//	LARKAN AXE
+520	0	0	55	13	0	0	0	0	0	0	*	*	49	64	10000	//	CRESCENT AXE
+101	0	0	55	13	0	0	0	0	0	0	*	*	40	55	10000	//	SILVER BLADE
+102	0	0	55	13	0	0	0	0	0	0	*	*	80	95	10000	//	XENO BLADE
+2581	0	0	55	13	0	0	0	0	0	0	*	*	47	62	10000	//	BOOK OF SHAMUT
+2582	0	0	55	13	0	0	0	0	0	0	*	*	54	69	10000	//	BOOK OF NEIL
+2583	0	0	55	13	0	0	0	0	0	0	*	*	60	75	10000	//	BOOK OF LAGLE
+2048	0	0	55	13	0	0	0	0	0	0	*	*	1	12	10000	//	SHORT BOW
+2049	0	0	55	13	0	0	0	0	0	0	*	*	3	14	10000	//	BOW
+2050	0	0	55	13	0	0	0	0	0	0	*	*	11	26	10000	//	ELVEN BOW
+2051	0	0	55	13	0	0	0	0	0	0	*	*	21	36	10000	//	BATTLE BOW
+2052	0	0	55	13	0	0	0	0	0	0	*	*	35	50	10000	//	TIGER BOW
+2053	0	0	55	13	0	0	0	0	0	0	*	*	51	66	10000	//	SILVER BOW
+2065	0	0	55	13	0	0	0	0	0	0	*	*	87	102	10000	//	CELESTIAL BOW
+2070	0	0	55	13	0	0	0	0	0	0	*	*	105	120	10000	//	ALBATROSS BOW
+2068	0	0	55	13	0	0	0	0	0	0	*	*	130	145	10000	//	ARROW VIPER BOW
+2072	0	0	55	13	0	0	0	0	0	0	*	*	142	157	10000	//	AILEEN BOW
+32	0	0	55	13	0	0	0	0	0	0	*	*	47	62	10000	//	SACRED GLOVE
+33	0	0	55	13	0	0	0	0	0	0	*	*	77	92	10000	//	HOLY STORM CLAWS
+34	0	0	55	13	0	0	0	0	0	0	*	*	100	115	10000	//	PIERCING BLADE GLOVE
+2056	0	0	55	13	0	0	0	0	0	0	*	*	1	12	10000	//	CROSSBOW
+2057	0	0	55	13	0	0	0	0	0	0	*	*	7	22	10000	//	GOLDEN CROSSBOW
+2058	0	0	55	13	0	0	0	0	0	0	*	*	15	30	10000	//	ARQUEBUS
+2059	0	0	55	13	0	0	0	0	0	0	*	*	27	42	10000	//	LIGHT CROSSBOW
+2060	0	0	55	13	0	0	0	0	0	0	*	*	43	58	10000	//	SERPENT CROSSBOW
+2061	0	0	55	13	0	0	0	0	0	0	*	*	63	78	10000	//	BLUEWING CROSSBOW
+2062	0	0	55	13	0	0	0	0	0	0	*	*	67	82	10000	//	AQUAGOLD CROSSBOW
+2064	0	0	55	13	0	0	0	0	0	0	*	*	79	94	10000	//	SAINT CROSSBOW
+2067	0	0	55	13	0	0	0	0	0	0	*	*	95	110	10000	//	GREAT REIGN CROSSBOW
+1553	0	0	55	13	0	0	0	0	0	0	*	*	17	32	10000	//	PRICKLE LANCE
+1549	0	0	55	13	0	0	0	0	0	0	*	*	10	25	10000	//	LAPID LANCE
+1550	0	0	55	13	0	0	0	0	0	0	*	*	60	75	10000	//	CONMOCION LANCE
+1554	0	0	55	13	0	0	0	0	0	0	*	*	62	77	10000	//	ALACRAN LANCE
+1551	0	0	55	13	0	0	0	0	0	0	*	*	80	95	10000	//	PLUMA LANCE
+1552	0	0	55	13	0	0	0	0	0	0	*	*	82	97	10000	//	VIS LANCE
+1024	0	0	55	13	0	0	0	0	0	0	*	*	2	17	10000	//	MACE
+1025	0	0	55	13	0	0	0	0	0	0	*	*	8	23	10000	//	MORNING STAR
+1026	0	0	55	13	0	0	0	0	0	0	*	*	17	32	10000	//	FLAIL
+1027	0	0	55	13	0	0	0	0	0	0	*	*	3	18	10000	//	GREAT HAMMER
+1031	0	0	55	13	0	0	0	0	0	0	*	*	85	100	10000	//	ELEMENTAL MACE
+1028	0	0	55	13	0	0	0	0	0	0	*	*	61	76	10000	//	CRYSTAL MORNING STAR
+2628	0	0	55	13	0	0	0	0	0	0	*	*	23	38	10000	//	BASIC MAGIC BOOK
+2629	0	0	55	13	0	0	0	0	0	0	*	*	47	62	10000	//	ELEMENT MAGIC BOOK
+2630	0	0	55	13	0	0	0	0	0	0	*	*	65	80	10000	//	ATTRIBUTE MAGIC BOOK
+2658	0	0	55	13	0	0	0	0	0	0	*	*	86	101	10000	//	SHINING FEATHER MAGIC BOOK
+2090	0	0	55	13	0	0	0	0	0	0	*	*	28	43	10000	//	ENTROPY GUN
+2091	0	0	55	13	0	0	0	0	0	0	*	*	105	120	10000	//	FRERE MAGIC GUN
+2641	0	0	55	13	0	0	0	0	0	0	*	*	25	40	10000	//	ROYAL ORB
+2642	0	0	55	13	0	0	0	0	0	0	*	*	47	62	10000	//	MYOTIS ORB
+2643	0	0	55	13	0	0	0	0	0	0	*	*	65	80	10000	//	BLUE MOON ORB
+2080	0	0	55	13	0	0	0	0	0	0	*	*	47	97	10000	//	COMBAT QUIVER
+1052	0	0	55	13	0	0	0	0	0	0	*	*	47	62	10000	//	ELEMENTAL RUNE MACE
+1053	0	0	55	13	0	0	0	0	0	0	*	*	85	100	10000	//	EL HAZARD MACE
+1032	0	0	55	13	0	0	0	0	0	0	*	*	49	64	10000	//	BATTLE SCEPTER
+1033	0	0	55	13	0	0	0	0	0	0	*	*	67	82	10000	//	MASTER SCEPTER
+1034	0	0	55	13	0	0	0	0	0	0	*	*	77	92	10000	//	GREAT SCEPTER
+1035	0	0	55	13	0	0	0	0	0	0	*	*	93	108	10000	//	LORD SCEPTER
+1039	0	0	55	13	0	0	0	0	0	0	*	*	105	120	10000	//	SHINING SCEPTER
+1036	0	0	55	13	0	0	0	0	0	0	*	*	135	150	10000	//	GREAT LORD SCEPTER
+1042	0	0	55	13	0	0	0	0	0	0	*	*	142	157	10000	//	STRIKER SCEPTER
+3072	0	0	55	13	0	0	0	0	0	0	*	*	1	12	10000	//	SMALL SHIELD
+3076	0	0	55	13	0	0	0	0	0	0	*	*	1	16	10000	//	BUCKLER
+3073	0	0	55	13	0	0	0	0	0	0	*	*	4	19	10000	//	HORN SHIELD
+3074	0	0	55	13	0	0	0	0	0	0	*	*	7	22	10000	//	KITE SHIELD
+3078	0	0	55	13	0	0	0	0	0	0	*	*	10	25	10000	//	SKULL SHIELD
+3103	0	0	55	13	0	0	0	0	0	0	*	*	35	50	10000	//	ALACRAN SHIELD
+3082	0	0	55	13	0	0	0	0	0	0	*	*	13	28	10000	//	LARGE ROUND SHIELD
+3086	0	0	55	13	0	0	0	0	0	0	*	*	43	58	10000	//	LEGENDARY SHIELD
+3075	0	0	55	13	0	0	0	0	0	0	*	*	16	31	10000	//	ELVEN SHIELD
+3081	0	0	55	13	0	0	0	0	0	0	*	*	20	35	10000	//	PLATE SHIELD
+3079	0	0	55	13	0	0	0	0	0	0	*	*	25	40	10000	//	SPIKED SHIELD
+3077	0	0	55	13	0	0	0	0	0	0	*	*	30	45	10000	//	DRAGON SLAYER SHIELD
+3080	0	0	55	13	0	0	0	0	0	0	*	*	35	50	10000	//	TOWER SHIELD
+3088	0	0	55	13	0	0	0	0	0	0	*	*	61	76	10000	//	ELEMENTAL SHIELD
+3101	0	0	55	13	0	0	0	0	0	0	*	*	8	23	10000	//	LAPID SHIELD
+3087	0	0	55	13	0	0	0	0	0	0	*	*	69	84	10000	//	GRAND SOUL SHIELD
+3083	0	0	55	13	0	0	0	0	0	0	*	*	40	55	10000	//	SERPENT SHIELD
+3084	0	0	55	13	0	0	0	0	0	0	*	*	49	64	10000	//	BRONZE SHIELD
+3085	0	0	55	13	0	0	0	0	0	0	*	*	55	70	10000	//	DRAGON SHIELD
+3114	0	0	55	13	0	0	0	0	0	0	*	*	65	80	10000	//	EL HAZARD SHIELD
+3093	0	0	55	13	0	0	0	0	0	0	*	*	65	80	10000	//	CROSS SHIELD
+3104	0	0	55	13	0	0	0	0	0	0	*	*	70	85	10000	//	VIS SHIELD
+66	0	0	55	13	0	0	0	0	0	0	*	*	1	12	10000	//	FLAT SHORT SWORD
+67	0	0	55	13	0	0	0	0	0	0	*	*	50	65	10000	//	DACIA SHORT SWORD
+68	0	0	55	13	0	0	0	0	0	0	*	*	75	90	10000	//	COOKERY SHORT SWORD
+1538	0	0	55	13	0	0	0	0	0	0	*	*	10	25	10000	//	DRAGON LANCE
+1542	0	0	55	13	0	0	0	0	0	0	*	*	14	29	10000	//	HALBERD
+1537	0	0	55	13	0	0	0	0	0	0	*	*	18	33	10000	//	SPEAR
+1539	0	0	55	13	0	0	0	0	0	0	*	*	24	39	10000	//	GIANT TRIDENT
+1543	0	0	55	13	0	0	0	0	0	0	*	*	32	47	10000	//	BERDYSH
+1536	0	0	55	13	0	0	0	0	0	0	*	*	37	52	10000	//	LIGHT SPEAR
+1540	0	0	55	13	0	0	0	0	0	0	*	*	41	56	10000	//	SERPENT SPEAR
+1544	0	0	55	13	0	0	0	0	0	0	*	*	49	64	10000	//	GREAT SCYTHE
+1545	0	0	55	13	0	0	0	0	0	0	*	*	58	73	10000	//	BILL OF BALROG
+1546	0	0	55	13	0	0	0	0	0	0	*	*	87	102	10000	//	DRAGON SPEAR
+1547	0	0	55	13	0	0	0	0	0	0	*	*	142	157	10000	//	BROVA
+2560	0	0	55	13	0	0	0	0	0	0	*	*	1	16	10000	//	SKULL STAFF
+2561	0	0	55	13	0	0	0	0	0	0	*	*	13	28	10000	//	ANGELIC STAFF
+2562	0	0	55	13	0	0	0	0	0	0	*	*	25	40	10000	//	SERPENT STAFF
+2563	0	0	55	13	0	0	0	0	0	0	*	*	37	52	10000	//	THUNDER STAFF
+2564	0	0	55	13	0	0	0	0	0	0	*	*	47	62	10000	//	GORGON STAFF
+2565	0	0	55	13	0	0	0	0	0	0	*	*	54	69	10000	//	LEGENDARY STAFF
+2566	0	0	55	13	0	0	0	0	0	0	*	*	65	80	10000	//	STAFF OF RESURRECTION
+2569	0	0	55	13	0	0	0	0	0	0	*	*	85	100	10000	//	DRAGON SOUL STAFF
+2568	0	0	55	13	0	0	0	0	0	0	*	*	95	110	10000	//	STAFF OF DESTRUCTION
+2573	0	0	55	13	0	0	0	0	0	0	*	*	105	120	10000	//	PLATINA STAFF
+2571	0	0	55	13	0	0	0	0	0	0	*	*	135	150	10000	//	STAFF OF KUNDUN
+2593	0	0	55	13	0	0	0	0	0	0	*	*	142	157	10000	//	CHROMATIC STAFF
+2574	0	0	55	13	0	0	0	0	0	0	*	*	23	38	10000	//	MYSTERY STICK
+2575	0	0	55	13	0	0	0	0	0	0	*	*	37	52	10000	//	VIOLENT WIND STICK
+2576	0	0	55	13	0	0	0	0	0	0	*	*	54	69	10000	//	RED WING STICK
+2577	0	0	55	13	0	0	0	0	0	0	*	*	73	88	10000	//	ANCIENT STICK
+2578	0	0	55	13	0	0	0	0	0	0	*	*	95	110	10000	//	DEMONIC STICK
+2594	0	0	55	13	0	0	0	0	0	0	*	*	142	157	10000	//	RAVEN STICK
+1	0	0	55	13	0	0	0	0	0	0	*	*	1	12	10000	//	SHORT SWORD
+0	0	0	55	13	0	0	0	0	0	0	*	*	1	16	10000	//	KRIS
+2	0	0	55	13	0	0	0	0	0	0	*	*	4	19	10000	//	RAPIER
+4	0	0	55	13	0	0	0	0	0	0	*	*	7	22	10000	//	SWORD OF ASSASSIN
+3	0	0	55	13	0	0	0	0	0	0	*	*	11	26	10000	//	KATANA
+6	0	0	55	13	0	0	0	0	0	0	*	*	15	30	10000	//	GLADIUS
+7	0	0	55	13	0	0	0	0	0	0	*	*	19	34	10000	//	FALCHION
+8	0	0	55	13	0	0	0	0	0	0	*	*	25	40	10000	//	SERPENT SWORD
+9	0	0	55	13	0	0	0	0	0	0	*	*	27	42	10000	//	SWORD OF SALAMANDER
+5	0	0	55	13	0	0	0	0	0	0	*	*	31	46	10000	//	BLADE
+10	0	0	55	13	0	0	0	0	0	0	*	*	35	50	10000	//	LIGHT SABER
+13	0	0	55	13	0	0	0	0	0	0	*	*	43	58	10000	//	DOUBLE BLADE
+11	0	0	55	13	0	0	0	0	0	0	*	*	49	64	10000	//	LEGENDARY SWORD
+14	0	0	55	13	0	0	0	0	0	0	*	*	54	69	10000	//	LIGHTNING SWORD
+15	0	0	55	13	0	0	0	0	0	0	*	*	47	62	10000	//	GIANT SWORD
+12	0	0	55	13	0	0	0	0	0	0	*	*	51	66	10000	//	HELIACAL SWORD
+16	0	0	55	13	0	0	0	0	0	0	*	*	77	92	10000	//	SWORD OF DESTRUCTION
+1029	0	0	55	13	0	0	0	0	0	0	*	*	65	80	10000	//	CRYSTAL SWORD
+31	0	0	55	13	0	0	0	0	0	0	*	*	95	110	10000	//	RUNE BLADE
+25	0	0	55	13	0	0	0	0	0	0	*	*	110	125	10000	//	SWORD DANCER
+21	0	0	55	13	0	0	0	0	0	0	*	*	135	150	10000	//	DARK REIGN BLADE
+17	0	0	55	13	0	0	0	0	0	0	*	*	99	114	10000	//	DARK BREAKER
+18	0	0	55	13	0	0	0	0	0	0	*	*	100	115	10000	//	THUNDER BLADE
+24	0	0	55	13	0	0	0	0	0	0	*	*	110	125	10000	//	DAYBREAK
+
+
+
+//ITEM EXCELENT DROP
+//END ITEMS
+end

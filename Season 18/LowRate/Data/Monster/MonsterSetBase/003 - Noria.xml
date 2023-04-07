@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MonsterSetBase>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<NPC>
+		<Config Class="237" Range="0" PositionX="171" PositionY="105" Direction="3" Element="0" /> <!-- "Charon" -->
+		<Config Class="242" Range="0" PositionX="173" PositionY="125" Direction="1" Element="0" /> <!-- "Elf Lala" -->
+		<Config Class="243" Range="0" PositionX="195" PositionY="124" Direction="2" Element="0" /> <!-- "Eo the Craftsman" -->
+		<Config Class="240" Range="0" PositionX="172" PositionY="96" Direction="3" Element="0" /> <!-- "Safety Guardian" -->
+		<Config Class="238" Range="0" PositionX="180" PositionY="103" Direction="1" Element="0" /> <!-- "Chaos Goblin" -->
+		<Config Class="257" Range="0" PositionX="167" PositionY="118" Direction="1" Element="0" /> <!-- "Shadow Phantom Soldier" -->
+		<Config Class="450" Range="0" PositionX="177" PositionY="126" Direction="1" Element="0" /> <!-- "Cherry Blossom Spirit" -->
+		<Config Class="451" Range="0" PositionX="175" PositionY="128" Direction="3" Element="0" /> <!-- "Cherry Blossom Tree" -->
+		<Config Class="257" Range="0" PositionX="166" PositionY="85" Direction="2" Element="0" /> <!-- "Shadow Phantom Soldier" -->
+		<Config Class="257" Range="0" PositionX="201" PositionY="129" Direction="2" Element="0" /> <!-- "Shadow Phantom Soldier" -->
+		<Config Class="544" Range="0" PositionX="167" PositionY="100" Direction="2" Element="0" /> <!-- "Gens Vanert Steward" -->
+		<Config Class="580" Range="0" PositionX="196" PositionY="113" Direction="2" Element="0" /> <!-- "Captain Slough" -->
+		<Config Class="584" Range="0" PositionX="183" PositionY="127" Direction="2" Element="0" /> <!-- "Sir Lesnar" -->
+		<Config Class="873" Range="0" PositionX="179" PositionY="128" Direction="1" Element="0" /> <!-- "Maple Spirit" -->
+		<Config Class="874" Range="0" PositionX="179" PositionY="129" Direction="3" Element="0" /> <!-- "Maple Tree" -->
+	</NPC>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<SPOT>
+<Config	Class="	27	"	Range="5"	BeginPosX="	180	"	BeginPosY="	70	"	EndPosX="	186	"	EndPosY="	76	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Chain Scorpion	a"	-->
+<Config	Class="	27	"	Range="5"	BeginPosX="	166	"	BeginPosY="	67	"	EndPosX="	172	"	EndPosY="	73	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Chain Scorpion	a"	-->
+<Config	Class="	27	"	Range="5"	BeginPosX="	152	"	BeginPosY="	56	"	EndPosX="	158	"	EndPosY="	62	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Chain Scorpion	a"	-->
+<Config	Class="	27	"	Range="5"	BeginPosX="	145	"	BeginPosY="	72	"	EndPosX="	151	"	EndPosY="	78	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Chain Scorpion	a"	-->
+<Config	Class="	26	"	Range="5"	BeginPosX="	144	"	BeginPosY="	95	"	EndPosX="	150	"	EndPosY="	101	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Goblin	a"	-->
+<Config	Class="	26	"	Range="5"	BeginPosX="	141	"	BeginPosY="	108	"	EndPosX="	147	"	EndPosY="	114	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Goblin	a"	-->
+<Config	Class="	26	"	Range="5"	BeginPosX="	151	"	BeginPosY="	122	"	EndPosX="	157	"	EndPosY="	128	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Goblin	a"	-->
+<Config	Class="	26	"	Range="5"	BeginPosX="	159	"	BeginPosY="	133	"	EndPosX="	165	"	EndPosY="	139	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Goblin	a"	-->
+<Config	Class="	28	"	Range="5"	BeginPosX="	133	"	BeginPosY="	63	"	EndPosX="	139	"	EndPosY="	69	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Beetle Monster	a"	-->
+<Config	Class="	28	"	Range="5"	BeginPosX="	120	"	BeginPosY="	77	"	EndPosX="	126	"	EndPosY="	83	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Beetle Monster	a"	-->
+<Config	Class="	33	"	Range="5"	BeginPosX="	122	"	BeginPosY="	98	"	EndPosX="	128	"	EndPosY="	104	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Elite Goblin	a"	-->
+<Config	Class="	33	"	Range="5"	BeginPosX="	122	"	BeginPosY="	122	"	EndPosX="	128	"	EndPosY="	128	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Elite Goblin	a"	-->
+<Config	Class="	30	"	Range="5"	BeginPosX="	133	"	BeginPosY="	140	"	EndPosX="	139	"	EndPosY="	146	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Forest Monster	a"	-->
+<Config	Class="	30	"	Range="5"	BeginPosX="	151	"	BeginPosY="	157	"	EndPosX="	157	"	EndPosY="	163	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Forest Monster	a"	-->
+<Config	Class="	31	"	Range="5"	BeginPosX="	167	"	BeginPosY="	149	"	EndPosX="	173	"	EndPosY="	155	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Agon	a"	-->
+<Config	Class="	31	"	Range="5"	BeginPosX="	183	"	BeginPosY="	148	"	EndPosX="	189	"	EndPosY="	154	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Agon	a"	-->
+<Config	Class="	32	"	Range="5"	BeginPosX="	197	"	BeginPosY="	146	"	EndPosX="	203	"	EndPosY="	152	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Stone Golem	a"	-->
+<Config	Class="	32	"	Range="5"	BeginPosX="	219	"	BeginPosY="	146	"	EndPosX="	229	"	EndPosY="	156	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Stone Golem	a"	-->
+<Config	Class="	32	"	Range="5"	BeginPosX="	215	"	BeginPosY="	126	"	EndPosX="	221	"	EndPosY="	132	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Stone Golem	a"	-->
+<Config	Class="	29	"	Range="5"	BeginPosX="	220	"	BeginPosY="	110	"	EndPosX="	226	"	EndPosY="	116	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Hunter	a"	-->
+<Config	Class="	29	"	Range="5"	BeginPosX="	211	"	BeginPosY="	94	"	EndPosX="	217	"	EndPosY="	100	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Hunter	a"	-->
+<Config	Class="	29	"	Range="5"	BeginPosX="	196	"	BeginPosY="	82	"	EndPosX="	202	"	EndPosY="	88	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Hunter	a"	-->
+
+	</SPOT>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<MONSTER>
+	</MONSTER>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<EVENT>
+	</EVENT>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+</MonsterSetBase>

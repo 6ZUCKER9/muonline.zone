@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MonsterSetBase>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<NPC>
+		<Config Class="367" Range="0" PositionX="141" PositionY="191" Direction="2" Element="0" /> <!-- "Gateway Machine" -->
+	</NPC>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<SPOT>
+<Config	Class="	359	"	Range="5"	BeginPosX="	96	"	BeginPosY="	83	"	EndPosX="	102	"	EndPosY="	89	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Twin Tale	a"	-->
+<Config	Class="	359	"	Range="5"	BeginPosX="	121	"	BeginPosY="	75	"	EndPosX="	127	"	EndPosY="	81	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Twin Tale	a"	-->
+<Config	Class="	359	"	Range="5"	BeginPosX="	134	"	BeginPosY="	96	"	EndPosX="	140	"	EndPosY="	102	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Twin Tale	a"	-->
+<Config	Class="	358	"	Range="5"	BeginPosX="	152	"	BeginPosY="	100	"	EndPosX="	158	"	EndPosY="	106	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Persona	a"	-->
+<Config	Class="	358	"	Range="5"	BeginPosX="	177	"	BeginPosY="	88	"	EndPosX="	183	"	EndPosY="	94	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Persona	a"	-->
+<Config	Class="	358	"	Range="5"	BeginPosX="	170	"	BeginPosY="	110	"	EndPosX="	176	"	EndPosY="	116	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Persona	a"	-->
+<Config	Class="	360	"	Range="5"	BeginPosX="	193	"	BeginPosY="	124	"	EndPosX="	199	"	EndPosY="	130	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Dreadfear	a"	-->
+<Config	Class="	360	"	Range="5"	BeginPosX="	180	"	BeginPosY="	137	"	EndPosX="	186	"	EndPosY="	143	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Dreadfear	a"	-->
+<Config	Class="	360	"	Range="5"	BeginPosX="	147	"	BeginPosY="	144	"	EndPosX="	153	"	EndPosY="	150	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Dreadfear	a"	-->
+
+	</SPOT>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<MONSTER>
+			<!--Canon Trap-->
+			<Config Class="105" Range="30" BeginPosX="137" BeginPosY="104" Direction="8" />
+			<!--Laser Trap-->
+			<Config Class="106" Range="30" BeginPosX="141" BeginPosY="155" Direction="8" />
+			<!--Laser Trap-->
+			<Config Class="106" Range="30" BeginPosX="138" BeginPosY="166" Direction="8" />
+			<!--Laser Trap-->
+			<Config Class="106" Range="30" BeginPosX="141" BeginPosY="166" Direction="8" />
+			<!--Laser Trap-->
+			<Config Class="106" Range="30" BeginPosX="144" BeginPosY="166" Direction="8" />
+			<!--Laser Trap-->
+			<Config Class="106" Range="30" BeginPosX="138" BeginPosY="171" Direction="8" />
+			<!--Laser Trap-->
+			<Config Class="106" Range="30" BeginPosX="141" BeginPosY="171" Direction="8" />
+			<!--Laser Trap-->
+			<Config Class="106" Range="30" BeginPosX="144" BeginPosY="171" Direction="8" />
+			<!--Laser Trap-->
+			<Config Class="106" Range="30" BeginPosX="138" BeginPosY="177" Direction="8" />
+			<!--Laser Trap-->
+			<Config Class="106" Range="30" BeginPosX="141" BeginPosY="177" Direction="8" />
+			<!--Laser Trap-->
+			<Config Class="106" Range="30" BeginPosX="144" BeginPosY="177" Direction="8" />
+			<!--Laser Trap-->
+			<Config Class="106" Range="30" BeginPosX="138" BeginPosY="183" Direction="8" />
+			<!--Laser Trap-->
+			<Config Class="106" Range="30" BeginPosX="141" BeginPosY="183" Direction="8" />
+			<!--Laser Trap-->
+			<Config Class="106" Range="30" BeginPosX="144" BeginPosY="183" Direction="8" />
+	</MONSTER>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<EVENT>
+	</EVENT>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+</MonsterSetBase>

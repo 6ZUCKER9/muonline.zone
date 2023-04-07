@@ -1,0 +1,23 @@
+09:30:08 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:0][Count:1][Index:4]
+09:30:08 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:1][Count:1][Index:2]
+09:30:08 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:2][Count:3][Index:0]
+09:30:08 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:2][Count:3][Index:3]
+09:30:08 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:2][Count:3][Index:4]
+09:30:08 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:3][Count:3][Index:1]
+09:30:08 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:3][Count:3][Index:2]
+09:30:08 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:3][Count:3][Index:4]
+09:30:08 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:4][Count:3][Index:2]
+09:30:08 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:4][Count:3][Index:0]
+09:30:08 [MonsterSoulConverter][GenerateMissionInfo] Add Mission [Level:4][Count:3][Index:1]
+09:30:08 [MainProc] MissionInfo [Level:0][MissionInx1:4][MissionInx2:-1][MissionInx3:-1][MissionInx4:-1]
+09:30:08 [MainProc] MissionInfo [Level:1][MissionInx1:2][MissionInx2:-1][MissionInx3:-1][MissionInx4:-1]
+09:30:08 [MainProc] MissionInfo [Level:2][MissionInx1:0][MissionInx2:3][MissionInx3:4][MissionInx4:-1]
+09:30:08 [MainProc] MissionInfo [Level:3][MissionInx1:1][MissionInx2:2][MissionInx3:4][MissionInx4:-1]
+09:30:08 [MainProc] MissionInfo [Level:4][MissionInx1:2][MissionInx2:0][MissionInx3:1][MissionInx4:-1]
+09:30:08 [MainProc][3][Expire Mission Info][ReInfo] 2023-03-23 AM09:30
+09:30:09 [ImperialGuardianRenewal][MainProc][Play Info][New Day Info] [2023-03-23 AM09:30][MainAttr:1]
+19:21:10 SELECT TOP 50 * FROM DeathRecords WHERE Name='DarkWizard' ORDER BY Date DESC
+19:21:10 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'DeathRecords'.
+21:29:15 [ServerManager][0] DelServer (127.0.0.1)
+23:59:01 [EventEntryLimit][MainProc] Delete All Info [Time:2023-03-16 PM11:59]
+23:59:06 [Labyrinth][MainProc] Delete All Info [Time:2023-03-16 PM11:59]

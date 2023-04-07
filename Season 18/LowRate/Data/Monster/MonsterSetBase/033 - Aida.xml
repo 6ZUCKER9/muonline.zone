@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MonsterSetBase>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<NPC>
+		<Config Class="369" Range="0" PositionX="78" PositionY="13" Direction="2" Element="0" /> <!-- "Osbourne" -->
+		<Config Class="370" Range="0" PositionX="86" PositionY="13" Direction="1" Element="0" /> <!-- "Jerridon" -->
+		<Config Class="605" Range="3" PositionX="83" PositionY="15" Direction="-1" Element="0" /> <!-- "Mining Area (Small)" -->
+		<Config Class="605" Range="3" PositionX="76" PositionY="9" Direction="-1" Element="0" /> <!-- "Mining Area (Small)" -->
+		<Config Class="605" Range="3" PositionX="88" PositionY="7" Direction="-1" Element="0" /> <!-- "Mining Area (Small)" -->
+		<Config Class="606" Range="3" PositionX="91" PositionY="12" Direction="-1" Element="0" /> <!-- "Mining Area (Medium)" -->
+		<Config Class="606" Range="3" PositionX="83" PositionY="12" Direction="-1" Element="0" /> <!-- "Mining Area (Medium)		" -->
+		<Config Class="607" Range="3" PositionX="79" PositionY="10" Direction="-1" Element="0" /> <!-- "Mining Area (Large)" -->
+	</NPC>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<SPOT>
+<Config	Class="	308	"	Range="5"	BeginPosX="	111	"	BeginPosY="	14	"	EndPosX="	117	"	EndPosY="	20	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Death Tree	a"	-->
+<Config	Class="	308	"	Range="5"	BeginPosX="	134	"	BeginPosY="	17	"	EndPosX="	140	"	EndPosY="	23	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Death Tree	a"	-->
+<Config	Class="	308	"	Range="5"	BeginPosX="	153	"	BeginPosY="	12	"	EndPosX="	159	"	EndPosY="	18	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Death Tree	a"	-->
+<Config	Class="	308	"	Range="5"	BeginPosX="	173	"	BeginPosY="	14	"	EndPosX="	179	"	EndPosY="	20	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Death Tree	a"	-->
+<Config	Class="	308	"	Range="5"	BeginPosX="	189	"	BeginPosY="	15	"	EndPosX="	195	"	EndPosY="	21	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Death Tree	a"	-->
+<Config	Class="	308	"	Range="5"	BeginPosX="	223	"	BeginPosY="	10	"	EndPosX="	229	"	EndPosY="	16	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Death Tree	a"	-->
+<Config	Class="	307	"	Range="5"	BeginPosX="	188	"	BeginPosY="	32	"	EndPosX="	194	"	EndPosY="	38	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Forest Orc	a"	-->
+<Config	Class="	307	"	Range="5"	BeginPosX="	210	"	BeginPosY="	31	"	EndPosX="	216	"	EndPosY="	37	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Forest Orc	a"	-->
+<Config	Class="	307	"	Range="5"	BeginPosX="	153	"	BeginPosY="	44	"	EndPosX="	159	"	EndPosY="	50	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Forest Orc	a"	-->
+<Config	Class="	307	"	Range="5"	BeginPosX="	163	"	BeginPosY="	60	"	EndPosX="	169	"	EndPosY="	66	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Forest Orc	a"	-->
+<Config	Class="	307	"	Range="5"	BeginPosX="	165	"	BeginPosY="	79	"	EndPosX="	171	"	EndPosY="	85	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Forest Orc	a"	-->
+<Config	Class="	307	"	Range="5"	BeginPosX="	189	"	BeginPosY="	50	"	EndPosX="	195	"	EndPosY="	56	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Forest Orc	a"	-->
+<Config	Class="	306	"	Range="5"	BeginPosX="	231	"	BeginPosY="	34	"	EndPosX="	237	"	EndPosY="	40	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Death Rider	a"	-->
+<Config	Class="	306	"	Range="5"	BeginPosX="	224	"	BeginPosY="	60	"	EndPosX="	230	"	EndPosY="	66	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Death Rider	a"	-->
+<Config	Class="	306	"	Range="5"	BeginPosX="	203	"	BeginPosY="	68	"	EndPosX="	209	"	EndPosY="	74	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Death Rider	a"	-->
+<Config	Class="	306	"	Range="5"	BeginPosX="	197	"	BeginPosY="	105	"	EndPosX="	203	"	EndPosY="	111	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Death Rider	a"	-->
+<Config	Class="	306	"	Range="5"	BeginPosX="	181	"	BeginPosY="	92	"	EndPosX="	187	"	EndPosY="	98	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Death Rider	a"	-->
+<Config	Class="	306	"	Range="5"	BeginPosX="	231	"	BeginPosY="	86	"	EndPosX="	241	"	EndPosY="	96	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Death Rider	a"	-->
+<Config	Class="	305	"	Range="5"	BeginPosX="	222	"	BeginPosY="	110	"	EndPosX="	228	"	EndPosY="	116	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Blue Golem	a"	-->
+<Config	Class="	305	"	Range="5"	BeginPosX="	212	"	BeginPosY="	134	"	EndPosX="	218	"	EndPosY="	140	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Blue Golem	a"	-->
+<Config	Class="	305	"	Range="5"	BeginPosX="	230	"	BeginPosY="	145	"	EndPosX="	236	"	EndPosY="	151	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Blue Golem	a"	-->
+<Config	Class="	304	"	Range="5"	BeginPosX="	203	"	BeginPosY="	167	"	EndPosX="	209	"	EndPosY="	173	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Witch Queen	a"	-->
+<Config	Class="	304	"	Range="5"	BeginPosX="	161	"	BeginPosY="	162	"	EndPosX="	167	"	EndPosY="	168	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Witch Queen	a"	-->
+<Config	Class="	304	"	Range="5"	BeginPosX="	192	"	BeginPosY="	199	"	EndPosX="	198	"	EndPosY="	205	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Witch Queen	a"	-->
+<Config	Class="	549	"	Range="5"	BeginPosX="	154	"	BeginPosY="	227	"	EndPosX="	160	"	EndPosY="	233	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Bloody Orc	a"	-->
+<Config	Class="	549	"	Range="5"	BeginPosX="	151	"	BeginPosY="	189	"	EndPosX="	157	"	EndPosY="	195	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Bloody Orc	a"	-->
+<Config	Class="	549	"	Range="5"	BeginPosX="	127	"	BeginPosY="	223	"	EndPosX="	133	"	EndPosY="	229	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Bloody Orc	a"	-->
+<Config	Class="	549	"	Range="5"	BeginPosX="	119	"	BeginPosY="	196	"	EndPosX="	125	"	EndPosY="	202	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Bloody Orc	a"	-->
+<Config	Class="	549	"	Range="5"	BeginPosX="	90	"	BeginPosY="	201	"	EndPosX="	96	"	EndPosY="	207	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Bloody Orc	a"	-->
+<Config	Class="	550	"	Range="5"	BeginPosX="	79	"	BeginPosY="	224	"	EndPosX="	85	"	EndPosY="	230	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Bloody Death Rider	a"	-->
+<Config	Class="	550	"	Range="5"	BeginPosX="	65	"	BeginPosY="	204	"	EndPosX="	71	"	EndPosY="	210	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Bloody Death Rider	a"	-->
+<Config	Class="	550	"	Range="5"	BeginPosX="	38	"	BeginPosY="	221	"	EndPosX="	44	"	EndPosY="	227	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Bloody Death Rider	a"	-->
+<Config	Class="	550	"	Range="5"	BeginPosX="	30	"	BeginPosY="	204	"	EndPosX="	36	"	EndPosY="	210	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Bloody Death Rider	a"	-->
+<Config	Class="	551	"	Range="5"	BeginPosX="	22	"	BeginPosY="	183	"	EndPosX="	28	"	EndPosY="	189	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Bloody Golem	a"	-->
+<Config	Class="	551	"	Range="5"	BeginPosX="	48	"	BeginPosY="	156	"	EndPosX="	54	"	EndPosY="	162	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Bloody Golem	a"	-->
+<Config	Class="	551	"	Range="5"	BeginPosX="	86	"	BeginPosY="	114	"	EndPosX="	92	"	EndPosY="	120	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Bloody Golem	a"	-->
+<Config	Class="	551	"	Range="5"	BeginPosX="	83	"	BeginPosY="	86	"	EndPosX="	89	"	EndPosY="	92	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Bloody Golem	a"	-->
+<Config	Class="	551	"	Range="5"	BeginPosX="	85	"	BeginPosY="	58	"	EndPosX="	91	"	EndPosY="	64	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Bloody Golem	a"	-->
+<Config	Class="	551	"	Range="5"	BeginPosX="	105	"	BeginPosY="	44	"	EndPosX="	111	"	EndPosY="	50	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Bloody Golem	a"	-->
+<Config	Class="	552	"	Range="5"	BeginPosX="	112	"	BeginPosY="	65	"	EndPosX="	118	"	EndPosY="	71	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Bloody Witch Queen	a"	-->
+<Config	Class="	552	"	Range="5"	BeginPosX="	136	"	BeginPosY="	75	"	EndPosX="	142	"	EndPosY="	81	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Bloody Witch Queen	a"	-->
+<Config	Class="	552	"	Range="5"	BeginPosX="	147	"	BeginPosY="	91	"	EndPosX="	153	"	EndPosY="	97	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Bloody Witch Queen	a"	-->
+<Config	Class="	552	"	Range="5"	BeginPosX="	111	"	BeginPosY="	91	"	EndPosX="	117	"	EndPosY="	97	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Bloody Witch Queen	a"	-->
+<Config	Class="	552	"	Range="5"	BeginPosX="	24	"	BeginPosY="	132	"	EndPosX="	30	"	EndPosY="	138	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Bloody Witch Queen	a"	-->
+<Config	Class="	552	"	Range="5"	BeginPosX="	46	"	BeginPosY="	121	"	EndPosX="	52	"	EndPosY="	127	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Bloody Witch Queen	a"	-->
+<Config	Class="	309	"	Range="5"	BeginPosX="	110	"	BeginPosY="	146	"	EndPosX="	116	"	EndPosY="	152	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Hell Maine	a"	-->
+<Config	Class="	309	"	Range="5"	BeginPosX="	82	"	BeginPosY="	140	"	EndPosX="	88	"	EndPosY="	146	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Hell Maine	a"	-->
+<Config	Class="	309	"	Range="5"	BeginPosX="	95	"	BeginPosY="	166	"	EndPosX="	101	"	EndPosY="	172	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Hell Maine	a"	-->
+<Config	Class="	550	"	Range="5"	BeginPosX="	127	"	BeginPosY="	152	"	EndPosX="	133	"	EndPosY="	158	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Bloody Death Rider	a"	-->
+<Config	Class="	550	"	Range="5"	BeginPosX="	134	"	BeginPosY="	121	"	EndPosX="	140	"	EndPosY="	127	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Bloody Death Rider	a"	-->
+<Config	Class="	549	"	Range="5"	BeginPosX="	160	"	BeginPosY="	117	"	EndPosX="	166	"	EndPosY="	123	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Bloody Orc	a"	-->
+<Config	Class="	549	"	Range="5"	BeginPosX="	191	"	BeginPosY="	148	"	EndPosX="	197	"	EndPosY="	154	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Bloody Orc	a"	-->
+<Config	Class="	304	"	Range="5"	BeginPosX="	214	"	BeginPosY="	223	"	EndPosX="	220	"	EndPosY="	229	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Witch Queen	a"	-->
+<Config	Class="	304	"	Range="5"	BeginPosX="	235	"	BeginPosY="	231	"	EndPosX="	241	"	EndPosY="	237	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Witch Queen	a"	-->
+
+
+	</SPOT>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<MONSTER>
+	</MONSTER>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<EVENT>
+	</EVENT>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+</MonsterSetBase>

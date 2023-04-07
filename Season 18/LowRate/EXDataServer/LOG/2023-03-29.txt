@@ -1,0 +1,3 @@
+05:32:04 EXEC WZ_DeleteWaitPartyMatchingList 'ZUCKER'
+05:32:04 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][Shared Memory]ConnectionWrite (send()).
+05:32:04 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver][Shared Memory]General network error. Check your network documentation.

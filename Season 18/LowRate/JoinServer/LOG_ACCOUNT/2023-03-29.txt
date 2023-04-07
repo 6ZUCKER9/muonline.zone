@@ -1,0 +1,1 @@
+05:32:04 [AccountInfo] Account disconnected (Account: admin, IpAddress: 80.134.26.127, GameServerCode: 20)

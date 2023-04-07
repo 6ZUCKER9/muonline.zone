@@ -1,0 +1,12 @@
+05:04:19 [Connection] send() failed with error: 10057
+05:04:19 [Connection] connect() failed with error: 10038
+05:04:20 [Connection] connect() failed with error: 10061
+05:04:21 [Connection] connect() failed with error: 10061
+13:04:19 [Connection] send() failed with error: 10057
+13:04:19 [Connection] connect() failed with error: 10038
+13:04:20 [Connection] connect() failed with error: 10061
+13:04:21 [Connection] connect() failed with error: 10061
+21:04:19 [Connection] send() failed with error: 10057
+21:04:19 [Connection] connect() failed with error: 10038
+21:04:20 [Connection] connect() failed with error: 10061
+21:04:21 [Connection] connect() failed with error: 10061

@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MonsterSetBase>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<NPC>
+	</NPC>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<SPOT>
+			<!--Lizard Warrior-->
+			<Config Class="290" Range="5" BeginPosX="139" BeginPosY="59" EndPosX="146" EndPosY="66" Direction="-1" Quantity="8" />
+			<!--Lizard Warrior-->
+			<Config Class="290" Range="5" BeginPosX="148" BeginPosY="84" EndPosX="155" EndPosY="90" Direction="-1" Quantity="8" />
+			<!--Lizard Warrior-->
+			<Config Class="290" Range="5" BeginPosX="165" BeginPosY="69" EndPosX="172" EndPosY="76" Direction="-1" Quantity="8" />
+			<!--Lizard Warrior-->
+			<Config Class="290" Range="5" BeginPosX="184" BeginPosY="18" EndPosX="189" EndPosY="24" Direction="-1" Quantity="8" />
+			<!--Lizard Warrior-->
+			<Config Class="290" Range="5" BeginPosX="205" BeginPosY="14" EndPosX="212" EndPosY="21" Direction="-1" Quantity="8" />
+			<!--Lizard Warrior-->
+			<Config Class="290" Range="5" BeginPosX="230" BeginPosY="35" EndPosX="237" EndPosY="42" Direction="-1" Quantity="8" />
+			<!--Lizard Warrior-->
+			<Config Class="290" Range="5" BeginPosX="90" BeginPosY="88" EndPosX="97" EndPosY="96" Direction="-1" Quantity="8" />
+			<!--Fire Golem-->
+			<Config Class="291" Range="5" BeginPosX="193" BeginPosY="157" EndPosX="200" EndPosY="163" Direction="-1" Quantity="8" />
+			<!--Fire Golem-->
+			<Config Class="291" Range="5" BeginPosX="46" BeginPosY="192" EndPosX="53" EndPosY="200" Direction="-1" Quantity="8" />
+			<!--Fire Golem-->
+			<Config Class="291" Range="5" BeginPosX="29" BeginPosY="164" EndPosX="36" EndPosY="173" Direction="-1" Quantity="8" />
+			<!--Fire Golem-->
+			<Config Class="291" Range="5" BeginPosX="30" BeginPosY="225" EndPosX="38" EndPosY="233" Direction="-1" Quantity="8" />
+			<!--Fire Golem-->
+			<Config Class="291" Range="5" BeginPosX="61" BeginPosY="227" EndPosX="69" EndPosY="235" Direction="-1" Quantity="8" />
+			<!--Queen Bee-->
+			<Config Class="292" Range="5" BeginPosX="225" BeginPosY="198" EndPosX="232" EndPosY="205" Direction="-1" Quantity="8" />
+			<!--Queen Bee-->
+			<Config Class="292" Range="5" BeginPosX="197" BeginPosY="209" EndPosX="204" EndPosY="217" Direction="-1" Quantity="8" />
+			<!--Queen Bee-->
+			<Config Class="292" Range="5" BeginPosX="139" BeginPosY="166" EndPosX="145" EndPosY="175" Direction="-1" Quantity="8" />
+			<!--Queen Bee-->
+			<Config Class="292" Range="5" BeginPosX="124" BeginPosY="133" EndPosX="132" EndPosY="141" Direction="-1" Quantity="8" />
+			<!--Queen Bee-->
+			<Config Class="292" Range="5" BeginPosX="136" BeginPosY="213" EndPosX="143" EndPosY="221" Direction="-1" Quantity="8" />
+			<!--Queen Bee-->
+			<Config Class="292" Range="5" BeginPosX="95" BeginPosY="191" EndPosX="102" EndPosY="198" Direction="-1" Quantity="8" />
+			<!--Poison Golem-->
+			<Config Class="293" Range="5" BeginPosX="219" BeginPosY="68" EndPosX="227" EndPosY="74" Direction="-1" Quantity="8" />
+			<!--Poison Golem-->
+			<Config Class="293" Range="5" BeginPosX="219" BeginPosY="112" EndPosX="225" EndPosY="118" Direction="-1" Quantity="8" />
+			<!--Poison Golem-->
+			<Config Class="293" Range="5" BeginPosX="181" BeginPosY="110" EndPosX="187" EndPosY="118" Direction="-1" Quantity="8" />
+			<!--Poison Golem-->
+			<Config Class="293" Range="5" BeginPosX="67" BeginPosY="142" EndPosX="74" EndPosY="151" Direction="-1" Quantity="8" />
+			<!--Ax Warrior-->
+			<Config Class="294" Range="5" BeginPosX="59" BeginPosY="14" EndPosX="64" EndPosY="19" Direction="-1" Quantity="8" />
+			<!--Ax Warrior-->
+			<Config Class="294" Range="5" BeginPosX="45" BeginPosY="50" EndPosX="51" EndPosY="56" Direction="-1" Quantity="8" />
+			<!--Ax Warrior-->
+			<Config Class="294" Range="5" BeginPosX="33" BeginPosY="34" EndPosX="38" EndPosY="42" Direction="-1" Quantity="8" />
+			<!--Ax Warrior-->
+			<Config Class="294" Range="5" BeginPosX="65" BeginPosY="40" EndPosX="71" EndPosY="46" Direction="-1" Quantity="8" />
+			<!--Ax Warrior-->
+			<Config Class="294" Range="5" BeginPosX="95" BeginPosY="30" EndPosX="102" EndPosY="36" Direction="-1" Quantity="8" />
+			<!--Ax Warrior-->
+			<Config Class="294" Range="5" BeginPosX="133" BeginPosY="30" EndPosX="139" EndPosY="38" Direction="-1" Quantity="8" />
+			<!--Ax Warrior-->
+			<Config Class="294" Range="5" BeginPosX="155" BeginPosY="31" EndPosX="161" EndPosY="37" Direction="-1" Quantity="8" />
+	</SPOT>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<MONSTER>
+			<!--Lizard Warrior-->
+			<Config Class="290" Range="30" BeginPosX="54" BeginPosY="65" Direction="-1" />
+			<!--Lizard Warrior-->
+			<Config Class="290" Range="30" BeginPosX="59" BeginPosY="59" Direction="-1" />
+			<!--Lizard Warrior-->
+			<Config Class="290" Range="30" BeginPosX="139" BeginPosY="50" Direction="-1" />
+			<!--Lizard Warrior-->
+			<Config Class="290" Range="30" BeginPosX="170" BeginPosY="55" Direction="-1" />
+			<!--Lizard Warrior-->
+			<Config Class="290" Range="30" BeginPosX="153" BeginPosY="59" Direction="-1" />
+			<!--Lizard Warrior-->
+			<Config Class="290" Range="30" BeginPosX="155" BeginPosY="70" Direction="-1" />
+			<!--Lizard Warrior-->
+			<Config Class="290" Range="30" BeginPosX="162" BeginPosY="61" Direction="-1" />
+			<!--Lizard Warrior-->
+			<Config Class="290" Range="30" BeginPosX="144" BeginPosY="77" Direction="-1" />
+			<!--Lizard Warrior-->
+			<Config Class="290" Range="30" BeginPosX="87" BeginPosY="77" Direction="-1" />
+			<!--Lizard Warrior-->
+			<Config Class="290" Range="30" BeginPosX="122" BeginPosY="81" Direction="-1" />
+			<!--Lizard Warrior-->
+			<Config Class="290" Range="30" BeginPosX="69" BeginPosY="103" Direction="-1" />
+			<!--Lizard Warrior-->
+			<Config Class="290" Range="30" BeginPosX="77" BeginPosY="102" Direction="-1" />
+			<!--Lizard Warrior-->
+			<Config Class="290" Range="30" BeginPosX="67" BeginPosY="85" Direction="-1" />
+			<!--Lizard Warrior-->
+			<Config Class="290" Range="30" BeginPosX="69" BeginPosY="75" Direction="-1" />
+			<!--Lizard Warrior-->
+			<Config Class="290" Range="30" BeginPosX="70" BeginPosY="65" Direction="-1" />
+			<!--Lizard Warrior-->
+			<Config Class="290" Range="30" BeginPosX="103" BeginPosY="91" Direction="-1" />
+			<!--Lizard Warrior-->
+			<Config Class="290" Range="30" BeginPosX="233" BeginPosY="36" Direction="-1" />
+			<!--Lizard Warrior-->
+			<Config Class="290" Range="30" BeginPosX="204" BeginPosY="61" Direction="-1" />
+			<!--Lizard Warrior-->
+			<Config Class="290" Range="30" BeginPosX="209" BeginPosY="67" Direction="-1" />
+			<!--Lizard Warrior-->
+			<Config Class="290" Range="30" BeginPosX="234" BeginPosY="75" Direction="-1" />
+			<!--Lizard Warrior-->
+			<Config Class="290" Range="30" BeginPosX="234" BeginPosY="66" Direction="-1" />
+			<!--Lizard Warrior-->
+			<Config Class="290" Range="30" BeginPosX="234" BeginPosY="55" Direction="-1" />
+			<!--Lizard Warrior-->
+			<Config Class="290" Range="30" BeginPosX="231" BeginPosY="95" Direction="-1" />
+			<!--Lizard Warrior-->
+			<Config Class="290" Range="30" BeginPosX="222" BeginPosY="87" Direction="-1" />
+			<!--Lizard Warrior-->
+			<Config Class="290" Range="30" BeginPosX="214" BeginPosY="53" Direction="-1" />
+			<!--Lizard Warrior-->
+			<Config Class="290" Range="30" BeginPosX="223" BeginPosY="39" Direction="-1" />
+			<!--Fire Golem-->
+			<Config Class="291" Range="30" BeginPosX="222" BeginPosY="221" Direction="-1" />
+			<!--Fire Golem-->
+			<Config Class="291" Range="30" BeginPosX="134" BeginPosY="229" Direction="-1" />
+			<!--Fire Golem-->
+			<Config Class="291" Range="30" BeginPosX="155" BeginPosY="227" Direction="-1" />
+			<!--Fire Golem-->
+			<Config Class="291" Range="30" BeginPosX="144" BeginPosY="198" Direction="-1" />
+			<!--Fire Golem-->
+			<Config Class="291" Range="30" BeginPosX="131" BeginPosY="215" Direction="-1" />
+			<!--Fire Golem-->
+			<Config Class="291" Range="30" BeginPosX="120" BeginPosY="225" Direction="-1" />
+			<!--Fire Golem-->
+			<Config Class="291" Range="30" BeginPosX="197" BeginPosY="204" Direction="-1" />
+			<!--Fire Golem-->
+			<Config Class="291" Range="30" BeginPosX="198" BeginPosY="192" Direction="-1" />
+			<!--Fire Golem-->
+			<Config Class="291" Range="30" BeginPosX="187" BeginPosY="175" Direction="-1" />
+			<!--Fire Golem-->
+			<Config Class="291" Range="30" BeginPosX="216" BeginPosY="183" Direction="-1" />
+			<!--Fire Golem-->
+			<Config Class="291" Range="30" BeginPosX="105" BeginPosY="190" Direction="-1" />
+			<!--Fire Golem-->
+			<Config Class="291" Range="30" BeginPosX="88" BeginPosY="183" Direction="-1" />
+			<!--Fire Golem-->
+			<Config Class="291" Range="30" BeginPosX="225" BeginPosY="141" Direction="-1" />
+			<!--Fire Golem-->
+			<Config Class="291" Range="30" BeginPosX="64" BeginPosY="213" Direction="-1" />
+			<!--Fire Golem-->
+			<Config Class="291" Range="30" BeginPosX="48" BeginPosY="207" Direction="-1" />
+			<!--Fire Golem-->
+			<Config Class="291" Range="30" BeginPosX="28" BeginPosY="185" Direction="-1" />
+			<!--Fire Golem-->
+			<Config Class="291" Range="30" BeginPosX="31" BeginPosY="209" Direction="-1" />
+			<!--Fire Golem-->
+			<Config Class="291" Range="30" BeginPosX="56" BeginPosY="227" Direction="-1" />
+			<!--Fire Golem-->
+			<Config Class="291" Range="30" BeginPosX="81" BeginPosY="221" Direction="-1" />
+			<!--Fire Golem-->
+			<Config Class="291" Range="30" BeginPosX="80" BeginPosY="234" Direction="-1" />
+			<!--Queen Bee-->
+			<Config Class="292" Range="30" BeginPosX="229" BeginPosY="227" Direction="-1" />
+			<!--Queen Bee-->
+			<Config Class="292" Range="30" BeginPosX="182" BeginPosY="177" Direction="-1" />
+			<!--Queen Bee-->
+			<Config Class="292" Range="30" BeginPosX="191" BeginPosY="182" Direction="-1" />
+			<!--Queen Bee-->
+			<Config Class="292" Range="30" BeginPosX="196" BeginPosY="173" Direction="-1" />
+			<!--Queen Bee-->
+			<Config Class="292" Range="30" BeginPosX="183" BeginPosY="140" Direction="-1" />
+			<!--Queen Bee-->
+			<Config Class="292" Range="30" BeginPosX="175" BeginPosY="127" Direction="-1" />
+			<!--Queen Bee-->
+			<Config Class="292" Range="30" BeginPosX="191" BeginPosY="120" Direction="-1" />
+			<!--Queen Bee-->
+			<Config Class="292" Range="30" BeginPosX="152" BeginPosY="112" Direction="-1" />
+			<!--Queen Bee-->
+			<Config Class="292" Range="30" BeginPosX="146" BeginPosY="126" Direction="-1" />
+			<!--Queen Bee-->
+			<Config Class="292" Range="30" BeginPosX="133" BeginPosY="145" Direction="-1" />
+			<!--Queen Bee-->
+			<Config Class="292" Range="30" BeginPosX="138" BeginPosY="133" Direction="-1" />
+			<!--Queen Bee-->
+			<Config Class="292" Range="30" BeginPosX="95" BeginPosY="138" Direction="-1" />
+			<!--Queen Bee-->
+			<Config Class="292" Range="30" BeginPosX="128" BeginPosY="224" Direction="-1" />
+			<!--Queen Bee-->
+			<Config Class="292" Range="30" BeginPosX="163" BeginPosY="225" Direction="-1" />
+			<!--Queen Bee-->
+			<Config Class="292" Range="30" BeginPosX="155" BeginPosY="218" Direction="-1" />
+			<!--Queen Bee-->
+			<Config Class="292" Range="30" BeginPosX="227" BeginPosY="180" Direction="-1" />
+			<!--Queen Bee-->
+			<Config Class="292" Range="30" BeginPosX="224" BeginPosY="191" Direction="-1" />
+			<!--Queen Bee-->
+			<Config Class="292" Range="30" BeginPosX="98" BeginPosY="175" Direction="-1" />
+			<!--Queen Bee-->
+			<Config Class="292" Range="30" BeginPosX="224" BeginPosY="147" Direction="-1" />
+			<!--Queen Bee-->
+			<Config Class="292" Range="30" BeginPosX="75" BeginPosY="204" Direction="-1" />
+			<!--Queen Bee-->
+			<Config Class="292" Range="30" BeginPosX="41" BeginPosY="185" Direction="-1" />
+			<!--Queen Bee-->
+			<Config Class="292" Range="30" BeginPosX="71" BeginPosY="194" Direction="-1" />
+			<!--Poison Golem-->
+			<Config Class="293" Range="30" BeginPosX="63" BeginPosY="134" Direction="-1" />
+			<!--Poison Golem-->
+			<Config Class="293" Range="30" BeginPosX="81" BeginPosY="150" Direction="-1" />
+			<!--Poison Golem-->
+			<Config Class="293" Range="30" BeginPosX="58" BeginPosY="124" Direction="-1" />
+			<!--Poison Golem-->
+			<Config Class="293" Range="30" BeginPosX="66" BeginPosY="120" Direction="-1" />
+			<!--Poison Golem-->
+			<Config Class="293" Range="30" BeginPosX="71" BeginPosY="113" Direction="-1" />
+			<!--Poison Golem-->
+			<Config Class="293" Range="30" BeginPosX="80" BeginPosY="111" Direction="-1" />
+			<!--Poison Golem-->
+			<Config Class="293" Range="30" BeginPosX="114" BeginPosY="88" Direction="-1" />
+			<!--Poison Golem-->
+			<Config Class="293" Range="30" BeginPosX="124" BeginPosY="88" Direction="-1" />
+			<!--Poison Golem-->
+			<Config Class="293" Range="30" BeginPosX="131" BeginPosY="79" Direction="-1" />
+			<!--Poison Golem-->
+			<Config Class="293" Range="30" BeginPosX="137" BeginPosY="83" Direction="-1" />
+			<!--Poison Golem-->
+			<Config Class="293" Range="30" BeginPosX="163" BeginPosY="89" Direction="-1" />
+			<!--Poison Golem-->
+			<Config Class="293" Range="30" BeginPosX="180" BeginPosY="86" Direction="-1" />
+			<!--Poison Golem-->
+			<Config Class="293" Range="30" BeginPosX="188" BeginPosY="105" Direction="-1" />
+			<!--Poison Golem-->
+			<Config Class="293" Range="30" BeginPosX="188" BeginPosY="99" Direction="-1" />
+			<!--Poison Golem-->
+			<Config Class="293" Range="30" BeginPosX="186" BeginPosY="92" Direction="-1" />
+			<!--Poison Golem-->
+			<Config Class="293" Range="30" BeginPosX="182" BeginPosY="129" Direction="-1" />
+			<!--Poison Golem-->
+			<Config Class="293" Range="30" BeginPosX="166" BeginPosY="122" Direction="-1" />
+			<!--Poison Golem-->
+			<Config Class="293" Range="30" BeginPosX="151" BeginPosY="121" Direction="-1" />
+			<!--Poison Golem-->
+			<Config Class="293" Range="30" BeginPosX="67" BeginPosY="95" Direction="-1" />
+			<!--Poison Golem-->
+			<Config Class="293" Range="30" BeginPosX="87" BeginPosY="140" Direction="-1" />
+			<!--Poison Golem-->
+			<Config Class="293" Range="30" BeginPosX="103" BeginPosY="133" Direction="-1" />
+			<!--Poison Golem-->
+			<Config Class="293" Range="30" BeginPosX="111" BeginPosY="138" Direction="-1" />
+			<!--Poison Golem-->
+			<Config Class="293" Range="30" BeginPosX="117" BeginPosY="143" Direction="-1" />
+			<!--Poison Golem-->
+			<Config Class="293" Range="30" BeginPosX="152" BeginPosY="98" Direction="-1" />
+			<!--Poison Golem-->
+			<Config Class="293" Range="30" BeginPosX="150" BeginPosY="106" Direction="-1" />
+			<!--Poison Golem-->
+			<Config Class="293" Range="30" BeginPosX="225" BeginPosY="132" Direction="-1" />
+			<!--Poison Golem-->
+			<Config Class="293" Range="30" BeginPosX="230" BeginPosY="102" Direction="-1" />
+			<!--Poison Golem-->
+			<Config Class="293" Range="30" BeginPosX="222" BeginPosY="98" Direction="-1" />
+			<!--Poison Golem-->
+			<Config Class="293" Range="30" BeginPosX="230" BeginPosY="86" Direction="-1" />
+			<!--Ax Warrior-->
+			<Config Class="294" Range="30" BeginPosX="59" BeginPosY="40" Direction="-1" />
+			<!--Ax Warrior-->
+			<Config Class="294" Range="30" BeginPosX="78" BeginPosY="45" Direction="-1" />
+			<!--Ax Warrior-->
+			<Config Class="294" Range="30" BeginPosX="64" BeginPosY="53" Direction="-1" />
+			<!--Ax Warrior-->
+			<Config Class="294" Range="30" BeginPosX="43" BeginPosY="62" Direction="-1" />
+			<!--Ax Warrior-->
+			<Config Class="294" Range="30" BeginPosX="132" BeginPosY="46" Direction="-1" />
+			<!--Ax Warrior-->
+			<Config Class="294" Range="30" BeginPosX="143" BeginPosY="37" Direction="-1" />
+			<!--Ax Warrior-->
+			<Config Class="294" Range="30" BeginPosX="170" BeginPosY="45" Direction="-1" />
+			<!--Ax Warrior-->
+			<Config Class="294" Range="30" BeginPosX="59" BeginPosY="71" Direction="-1" />
+			<!--Ax Warrior-->
+			<Config Class="294" Range="30" BeginPosX="73" BeginPosY="69" Direction="-1" />
+			<!--Ax Warrior-->
+			<Config Class="294" Range="30" BeginPosX="182" BeginPosY="31" Direction="-1" />
+			<!--Ax Warrior-->
+			<Config Class="294" Range="30" BeginPosX="193" BeginPosY="12" Direction="-1" />
+			<!--Ax Warrior-->
+			<Config Class="294" Range="30" BeginPosX="196" BeginPosY="26" Direction="-1" />
+			<!--Ax Warrior-->
+			<Config Class="294" Range="30" BeginPosX="206" BeginPosY="28" Direction="-1" />
+			<!--Ax Warrior-->
+			<Config Class="294" Range="30" BeginPosX="221" BeginPosY="17" Direction="-1" />
+			<!--Ax Warrior-->
+			<Config Class="294" Range="30" BeginPosX="224" BeginPosY="25" Direction="-1" />
+			<!--Ax Warrior-->
+			<Config Class="294" Range="30" BeginPosX="218" BeginPosY="31" Direction="-1" />
+			<!--Ax Warrior-->
+			<Config Class="294" Range="30" BeginPosX="211" BeginPosY="39" Direction="-1" />
+			<!--Ax Warrior-->
+			<Config Class="294" Range="30" BeginPosX="223" BeginPosY="54" Direction="-1" />
+	</MONSTER>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<EVENT>
+	</EVENT>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+</MonsterSetBase>

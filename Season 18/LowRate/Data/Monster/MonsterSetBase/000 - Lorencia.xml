@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MonsterSetBase>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<NPC>
+		<Config Class="226" Range="0" PositionX="122" PositionY="110" Direction="3" Element="0" /> <!-- "Trainer" -->
+		<Config Class="230" Range="0" PositionX="62" PositionY="130" Direction="3" Element="0" /> <!-- "Wandering Merchant Alex" -->
+		<Config Class="250" Range="0" PositionX="183" PositionY="137" Direction="2" Element="0" /> <!-- "Wandering Merchant" -->
+		<Config Class="253" Range="0" PositionX="127" PositionY="86" Direction="2" Element="0" /> <!-- "Potion Girl Amy" -->
+		<Config Class="251" Range="0" PositionX="116" PositionY="141" Direction="3" Element="0" /> <!-- "Hanzo the Blacksmith" -->
+		<Config Class="255" Range="0" PositionX="123" PositionY="135" Direction="1" Element="0" /> <!-- "Lumen the Barmaid" -->
+		<Config Class="254" Range="0" PositionX="118" PositionY="113" Direction="3" Element="0" /> <!-- "Pasi the Mage" -->
+		<Config Class="249" Range="10" PositionX="131" PositionY="88" Direction="1" Element="0" /> <!-- "Guard" -->
+		<Config Class="249" Range="20" PositionX="173" PositionY="125" Direction="3" Element="0" /> <!-- "Guard" -->
+		<Config Class="249" Range="20" PositionX="94" PositionY="130" Direction="7" Element="0" /> <!-- "Guard" -->
+		<Config Class="249" Range="20" PositionX="94" PositionY="125" Direction="7" Element="0" /> <!-- "Guard" -->
+		<Config Class="249" Range="5" PositionX="131" PositionY="148" Direction="1" Element="0" /> <!-- "Guard" -->
+		<Config Class="240" Range="0" PositionX="147" PositionY="145" Direction="1" Element="0" /> <!-- "Safety Guardian" -->
+		<Config Class="240" Range="0" PositionX="146" PositionY="110" Direction="3" Element="0" /> <!-- "Safety Guardian" -->
+		<Config Class="257" Range="0" PositionX="96" PositionY="129" Direction="1" Element="0" /> <!-- "Shadow Phantom Soldier" -->
+		<Config Class="375" Range="0" PositionX="132" PositionY="161" Direction="3" Element="0" /> <!-- "Chaos Card Master" -->
+		<Config Class="257" Range="0" PositionX="132" PositionY="165" Direction="3" Element="0" /> <!-- "Shadow Phantom Soldier" -->
+		<Config Class="257" Range="0" PositionX="132" PositionY="90" Direction="3" Element="0" /> <!-- "Shadow Phantom Soldier" -->
+		<Config Class="257" Range="0" PositionX="170" PositionY="129" Direction="1" Element="0" /> <!-- "Shadow Phantom Soldier" -->
+		<Config Class="547" Range="0" PositionX="139" PositionY="138" Direction="3" Element="0" /> <!-- "Market Union Member Julia" -->
+		<Config Class="543" Range="0" PositionX="144" PositionY="125" Direction="2" Element="0" /> <!-- "Gens Duprian Steward" -->
+		<Config Class="544" Range="0" PositionX="144" PositionY="129" Direction="3" Element="0" /> <!-- "Gens Vanert Steward" -->
+		<Config Class="540" Range="0" PositionX="130" PositionY="128" Direction="3" Element="0" /> <!-- "Lugard" -->
+		<Config Class="522" Range="0" PositionX="130" PositionY="126" Direction="3" Element="0" /> <!-- "Jerint the Assistant" -->
+		<Config Class="584" Range="0" PositionX="114" PositionY="132" Direction="3" Element="0" /> <!-- "Sir Lesnar" -->
+		<Config Class="764" Range="0" PositionX="131" PositionY="147" Direction="3" Element="0" /> <!-- "Cent(Town)" -->
+		<Config Class="568" Range="0" PositionX="125" PositionY="125" Direction="3" Element="0" /> <!-- "Jerint the Assistant" -->
+		<Config Class="492" Range="0" PositionX="141" PositionY="134" Direction="3" Element="0" /> <!-- "Moss" -->
+		<Config Class="406" Range="0" PositionX="142" PositionY="135" Direction="2" Element="0" /> <!-- "Trainer" -->
+	</NPC>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<SPOT>
+<!--Normal SPOT-->
+<Config	Class="	3	"	Range="15"	BeginPosX="	152	"	BeginPosY="	77	"	EndPosX="	218	"	EndPosY="	143	"	Direction="-1" Quantity="50" Element="0"/>	<!--	"	GAME START SPOT	"	-->
+<Config	Class="	3	"	Range="5"	BeginPosX="	182	"	BeginPosY="	107	"	EndPosX="	188	"	EndPosY="	113	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Spider	"	-->
+<Config	Class="	3	"	Range="5"	BeginPosX="	196	"	BeginPosY="	122	"	EndPosX="	202	"	EndPosY="	128	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Spider	"	-->
+<Config	Class="	3	"	Range="5"	BeginPosX="	189	"	BeginPosY="	136	"	EndPosX="	195	"	EndPosY="	142	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Spider	"	-->
+<Config	Class="	2	"	Range="5"	BeginPosX="	172	"	BeginPosY="	148	"	EndPosX="	178	"	EndPosY="	154	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Budge Dragon	"	-->
+<Config	Class="	2	"	Range="5"	BeginPosX="	184	"	BeginPosY="	158	"	EndPosX="	190	"	EndPosY="	164	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Budge Dragon	"	-->
+<Config	Class="	2	"	Range="5"	BeginPosX="	200	"	BeginPosY="	145	"	EndPosX="	206	"	EndPosY="	151	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Budge Dragon	"	-->
+<Config	Class="	2	"	Range="5"	BeginPosX="	213	"	BeginPosY="	108	"	EndPosX="	219	"	EndPosY="	114	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Budge Dragon	"	-->
+<Config	Class="	2	"	Range="5"	BeginPosX="	199	"	BeginPosY="	86	"	EndPosX="	205	"	EndPosY="	92	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Budge Dragon	"	-->
+<Config	Class="	0	"	Range="5"	BeginPosX="	219	"	BeginPosY="	73	"	EndPosX="	229	"	EndPosY="	83	"	Direction="-1" Quantity="8" Element="0"/>	<!--	"	Bull Fighter	"	-->
+<Config	Class="	0	"	Range="5"	BeginPosX="	177	"	BeginPosY="	76	"	EndPosX="	183	"	EndPosY="	82	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Bull Fighter	"	-->
+<Config	Class="	0	"	Range="5"	BeginPosX="	153	"	BeginPosY="	75	"	EndPosX="	159	"	EndPosY="	81	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Bull Fighter	"	-->
+<Config	Class="	0	"	Range="5"	BeginPosX="	138	"	BeginPosY="	64	"	EndPosX="	144	"	EndPosY="	70	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Bull Fighter	"	-->
+<Config	Class="	0	"	Range="5"	BeginPosX="	138	"	BeginPosY="	75	"	EndPosX="	144	"	EndPosY="	81	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Bull Fighter	"	-->
+<Config	Class="	0	"	Range="5"	BeginPosX="	153	"	BeginPosY="	64	"	EndPosX="	159	"	EndPosY="	70	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Bull Fighter	"	-->
+<Config	Class="	1	"	Range="5"	BeginPosX="	75	"	BeginPosY="	119	"	EndPosX="	81	"	EndPosY="	125	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Hound	"	-->
+<Config	Class="	1	"	Range="5"	BeginPosX="	89	"	BeginPosY="	146	"	EndPosX="	95	"	EndPosY="	152	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Hound	"	-->
+<Config	Class="	7	"	Range="5"	BeginPosX="	89	"	BeginPosY="	98	"	EndPosX="	95	"	EndPosY="	104	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Hound	"	-->
+<Config	Class="	1	"	Range="5"	BeginPosX="	5	"	BeginPosY="	127	"	EndPosX="	15	"	EndPosY="	137	"	Direction="-1" Quantity="8" Element="0"/>	<!--	"	HOT SPOT Giant	"	-->
+<Config	Class="	7	"	Range="5"	BeginPosX="	14	"	BeginPosY="	59	"	EndPosX="	20	"	EndPosY="	65	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Giant	"	-->
+<Config	Class="	7	"	Range="5"	BeginPosX="	43	"	BeginPosY="	23	"	EndPosX="	49	"	EndPosY="	29	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Giant	"	-->
+<Config	Class="	7	"	Range="5"	BeginPosX="	14	"	BeginPosY="	23	"	EndPosX="	20	"	EndPosY="	29	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Giant	"	-->
+<Config	Class="	7	"	Range="5"	BeginPosX="	43	"	BeginPosY="	59	"	EndPosX="	49	"	EndPosY="	65	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Giant	"	-->
+<Config	Class="	4	"	Range="5"	BeginPosX="	76	"	BeginPosY="	171	"	EndPosX="	82	"	EndPosY="	177	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Elite Bull Fighter	"	-->
+<Config	Class="	4	"	Range="5"	BeginPosX="	54	"	BeginPosY="	185	"	EndPosX="	60	"	EndPosY="	191	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Elite Bull Fighter	"	-->
+<Config	Class="	4	"	Range="5"	BeginPosX="	77	"	BeginPosY="	193	"	EndPosX="	83	"	EndPosY="	199	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Elite Bull Fighter	"	-->
+<Config	Class="	6	"	Range="5"	BeginPosX="	120	"	BeginPosY="	182	"	EndPosX="	126	"	EndPosY="	188	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Lich	"	-->
+<Config	Class="	6	"	Range="5"	BeginPosX="	139	"	BeginPosY="	169	"	EndPosX="	145	"	EndPosY="	175	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Lich	"	-->
+<Config	Class="	6	"	Range="5"	BeginPosX="	151	"	BeginPosY="	187	"	EndPosX="	157	"	EndPosY="	193	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Lich	"	-->
+<Config	Class="	6	"	Range="5"	BeginPosX="	138	"	BeginPosY="	217	"	EndPosX="	144	"	EndPosY="	223	"	Direction="-1" Quantity="8" Element="0"/>	<!--	"	HOT SPOT Lich	"	-->
+
+
+
+		<!-- "SAMPLE" -->	
+<!-- 		<Config Class="3" Range="5" BeginPosX="182" BeginPosY="107" EndPosX="188" EndPosY="113" Direction="-1" Quantity="5" Element="0" />		<!-- "Spider" -->		
+<!--        <Config Class="2" Range="5" BeginPosX="188" BeginPosY="112" EndPosX="198" EndPosY="102" Direction="-1" Quantity="5" Element="0" />		<!-- "Budge Dragon" -->		
+<!--		<Config Class="2" Range="5" BeginPosX="135" BeginPosY="20" EndPosX="240" EndPosY="88" Direction="-1" Quantity="20" Element="0" /> <!-- "Budge Dragon" -->
+<!--		<Config Class="0" Range="5" BeginPosX="135" BeginPosY="20" EndPosX="240" EndPosY="88" Direction="-1" Quantity="45" Element="0" /> <!-- "Bull Fighter" -->
+<!--		<Config Class="6" Range="5" BeginPosX="95" BeginPosY="168" EndPosX="175" EndPosY="244" Direction="-1" Quantity="20" Element="0" /> <!-- "Lich" -->
+<!--		<Config Class="14" Range="5" BeginPosX="95" BeginPosY="168" EndPosX="175" EndPosY="244" Direction="-1" Quantity="15" Element="0" /> <!-- "Skeleton" -->
+<!--		<Config Class="1" Range="5" BeginPosX="8" BeginPosY="11" EndPosX="94" EndPosY="244" Direction="-1" Quantity="45" Element="0" /> <!-- "Hound" -->
+<!--		<Config Class="4" Range="5" BeginPosX="8" BeginPosY="11" EndPosX="94" EndPosY="244" Direction="-1" Quantity="45" Element="0" /> <!-- "Elite Bull Fighter" -->
+<!--		<Config Class="7" Range="5" BeginPosX="8" BeginPosY="11" EndPosX="60" EndPosY="80" Direction="-1" Quantity="15" Element="0" /> <!-- "Giant" -->
+	</SPOT>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<MONSTER>
+	</MONSTER>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<EVENT>
+	</EVENT>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+</MonsterSetBase>

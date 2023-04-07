@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MonsterSetBase>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<NPC>
+		<Config Class="605" Range="5" PositionX="188" PositionY="54" Direction="-1" Element="0" /> <!-- "Mining Area (Small)		" -->
+		<Config Class="605" Range="5" PositionX="198" PositionY="64" Direction="-1" Element="0" /> <!-- "Mining Area (Small)" -->
+		<Config Class="605" Range="5" PositionX="206" PositionY="72" Direction="-1" Element="0" /> <!-- "Mining Area (Small)" -->
+		<Config Class="605" Range="5" PositionX="206" PositionY="55" Direction="-1" Element="0" /> <!-- "Mining Area (Small)" -->
+		<Config Class="605" Range="5" PositionX="186" PositionY="60" Direction="-1" Element="0" /> <!-- "Mining Area (Small)" -->
+		<Config Class="606" Range="5" PositionX="164" PositionY="58" Direction="-1" Element="0" /> <!-- "Mining Area (Medium)		" -->
+		<Config Class="606" Range="5" PositionX="197" PositionY="57" Direction="-1" Element="0" /> <!-- "Mining Area (Medium)		" -->
+		<Config Class="606" Range="5" PositionX="192" PositionY="73" Direction="-1" Element="0" /> <!-- "Mining Area (Medium)		" -->
+		<Config Class="606" Range="5" PositionX="203" PositionY="65" Direction="-1" Element="0" /> <!-- "Mining Area (Medium)		" -->
+		<Config Class="607" Range="5" PositionX="205" PositionY="59" Direction="-1" Element="0" /> <!-- "Mining Area (Large)		" -->
+		<Config Class="607" Range="5" PositionX="201" PositionY="70" Direction="-1" Element="0" /> <!-- "Mining Area (Large)		" -->
+		<Config Class="607" Range="5" PositionX="199" PositionY="56" Direction="-1" Element="0" /> <!-- "Mining Area (Large)" -->
+	</NPC>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<SPOT>
+<Config	Class="	62	"	Range="5"	BeginPosX="	144	"	BeginPosY="	35	"	EndPosX="	150	"	EndPosY="	41	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Mutant	a"	-->
+<Config	Class="	62	"	Range="5"	BeginPosX="	113	"	BeginPosY="	33	"	EndPosX="	119	"	EndPosY="	39	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Mutant	a"	-->
+<Config	Class="	62	"	Range="5"	BeginPosX="	131	"	BeginPosY="	70	"	EndPosX="	137	"	EndPosY="	76	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Mutant	a"	-->
+<Config	Class="	62	"	Range="5"	BeginPosX="	127	"	BeginPosY="	93	"	EndPosX="	133	"	EndPosY="	99	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Mutant	a"	-->
+<Config	Class="	62	"	Range="5"	BeginPosX="	152	"	BeginPosY="	99	"	EndPosX="	158	"	EndPosY="	105	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Mutant	a"	-->
+<Config	Class="	62	"	Range="5"	BeginPosX="	148	"	BeginPosY="	128	"	EndPosX="	154	"	EndPosY="	134	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Mutant	a"	-->
+<Config	Class="	62	"	Range="5"	BeginPosX="	149	"	BeginPosY="	150	"	EndPosX="	155	"	EndPosY="	156	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Mutant	a"	-->
+<Config	Class="	62	"	Range="5"	BeginPosX="	171	"	BeginPosY="	124	"	EndPosX="	177	"	EndPosY="	130	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Mutant	a"	-->
+<Config	Class="	62	"	Range="5"	BeginPosX="	193	"	BeginPosY="	107	"	EndPosX="	199	"	EndPosY="	113	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Mutant	a"	-->
+<Config	Class="	60	"	Range="5"	BeginPosX="	106	"	BeginPosY="	86	"	EndPosX="	112	"	EndPosY="	92	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Bloody Wolf	a"	-->
+<Config	Class="	60	"	Range="5"	BeginPosX="	97	"	BeginPosY="	59	"	EndPosX="	103	"	EndPosY="	65	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Bloody Wolf	a"	-->
+<Config	Class="	60	"	Range="5"	BeginPosX="	92	"	BeginPosY="	32	"	EndPosX="	98	"	EndPosY="	38	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Bloody Wolf	a"	-->
+<Config	Class="	60	"	Range="5"	BeginPosX="	67	"	BeginPosY="	59	"	EndPosX="	73	"	EndPosY="	65	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Bloody Wolf	a"	-->
+<Config	Class="	57	"	Range="5"	BeginPosX="	76	"	BeginPosY="	80	"	EndPosX="	82	"	EndPosY="	86	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Iron Wheel	a"	-->
+<Config	Class="	57	"	Range="5"	BeginPosX="	55	"	BeginPosY="	89	"	EndPosX="	61	"	EndPosY="	95	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Iron Wheel	a"	-->
+<Config	Class="	57	"	Range="5"	BeginPosX="	48	"	BeginPosY="	74	"	EndPosX="	54	"	EndPosY="	80	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Iron Wheel	a"	-->
+<Config	Class="	57	"	Range="5"	BeginPosX="	34	"	BeginPosY="	59	"	EndPosX="	40	"	EndPosY="	65	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Iron Wheel	a"	-->
+<Config	Class="	57	"	Range="5"	BeginPosX="	16	"	BeginPosY="	89	"	EndPosX="	26	"	EndPosY="	99	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Iron Wheel	a"	-->
+<Config	Class="	57	"	Range="5"	BeginPosX="	19	"	BeginPosY="	128	"	EndPosX="	25	"	EndPosY="	134	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Iron Wheel	a"	-->
+<Config	Class="	57	"	Range="5"	BeginPosX="	47	"	BeginPosY="	119	"	EndPosX="	53	"	EndPosY="	125	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Iron Wheel	a"	-->
+<Config	Class="	58	"	Range="5"	BeginPosX="	77	"	BeginPosY="	121	"	EndPosX="	83	"	EndPosY="	127	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Tantalos	a"	-->
+<Config	Class="	58	"	Range="5"	BeginPosX="	102	"	BeginPosY="	121	"	EndPosX="	108	"	EndPosY="	127	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Tantalos	a"	-->
+<Config	Class="	58	"	Range="5"	BeginPosX="	123	"	BeginPosY="	143	"	EndPosX="	129	"	EndPosY="	149	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Tantalos	a"	-->
+<Config	Class="	58	"	Range="5"	BeginPosX="	76	"	BeginPosY="	151	"	EndPosX="	82	"	EndPosY="	157	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Tantalos	a"	-->
+<Config	Class="	58	"	Range="5"	BeginPosX="	47	"	BeginPosY="	154	"	EndPosX="	53	"	EndPosY="	160	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Tantalos	a"	-->
+<Config	Class="	58	"	Range="5"	BeginPosX="	33	"	BeginPosY="	169	"	EndPosX="	39	"	EndPosY="	175	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Tantalos	a"	-->
+<Config	Class="	58	"	Range="5"	BeginPosX="	71	"	BeginPosY="	174	"	EndPosX="	77	"	EndPosY="	180	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Tantalos	a"	-->
+<Config	Class="	58	"	Range="5"	BeginPosX="	113	"	BeginPosY="	184	"	EndPosX="	119	"	EndPosY="	190	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Tantalos	a"	-->
+<Config	Class="	58	"	Range="5"	BeginPosX="	108	"	BeginPosY="	211	"	EndPosX="	114	"	EndPosY="	217	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Tantalos	a"	-->
+<Config	Class="	61	"	Range="5"	BeginPosX="	76	"	BeginPosY="	202	"	EndPosX="	82	"	EndPosY="	208	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Beam Knight	a"	-->
+<Config	Class="	61	"	Range="5"	BeginPosX="	27	"	BeginPosY="	209	"	EndPosX="	33	"	EndPosY="	215	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Beam Knight	a"	-->
+<Config	Class="	61	"	Range="5"	BeginPosX="	3	"	BeginPosY="	216	"	EndPosX="	9	"	EndPosY="	222	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Beam Knight	a"	-->
+<Config	Class="	61	"	Range="5"	BeginPosX="	6	"	BeginPosY="	239	"	EndPosX="	12	"	EndPosY="	245	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Beam Knight	a"	-->
+<Config	Class="	61	"	Range="5"	BeginPosX="	42	"	BeginPosY="	243	"	EndPosX="	48	"	EndPosY="	249	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Beam Knight	a"	-->
+<Config	Class="	61	"	Range="5"	BeginPosX="	25	"	BeginPosY="	229	"	EndPosX="	31	"	EndPosY="	235	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Beam Knight	a"	-->
+<Config	Class="	63	"	Range="5"	BeginPosX="	157	"	BeginPosY="	186	"	EndPosX="	163	"	EndPosY="	192	"	Direction="-1" Quantity="1" Element="0"/>	<!--	"	Death Beam Knight	a"	-->
+<Config	Class="	63	"	Range="5"	BeginPosX="	174	"	BeginPosY="	208	"	EndPosX="	180	"	EndPosY="	214	"	Direction="-1" Quantity="1" Element="0"/>	<!--	"	Death Beam Knight	a"	-->
+<Config	Class="	63	"	Range="5"	BeginPosX="	152	"	BeginPosY="	210	"	EndPosX="	158	"	EndPosY="	216	"	Direction="-1" Quantity="1" Element="0"/>	<!--	"	Death Beam Knight	a"	-->
+
+	</SPOT>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<MONSTER>
+	</MONSTER>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<EVENT>
+	</EVENT>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+</MonsterSetBase>

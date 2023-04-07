@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MonsterSetBase>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<NPC>
+		<Config Class="256" Range="0" PositionX="37" PositionY="241" Direction="1" Element="0" /> <!-- "Lahap" -->
+		<Config Class="415" Range="0" PositionX="44" PositionY="229" Direction="1" Element="0" /> <!-- "Silvia" -->
+		<Config Class="416" Range="0" PositionX="29" PositionY="236" Direction="2" Element="0" /> <!-- "Rhea" -->
+		<Config Class="417" Range="0" PositionX="36" PositionY="219" Direction="2" Element="0" /> <!-- "Marce" -->
+		<Config Class="257" Range="0" PositionX="43" PositionY="191" Direction="3" Element="0" /> <!-- "Shadow Phantom Soldier" -->
+		<Config Class="257" Range="0" PositionX="57" PositionY="232" Direction="3" Element="0" /> <!-- "Shadow Phantom Soldier" -->
+		<Config Class="257" Range="0" PositionX="73" PositionY="220" Direction="1" Element="0" /> <!-- "Shadow Phantom Soldier" -->
+		<Config Class="240" Range="0" PositionX="50" PositionY="229" Direction="1" Element="0" /> <!-- "Safety Guardian" -->
+		<Config Class="385" Range="0" PositionX="55" PositionY="243" Direction="1" Element="0" /> <!-- "Mirage" -->
+		<Config Class="568" Range="0" PositionX="55" PositionY="199" Direction="1" Element="0" /> <!-- "Wandering Merchant Zyro" -->
+		<Config Class="452" Range="0" PositionX="46" PositionY="243" Direction="1" Element="0" /> <!-- "Seed Master" -->
+		<Config Class="540" Range="0" PositionX="49" PositionY="216" Direction="2" Element="0" /> <!-- "Lugard" -->
+		<Config Class="579" Range="0" PositionX="20" PositionY="214" Direction="3" Element="0" /> <!-- "David" -->
+		<Config Class="682" Range="0" PositionX="24" PositionY="229" Direction="2" Element="0" /> <!-- "Monica" -->
+		<Config Class="725" Range="0" PositionX="32" PositionY="239" Direction="1" Element="0" /> <!-- "Priest James" -->
+	</NPC>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<SPOT>
+<Config	Class="	3	"	Range="5"	BeginPosX="	51	"	BeginPosY="	155	"	EndPosX="	57	"	EndPosY="	161	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Spider	a"	-->
+<Config	Class="	3	"	Range="5"	BeginPosX="	44	"	BeginPosY="	139	"	EndPosX="	50	"	EndPosY="	145	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Spider	a"	-->
+<Config	Class="	418	"	Range="5"	BeginPosX="	27	"	BeginPosY="	133	"	EndPosX="	33	"	EndPosY="	139	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Strange Rabbit	a"	-->
+<Config	Class="	418	"	Range="5"	BeginPosX="	25	"	BeginPosY="	151	"	EndPosX="	31	"	EndPosY="	157	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Strange Rabbit	a"	-->
+<Config	Class="	421	"	Range="5"	BeginPosX="	65	"	BeginPosY="	166	"	EndPosX="	71	"	EndPosY="	172	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Polluted Butterfly	a"	-->
+<Config	Class="	421	"	Range="5"	BeginPosX="	70	"	BeginPosY="	146	"	EndPosX="	76	"	EndPosY="	152	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Polluted Butterfly	a"	-->
+<Config	Class="	418	"	Range="5"	BeginPosX="	96	"	BeginPosY="	185	"	EndPosX="	102	"	EndPosY="	191	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Strange Rabbit	a"	-->
+<Config	Class="	418	"	Range="5"	BeginPosX="	118	"	BeginPosY="	187	"	EndPosX="	124	"	EndPosY="	193	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Strange Rabbit	a"	-->
+<Config	Class="	3	"	Range="5"	BeginPosX="	104	"	BeginPosY="	203	"	EndPosX="	110	"	EndPosY="	209	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Spider	a"	-->
+<Config	Class="	3	"	Range="5"	BeginPosX="	109	"	BeginPosY="	217	"	EndPosX="	115	"	EndPosY="	223	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Spider	a"	-->
+<Config	Class="	418	"	Range="5"	BeginPosX="	125	"	BeginPosY="	226	"	EndPosX="	131	"	EndPosY="	232	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Strange Rabbit	a"	-->
+<Config	Class="	421	"	Range="5"	BeginPosX="	131	"	BeginPosY="	200	"	EndPosX="	137	"	EndPosY="	206	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Polluted Butterfly	a"	-->
+<Config	Class="	419	"	Range="5"	BeginPosX="	109	"	BeginPosY="	158	"	EndPosX="	115	"	EndPosY="	164	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Hideous Rabbit	a"	-->
+<Config	Class="	419	"	Range="5"	BeginPosX="	136	"	BeginPosY="	141	"	EndPosX="	142	"	EndPosY="	147	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Hideous Rabbit	a"	-->
+<Config	Class="	419	"	Range="5"	BeginPosX="	150	"	BeginPosY="	120	"	EndPosX="	156	"	EndPosY="	126	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Hideous Rabbit	a"	-->
+<Config	Class="	419	"	Range="5"	BeginPosX="	133	"	BeginPosY="	91	"	EndPosX="	139	"	EndPosY="	97	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Hideous Rabbit	a"	-->
+<Config	Class="	419	"	Range="5"	BeginPosX="	112	"	BeginPosY="	106	"	EndPosX="	118	"	EndPosY="	112	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Hideous Rabbit	a"	-->
+<Config	Class="	419	"	Range="5"	BeginPosX="	91	"	BeginPosY="	130	"	EndPosX="	101	"	EndPosY="	140	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Hideous Rabbit	a"	-->
+<Config	Class="	420	"	Range="5"	BeginPosX="	81	"	BeginPosY="	62	"	EndPosX="	87	"	EndPosY="	68	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Werewolf	a"	-->
+<Config	Class="	420	"	Range="5"	BeginPosX="	55	"	BeginPosY="	61	"	EndPosX="	61	"	EndPosY="	67	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Werewolf	a"	-->
+<Config	Class="	420	"	Range="5"	BeginPosX="	69	"	BeginPosY="	78	"	EndPosX="	75	"	EndPosY="	84	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Werewolf	a"	-->
+<Config	Class="	420	"	Range="5"	BeginPosX="	44	"	BeginPosY="	79	"	EndPosX="	50	"	EndPosY="	85	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Werewolf	a"	-->
+<Config	Class="	422	"	Range="5"	BeginPosX="	116	"	BeginPosY="	45	"	EndPosX="	122	"	EndPosY="	51	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Cursed Lich	a"	-->
+<Config	Class="	422	"	Range="5"	BeginPosX="	126	"	BeginPosY="	24	"	EndPosX="	132	"	EndPosY="	30	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Cursed Lich	a"	-->
+<Config	Class="	422	"	Range="5"	BeginPosX="	100	"	BeginPosY="	25	"	EndPosX="	106	"	EndPosY="	31	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Cursed Lich	a"	-->
+<Config	Class="	422	"	Range="5"	BeginPosX="	77	"	BeginPosY="	14	"	EndPosX="	83	"	EndPosY="	20	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Cursed Lich	a"	-->
+<Config	Class="	423	"	Range="5"	BeginPosX="	173	"	BeginPosY="	174	"	EndPosX="	179	"	EndPosY="	180	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Totem Golem	a"	-->
+<Config	Class="	423	"	Range="5"	BeginPosX="	199	"	BeginPosY="	186	"	EndPosX="	205	"	EndPosY="	192	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Totem Golem	a"	-->
+<Config	Class="	423	"	Range="5"	BeginPosX="	193	"	BeginPosY="	166	"	EndPosX="	199	"	EndPosY="	172	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Totem Golem	a"	-->
+<Config	Class="	423	"	Range="5"	BeginPosX="	214	"	BeginPosY="	141	"	EndPosX="	220	"	EndPosY="	147	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Totem Golem	a"	-->
+<Config	Class="	423	"	Range="5"	BeginPosX="	204	"	BeginPosY="	124	"	EndPosX="	210	"	EndPosY="	130	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Totem Golem	a"	-->
+<Config	Class="	423	"	Range="5"	BeginPosX="	219	"	BeginPosY="	109	"	EndPosX="	225	"	EndPosY="	115	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Totem Golem	a"	-->
+<Config	Class="	424	"	Range="5"	BeginPosX="	183	"	BeginPosY="	89	"	EndPosX="	189	"	EndPosY="	95	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Grizzly	a"	-->
+<Config	Class="	424	"	Range="5"	BeginPosX="	169	"	BeginPosY="	75	"	EndPosX="	175	"	EndPosY="	81	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Grizzly	a"	-->
+<Config	Class="	424	"	Range="5"	BeginPosX="	153	"	BeginPosY="	60	"	EndPosX="	159	"	EndPosY="	66	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Grizzly	a"	-->
+<Config	Class="	425	"	Range="5"	BeginPosX="	166	"	BeginPosY="	27	"	EndPosX="	172	"	EndPosY="	33	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Captain Grizzly	a"	-->
+<Config	Class="	425	"	Range="5"	BeginPosX="	202	"	BeginPosY="	16	"	EndPosX="	208	"	EndPosY="	22	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Captain Grizzly	a"	-->
+<Config	Class="	425	"	Range="5"	BeginPosX="	199	"	BeginPosY="	45	"	EndPosX="	205	"	EndPosY="	51	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Captain Grizzly	a"	-->
+<Config	Class="	425	"	Range="5"	BeginPosX="	220	"	BeginPosY="	49	"	EndPosX="	226	"	EndPosY="	55	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Captain Grizzly	a"	-->
+
+	</SPOT>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<MONSTER>
+	</MONSTER>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<EVENT>
+	</EVENT>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+</MonsterSetBase>

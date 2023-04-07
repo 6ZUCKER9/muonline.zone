@@ -1,0 +1,66 @@
+//Index   Name                    RequireMoney   MinLevel   MaxLevel   MinReset   MaxReset   AccountLevel   Gate   DifficultyOrder   AlphabetOrder   MonsterClassification
+1	"Arena"	20000	400	*	*	*	0	50	41	4	*
+2	"Lorencia"	0	1	*	*	*	0	17	3	42	7
+3	"Noria"	0	1	*	*	*	0	27	4	53	32
+4	"Devias"	500	10	*	*	*	0	22	7	20	24
+5	"Devias2"	500	10	*	*	*	0	72	8	21	19
+6	"Devias3"	500	10	*	*	*	0	73	9	22	20
+7	"Devias4"	500	10	*	*	*	0	74	10	23	20
+8	"Dungeon"	1000	20	*	*	*	0	2	11	24	11
+9	"Dungeon2"	1500	30	*	*	*	0	6	12	25	13
+10	"Dungeon3"	2000	40	*	*	*	0	10	14	26	8
+11	"Atlans"	2000	40	*	*	*	0	49	15	7	45
+12	"Atlans2"	4000	80	*	*	*	0	75	22	11	52
+13	"Atlans3"	5000	100	*	*	*	0	76	24	12	48
+14	"LostTower"	2500	50	*	*	*	0	42	16	45	39
+15	"LostTower2"	2750	55	*	*	*	0	31	17	46	34
+16	"LostTower3"	3000	60	*	*	*	0	33	18	47	41
+17	"LostTower4"	3250	65	*	*	*	0	35	19	48	37
+18	"LostTower5"	3500	70	*	*	*	0	37	20	49	40
+19	"LostTower6"	3750	75	*	*	*	0	39	21	50	35
+20	"LostTower7"	4000	80	*	*	*	0	41	23	51	35
+21	"Tarkan"	7000	140	*	*	*	0	57	25	59	57
+22	"Tarkan2"	8000	160	*	*	*	0	77	27	60	61
+23	"Icarus"	8000	160	*	*	*	0	63	28	32	70
+24	"LorenDeep"	12500	250	*	*	*	0	104	32	43	*
+25	"Aida1"	7500	150	*	*	*	0	119	26	2	306
+27	"Aida2"	15000	300	*	*	*	0	140	33	3	550
+28	"KanturuRuins1"	8000	160	*	*	*	0	138	29	36	356
+29	"KanturuRuins2"	10000	200	*	*	*	0	141	30	37	350
+30	"KanturuRelics"	15000	300	*	*	*	0	139	34	35	360
+31	"Elbeland"	0	1	*	*	*	0	267	5	27	418
+32	"Elbeland2"	500	10	*	*	*	0	268	6	28	422
+33	"Swamp of Calmness"	20000	400	*	*	*	0	273	40	57	449
+34	"Raklion"	15000	300	*	*	*	0	287	36	55	458
+42	"Vulcanus"	15000	300	*	*	*	0	294	38	61	490
+43	"Elbeland3"	2000	40	*	*	*	0	269	13	29	425
+44	"LorenMarket"	0	1	*	*	*	0	333	2	44	*
+45	"KanturuRuins3"	15000	300	*	*	*	0	334	39	38	556
+46	"Karutan1"	10000	200	*	*	*	0	335	31	39	574
+47	"Karutan2"	15000	300	*	*	*	0	344	35	40	576
+48	"EventSquare"	0	1	*	*	*	0	503	1	30	*
+49	"Acheron"	15000	300	*	*	*	0	417	37	1	591
+50	"Ferea"	20000	400	*	*	*	0	509	42	31	730
+51	"Nixies Lake"	25000	500	*	*	*	0	522	43	52	744
+52	"Deep Dungeon 1"	25000	500	*	*	*	0	561	44	15	767
+53	"Deep Dungeon 2"	30000	600	*	*	*	0	562	46	16	772
+54	"Deep Dungeon 3"	35000	700	*	*	*	0	563	47	17	773
+55	"Deep Dungeon 4"	40000	800	*	*	*	0	564	49	18	769
+56	"Deep Dungeon 5"	45000	900	*	*	*	0	565	51	19	777
+57	"Swamp of Darkness"	35000	700	*	*	*	0	567	48	58	778
+58	"Kubera Mine"	40000	800	*	*	*	0	591	50	41	810
+59	"Atlans Abyss 1"	50000	1000	*	*	*	0	617	53	8	832
+60	"Atlans Abyss 2"	55000	1100	*	*	*	0	618	56	9	834
+61	"Atlans Abyss 3"	60000	1200	*	*	*	0	619	59	10	836
+62	"Scorched Canyon"	45000	900	*	*	*	0	620	52	56	846
+63	"Crimson Icarus"	50000	1000	*	*	*	0	631	54	14	861
+64	"Arenil Temple"	52500	1050	*	*	*	0	634	55	5	867
+65	"Ashen Aida"	55000	1100	*	*	*	0	643	57	6	875
+66	"old Kethotum"	30000	600	*	*	*	0	648	45	54	893
+67	"Blaze Kethotum"	57500	1150	*	*	*	0	659	58	13	896
+68	"Kanturu Under Area"	60000	1200	*	*	*	0	670	60	34	905
+69	"Ignis Volcano"	62500	1250	*	*	*	0	675	61	33	911
+
+
+
+end

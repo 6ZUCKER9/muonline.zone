@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MonsterSetBase>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<NPC>
+		<Config Class="259" Range="0" PositionX="7" PositionY="19" Direction="2" Element="0" /> <!-- "Oracle Layla" -->
+	</NPC>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<SPOT>
+			<!--Blood Soldier2-->
+			<Config Class="176" Range="5" BeginPosX="116" BeginPosY="34" EndPosX="122" EndPosY="40" Direction="-1" Quantity="5" />
+			<!--Blood Soldier2-->
+			<Config Class="176" Range="5" BeginPosX="105" BeginPosY="62" EndPosX="112" EndPosY="67" Direction="-1" Quantity="5" />
+			<!--Aegis2-->
+			<Config Class="177" Range="5" BeginPosX="33" BeginPosY="15" EndPosX="39" EndPosY="20" Direction="-1" Quantity="5" />
+			<!--Aegis2-->
+			<Config Class="177" Range="5" BeginPosX="55" BeginPosY="20" EndPosX="61" EndPosY="26" Direction="-1" Quantity="5" />
+			<!--Rogue Centurion2-->
+			<Config Class="178" Range="5" BeginPosX="79" BeginPosY="8" EndPosX="86" EndPosY="14" Direction="-1" Quantity="5" />
+			<!--Rogue Centurion2-->
+			<Config Class="178" Range="5" BeginPosX="102" BeginPosY="19" EndPosX="107" EndPosY="25" Direction="-1" Quantity="5" />
+			<!--Necron2-->
+			<Config Class="179" Range="5" BeginPosX="96" BeginPosY="100" EndPosX="101" EndPosY="106" Direction="-1" Quantity="5" />
+			<!--Necron2-->
+			<Config Class="179" Range="5" BeginPosX="115" BeginPosY="83" EndPosX="121" EndPosY="90" Direction="-1" Quantity="5" />
+			<!--Schriker2-->
+			<Config Class="180" Range="5" BeginPosX="46" BeginPosY="93" EndPosX="52" EndPosY="101" Direction="-1" Quantity="5" />
+	</SPOT>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<MONSTER>
+			<!--Death Angel2-->
+			<Config Class="174" Range="30" BeginPosX="120" BeginPosY="50" Direction="-1" />
+			<!--Death Angel2-->
+			<Config Class="174" Range="30" BeginPosX="105" BeginPosY="54" Direction="-1" />
+			<!--Death Angel2-->
+			<Config Class="174" Range="30" BeginPosX="119" BeginPosY="57" Direction="-1" />
+			<!--Death Angel2-->
+			<Config Class="174" Range="30" BeginPosX="110" BeginPosY="65" Direction="-1" />
+			<!--Death Angel2-->
+			<Config Class="174" Range="30" BeginPosX="121" BeginPosY="67" Direction="-1" />
+			<!--Death Angel2-->
+			<Config Class="174" Range="30" BeginPosX="111" BeginPosY="72" Direction="-1" />
+			<!--Death Angel2-->
+			<Config Class="174" Range="30" BeginPosX="105" BeginPosY="86" Direction="-1" />
+			<!--Death Angel2-->
+			<Config Class="174" Range="30" BeginPosX="118" BeginPosY="95" Direction="-1" />
+			<!--Death Angel2-->
+			<Config Class="174" Range="30" BeginPosX="120" BeginPosY="75" Direction="-1" />
+			<!--Death Centurion2-->
+			<Config Class="175" Range="30" BeginPosX="87" BeginPosY="90" Direction="-1" />
+			<!--Death Centurion2-->
+			<Config Class="175" Range="30" BeginPosX="68" BeginPosY="77" Direction="-1" />
+			<!--Death Centurion2-->
+			<Config Class="175" Range="30" BeginPosX="63" BeginPosY="72" Direction="-1" />
+			<!--Death Centurion2-->
+			<Config Class="175" Range="30" BeginPosX="58" BeginPosY="78" Direction="-1" />
+			<!--Death Centurion2-->
+			<Config Class="175" Range="30" BeginPosX="57" BeginPosY="71" Direction="-1" />
+			<!--Blood Soldier2-->
+			<Config Class="176" Range="30" BeginPosX="110" BeginPosY="9" Direction="-1" />
+			<!--Blood Soldier2-->
+			<Config Class="176" Range="30" BeginPosX="118" BeginPosY="17" Direction="-1" />
+			<!--Blood Soldier2-->
+			<Config Class="176" Range="30" BeginPosX="110" BeginPosY="35" Direction="-1" />
+			<!--Blood Soldier2-->
+			<Config Class="176" Range="30" BeginPosX="121" BeginPosY="27" Direction="-1" />
+			<!--Blood Soldier2-->
+			<Config Class="176" Range="30" BeginPosX="119" BeginPosY="35" Direction="-1" />
+			<!--Blood Soldier2-->
+			<Config Class="176" Range="30" BeginPosX="114" BeginPosY="44" Direction="-1" />
+			<!--Blood Soldier2-->
+			<Config Class="176" Range="30" BeginPosX="108" BeginPosY="28" Direction="-1" />
+			<!--Aegis2-->
+			<Config Class="177" Range="30" BeginPosX="30" BeginPosY="75" Direction="-1" />
+			<!--Aegis2-->
+			<Config Class="177" Range="30" BeginPosX="35" BeginPosY="21" Direction="-1" />
+			<!--Aegis2-->
+			<Config Class="177" Range="30" BeginPosX="28" BeginPosY="17" Direction="-1" />
+			<!--Aegis2-->
+			<Config Class="177" Range="30" BeginPosX="36" BeginPosY="11" Direction="-1" />
+			<!--Aegis2-->
+			<Config Class="177" Range="30" BeginPosX="51" BeginPosY="11" Direction="-1" />
+			<!--Aegis2-->
+			<Config Class="177" Range="30" BeginPosX="42" BeginPosY="12" Direction="-1" />
+			<!--Aegis2-->
+			<Config Class="177" Range="30" BeginPosX="45" BeginPosY="22" Direction="-1" />
+			<!--Aegis2-->
+			<Config Class="177" Range="30" BeginPosX="52" BeginPosY="24" Direction="-1" />
+			<!--Aegis2-->
+			<Config Class="177" Range="30" BeginPosX="53" BeginPosY="17" Direction="-1" />
+			<!--Aegis2-->
+			<Config Class="177" Range="30" BeginPosX="60" BeginPosY="9" Direction="-1" />
+			<!--Aegis2-->
+			<Config Class="177" Range="30" BeginPosX="60" BeginPosY="22" Direction="-1" />
+			<!--Rogue Centurion2-->
+			<Config Class="178" Range="30" BeginPosX="67" BeginPosY="22" Direction="-1" />
+			<!--Rogue Centurion2-->
+			<Config Class="178" Range="30" BeginPosX="69" BeginPosY="9" Direction="-1" />
+			<!--Rogue Centurion2-->
+			<Config Class="178" Range="30" BeginPosX="74" BeginPosY="14" Direction="-1" />
+			<!--Rogue Centurion2-->
+			<Config Class="178" Range="30" BeginPosX="82" BeginPosY="8" Direction="-1" />
+			<!--Rogue Centurion2-->
+			<Config Class="178" Range="30" BeginPosX="81" BeginPosY="19" Direction="-1" />
+			<!--Rogue Centurion2-->
+			<Config Class="178" Range="30" BeginPosX="86" BeginPosY="13" Direction="-1" />
+			<!--Rogue Centurion2-->
+			<Config Class="178" Range="30" BeginPosX="92" BeginPosY="6" Direction="-1" />
+			<!--Rogue Centurion2-->
+			<Config Class="178" Range="30" BeginPosX="96" BeginPosY="16" Direction="-1" />
+			<!--Rogue Centurion2-->
+			<Config Class="178" Range="30" BeginPosX="99" BeginPosY="9" Direction="-1" />
+			<!--Rogue Centurion2-->
+			<Config Class="178" Range="30" BeginPosX="109" BeginPosY="19" Direction="-1" />
+			<!--Necron2-->
+			<Config Class="179" Range="30" BeginPosX="118" BeginPosY="84" Direction="-1" />
+			<!--Necron2-->
+			<Config Class="179" Range="30" BeginPosX="104" BeginPosY="101" Direction="-1" />
+			<!--Necron2-->
+			<Config Class="179" Range="30" BeginPosX="115" BeginPosY="106" Direction="-1" />
+			<!--Necron2-->
+			<Config Class="179" Range="30" BeginPosX="93" BeginPosY="96" Direction="-1" />
+			<!--Necron2-->
+			<Config Class="179" Range="30" BeginPosX="93" BeginPosY="84" Direction="-1" />
+			<!--Necron2-->
+			<Config Class="179" Range="30" BeginPosX="82" BeginPosY="85" Direction="-1" />
+			<!--Necron2-->
+			<Config Class="179" Range="30" BeginPosX="82" BeginPosY="77" Direction="-1" />
+			<!--Necron2-->
+			<Config Class="179" Range="30" BeginPosX="74" BeginPosY="76" Direction="-1" />
+			<!--Schriker2-->
+			<Config Class="180" Range="30" BeginPosX="32" BeginPosY="50" Direction="-1" />
+			<!--Schriker2-->
+			<Config Class="180" Range="30" BeginPosX="42" BeginPosY="51" Direction="-1" />
+			<!--Schriker2-->
+			<Config Class="180" Range="30" BeginPosX="38" BeginPosY="58" Direction="-1" />
+			<!--Schriker2-->
+			<Config Class="180" Range="30" BeginPosX="29" BeginPosY="65" Direction="-1" />
+			<!--Schriker2-->
+			<Config Class="180" Range="30" BeginPosX="46" BeginPosY="66" Direction="-1" />
+			<!--Schriker2-->
+			<Config Class="180" Range="30" BeginPosX="42" BeginPosY="97" Direction="-1" />
+			<!--Schriker2-->
+			<Config Class="180" Range="30" BeginPosX="37" BeginPosY="109" Direction="-1" />
+			<!--Schriker2-->
+			<Config Class="180" Range="30" BeginPosX="47" BeginPosY="107" Direction="-1" />
+			<!--Schriker2-->
+			<Config Class="180" Range="30" BeginPosX="53" BeginPosY="93" Direction="-1" />
+			<!--Schriker2-->
+			<Config Class="180" Range="30" BeginPosX="35" BeginPosY="87" Direction="-1" />
+			<!--Illusion of Kundun2-->
+			<Config Class="181" Range="30" BeginPosX="26" BeginPosY="76" Direction="-1" />
+	</MONSTER>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<EVENT>
+	</EVENT>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+</MonsterSetBase>

@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MonsterSetBase>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<NPC>
+	</NPC>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<SPOT>
+			<!--Deep Dungeon Skeleton Warrior-->
+			<Config Class="767" Range="5" BeginPosX="166" BeginPosY="173" EndPosX="176" EndPosY="181" Direction="8" Quantity="5" Element="4" />
+			<!--Deep Dungeon Skeleton Warrior-->
+			<Config Class="767" Range="5" BeginPosX="105" BeginPosY="241" EndPosX="114" EndPosY="250" Direction="-1" Quantity="5" Element="3" />
+			<!--Deep Dungeon Skeleton Warrior-->
+			<Config Class="767" Range="5" BeginPosX="94" BeginPosY="166" EndPosX="102" EndPosY="175" Direction="8" Quantity="5" Element="2" />
+			<!--Deep Dungeon Skeleton Warrior-->
+			<Config Class="767" Range="5" BeginPosX="147" BeginPosY="163" EndPosX="158" EndPosY="173" Direction="-1" Quantity="5" Element="3" />
+			<!--Deep Dungeon Skeleton Warrior-->
+			<Config Class="767" Range="5" BeginPosX="148" BeginPosY="176" EndPosX="154" EndPosY="182" Direction="-1" Quantity="5" Element="3" />
+			<!--Deep Dungeon Skeleton Warrior-->
+			<Config Class="767" Range="5" BeginPosX="109" BeginPosY="151" EndPosX="115" EndPosY="160" Direction="2" Quantity="5" Element="2" />
+			<!--Deep Dungeon Skeleton Warrior-->
+			<Config Class="767" Range="5" BeginPosX="209" BeginPosY="209" EndPosX="219" EndPosY="219" Direction="-1" Quantity="6" Element="4" />
+			<!--Deep Dungeon Skeleton Warrior-->
+			<Config Class="767" Range="5" BeginPosX="15" BeginPosY="211" EndPosX="26" EndPosY="219" Direction="2" Quantity="5" Element="2" />
+			<!--Deep Dungeon Skeleton Warrior-->
+			<Config Class="767" Range="5" BeginPosX="230" BeginPosY="196" EndPosX="242" EndPosY="205" Direction="6" Quantity="6" Element="4" />
+			<!--Deep Dungeon Skeleton Warrior-->
+			<Config Class="767" Range="5" BeginPosX="157" BeginPosY="127" EndPosX="167" EndPosY="135" Direction="-1" Quantity="5" Element="5" />
+			<!--Deep Dungeon Skeleton Warrior-->
+			<Config Class="767" Range="5" BeginPosX="15" BeginPosY="224" EndPosX="26" EndPosY="238" Direction="8" Quantity="6" Element="2" />
+			<!--Deep Dungeon Skeleton Warrior-->
+			<Config Class="767" Range="5" BeginPosX="136" BeginPosY="240" EndPosX="144" EndPosY="249" Direction="-1" Quantity="5" Element="3" />
+			<!--Deep Dungeon Skeleton Warrior-->
+			<Config Class="767" Range="5" BeginPosX="181" BeginPosY="234" EndPosX="192" EndPosY="243" Direction="8" Quantity="5" Element="4" />
+			<!--Deep Dungeon Skeleton Warrior-->
+			<Config Class="767" Range="5" BeginPosX="180" BeginPosY="125" EndPosX="192" EndPosY="134" Direction="-1" Quantity="6" Element="5" />
+			<!--Deep Dungeon Skeleton Warrior-->
+			<Config Class="767" Range="3" BeginPosX="5" BeginPosY="183" EndPosX="15" EndPosY="189" Direction="2" Quantity="5" Element="1" />
+			<!--Deep Dungeon Skeleton Warrior-->
+			<Config Class="767" Range="5" BeginPosX="76" BeginPosY="216" EndPosX="85" EndPosY="224" Direction="8" Quantity="5" Element="2" />
+			<!--Deep Dungeon Skeleton Warrior-->
+			<Config Class="767" Range="5" BeginPosX="144" BeginPosY="223" EndPosX="151" EndPosY="231" Direction="-1" Quantity="5" Element="3" />
+			<!--Deep Dungeon Skeleton Warrior-->
+			<Config Class="767" Range="5" BeginPosX="30" BeginPosY="232" EndPosX="38" EndPosY="245" Direction="1" Quantity="5" Element="2" />
+			<!--Deep Dungeon Skeleton Warrior-->
+			<Config Class="767" Range="5" BeginPosX="235" BeginPosY="222" EndPosX="245" EndPosY="232" Direction="-1" Quantity="5" Element="4" />
+			<!--Deep Dungeon Skeleton Warrior-->
+			<Config Class="767" Range="5" BeginPosX="227" BeginPosY="160" EndPosX="246" EndPosY="172" Direction="-1" Quantity="7" Element="5" />
+			<!--Deep Dungeon Skeleton Warrior-->
+			<Config Class="767" Range="5" BeginPosX="187" BeginPosY="171" EndPosX="193" EndPosY="183" Direction="8" Quantity="5" Element="4" />
+			<!--Deep Dungeon Skeleton Warrior-->
+			<Config Class="767" Range="5" BeginPosX="62" BeginPosY="236" EndPosX="76" EndPosY="244" Direction="8" Quantity="5" Element="2" />
+			<!--Deep Dungeon Skeleton Warrior-->
+			<Config Class="767" Range="5" BeginPosX="113" BeginPosY="216" EndPosX="121" EndPosY="224" Direction="-1" Quantity="5" Element="3" />
+			<!--Deep Dungeon Skeleton Warrior-->
+			<Config Class="767" Range="5" BeginPosX="42" BeginPosY="183" EndPosX="48" EndPosY="189" Direction="-1" Quantity="4" Element="5" />
+			<!--Deep Dungeon Cyclops-->
+			<Config Class="771" Range="5" BeginPosX="88" BeginPosY="235" EndPosX="103" EndPosY="248" Direction="-1" Quantity="6" Element="3" />
+			<!--Deep Dungeon Cyclops-->
+			<Config Class="771" Range="5" BeginPosX="161" BeginPosY="191" EndPosX="169" EndPosY="201" Direction="-1" Quantity="5" Element="3" />
+			<!--Deep Dungeon Cyclops-->
+			<Config Class="771" Range="5" BeginPosX="207" BeginPosY="227" EndPosX="218" EndPosY="239" Direction="8" Quantity="5" Element="4" />
+			<!--Deep Dungeon Cyclops-->
+			<Config Class="771" Range="3" BeginPosX="57" BeginPosY="144" EndPosX="65" EndPosY="153" Direction="-1" Quantity="5" Element="1" />
+			<!--Deep Dungeon Cyclops-->
+			<Config Class="771" Range="3" BeginPosX="84" BeginPosY="146" EndPosX="91" EndPosY="154" Direction="-1" Quantity="5" Element="1" />
+			<!--Deep Dungeon Cyclops-->
+			<Config Class="771" Range="5" BeginPosX="229" BeginPosY="175" EndPosX="245" EndPosY="185" Direction="-1" Quantity="6" Element="5" />
+			<!--Deep Dungeon Cyclops-->
+			<Config Class="771" Range="5" BeginPosX="94" BeginPosY="128" EndPosX="103" EndPosY="133" Direction="-1" Quantity="5" Element="2" />
+			<!--Deep Dungeon Cyclops-->
+			<Config Class="771" Range="5" BeginPosX="121" BeginPosY="185" EndPosX="127" EndPosY="194" Direction="-1" Quantity="5" Element="3" />
+			<!--Deep Dungeon Cyclops-->
+			<Config Class="771" Range="5" BeginPosX="225" BeginPosY="138" EndPosX="235" EndPosY="146" Direction="-1" Quantity="6" Element="5" />
+			<!--Deep Dungeon Cyclops-->
+			<Config Class="771" Range="5" BeginPosX="203" BeginPosY="124" EndPosX="214" EndPosY="134" Direction="-1" Quantity="6" Element="5" />
+			<!--Deep Dungeon Cyclops-->
+			<Config Class="771" Range="5" BeginPosX="233" BeginPosY="209" EndPosX="247" EndPosY="217" Direction="6" Quantity="6" Element="4" />
+			<!--Deep Dungeon Cyclops-->
+			<Config Class="771" Range="3" BeginPosX="160" BeginPosY="238" EndPosX="167" EndPosY="244" Direction="-1" Quantity="5" Element="1" />
+	</SPOT>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<MONSTER>
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="3" BeginPosX="99" BeginPosY="130" Direction="-1" Element="1" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="5" BeginPosX="187" BeginPosY="156" Direction="-1" Element="4" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="3" BeginPosX="59" BeginPosY="152" Direction="6" Element="1" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="3" BeginPosX="68" BeginPosY="140" Direction="-1" Element="1" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="2" BeginPosX="103" BeginPosY="193" Direction="2" Element="2" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="5" BeginPosX="194" BeginPosY="226" Direction="-1" Element="4" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="5" BeginPosX="198" BeginPosY="226" Direction="-1" Element="4" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="5" BeginPosX="197" BeginPosY="137" Direction="-1" Element="5" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="3" BeginPosX="122" BeginPosY="141" Direction="-1" Element="1" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="3" BeginPosX="29" BeginPosY="147" Direction="-1" Element="1" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="5" BeginPosX="154" BeginPosY="158" Direction="-1" Element="3" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="5" BeginPosX="168" BeginPosY="158" Direction="-1" Element="4" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="3" BeginPosX="8" BeginPosY="186" Direction="2" Element="1" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="3" BeginPosX="42" BeginPosY="176" Direction="8" Element="1" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="5" BeginPosX="159" BeginPosY="213" Direction="-1" Element="3" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="5" BeginPosX="145" BeginPosY="214" Direction="-1" Element="3" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="3" BeginPosX="62" BeginPosY="147" Direction="6" Element="1" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="3" BeginPosX="68" BeginPosY="134" Direction="4" Element="1" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="3" BeginPosX="5" BeginPosY="148" Direction="2" Element="1" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="3" BeginPosX="40" BeginPosY="185" Direction="8" Element="1" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="5" BeginPosX="112" BeginPosY="204" Direction="2" Element="2" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="5" BeginPosX="130" BeginPosY="186" Direction="-1" Element="3" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="2" BeginPosX="90" BeginPosY="199" Direction="2" Element="2" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="2" BeginPosX="95" BeginPosY="210" Direction="2" Element="2" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="3" BeginPosX="10" BeginPosY="140" Direction="4" Element="1" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="3" BeginPosX="78" BeginPosY="144" Direction="-1" Element="1" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="2" BeginPosX="103" BeginPosY="171" Direction="2" Element="2" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="5" BeginPosX="141" BeginPosY="178" Direction="-1" Element="3" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="5" BeginPosX="223" BeginPosY="226" Direction="-1" Element="4" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="5" BeginPosX="152" BeginPosY="138" Direction="-1" Element="5" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="3" BeginPosX="23" BeginPosY="163" Direction="6" Element="1" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="2" BeginPosX="66" BeginPosY="242" Direction="2" Element="2" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="5" BeginPosX="139" BeginPosY="210" Direction="-1" Element="3" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="5" BeginPosX="140" BeginPosY="156" Direction="-1" Element="3" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="5" BeginPosX="217" BeginPosY="194" Direction="-1" Element="4" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="5" BeginPosX="207" BeginPosY="190" Direction="-1" Element="4" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="2" BeginPosX="45" BeginPosY="242" Direction="2" Element="2" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="2" BeginPosX="72" BeginPosY="188" Direction="2" Element="2" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="5" BeginPosX="228" BeginPosY="237" Direction="-1" Element="4" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="5" BeginPosX="226" BeginPosY="203" Direction="-1" Element="4" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="2" BeginPosX="73" BeginPosY="197" Direction="2" Element="2" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="2" BeginPosX="97" BeginPosY="180" Direction="2" Element="2" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="5" BeginPosX="159" BeginPosY="134" Direction="-1" Element="5" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="5" BeginPosX="140" BeginPosY="139" Direction="-1" Element="5" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="2" BeginPosX="23" BeginPosY="235" Direction="2" Element="2" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="2" BeginPosX="50" BeginPosY="214" Direction="2" Element="2" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="3" BeginPosX="97" BeginPosY="133" Direction="-1" Element="1" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="2" BeginPosX="19" BeginPosY="227" Direction="2" Element="2" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="5" BeginPosX="142" BeginPosY="196" Direction="-1" Element="3" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="5" BeginPosX="148" BeginPosY="153" Direction="-1" Element="3" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="5" BeginPosX="208" BeginPosY="225" Direction="-1" Element="4" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="5" BeginPosX="202" BeginPosY="215" Direction="-1" Element="4" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="5" BeginPosX="167" BeginPosY="224" Direction="-1" Element="3" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="5" BeginPosX="174" BeginPosY="225" Direction="-1" Element="3" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="5" BeginPosX="178" BeginPosY="172" Direction="-1" Element="4" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="5" BeginPosX="180" BeginPosY="189" Direction="-1" Element="4" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="3" BeginPosX="47" BeginPosY="164" Direction="8" Element="1" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="2" BeginPosX="60" BeginPosY="227" Direction="2" Element="2" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="5" BeginPosX="121" BeginPosY="224" Direction="-1" Element="3" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="5" BeginPosX="158" BeginPosY="196" Direction="-1" Element="3" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="5" BeginPosX="208" BeginPosY="180" Direction="-1" Element="4" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="3" BeginPosX="8" BeginPosY="172" Direction="2" Element="1" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="3" BeginPosX="35" BeginPosY="147" Direction="-1" Element="1" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="2" BeginPosX="103" BeginPosY="196" Direction="2" Element="2" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="5" BeginPosX="220" BeginPosY="145" Direction="-1" Element="5" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="5" BeginPosX="237" BeginPosY="149" Direction="-1" Element="5" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="2" BeginPosX="6" BeginPosY="176" Direction="2" Element="2" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="3" BeginPosX="49" BeginPosY="188" Direction="8" Element="1" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="2" BeginPosX="120" BeginPosY="168" Direction="2" Element="2" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="2" BeginPosX="116" BeginPosY="159" Direction="2" Element="2" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="3" BeginPosX="20" BeginPosY="148" Direction="-1" Element="1" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="2" BeginPosX="37" BeginPosY="235" Direction="2" Element="2" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="5" BeginPosX="187" BeginPosY="195" Direction="-1" Element="4" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="5" BeginPosX="186" BeginPosY="179" Direction="-1" Element="4" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="3" BeginPosX="113" BeginPosY="139" Direction="-1" Element="1" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="3" BeginPosX="46" BeginPosY="141" Direction="-1" Element="1" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="3" BeginPosX="74" BeginPosY="174" Direction="-1" Element="1" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="5" BeginPosX="229" BeginPosY="179" Direction="-1" Element="5" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="5" BeginPosX="220" BeginPosY="172" Direction="-1" Element="5" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="3" BeginPosX="120" BeginPosY="151" Direction="-1" Element="1" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="3" BeginPosX="64" BeginPosY="129" Direction="-1" Element="1" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="2" BeginPosX="32" BeginPosY="220" Direction="2" Element="2" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="2" BeginPosX="63" BeginPosY="211" Direction="2" Element="2" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="3" BeginPosX="23" BeginPosY="157" Direction="6" Element="1" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="2" BeginPosX="22" BeginPosY="214" Direction="2" Element="2" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="5" BeginPosX="122" BeginPosY="230" Direction="-1" Element="3" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="5" BeginPosX="196" BeginPosY="209" Direction="-1" Element="4" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="5" BeginPosX="162" BeginPosY="138" Direction="-1" Element="5" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="3" BeginPosX="88" BeginPosY="151" Direction="-1" Element="1" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="2" BeginPosX="80" BeginPosY="212" Direction="2" Element="2" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="5" BeginPosX="186" BeginPosY="231" Direction="-1" Element="4" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="3" BeginPosX="41" BeginPosY="139" Direction="-1" Element="1" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="3" BeginPosX="92" BeginPosY="148" Direction="-1" Element="1" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="3" BeginPosX="57" BeginPosY="130" Direction="2" Element="1" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="3" BeginPosX="72" BeginPosY="144" Direction="-1" Element="1" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="5" BeginPosX="140" BeginPosY="232" Direction="-1" Element="3" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="5" BeginPosX="161" BeginPosY="233" Direction="-1" Element="3" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="5" BeginPosX="168" BeginPosY="144" Direction="-1" Element="5" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="5" BeginPosX="189" BeginPosY="142" Direction="-1" Element="5" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="5" BeginPosX="130" BeginPosY="215" Direction="-1" Element="3" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="5" BeginPosX="103" BeginPosY="235" Direction="-1" Element="3" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="3" BeginPosX="10" BeginPosY="158" Direction="2" Element="1" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="3" BeginPosX="27" BeginPosY="137" Direction="2" Element="1" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="5" BeginPosX="138" BeginPosY="187" Direction="-1" Element="3" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="5" BeginPosX="130" BeginPosY="198" Direction="-1" Element="3" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="2" BeginPosX="53" BeginPosY="235" Direction="2" Element="2" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="2" BeginPosX="79" BeginPosY="181" Direction="2" Element="2" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="3" BeginPosX="14" BeginPosY="140" Direction="4" Element="1" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="3" BeginPosX="12" BeginPosY="192" Direction="2" Element="1" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="3" BeginPosX="56" BeginPosY="170" Direction="8" Element="1" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="3" BeginPosX="75" BeginPosY="167" Direction="-1" Element="1" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="5" BeginPosX="215" BeginPosY="161" Direction="-1" Element="5" />
+			<!--Deep Dungeon Larva-->
+			<Config Class="770" Range="5" BeginPosX="215" BeginPosY="152" Direction="-1" Element="5" />
+	</MONSTER>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<EVENT>
+	</EVENT>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+</MonsterSetBase>

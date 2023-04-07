@@ -1,3 +1,0 @@
-//KillMessageType = 0 only GS, 1 = Global (all GS)
-//Index   MapNumber   MaxLife   DamageMin   DamageMax   Defense   AttackRate   DefenseRate   ExperienceRate   KillMessage   KillMessageType   InfoMessage   RewardValue1   RewardValue2
-end

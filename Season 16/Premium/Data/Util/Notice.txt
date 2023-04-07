@@ -1,3 +1,0 @@
-//Message                                                            Type   Count   Opacity   Delay   Red   Green   Blue   Speed   RepeatTime
-"MUDevs Emulator 16.2 Premium"                                                  0      0       0         0       0     0       0      0       60
-end

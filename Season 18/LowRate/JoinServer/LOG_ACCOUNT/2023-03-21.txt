@@ -1,0 +1,2 @@
+16:49:57 [AccountInfo] Account connected (Account: admin1, IpAddress: 80.134.26.127, GameServerCode: 20)
+23:20:20 [AccountInfo] Account connected (Account: Admin1, IpAddress: 80.134.26.127, GameServerCode: 20)

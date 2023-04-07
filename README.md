@@ -1,1 +1,0 @@
-Base MUDevs emulator settings.

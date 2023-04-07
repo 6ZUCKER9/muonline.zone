@@ -1,0 +1,6 @@
+19:45:00 [SocketManager] Server started at port [55981]
+19:45:07 [ServerManager][0] AddServer (127.0.0.1)
+19:45:07 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)(0)
+20:10:07 EXEC WZ_DeleteWaitPartyMatchingList 'ZUCKER'
+20:10:07 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][Shared Memory]ConnectionWrite (send()).
+20:10:07 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver][Shared Memory]General network error. Check your network documentation.

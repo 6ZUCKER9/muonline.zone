@@ -1,0 +1,5 @@
+23:08:53 [CommandAddPoint][admin1][ZUCKER] - (Type: 0, Amount: 2000)
+23:08:56 [CommandAddPoint][admin1][ZUCKER] - (Type: 1, Amount: 2000)
+23:08:59 [CommandAddPoint][admin1][ZUCKER] - (Type: 3, Amount: 2000)
+23:09:03 [CommandAddPoint][admin1][ZUCKER] - (Type: 2, Amount: 2000)
+23:09:32 [CommandAddPoint][admin1][ZUCKER] - (Type: 1, Amount: 20000)

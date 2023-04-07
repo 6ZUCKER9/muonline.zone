@@ -1,0 +1,134 @@
+00:17:22 [ServerManager][0] DelServer (127.0.0.1)
+00:17:33 [SocketManager] Server started at port [55970]
+00:17:33 [SocketManager] Server started at port [55557]
+00:17:36 [ServerManager][0] AddServer (127.0.0.1)
+00:17:36 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+00:17:40 [ServerManager][1] AddServer (127.0.0.1)
+00:17:40 [ServerManager][1] ServerInfo (MuDevs) (55901) (20)
+00:17:43 [ServerManager][2] AddServer (127.0.0.1)
+00:18:33 [AllowConectionManager][ADD][+][HWID:55D3B74A-9689C29F-F428D523-8826B7EE-49656E69-00000016-BFEBFBFF-7FFAFBFF][ConectionCount:1][Account:admin]
+00:29:42 [ServerManager][0] DelServer (127.0.0.1)
+00:29:56 [SocketManager] Server started at port [55970]
+00:29:56 [SocketManager] Server started at port [55557]
+00:29:56 [ServerManager][0] AddServer (127.0.0.1)
+00:29:56 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+00:30:03 [ServerManager][1] AddServer (127.0.0.1)
+00:30:03 [ServerManager][1] ServerInfo (MuDevs) (55901) (20)
+00:30:05 [ServerManager][2] AddServer (127.0.0.1)
+00:30:53 [AllowConectionManager][ADD][+][HWID:55D3B74A-9689C29F-F428D523-8826B7EE-49656E69-00000016-BFEBFBFF-7FFAFBFF][ConectionCount:1][Account:admin]
+01:06:21 [ServerManager][0] DelServer (127.0.0.1)
+01:06:34 [SocketManager] Server started at port [55970]
+01:06:34 [SocketManager] Server started at port [55557]
+01:06:34 [ServerManager][0] AddServer (127.0.0.1)
+01:06:34 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+01:06:41 [ServerManager][1] AddServer (127.0.0.1)
+01:06:41 [ServerManager][1] ServerInfo (MuDevs) (55901) (20)
+01:06:43 [ServerManager][2] AddServer (127.0.0.1)
+01:07:31 [AllowConectionManager][ADD][+][HWID:55D3B74A-9689C29F-F428D523-8826B7EE-49656E69-00000016-BFEBFBFF-7FFAFBFF][ConectionCount:1][Account:admin]
+05:43:02 EXEC WZ_DISCONNECT_MEMB 'admin'
+05:43:02 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][Shared Memory]ConnectionWrite (send()).
+05:43:02 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver][Shared Memory]General network error. Check your network documentation.
+05:43:02 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:55D3B74A-9689C29F-F428D523-8826B7EE-49656E69-00000016-BFEBFBFF-7FFAFBFF][ConectionCount:0][Account:admin]
+05:44:44 SELECT * FROM BanMacInfo WHERE HardwareId=?
+05:44:44 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+05:44:44 SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='admin'
+05:44:44 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+12:22:52 [ServerManager][0] DelServer (127.0.0.1)
+12:23:05 [SocketManager] Server started at port [55970]
+12:23:05 [SocketManager] Server started at port [55557]
+12:23:07 [ServerManager][0] AddServer (127.0.0.1)
+12:23:07 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+12:23:18 [ServerManager][1] AddServer (127.0.0.1)
+12:23:18 [ServerManager][1] ServerInfo (MuDevs) (55901) (20)
+12:23:20 [ServerManager][2] AddServer (127.0.0.1)
+12:23:20 [ServerManager][2] ServerInfo (GameServerCS) (55919) (19)
+12:23:24 [ServerManager][3] AddServer (127.0.0.1)
+12:23:36 [ServerManager][2] DelServer (127.0.0.1)
+12:24:41 [AllowConectionManager][ADD][+][HWID:55D3B74A-9689C29F-F428D523-8826B7EE-49656E69-00000016-BFEBFBFF-7FFAFBFF][ConectionCount:1][Account:admin]
+13:09:51 AllowableIpList.txt reloaded
+13:09:51 AllowConectionManagerList.txt reloaded
+13:09:51 HardwareIdExceptionList.txt reloaded
+13:09:52 AllowableIpList.txt reloaded
+13:09:52 AllowConectionManagerList.txt reloaded
+13:09:52 HardwareIdExceptionList.txt reloaded
+13:44:41 [ServerManager][0] DelServer (127.0.0.1)
+13:44:58 [SocketManager] Server started at port [55970]
+13:44:58 [SocketManager] Server started at port [55557]
+13:45:04 [ServerManager][0] AddServer (127.0.0.1)
+13:45:04 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+13:45:08 [ServerManager][1] AddServer (127.0.0.1)
+13:45:08 [ServerManager][1] ServerInfo (MuDevs) (55901) (20)
+13:45:31 [ServerManager][2] AddServer (127.0.0.1)
+13:45:31 [ServerManager][2] ServerInfo (GameServerCS) (55919) (19)
+13:45:32 [ServerManager][3] AddServer (127.0.0.1)
+13:46:36 [AllowConectionManager][ADD][+][HWID:55D3B74A-9689C29F-F428D523-8826B7EE-49656E69-00000016-BFEBFBFF-7FFAFBFF][ConectionCount:1][Account:admin]
+14:01:30 [ServerManager][0] DelServer (127.0.0.1)
+14:01:42 [SocketManager] Server started at port [55970]
+14:01:42 [SocketManager] Server started at port [55557]
+14:01:45 [ServerManager][0] AddServer (127.0.0.1)
+14:01:45 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+14:02:03 [Connection] connect() failed with error: 10060
+14:02:04 [Connection] connect() failed with error: 10061
+14:02:05 [Connection] connect() failed with error: 10061
+14:02:14 [ServerManager][1] AddServer (127.0.0.1)
+14:02:14 [ServerManager][1] ServerInfo (GameServerCS) (55919) (19)
+14:02:15 [ServerManager][2] AddServer (127.0.0.1)
+14:03:31 [SocketManager] Server started at port [55970]
+14:03:31 [SocketManager] Server started at port [55557]
+14:03:35 [ServerManager][0] AddServer (127.0.0.1)
+14:03:35 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+14:03:53 [ServerManager][1] AddServer (127.0.0.1)
+14:03:53 [ServerManager][2] AddServer (127.0.0.1)
+14:03:53 [ServerManager][2] ServerInfo (GameServerCS) (55919) (19)
+14:04:19 [ServerManager][2] DelServer (127.0.0.1)
+14:05:36 [ServerManager][0] DelServer (127.0.0.1)
+14:06:18 [SocketManager] Server started at port [55970]
+14:06:18 [SocketManager] Server started at port [55557]
+14:06:18 [ServerManager][0] AddServer (127.0.0.1)
+14:06:18 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+14:06:21 [ServerManager][0] DelServer (127.0.0.1)
+14:35:33 [SocketManager] Server started at port [55970]
+14:35:33 [SocketManager] Server started at port [55557]
+14:35:41 [ServerManager][0] AddServer (127.0.0.1)
+14:35:41 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)
+14:35:43 [ServerManager][1] AddServer (127.0.0.1)
+14:35:43 [ServerManager][1] ServerInfo (GameServerCS) (55919) (19)
+14:35:43 [ServerManager][2] AddServer (127.0.0.1)
+14:35:45 [ServerManager][1] DelServer (127.0.0.1)
+14:36:14 [SocketManager] Server started at port [55970]
+14:36:14 [SocketManager] Server started at port [55557]
+14:36:17 [ServerManager][0] AddServer (127.0.0.1)
+14:36:17 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+14:36:35 [Connection] connect() failed with error: 10060
+14:36:36 [Connection] connect() failed with error: 10061
+14:36:37 [Connection] connect() failed with error: 10061
+14:36:46 [ServerManager][1] AddServer (127.0.0.1)
+14:36:46 [ServerManager][1] ServerInfo (GameServerCS) (55919) (19)
+14:36:47 [ServerManager][2] AddServer (127.0.0.1)
+14:36:55 [ServerManager][1] DelServer (127.0.0.1)
+14:40:13 [SocketManager] Server started at port [55970]
+14:40:13 [SocketManager] Server started at port [55557]
+14:40:14 [ServerManager][0] AddServer (127.0.0.1)
+14:40:14 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+14:40:32 [ServerManager][1] AddServer (127.0.0.1)
+14:41:16 [ServerManager][2] AddServer (127.0.0.1)
+14:41:16 [ServerManager][2] ServerInfo (MuDevs) (55901) (20)
+14:42:25 [AllowConectionManager][ADD][+][HWID:55D3B74A-9689C29F-F428D523-8826B7EE-49656E69-00000016-BFEBFBFF-7FFAFBFF][ConectionCount:1][Account:admin]
+14:54:11 [ServerManager][0] DelServer (127.0.0.1)
+14:54:29 [SocketManager] Server started at port [55970]
+14:54:29 [SocketManager] Server started at port [55557]
+14:54:29 [ServerManager][0] AddServer (127.0.0.1)
+14:54:29 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+14:54:47 [ServerManager][1] AddServer (127.0.0.1)
+14:54:48 [ServerManager][2] AddServer (127.0.0.1)
+14:54:48 [ServerManager][2] ServerInfo (MuDevs) (55901) (20)
+14:55:28 [AllowConectionManager][ADD][+][HWID:55D3B74A-9689C29F-F428D523-8826B7EE-49656E69-00000016-BFEBFBFF-7FFAFBFF][ConectionCount:1][Account:admin]
+15:51:22 [ServerManager][0] DelServer (127.0.0.1)
+15:51:47 [SocketManager] Server started at port [55970]
+15:51:47 [SocketManager] Server started at port [55557]
+15:51:50 [ServerManager][0] AddServer (127.0.0.1)
+15:51:50 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+15:51:53 [ServerManager][1] AddServer (127.0.0.1)
+15:51:54 [ServerManager][2] AddServer (127.0.0.1)
+15:51:54 [ServerManager][2] ServerInfo (MuDevs) (55901) (20)
+15:52:34 [AllowConectionManager][ADD][+][HWID:55D3B74A-9689C29F-F428D523-8826B7EE-49656E69-00000016-BFEBFBFF-7FFAFBFF][ConectionCount:1][Account:admin]

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MonsterSetBase>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<NPC>
+		<Config Class="408" Range="0" PositionX="119" PositionY="168" Direction="2" Element="0" /> <!-- "Gatekeeper" -->
+	</NPC>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<SPOT>
+	</SPOT>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<MONSTER>
+			<!--Balram (Trainee Soldier)-->
+			<Config Class="409" Range="30" BeginPosX="39" BeginPosY="101" Direction="-1" />
+			<!--Balram (Trainee Soldier)-->
+			<Config Class="409" Range="30" BeginPosX="44" BeginPosY="110" Direction="-1" />
+			<!--Balram (Trainee Soldier)-->
+			<Config Class="409" Range="30" BeginPosX="52" BeginPosY="134" Direction="-1" />
+			<!--Balram (Trainee Soldier)-->
+			<Config Class="409" Range="30" BeginPosX="67" BeginPosY="112" Direction="-1" />
+			<!--Balram (Trainee Soldier)-->
+			<Config Class="409" Range="30" BeginPosX="87" BeginPosY="90" Direction="-1" />
+			<!--Balram (Trainee Soldier)-->
+			<Config Class="409" Range="30" BeginPosX="90" BeginPosY="67" Direction="-1" />
+			<!--Balram (Trainee Soldier)-->
+			<Config Class="409" Range="30" BeginPosX="90" BeginPosY="78" Direction="-1" />
+			<!--Balram (Trainee Soldier)-->
+			<Config Class="409" Range="30" BeginPosX="71" BeginPosY="101" Direction="-1" />
+			<!--Balram (Trainee Soldier)-->
+			<Config Class="409" Range="30" BeginPosX="71" BeginPosY="101" Direction="-1" />
+			<!--Balram (Trainee Soldier)-->
+			<Config Class="409" Range="30" BeginPosX="64" BeginPosY="132" Direction="-1" />
+			<!--Balram (Trainee Soldier)-->
+			<Config Class="409" Range="30" BeginPosX="109" BeginPosY="101" Direction="-1" />
+			<!--Balram (Trainee Soldier)-->
+			<Config Class="409" Range="30" BeginPosX="50" BeginPosY="136" Direction="-1" />
+			<!--Balram (Trainee Soldier)-->
+			<Config Class="409" Range="30" BeginPosX="48" BeginPosY="133" Direction="-1" />
+			<!--Balram (Trainee Soldier)-->
+			<Config Class="409" Range="30" BeginPosX="51" BeginPosY="131" Direction="-1" />
+			<!--Balram (Trainee Soldier)-->
+			<Config Class="409" Range="30" BeginPosX="49" BeginPosY="132" Direction="-1" />
+			<!--Death Spirit (Trainee Soldier)-->
+			<Config Class="410" Range="30" BeginPosX="98" BeginPosY="96" Direction="-1" />
+			<!--Death Spirit (Trainee Soldier)-->
+			<Config Class="410" Range="30" BeginPosX="122" BeginPosY="90" Direction="-1" />
+			<!--Death Spirit (Trainee Soldier)-->
+			<Config Class="410" Range="30" BeginPosX="125" BeginPosY="99" Direction="-1" />
+			<!--Death Spirit (Trainee Soldier)-->
+			<Config Class="410" Range="30" BeginPosX="137" BeginPosY="140" Direction="-1" />
+			<!--Death Spirit (Trainee Soldier)-->
+			<Config Class="410" Range="30" BeginPosX="140" BeginPosY="150" Direction="-1" />
+			<!--Death Spirit (Trainee Soldier)-->
+			<Config Class="410" Range="30" BeginPosX="44" BeginPosY="127" Direction="-1" />
+			<!--Death Spirit (Trainee Soldier)-->
+			<Config Class="410" Range="30" BeginPosX="57" BeginPosY="123" Direction="-1" />
+			<!--Death Spirit (Trainee Soldier)-->
+			<Config Class="410" Range="30" BeginPosX="79" BeginPosY="86" Direction="-1" />
+			<!--Death Spirit (Trainee Soldier)-->
+			<Config Class="410" Range="30" BeginPosX="101" BeginPosY="69" Direction="-1" />
+			<!--Death Spirit (Trainee Soldier)-->
+			<Config Class="410" Range="30" BeginPosX="121" BeginPosY="118" Direction="-1" />
+			<!--Death Spirit (Trainee Soldier)-->
+			<Config Class="410" Range="30" BeginPosX="94" BeginPosY="72" Direction="-1" />
+			<!--Death Spirit (Trainee Soldier)-->
+			<Config Class="410" Range="30" BeginPosX="95" BeginPosY="69" Direction="-1" />
+			<!--Death Spirit (Trainee Soldier)-->
+			<Config Class="410" Range="30" BeginPosX="92" BeginPosY="69" Direction="-1" />
+			<!--Death Spirit (Trainee Soldier)-->
+			<Config Class="410" Range="30" BeginPosX="97" BeginPosY="73" Direction="-1" />
+			<!--Death Spirit (Trainee Soldier)-->
+			<Config Class="410" Range="30" BeginPosX="122" BeginPosY="97" Direction="-1" />
+			<!--Soram (Trainee Soldier)-->
+			<Config Class="411" Range="30" BeginPosX="127" BeginPosY="127" Direction="-1" />
+			<!--Soram (Trainee Soldier)-->
+			<Config Class="411" Range="30" BeginPosX="126" BeginPosY="164" Direction="-1" />
+			<!--Soram (Trainee Soldier)-->
+			<Config Class="411" Range="30" BeginPosX="123" BeginPosY="160" Direction="-1" />
+			<!--Soram (Trainee Soldier)-->
+			<Config Class="411" Range="30" BeginPosX="132" BeginPosY="156" Direction="-1" />
+			<!--Soram (Trainee Soldier)-->
+			<Config Class="411" Range="30" BeginPosX="132" BeginPosY="136" Direction="-1" />
+			<!--Soram (Trainee Soldier)-->
+			<Config Class="411" Range="30" BeginPosX="116" BeginPosY="103" Direction="-1" />
+			<!--Soram (Trainee Soldier)-->
+			<Config Class="411" Range="30" BeginPosX="129" BeginPosY="146" Direction="-1" />
+			<!--Soram (Trainee Soldier)-->
+			<Config Class="411" Range="30" BeginPosX="134" BeginPosY="146" Direction="-1" />
+			<!--Soram (Trainee Soldier)-->
+			<Config Class="411" Range="30" BeginPosX="131" BeginPosY="144" Direction="-1" />
+			<!--Soram (Trainee Soldier)-->
+			<Config Class="411" Range="30" BeginPosX="131" BeginPosY="149" Direction="-1" />
+			<!--Soram (Trainee Soldier)-->
+			<Config Class="411" Range="30" BeginPosX="130" BeginPosY="143" Direction="-1" />
+			<!--Soram (Trainee Soldier)-->
+			<Config Class="411" Range="30" BeginPosX="122" BeginPosY="101" Direction="-1" />
+			<!--Soram (Trainee Soldier)-->
+			<Config Class="411" Range="30" BeginPosX="119" BeginPosY="95" Direction="-1" />
+	</MONSTER>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<EVENT>
+	</EVENT>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+</MonsterSetBase>

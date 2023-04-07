@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MonsterSetBase>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<NPC>
+		<Config Class="581" Range="0" PositionX="29" PositionY="210" Direction="2" Element="0" /> <!-- "Deruvish" -->
+		<Config Class="582" Range="0" PositionX="38" PositionY="216" Direction="2" Element="0" /> <!-- "Adniel" -->
+		<Config Class="583" Range="0" PositionX="56" PositionY="202" Direction="2" Element="0" /> <!-- "Jin" -->
+		<Config Class="240" Range="0" PositionX="50" PositionY="184" Direction="3" Element="0" /> <!-- "Safety Guardian" -->
+	</NPC>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<SPOT>
+<Config	Class="	586	"	Range="5"	BeginPosX="	152	"	BeginPosY="	141	"	EndPosX="	158	"	EndPosY="	147	"	Direction="-1" Quantity="5" Element="1"/>	<!--	"	Devilfairy	a"	-->
+<Config	Class="	586	"	Range="5"	BeginPosX="	119	"	BeginPosY="	122	"	EndPosX="	125	"	EndPosY="	128	"	Direction="-1" Quantity="5" Element="2"/>	<!--	"	Devilfairy	a"	-->
+<Config	Class="	586	"	Range="5"	BeginPosX="	53	"	BeginPosY="	134	"	EndPosX="	59	"	EndPosY="	140	"	Direction="-1" Quantity="5" Element="3"/>	<!--	"	Devilfairy	a"	-->
+<Config	Class="	586	"	Range="5"	BeginPosX="	35	"	BeginPosY="	110	"	EndPosX="	41	"	EndPosY="	116	"	Direction="-1" Quantity="5" Element="4"/>	<!--	"	Devilfairy	a"	-->
+<Config	Class="	586	"	Range="5"	BeginPosX="	79	"	BeginPosY="	138	"	EndPosX="	85	"	EndPosY="	144	"	Direction="-1" Quantity="5" Element="5"/>	<!--	"	Devilfairy	a"	-->
+
+<Config	Class="	587	"	Range="5"	BeginPosX="	154	"	BeginPosY="	65	"	EndPosX="	160	"	EndPosY="	71	"	Direction="-1" Quantity="5" Element="1"/>	<!--	"	Elemental Beast	a"	-->
+<Config	Class="	587	"	Range="5"	BeginPosX="	172	"	BeginPosY="	37	"	EndPosX="	178	"	EndPosY="	43	"	Direction="-1" Quantity="5" Element="2"/>	<!--	"	Elemental Beast	a"	-->
+<Config	Class="	587	"	Range="5"	BeginPosX="	141	"	BeginPosY="	9	"	EndPosX="	147	"	EndPosY="	15	"	Direction="-1" Quantity="5" Element="3"/>	<!--	"	Elemental Beast	a"	-->
+<Config	Class="	587	"	Range="5"	BeginPosX="	221	"	BeginPosY="	17	"	EndPosX="	227	"	EndPosY="	23	"	Direction="-1" Quantity="5" Element="4"/>	<!--	"	Elemental Beast	a"	-->
+<Config	Class="	587	"	Range="5"	BeginPosX="	107	"	BeginPosY="	78	"	EndPosX="	113	"	EndPosY="	84	"	Direction="-1" Quantity="5" Element="5"/>	<!--	"	Elemental Beast	a"	-->
+
+<Config	Class="	588	"	Range="5"	BeginPosX="	45	"	BeginPosY="	20	"	EndPosX="	51	"	EndPosY="	26	"	Direction="-1" Quantity="5" Element="1"/>	<!--	"	Elemental Knight	a"	-->
+<Config	Class="	588	"	Range="5"	BeginPosX="	14	"	BeginPosY="	20	"	EndPosX="	20	"	EndPosY="	26	"	Direction="-1" Quantity="5" Element="2"/>	<!--	"	Elemental Knight	a"	-->
+<Config	Class="	588	"	Range="5"	BeginPosX="	32	"	BeginPosY="	82	"	EndPosX="	38	"	EndPosY="	88	"	Direction="-1" Quantity="5" Element="3"/>	<!--	"	Elemental Knight	a"	-->
+<Config	Class="	588	"	Range="5"	BeginPosX="	33	"	BeginPosY="	56	"	EndPosX="	39	"	EndPosY="	62	"	Direction="-1" Quantity="5" Element="4"/>	<!--	"	Elemental Knight	a"	-->
+<Config	Class="	588	"	Range="5"	BeginPosX="	75	"	BeginPosY="	79	"	EndPosX="	81	"	EndPosY="	85	"	Direction="-1" Quantity="5" Element="5"/>	<!--	"	Elemental Knight	a"	-->
+
+<Config	Class="	589	"	Range="5"	BeginPosX="	186	"	BeginPosY="	151	"	EndPosX="	192	"	EndPosY="	157	"	Direction="-1" Quantity="5" Element="1"/>	<!--	"	Ubaid Devilfairy	a"	-->
+<Config	Class="	589	"	Range="5"	BeginPosX="	176	"	BeginPosY="	188	"	EndPosX="	182	"	EndPosY="	194	"	Direction="-1" Quantity="5" Element="2"/>	<!--	"	Ubaid Devilfairy	a"	-->
+<Config	Class="	589	"	Range="5"	BeginPosX="	186	"	BeginPosY="	217	"	EndPosX="	192	"	EndPosY="	223	"	Direction="-1" Quantity="5" Element="3"/>	<!--	"	Ubaid Devilfairy	a"	-->
+<Config	Class="	590	"	Range="5"	BeginPosX="	237	"	BeginPosY="	229	"	EndPosX="	243	"	EndPosY="	235	"	Direction="-1" Quantity="5" Element="4"/>	<!--	"	Ubaid Elemental Beast	a"	-->
+<Config	Class="	590	"	Range="5"	BeginPosX="	236	"	BeginPosY="	203	"	EndPosX="	242	"	EndPosY="	209	"	Direction="-1" Quantity="5" Element="5"/>	<!--	"	Ubaid Elemental Beast	a"	-->
+<Config	Class="	590	"	Range="5"	BeginPosX="	234	"	BeginPosY="	170	"	EndPosX="	240	"	EndPosY="	176	"	Direction="-1" Quantity="5" Element="1"/>	<!--	"	Ubaid Elemental Beast	a"	-->
+<Config	Class="	591	"	Range="5"	BeginPosX="	226	"	BeginPosY="	141	"	EndPosX="	232	"	EndPosY="	147	"	Direction="-1" Quantity="5" Element="2"/>	<!--	"	Ubaid Elemental Knight	a"	-->
+<Config	Class="	591	"	Range="5"	BeginPosX="	237	"	BeginPosY="	86	"	EndPosX="	243	"	EndPosY="	92	"	Direction="-1" Quantity="5" Element="3"/>	<!--	"	Ubaid Elemental Knight	a"	-->
+<Config	Class="	591	"	Range="5"	BeginPosX="	238	"	BeginPosY="	47	"	EndPosX="	244	"	EndPosY="	53	"	Direction="-1" Quantity="5" Element="4"/>	<!--	"	Ubaid Elemental Knight	a"	-->
+<Config	Class="	591	"	Range="5"	BeginPosX="	201	"	BeginPosY="	54	"	EndPosX="	207	"	EndPosY="	60	"	Direction="-1" Quantity="5" Element="5"/>	<!--	"	Ubaid Elemental Knight	a"	-->
+
+
+	</SPOT>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<MONSTER>
+	</MONSTER>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<EVENT>
+	</EVENT>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+</MonsterSetBase>

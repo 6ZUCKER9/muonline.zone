@@ -1,0 +1,12 @@
+19:02:29 SELECT * FROM PartyRenewalMemberList WHERE Name='Grun'
+19:02:29 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'PartyRenewalMemberList'.
+19:02:29 INSERT INTO PartyRenewalMemberList (Name,cLevel,Class,LeaderName) VALUES ('Grun',195,4,'Grun')
+19:02:29 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'PartyRenewalMemberList'.
+19:02:29 SELECT * FROM PartyRenewaInfo WHERE LeaderName='Grun'
+19:02:29 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'PartyRenewaInfo'.
+19:02:29 INSERT INTO PartyRenewaInfo (LeaderName,CreateDate,LastUseDate) VALUES ('Grun',GETDATE(),GETDATE())
+19:02:29 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'PartyRenewaInfo'.
+19:02:29 UPDATE PartyRenewaInfo SET LastUseDateTime=1679335349,LastUseDate=GETDATE() WHERE LeaderName='Grun'
+19:02:29 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'PartyRenewaInfo'.
+19:02:29 [PMATCHING][CreateParty]Leader:Grun TotalPartyCnt:1 - Success
+19:48:24 [PMATCHING][DisConnectMember]LeaderName:Grun, ConnectMemberName:Grun

@@ -1,0 +1,2 @@
+16:20:17 [ExchangeTradeItem][admin][ZUCKER] - (Account: grun, Name: Grun, Index: 6184, Level: 00, Serial: 00000CE8, Option1: 0, Option2: 63, Option3: 0, NewOption: 000, JewelOfHarmonyOption: 000, ItemOptionEx: 000, SocketOption: 255, 255, 255, 255, 255)
+16:21:42 [ExchangeTradeItem][admin][ZUCKER] - (Account: grun, Name: Grun, Index: 6686, Level: 00, Serial: 00000CEA, Option1: 0, Option2: 63, Option3: 0, NewOption: 000, JewelOfHarmonyOption: 000, ItemOptionEx: 000, SocketOption: 255, 255, 255, 255, 255)

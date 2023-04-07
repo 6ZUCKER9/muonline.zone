@@ -1,0 +1,7 @@
+01:13:08 [Offattack LOG][Disconnect condition] Name:Sayer | type:2
+01:13:08 [Offattack LOG][Disconnect Character] Name:Sayer | type:3
+10:47:36 [Offattack LOG][Disconnect Character] Name:Sayer | type:6
+11:25:11 [Offattack LOG][Disconnect Character] Name:Sayer | type:6
+12:26:31 [Offattack LOG][Disconnect condition] Name:Sayer | type:2
+12:26:31 [Offattack LOG][Disconnect Character] Name:Sayer | type:3
+12:35:48 [Offattack LOG][Disconnect Character] Name: | type:6

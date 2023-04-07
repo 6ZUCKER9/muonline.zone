@@ -1,3 +1,0 @@
-0
-//MonsterID		MessageID(Lang)
-end

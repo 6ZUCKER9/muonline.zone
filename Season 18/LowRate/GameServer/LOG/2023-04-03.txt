@@ -1,0 +1,4 @@
+00:08:22 [Connection] connect() failed with error: 10060
+17:41:22 [Connection] connect() failed with error: 10060
+18:04:11 [Connection] connect() failed with error: 10060
+19:42:56 [Connection] connect() failed with error: 10060

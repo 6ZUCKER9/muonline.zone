@@ -1,0 +1,173 @@
+00:06:42 [SocketManager] Server started at port [55970]
+00:06:42 [SocketManager] Server started at port [55557]
+00:07:03 [Connection] connect() failed with error: 10060
+00:07:04 [Connection] connect() failed with error: 10061
+00:07:05 [Connection] connect() failed with error: 10061
+17:03:49 [SocketManager] Server started at port [55970]
+17:03:49 [SocketManager] Server started at port [55557]
+17:03:53 [ServerManager][0] AddServer (127.0.0.1)
+17:03:53 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+17:04:19 [SocketManager] Server started at port [55970]
+17:04:19 [SocketManager] Server started at port [55557]
+17:04:22 [ServerManager][0] AddServer (127.0.0.1)
+17:04:22 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+17:04:41 [ServerManager][1] AddServer (127.0.0.1)
+17:09:51 [SocketManager] Server started at port [55970]
+17:09:51 [SocketManager] Server started at port [55557]
+17:10:03 [ServerManager][0] AddServer (127.0.0.1)
+17:10:03 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+17:10:28 [ServerManager][0] DelServer (127.0.0.1)
+17:11:19 [SocketManager] Server started at port [55970]
+17:11:19 [SocketManager] Server started at port [55557]
+17:11:40 [Connection] connect() failed with error: 10060
+17:11:41 [Connection] connect() failed with error: 10061
+17:11:41 [Connection] connect() failed with error: 10049
+17:27:24 [SocketManager] Server started at port [55970]
+17:27:24 [SocketManager] Server started at port [55557]
+17:27:30 [ServerManager][0] AddServer (127.0.0.1)
+17:27:30 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+17:27:44 [ServerManager][1] AddServer (127.0.0.1)
+17:29:00 [SocketManager] Server started at port [55970]
+17:29:00 [SocketManager] Server started at port [55557]
+17:29:21 [Connection] connect() failed with error: 10060
+17:29:22 [Connection] connect() failed with error: 10061
+17:29:23 [Connection] connect() failed with error: 10061
+17:29:29 [SocketManager] Server started at port [55970]
+17:29:29 [SocketManager] Server started at port [55557]
+17:29:50 [Connection] connect() failed with error: 10060
+17:29:51 [Connection] connect() failed with error: 10061
+17:29:52 [Connection] connect() failed with error: 10061
+17:30:01 [SocketManager] Server started at port [55970]
+17:30:01 [SocketManager] Server started at port [55557]
+17:30:29 [SocketManager] Server started at port [55970]
+17:30:29 [SocketManager] Server started at port [55557]
+17:30:45 [SocketManager] Server started at port [55970]
+17:30:45 [SocketManager] Server started at port [55557]
+17:30:50 [SocketManager] Server started at port [55970]
+17:30:50 [SocketManager] Server started at port [55557]
+17:31:18 [SocketManager] Server started at port [55970]
+17:31:18 [SocketManager] Server started at port [55557]
+17:32:53 [SocketManager] Server started at port [55970]
+17:32:53 [SocketManager] Server started at port [55557]
+17:32:56 [ServerManager][0] AddServer (127.0.0.1)
+17:32:56 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+17:32:59 [ServerManager][0] DelServer (127.0.0.1)
+17:36:49 [SocketManager] Server started at port [55970]
+17:36:49 [SocketManager] Server started at port [55557]
+17:37:10 [Connection] connect() failed with error: 10060
+17:37:11 [Connection] connect() failed with error: 10061
+17:37:12 [Connection] connect() failed with error: 10061
+17:37:33 [SocketManager] Server started at port [55970]
+17:37:33 [SocketManager] Server started at port [55557]
+17:37:37 [ServerManager][0] AddServer (127.0.0.1)
+17:37:37 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+17:37:42 [ServerManager][0] DelServer (127.0.0.1)
+17:37:50 [SocketManager] Server started at port [55970]
+17:37:50 [SocketManager] Server started at port [55557]
+17:37:54 [ServerManager][0] AddServer (127.0.0.1)
+17:37:54 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+17:38:14 [SocketManager] Server started at port [55970]
+17:38:14 [SocketManager] Server started at port [55557]
+17:38:17 [ServerManager][0] AddServer (127.0.0.1)
+17:38:17 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+17:38:52 [SocketManager] Server started at port [55970]
+17:38:52 [SocketManager] Server started at port [55557]
+17:39:31 [SocketManager] Server started at port [55970]
+17:39:31 [SocketManager] Server started at port [55557]
+17:39:52 [Connection] connect() failed with error: 10060
+17:39:53 [Connection] connect() failed with error: 10061
+17:39:54 [Connection] connect() failed with error: 10061
+17:39:57 [ServerManager][0] AddServer (127.0.0.1)
+17:39:57 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+17:40:22 [SocketManager] Server started at port [55970]
+17:40:22 [SocketManager] Server started at port [55557]
+17:40:25 [ServerManager][0] AddServer (127.0.0.1)
+17:40:25 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+17:49:55 [SocketManager] Server started at port [55970]
+17:49:55 [SocketManager] Server started at port [55557]
+17:50:16 [Connection] connect() failed with error: 10060
+17:50:17 [Connection] connect() failed with error: 10061
+17:50:17 [Connection] connect() failed with error: 10049
+17:50:21 [ServerManager][0] AddServer (127.0.0.1)
+17:50:21 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+17:51:09 [SocketManager] Server started at port [55970]
+17:51:09 [SocketManager] Server started at port [55557]
+17:51:30 [Connection] connect() failed with error: 10060
+17:51:31 [Connection] connect() failed with error: 10061
+17:51:32 [Connection] connect() failed with error: 10061
+17:54:21 [SocketManager] Server started at port [55970]
+17:54:21 [SocketManager] Server started at port [55557]
+17:54:42 [Connection] connect() failed with error: 10060
+17:54:43 [Connection] connect() failed with error: 10061
+17:54:44 [Connection] connect() failed with error: 10061
+17:54:47 [ServerManager][0] AddServer (127.0.0.1)
+17:54:47 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+17:55:30 [ServerManager][1] AddServer (127.0.0.1)
+17:56:30 [ServerManager][1] DelServer (127.0.0.1)
+18:02:31 [SocketManager] Server started at port [55970]
+18:02:31 [SocketManager] Server started at port [55557]
+18:02:52 [Connection] connect() failed with error: 10060
+18:02:53 [Connection] connect() failed with error: 10061
+18:02:54 [Connection] connect() failed with error: 10061
+18:02:57 [ServerManager][0] AddServer (127.0.0.1)
+18:02:57 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+18:04:32 [ServerManager][1] AddServer (127.0.0.1)
+18:05:32 [ServerManager][1] DelServer (127.0.0.1)
+18:10:14 [SocketManager] Server started at port [55970]
+18:10:14 [SocketManager] Server started at port [55557]
+18:10:18 [ServerManager][0] AddServer (127.0.0.1)
+18:10:18 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+18:10:54 [ServerManager][1] AddServer (127.0.0.1)
+18:11:17 [SocketManager] Server started at port [55970]
+18:11:17 [SocketManager] Server started at port [55557]
+18:11:38 [Connection] connect() failed with error: 10060
+18:11:39 [Connection] connect() failed with error: 10061
+18:11:40 [Connection] connect() failed with error: 10061
+18:11:44 [SocketManager] Server started at port [55970]
+18:11:44 [SocketManager] Server started at port [55557]
+18:12:05 [Connection] connect() failed with error: 10060
+18:12:06 [Connection] connect() failed with error: 10061
+18:12:07 [Connection] connect() failed with error: 10061
+18:12:11 [SocketManager] Server started at port [55970]
+18:12:11 [SocketManager] Server started at port [55557]
+18:12:53 [ServerManager][0] AddServer (127.0.0.1)
+18:12:53 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+18:14:12 [SocketManager] Server started at port [55970]
+18:14:12 [SocketManager] Server started at port [55557]
+18:14:25 [SocketManager] Server started at port [55970]
+18:14:25 [SocketManager] Server started at port [55557]
+20:17:32 [SocketManager] Server started at port [55970]
+20:17:32 [SocketManager] Server started at port [55557]
+21:02:06 [SocketManager] Server started at port [55970]
+21:02:06 [SocketManager] Server started at port [55557]
+21:12:59 [SocketManager] Server started at port [55970]
+21:12:59 [SocketManager] Server started at port [55557]
+21:13:20 [Connection] connect() failed with error: 10060
+21:13:21 [Connection] connect() failed with error: 10061
+21:13:22 [Connection] connect() failed with error: 10061
+21:14:15 [SocketManager] Server started at port [55970]
+21:14:15 [SocketManager] Server started at port [55557]
+21:16:38 [SocketManager] Server started at port [55970]
+21:16:38 [SocketManager] Server started at port [55557]
+21:17:17 [SocketManager] Server started at port [55970]
+21:17:17 [SocketManager] Server started at port [55557]
+21:17:38 [Connection] connect() failed with error: 10060
+21:17:39 [Connection] connect() failed with error: 10061
+21:17:39 [Connection] connect() failed with error: 10049
+21:21:43 [SocketManager] Server started at port [55970]
+21:21:43 [SocketManager] Server started at port [55557]
+21:22:05 [Connection] connect() failed with error: 10060
+21:22:06 [Connection] connect() failed with error: 10061
+21:22:07 [Connection] connect() failed with error: 10061
+19:38:43 [SocketManager] Server started at port [55970]
+19:38:43 [SocketManager] Server started at port [55557]
+19:41:11 [SocketManager] Server started at port [55970]
+19:41:11 [SocketManager] Server started at port [55557]
+19:41:46 [SocketManager] Server started at port [55970]
+19:41:46 [SocketManager] Server started at port [55557]
+19:41:59 [ServerManager][0] AddServer (127.0.0.1)
+19:41:59 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+19:44:34 [SocketManager] Server started at port [55970]
+19:44:34 [SocketManager] Server started at port [55557]
+19:44:47 [ServerManager][0] AddServer (127.0.0.1)
+19:44:47 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)

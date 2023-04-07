@@ -1,0 +1,195 @@
+11:57:19 [ServerManager][0] DelServer (127.0.0.1)
+11:57:29 [SocketManager] Server started at port [55960]
+11:57:34 [ServerManager][0] AddServer (127.0.0.1)
+11:57:34 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533) (0)
+11:57:39 [MainProc][2][Expire Mission Info][Restore] 2023-03-30 AM10:30
+11:57:39 [ImperialGuardianRenewal][MainProc][Play Info][Restore] [2023-03-30 AM10:30][MainAttr:4]
+11:57:42 [ServerManager][1] AddServer (127.0.0.1)
+11:57:42 [ServerManager][1] ServerInfo (MuDevs) (55901) (20) (0)
+11:57:43 [DSF][RenewDSFPartyRank]2
+11:57:43 [DSF][RenewDSFPartyRank]3
+11:57:43 [DSF][RenewDSFPartyRank]4
+12:55:23 [SocketManager] Server started at port [55960]
+12:55:31 [ServerManager][0] AddServer (127.0.0.1)
+12:55:31 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533) (0)
+12:55:33 [MainProc][2][Expire Mission Info][Restore] 2023-03-30 AM10:30
+12:55:33 [ImperialGuardianRenewal][MainProc][Play Info][Restore] [2023-03-30 AM10:30][MainAttr:4]
+12:55:36 [ServerManager][1] AddServer (127.0.0.1)
+12:55:36 [ServerManager][1] ServerInfo (MuDevs) (55901) (20) (0)
+12:55:37 [DSF][RenewDSFPartyRank]2
+12:55:37 [DSF][RenewDSFPartyRank]3
+12:55:37 [DSF][RenewDSFPartyRank]4
+13:43:11 [SocketManager] Server started at port [55960]
+13:43:18 [ServerManager][0] AddServer (127.0.0.1)
+13:43:18 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533) (0)
+13:43:21 [MainProc][2][Expire Mission Info][Restore] 2023-03-30 AM10:30
+13:43:21 [ImperialGuardianRenewal][MainProc][Play Info][Restore] [2023-03-30 AM10:30][MainAttr:4]
+13:43:26 [ServerManager][1] AddServer (127.0.0.1)
+13:43:26 [ServerManager][1] ServerInfo (MuDevs) (55901) (20) (0)
+13:43:27 [DSF][RenewDSFPartyRank]2
+13:43:27 [DSF][RenewDSFPartyRank]3
+13:43:27 [DSF][RenewDSFPartyRank]4
+13:46:38 [SocketManager] Server started at port [55960]
+13:46:45 [ServerManager][0] AddServer (127.0.0.1)
+13:46:45 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533) (0)
+13:46:48 [MainProc][2][Expire Mission Info][Restore] 2023-03-30 AM10:30
+13:46:48 [ImperialGuardianRenewal][MainProc][Play Info][Restore] [2023-03-30 AM10:30][MainAttr:4]
+13:46:53 [ServerManager][1] AddServer (127.0.0.1)
+13:46:53 [ServerManager][1] ServerInfo (MuDevs) (55901) (20) (0)
+13:46:54 [DSF][RenewDSFPartyRank]2
+13:46:54 [DSF][RenewDSFPartyRank]3
+13:46:54 [DSF][RenewDSFPartyRank]4
+14:07:14 [SocketManager] Server started at port [55960]
+14:07:22 [ServerManager][0] AddServer (127.0.0.1)
+14:07:22 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533) (0)
+14:07:24 [MainProc][2][Expire Mission Info][Restore] 2023-03-30 AM10:30
+14:07:24 [ImperialGuardianRenewal][MainProc][Play Info][Restore] [2023-03-30 AM10:30][MainAttr:4]
+14:07:26 [ServerManager][1] AddServer (127.0.0.1)
+14:07:26 [ServerManager][1] ServerInfo (MuDevs) (55901) (20) (0)
+14:07:27 [DSF][RenewDSFPartyRank]2
+14:07:27 [DSF][RenewDSFPartyRank]3
+14:07:27 [DSF][RenewDSFPartyRank]4
+14:13:18 [SocketManager] Server started at port [55960]
+14:13:23 [ServerManager][0] AddServer (127.0.0.1)
+14:13:23 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533) (0)
+14:13:28 [MainProc][2][Expire Mission Info][Restore] 2023-03-30 AM10:30
+14:13:28 [ImperialGuardianRenewal][MainProc][Play Info][Restore] [2023-03-30 AM10:30][MainAttr:4]
+14:13:49 [ServerManager][1] AddServer (127.0.0.1)
+14:13:49 [ServerManager][1] ServerInfo (MuDevs) (55901) (20) (0)
+14:13:50 [DSF][RenewDSFPartyRank]2
+14:13:50 [DSF][RenewDSFPartyRank]3
+14:13:50 [DSF][RenewDSFPartyRank]4
+14:46:04 [SocketManager] Server started at port [55960]
+14:46:06 [ServerManager][0] AddServer (127.0.0.1)
+14:46:06 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533) (0)
+14:46:14 [MainProc][2][Expire Mission Info][Restore] 2023-03-30 AM10:30
+14:46:14 [ImperialGuardianRenewal][MainProc][Play Info][Restore] [2023-03-30 AM10:30][MainAttr:4]
+14:46:26 [ServerManager][1] AddServer (127.0.0.1)
+14:46:26 [ServerManager][1] ServerInfo (MuDevs) (55901) (20) (0)
+14:46:27 [DSF][RenewDSFPartyRank]2
+14:46:27 [DSF][RenewDSFPartyRank]3
+14:46:27 [DSF][RenewDSFPartyRank]4
+14:48:58 [SocketManager] Server started at port [55960]
+14:49:00 [ServerManager][0] AddServer (127.0.0.1)
+14:49:00 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533) (0)
+14:49:08 [MainProc][2][Expire Mission Info][Restore] 2023-03-30 AM10:30
+14:49:08 [ImperialGuardianRenewal][MainProc][Play Info][Restore] [2023-03-30 AM10:30][MainAttr:4]
+14:49:13 [ServerManager][1] AddServer (127.0.0.1)
+14:49:13 [ServerManager][1] ServerInfo (MuDevs) (55901) (20) (0)
+14:49:14 [DSF][RenewDSFPartyRank]2
+14:49:14 [DSF][RenewDSFPartyRank]3
+14:49:14 [DSF][RenewDSFPartyRank]4
+15:07:19 [SocketManager] Server started at port [55960]
+15:07:27 [ServerManager][0] AddServer (127.0.0.1)
+15:07:27 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533) (0)
+15:07:29 [MainProc][2][Expire Mission Info][Restore] 2023-03-30 AM10:30
+15:07:29 [ImperialGuardianRenewal][MainProc][Play Info][Restore] [2023-03-30 AM10:30][MainAttr:4]
+15:07:34 [ServerManager][1] AddServer (127.0.0.1)
+15:07:34 [ServerManager][1] ServerInfo (MuDevs) (55901) (20) (0)
+15:07:35 [DSF][RenewDSFPartyRank]2
+15:07:35 [DSF][RenewDSFPartyRank]3
+15:07:35 [DSF][RenewDSFPartyRank]4
+15:10:36 [ServerManager][0] DelServer (127.0.0.1)
+15:10:45 [SocketManager] Server started at port [55960]
+15:10:50 [ServerManager][0] AddServer (127.0.0.1)
+15:10:50 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533) (0)
+15:10:55 [MainProc][2][Expire Mission Info][Restore] 2023-03-30 AM10:30
+15:10:55 [ImperialGuardianRenewal][MainProc][Play Info][Restore] [2023-03-30 AM10:30][MainAttr:4]
+15:11:08 [ServerManager][1] AddServer (127.0.0.1)
+15:11:08 [ServerManager][1] ServerInfo (MuDevs) (55901) (20) (0)
+15:11:09 [DSF][RenewDSFPartyRank]2
+15:11:09 [DSF][RenewDSFPartyRank]3
+15:11:09 [DSF][RenewDSFPartyRank]4
+16:46:53 [SocketManager] Server started at port [55960]
+16:47:01 [ServerManager][0] AddServer (127.0.0.1)
+16:47:01 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533) (0)
+16:47:03 [MainProc][2][Expire Mission Info][Restore] 2023-03-30 AM10:30
+16:47:03 [ImperialGuardianRenewal][MainProc][Play Info][Restore] [2023-03-30 AM10:30][MainAttr:4]
+16:47:13 [ServerManager][1] AddServer (127.0.0.1)
+16:47:13 [ServerManager][1] ServerInfo (MuDevs) (55901) (20) (0)
+16:47:14 [DSF][RenewDSFPartyRank]2
+16:47:14 [DSF][RenewDSFPartyRank]3
+16:47:14 [DSF][RenewDSFPartyRank]4
+18:58:21 [SocketManager] Server started at port [55960]
+18:58:29 [ServerManager][0] AddServer (127.0.0.1)
+18:58:29 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533) (0)
+18:58:31 [MainProc][2][Expire Mission Info][Restore] 2023-03-30 AM10:30
+18:58:31 [ImperialGuardianRenewal][MainProc][Play Info][Restore] [2023-03-30 AM10:30][MainAttr:4]
+18:58:43 [ServerManager][1] AddServer (127.0.0.1)
+18:58:43 [ServerManager][1] ServerInfo (MuDevs) (55901) (20) (0)
+18:58:44 [DSF][RenewDSFPartyRank]2
+18:58:44 [DSF][RenewDSFPartyRank]3
+18:58:44 [DSF][RenewDSFPartyRank]4
+19:38:33 [SocketManager] Server started at port [55960]
+19:38:40 [ServerManager][0] AddServer (127.0.0.1)
+19:38:40 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533) (0)
+19:38:43 [MainProc][2][Expire Mission Info][Restore] 2023-03-30 AM10:30
+19:38:43 [ImperialGuardianRenewal][MainProc][Play Info][Restore] [2023-03-30 AM10:30][MainAttr:4]
+19:38:46 [ServerManager][1] AddServer (127.0.0.1)
+19:38:46 [ServerManager][1] ServerInfo (MuDevs) (55901) (20) (0)
+19:38:47 [DSF][RenewDSFPartyRank]2
+19:38:47 [DSF][RenewDSFPartyRank]3
+19:38:47 [DSF][RenewDSFPartyRank]4
+19:41:31 [SocketManager] Server started at port [55960]
+19:41:39 [ServerManager][0] AddServer (127.0.0.1)
+19:41:39 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533) (0)
+19:41:41 [MainProc][2][Expire Mission Info][Restore] 2023-03-30 AM10:30
+19:41:41 [ImperialGuardianRenewal][MainProc][Play Info][Restore] [2023-03-30 AM10:30][MainAttr:4]
+19:41:50 [ServerManager][1] AddServer (127.0.0.1)
+19:41:50 [ServerManager][1] ServerInfo (MuDevs) (55901) (20) (0)
+19:41:51 [DSF][RenewDSFPartyRank]2
+19:41:51 [DSF][RenewDSFPartyRank]3
+19:41:51 [DSF][RenewDSFPartyRank]4
+20:34:56 [SocketManager] Server started at port [55960]
+20:35:01 [ServerManager][0] AddServer (127.0.0.1)
+20:35:01 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533) (0)
+20:35:06 [MainProc][2][Expire Mission Info][Restore] 2023-03-30 AM10:30
+20:35:06 [ImperialGuardianRenewal][MainProc][Play Info][Restore] [2023-03-30 AM10:30][MainAttr:4]
+20:35:09 [ServerManager][1] AddServer (127.0.0.1)
+20:35:09 [ServerManager][1] ServerInfo (MuDevs) (55901) (20) (0)
+20:35:10 [DSF][RenewDSFPartyRank]2
+20:35:10 [DSF][RenewDSFPartyRank]3
+20:35:10 [DSF][RenewDSFPartyRank]4
+21:19:36 [ServerManager][0] DelServer (127.0.0.1)
+21:19:42 [SocketManager] Server started at port [55960]
+21:19:50 [ServerManager][0] AddServer (127.0.0.1)
+21:19:50 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533) (0)
+21:19:52 [MainProc][2][Expire Mission Info][Restore] 2023-03-30 AM10:30
+21:19:52 [ImperialGuardianRenewal][MainProc][Play Info][Restore] [2023-03-30 AM10:30][MainAttr:4]
+21:19:55 [ServerManager][1] AddServer (127.0.0.1)
+21:19:55 [ServerManager][1] ServerInfo (MuDevs) (55901) (20) (0)
+21:19:56 [DSF][RenewDSFPartyRank]2
+21:19:56 [DSF][RenewDSFPartyRank]3
+21:19:56 [DSF][RenewDSFPartyRank]4
+21:42:44 [SocketManager] Server started at port [55960]
+21:42:51 [ServerManager][0] AddServer (127.0.0.1)
+21:42:51 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533) (0)
+21:42:54 [MainProc][2][Expire Mission Info][Restore] 2023-03-30 AM10:30
+21:42:54 [ImperialGuardianRenewal][MainProc][Play Info][Restore] [2023-03-30 AM10:30][MainAttr:4]
+21:42:56 [ServerManager][1] AddServer (127.0.0.1)
+21:42:56 [ServerManager][1] ServerInfo (MuDevs) (55901) (20) (0)
+21:42:57 [DSF][RenewDSFPartyRank]2
+21:42:57 [DSF][RenewDSFPartyRank]3
+21:42:57 [DSF][RenewDSFPartyRank]4
+21:52:10 [SocketManager] Server started at port [55960]
+21:52:15 [ServerManager][0] AddServer (127.0.0.1)
+21:52:15 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533) (0)
+21:52:20 [MainProc][2][Expire Mission Info][Restore] 2023-03-30 AM10:30
+21:52:20 [ImperialGuardianRenewal][MainProc][Play Info][Restore] [2023-03-30 AM10:30][MainAttr:4]
+21:52:23 [ServerManager][1] AddServer (127.0.0.1)
+21:52:23 [ServerManager][1] ServerInfo (MuDevs) (55901) (20) (0)
+21:52:24 [DSF][RenewDSFPartyRank]2
+21:52:24 [DSF][RenewDSFPartyRank]3
+21:52:24 [DSF][RenewDSFPartyRank]4
+23:31:42 [SocketManager] Server started at port [55960]
+23:31:48 [ServerManager][0] AddServer (127.0.0.1)
+23:31:48 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533) (0)
+23:31:52 [MainProc][2][Expire Mission Info][Restore] 2023-03-30 AM10:30
+23:31:52 [ImperialGuardianRenewal][MainProc][Play Info][Restore] [2023-03-30 AM10:30][MainAttr:4]
+23:31:54 [ServerManager][1] AddServer (127.0.0.1)
+23:31:54 [ServerManager][1] ServerInfo (MuDevs) (55901) (20) (0)
+23:31:55 [DSF][RenewDSFPartyRank]2
+23:31:55 [DSF][RenewDSFPartyRank]3
+23:31:55 [DSF][RenewDSFPartyRank]4
+23:59:07 [EventEntryLimit][MainProc] Delete All Info [Time:2023-03-24 PM11:59]
+23:59:08 [Labyrinth][MainProc] Delete All Info [Time:2023-03-24 PM11:59]

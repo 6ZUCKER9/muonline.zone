@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MonsterSetBase>
+<!-- <!--Dungeon 1-->
+<!--		<Config Class="11" Range="5" BeginPosX="219" BeginPosY="73" EndPosX="229" EndPosY="83" Direction="-1" Quantity="1" Element="0" /> <!-- Ghost -->
+<!--		<Config Class="12" Range="5" BeginPosX="219" BeginPosY="73" EndPosX="229" EndPosY="83" Direction="-1" Quantity="1" Element="0" /> <!-- Larva -->
+<!--		<Config Class="14" Range="5" BeginPosX="219" BeginPosY="73" EndPosX="229" EndPosY="83" Direction="-1" Quantity="1" Element="0" /> <!-- Skeleton -->
+<!--Dungeon 2-->
+<!--		<Config Class="16" Range="5" BeginPosX="219" BeginPosY="73" EndPosX="229" EndPosY="83" Direction="-1" Quantity="1" Element="0" /> <!-- Chief Skeleton Warrior -->
+<!--		<Config Class="15" Range="5" BeginPosX="219" BeginPosY="73" EndPosX="229" EndPosY="83" Direction="-1" Quantity="1" /> <!-- Skeleton Archer -->
+<!--		<Config Class="17" Range="5" BeginPosX="219" BeginPosY="73" EndPosX="229" EndPosY="83" Direction="-1" Quantity="1" /> <!-- Cyclops -->
+<!--		<Config Class="5" Range="5" BeginPosX="219" BeginPosY="73" EndPosX="229" EndPosY="83" Direction="-1" Quantity="1" /> <!-- Hell Hound -->
+<!--		<Config Class="13" Range="5" BeginPosX="219" BeginPosY="73" EndPosX="229" EndPosY="83" Direction="-1" Quantity="1" /> <!-- Hell Spider -->
+<!--Dungeon 3-->
+<!--		<Config Class="8" Range="5" BeginPosX="219" BeginPosY="73" EndPosX="229" EndPosY="83" Direction="-1" Quantity="1" /> <!-- Poison Bull Fighter -->
+<!--		<Config Class="9" Range="5" BeginPosX="219" BeginPosY="73" EndPosX="229" EndPosY="83" Direction="-1" Quantity="1" /> <!-- Thunder Lich -->
+<!--		<Config Class="10" Range="5" BeginPosX="219" BeginPosY="73" EndPosX="229" EndPosY="83" Direction="-1" Quantity="1" /> <!-- Dark Knight -->		
+<!--		<Config Class="18" Range="5" BeginPosX="219" BeginPosY="73" EndPosX="229" EndPosY="83" Direction="-1" Quantity="1" /> <!-- "Gorgon" --> -->
+	<NPC>
+		<Config Class="101" Range="0" PositionX="10" PositionY="26" Direction="1" Element="0" /> <!-- "Iron Stick" -->
+		<Config Class="101" Range="0" PositionX="11" PositionY="26" Direction="1" Element="0" /> <!-- "Iron Stick" -->
+		<Config Class="101" Range="0" PositionX="27" PositionY="12" Direction="1" Element="0" /> <!-- "Iron Stick" -->
+		<Config Class="101" Range="0" PositionX="24" PositionY="5" Direction="1" Element="0" /> <!-- "Iron Stick" -->
+		<Config Class="101" Range="0" PositionX="24" PositionY="4" Direction="1" Element="0" /> <!-- "Iron Stick" -->
+		<Config Class="101" Range="0" PositionX="27" PositionY="11" Direction="1" Element="0" /> <!-- "Iron Stick" -->
+		<Config Class="101" Range="0" PositionX="23" PositionY="24" Direction="1" Element="0" /> <!-- "Iron Stick" -->
+		<Config Class="101" Range="0" PositionX="27" PositionY="21" Direction="1" Element="0" /> <!-- "Iron Stick" -->
+		<Config Class="101" Range="0" PositionX="19" PositionY="19" Direction="1" Element="0" /> <!-- "Iron Stick" -->
+		<Config Class="101" Range="0" PositionX="22" PositionY="24" Direction="1" Element="0" /> <!-- "Iron Stick" -->
+		<Config Class="101" Range="0" PositionX="23" PositionY="29" Direction="1" Element="0" /> <!-- "Iron Stick" -->
+		<Config Class="101" Range="0" PositionX="23" PositionY="28" Direction="1" Element="0" /> <!-- "Iron Stick" -->
+		<Config Class="101" Range="0" PositionX="33" PositionY="9" Direction="1" Element="0" /> <!-- "Iron Stick" -->
+		<Config Class="101" Range="0" PositionX="35" PositionY="9" Direction="1" Element="0" /> <!-- "Iron Stick" -->
+		<Config Class="101" Range="0" PositionX="39" PositionY="18" Direction="1" Element="0" /> <!-- "Iron Stick" -->
+		<Config Class="101" Range="0" PositionX="39" PositionY="17" Direction="1" Element="0" /> <!-- "Iron Stick" -->
+		<Config Class="101" Range="0" PositionX="39" PositionY="16" Direction="1" Element="0" /> <!-- "Iron Stick" -->
+		<Config Class="102" Range="0" PositionX="45" PositionY="224" Direction="3" Element="0" /> <!-- "Fire" -->
+		<Config Class="101" Range="0" PositionX="48" PositionY="193" Direction="1" Element="0" /> <!-- "Iron Stick" -->
+		<Config Class="101" Range="0" PositionX="49" PositionY="193" Direction="1" Element="0" /> <!-- "Iron Stick" -->
+		<Config Class="102" Range="0" PositionX="66" PositionY="71" Direction="3" Element="0" /> <!-- "Fire" -->
+		<Config Class="102" Range="0" PositionX="80" PositionY="61" Direction="1" Element="0" /> <!-- "Fire" -->
+		<Config Class="101" Range="0" PositionX="90" PositionY="164" Direction="1" Element="0" /> <!-- "Iron Stick" -->
+		<Config Class="101" Range="0" PositionX="92" PositionY="164" Direction="1" Element="0" /> <!-- "Iron Stick" -->
+		<Config Class="101" Range="0" PositionX="91" PositionY="164" Direction="1" Element="0" /> <!-- "Iron Stick" -->
+		<Config Class="100" Range="0" PositionX="126" PositionY="99" Direction="1" Element="0" /> <!-- "Lance" -->
+		<Config Class="100" Range="0" PositionX="123" PositionY="99" Direction="1" Element="0" /> <!-- "Lance" -->
+		<Config Class="100" Range="0" PositionX="120" PositionY="99" Direction="1" Element="0" /> <!-- "Lance" -->
+		<Config Class="100" Range="0" PositionX="117" PositionY="99" Direction="1" Element="0" /> <!-- "Lance" -->
+		<Config Class="100" Range="0" PositionX="136" PositionY="95" Direction="1" Element="0" /> <!-- "Lance" -->
+		<Config Class="100" Range="0" PositionX="139" PositionY="95" Direction="1" Element="0" /> <!-- "Lance" -->
+		<Config Class="101" Range="0" PositionX="128" PositionY="212" Direction="1" Element="0" /> <!-- "Iron Stick" -->
+		<Config Class="101" Range="0" PositionX="130" PositionY="213" Direction="1" Element="0" /> <!-- "Iron Stick" -->
+		<Config Class="101" Range="0" PositionX="143" PositionY="214" Direction="1" Element="0" /> <!-- "Iron Stick" -->
+		<Config Class="101" Range="0" PositionX="155" PositionY="230" Direction="5" Element="0" /> <!-- "Iron Stick" -->
+		<Config Class="100" Range="0" PositionX="172" PositionY="12" Direction="1" Element="0" /> <!-- "Lance" -->
+		<Config Class="100" Range="0" PositionX="166" PositionY="12" Direction="1" Element="0" /> <!-- "Lance" -->
+		<Config Class="102" Range="0" PositionX="169" PositionY="12" Direction="1" Element="0" /> <!-- "Fire" -->
+		<Config Class="102" Range="0" PositionX="175" PositionY="12" Direction="1" Element="0" /> <!-- "Fire" -->
+		<Config Class="100" Range="0" PositionX="178" PositionY="12" Direction="1" Element="0" /> <!-- "Lance" -->
+		<Config Class="100" Range="0" PositionX="177" PositionY="103" Direction="1" Element="0" /> <!-- "Lance" -->
+		<Config Class="100" Range="0" PositionX="180" PositionY="103" Direction="1" Element="0" /> <!-- "Lance" -->
+		<Config Class="100" Range="0" PositionX="183" PositionY="103" Direction="1" Element="0" /> <!-- "Lance" -->
+		<Config Class="100" Range="0" PositionX="186" PositionY="103" Direction="1" Element="0" /> <!-- "Lance" -->
+		<Config Class="100" Range="0" PositionX="189" PositionY="103" Direction="1" Element="0" /> <!-- "Lance" -->
+		<Config Class="100" Range="0" PositionX="186" PositionY="151" Direction="3" Element="0" /> <!-- "Lance" -->
+		<Config Class="100" Range="0" PositionX="196" PositionY="33" Direction="1" Element="0" /> <!-- "Lance" -->
+		<Config Class="100" Range="0" PositionX="193" PositionY="33" Direction="1" Element="0" /> <!-- "Lance" -->
+		<Config Class="100" Range="0" PositionX="202" PositionY="93" Direction="1" Element="0" /> <!-- "Lance" -->
+		<Config Class="100" Range="0" PositionX="205" PositionY="93" Direction="1" Element="0" /> <!-- "Lance" -->
+		<Config Class="100" Range="0" PositionX="198" PositionY="130" Direction="1" Element="0" /> <!-- "Lance" -->
+		<Config Class="100" Range="0" PositionX="202" PositionY="150" Direction="1" Element="0" /> <!-- "Lance" -->
+		<Config Class="100" Range="0" PositionX="232" PositionY="46" Direction="3" Element="0" /> <!-- "Lance" -->
+		<Config Class="100" Range="0" PositionX="232" PositionY="40" Direction="3" Element="0" /> <!-- "Lance" -->
+		<Config Class="100" Range="0" PositionX="232" PositionY="37" Direction="3" Element="0" /> <!-- "Lance" -->
+		<Config Class="100" Range="0" PositionX="227" PositionY="61" Direction="1" Element="0" /> <!-- "Lance" -->
+		<Config Class="100" Range="0" PositionX="229" PositionY="93" Direction="1" Element="0" /> <!-- "Lance" -->
+		<Config Class="100" Range="0" PositionX="232" PositionY="93" Direction="1" Element="0" /> <!-- "Lance" -->
+	</NPC>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<SPOT>
+<!-- Dungeon-->
+<Config	Class="	14	"	Range="5"	BeginPosX="	86	"	BeginPosY="	239	"	EndPosX="	92	"	EndPosY="	245	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Skeleton	"	-->
+<Config	Class="	14	"	Range="5"	BeginPosX="	83	"	BeginPosY="	217	"	EndPosX="	89	"	EndPosY="	223	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Skeleton	"	-->
+<Config	Class="	14	"	Range="5"	BeginPosX="	75	"	BeginPosY="	204	"	EndPosX="	81	"	EndPosY="	210	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Skeleton	"	-->
+<Config	Class="	12	"	Range="5"	BeginPosX="	92	"	BeginPosY="	185	"	EndPosX="	98	"	EndPosY="	191	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Larva	"	-->
+<Config	Class="	12	"	Range="5"	BeginPosX="	71	"	BeginPosY="	182	"	EndPosX="	77	"	EndPosY="	188	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Larva	"	-->
+<Config	Class="	12	"	Range="5"	BeginPosX="	61	"	BeginPosY="	203	"	EndPosX="	67	"	EndPosY="	209	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Larva	"	-->
+<Config	Class="	11	"	Range="5"	BeginPosX="	46	"	BeginPosY="	178	"	EndPosX="	52	"	EndPosY="	184	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Ghost	"	-->
+<Config	Class="	11	"	Range="5"	BeginPosX="	47	"	BeginPosY="	206	"	EndPosX="	53	"	EndPosY="	212	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Ghost	"	-->
+<Config	Class="	11	"	Range="5"	BeginPosX="	44	"	BeginPosY="	229	"	EndPosX="	54	"	EndPosY="	239	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Ghost	"	-->
+<Config	Class="	11	"	Range="5"	BeginPosX="	77	"	BeginPosY="	148	"	EndPosX="	83	"	EndPosY="	154	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Ghost	"	-->
+<Config	Class="	11	"	Range="5"	BeginPosX="	114	"	BeginPosY="	164	"	EndPosX="	120	"	EndPosY="	170	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Ghost	"	-->
+<Config	Class="	11	"	Range="5"	BeginPosX="	62	"	BeginPosY="	164	"	EndPosX="	68	"	EndPosY="	170	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Ghost	"	-->
+<Config	Class="	17	"	Range="5"	BeginPosX="	242	"	BeginPosY="	172	"	EndPosX="	248	"	EndPosY="	178	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Cyclops	a"	-->
+<Config	Class="	17	"	Range="5"	BeginPosX="	206	"	BeginPosY="	157	"	EndPosX="	212	"	EndPosY="	163	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Cyclops	a"	-->
+<Config	Class="	17	"	Range="5"	BeginPosX="	157	"	BeginPosY="	150	"	EndPosX="	163	"	EndPosY="	156	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Cyclops	a"	-->
+<Config	Class="	17	"	Range="5"	BeginPosX="	197	"	BeginPosY="	117	"	EndPosX="	203	"	EndPosY="	123	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Cyclops	a"	-->
+<Config	Class="	5	"	Range="5"	BeginPosX="	175	"	BeginPosY="	120	"	EndPosX="	181	"	EndPosY="	126	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Hell Hound	a"	-->
+<Config	Class="	5	"	Range="5"	BeginPosX="	154	"	BeginPosY="	122	"	EndPosX="	160	"	EndPosY="	128	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Hell Hound	a"	-->
+<Config	Class="	5	"	Range="5"	BeginPosX="	143	"	BeginPosY="	124	"	EndPosX="	149	"	EndPosY="	130	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Hell Hound	a"	-->
+<Config	Class="	15	"	Range="5"	BeginPosX="	137	"	BeginPosY="	108	"	EndPosX="	143	"	EndPosY="	114	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Skeleton Archer	a"	-->
+<Config	Class="	15	"	Range="5"	BeginPosX="	121	"	BeginPosY="	118	"	EndPosX="	127	"	EndPosY="	124	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Skeleton Archer	a"	-->
+<Config	Class="	16	"	Range="5"	BeginPosX="	95	"	BeginPosY="	109	"	EndPosX="	101	"	EndPosY="	115	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Chief Skeleton Warrior	a"	-->
+<Config	Class="	16	"	Range="5"	BeginPosX="	83	"	BeginPosY="	111	"	EndPosX="	89	"	EndPosY="	117	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Chief Skeleton Warrior	a"	-->
+<Config	Class="	13	"	Range="5"	BeginPosX="	64	"	BeginPosY="	107	"	EndPosX="	70	"	EndPosY="	113	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Hell Spider	a"	-->
+<Config	Class="	13	"	Range="5"	BeginPosX="	74	"	BeginPosY="	113	"	EndPosX="	80	"	EndPosY="	119	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Hell Spider	a"	-->
+<Config	Class="	16	"	Range="5"	BeginPosX="	3	"	BeginPosY="	4	"	EndPosX="	9	"	EndPosY="	10	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Chief Skeleton Warrior	a"	-->
+<Config	Class="	5	"	Range="5"	BeginPosX="	36	"	BeginPosY="	20	"	EndPosX="	42	"	EndPosY="	26	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Hell Hound	a"	-->
+<Config	Class="	13	"	Range="5"	BeginPosX="	75	"	BeginPosY="	5	"	EndPosX="	81	"	EndPosY="	11	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Hell Spider	a"	-->
+<Config	Class="	13	"	Range="5"	BeginPosX="	120	"	BeginPosY="	8	"	EndPosX="	126	"	EndPosY="	14	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Hell Spider	a"	-->
+<Config	Class="	8	"	Range="5"	BeginPosX="	115	"	BeginPosY="	41	"	EndPosX="	125	"	EndPosY="	51	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Poison Bull Fighter	a"	-->
+<Config	Class="	8	"	Range="5"	BeginPosX="	3	"	BeginPosY="	51	"	EndPosX="	9	"	EndPosY="	57	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Poison Bull Fighter	a"	-->
+<Config	Class="	8	"	Range="5"	BeginPosX="	23	"	BeginPosY="	51	"	EndPosX="	29	"	EndPosY="	57	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Poison Bull Fighter	a"	-->
+<Config	Class="	8	"	Range="5"	BeginPosX="	41	"	BeginPosY="	51	"	EndPosX="	47	"	EndPosY="	57	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Poison Bull Fighter	a"	-->
+<Config	Class="	9	"	Range="5"	BeginPosX="	41	"	BeginPosY="	77	"	EndPosX="	47	"	EndPosY="	83	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Thunder Lich	a"	-->
+<Config	Class="	9	"	Range="5"	BeginPosX="	20	"	BeginPosY="	78	"	EndPosX="	26	"	EndPosY="	84	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Thunder Lich	a"	-->
+<Config	Class="	10	"	Range="5"	BeginPosX="	5	"	BeginPosY="	105	"	EndPosX="	11	"	EndPosY="	111	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Dark Knight	a"	-->
+<Config	Class="	10	"	Range="5"	BeginPosX="	3	"	BeginPosY="	123	"	EndPosX="	9	"	EndPosY="	129	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Dark Knight	a"	-->
+<Config	Class="	10"	Range="5"	BeginPosX="	38	"	BeginPosY="	116	"	EndPosX="	44	"	EndPosY="	122	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Dark Knight	a"	-->
+
+	
+
+	</SPOT>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<MONSTER>		
+	</MONSTER>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<EVENT>
+	</EVENT>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+</MonsterSetBase>

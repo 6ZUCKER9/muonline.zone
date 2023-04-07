@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+// ============================================================
+// == MuDevs Ex1702
+// == www.mudevs.com
+// == (C) 2021 MuDevs (R)
+// ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+// == By Oliveira & OMEGA
+// ============================================================
+// Elements: 1 = Fire / 2 = Water / 3 = Earth / 4 = Wind / 5 = Darkness / 6 = Randon
+//~~ 
+-->
+
+<MonsterSetBase>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<NPC>
+	<Config Class="253" Range="0" PositionX="123" PositionY="029" Direction="2" Element="0" /> <!-- "Potion Girl Amy" -->
+	</NPC>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<SPOT>
+<Config	Class="	892	"	Range="5"	BeginPosX="	67	"	BeginPosY="	60	"	EndPosX="	73	"	EndPosY="	66	"	Direction="-1" Quantity="5" Element="2"/>	<!--	"	Old Crimson Lycan	a"	-->
+<Config	Class="	894	"	Range="5"	BeginPosX="	57	"	BeginPosY="	14	"	EndPosX="	63	"	EndPosY="	20	"	Direction="-1" Quantity="5" Element="3"/>	<!--	"	Old Crimson Harpy	a"	-->
+<Config	Class="	893	"	Range="5"	BeginPosX="	95	"	BeginPosY="	5	"	EndPosX="	101	"	EndPosY="	11	"	Direction="-1" Quantity="5" Element="4"/>	<!--	"	Old Crimson Minos	a"	-->
+<Config	Class="	892	"	Range="5"	BeginPosX="	76	"	BeginPosY="	30	"	EndPosX="	82	"	EndPosY="	36	"	Direction="-1" Quantity="5" Element="5"/>	<!--	"	Old Crimson Lycan	a"	-->
+<Config	Class="	894	"	Range="5"	BeginPosX="	35	"	BeginPosY="	8	"	EndPosX="	41	"	EndPosY="	14	"	Direction="-1" Quantity="5" Element="1"/>	<!--	"	Old Crimson Harpy	a"	-->
+<Config	Class="	893	"	Range="5"	BeginPosX="	9	"	BeginPosY="	65	"	EndPosX="	15	"	EndPosY="	71	"	Direction="-1" Quantity="5" Element="2"/>	<!--	"	Old Crimson Minos	a"	-->
+<Config	Class="	892	"	Range="5"	BeginPosX="	39	"	BeginPosY="	57	"	EndPosX="	45	"	EndPosY="	63	"	Direction="-1" Quantity="5" Element="3"/>	<!--	"	Old Crimson Lycan	a"	-->
+<Config	Class="	894	"	Range="5"	BeginPosX="	80	"	BeginPosY="	128	"	EndPosX="	86	"	EndPosY="	134	"	Direction="-1" Quantity="5" Element="4"/>	<!--	"	Old Crimson Harpy	a"	-->
+<Config	Class="	893	"	Range="5"	BeginPosX="	63	"	BeginPosY="	126	"	EndPosX="	69	"	EndPosY="	132	"	Direction="-1" Quantity="5" Element="5"/>	<!--	"	Old Crimson Minos	a"	-->
+<Config	Class="	892	"	Range="5"	BeginPosX="	31	"	BeginPosY="	163	"	EndPosX="	37	"	EndPosY="	169	"	Direction="-1" Quantity="7" Element="1"/>	<!--	"	Old Crimson Lycan	a"	-->
+<Config	Class="	894	"	Range="5"	BeginPosX="	13	"	BeginPosY="	130	"	EndPosX="	19	"	EndPosY="	136	"	Direction="-1" Quantity="5" Element="2"/>	<!--	"	Old Crimson Harpy	a"	-->
+<Config	Class="	893	"	Range="5"	BeginPosX="	9	"	BeginPosY="	99	"	EndPosX="	15	"	EndPosY="	105	"	Direction="-1" Quantity="5" Element="3"/>	<!--	"	Old Crimson Minos	a"	-->
+<Config	Class="	892	"	Range="5"	BeginPosX="	43	"	BeginPosY="	107	"	EndPosX="	49	"	EndPosY="	113	"	Direction="-1" Quantity="5" Element="4"/>	<!--	"	Old Crimson Lycan	a"	-->
+<Config	Class="	894	"	Range="5"	BeginPosX="	124	"	BeginPosY="	167	"	EndPosX="	130	"	EndPosY="	173	"	Direction="-1" Quantity="5" Element="5"/>	<!--	"	Old Crimson Harpy	a"	-->
+<Config	Class="	893	"	Range="5"	BeginPosX="	90	"	BeginPosY="	191	"	EndPosX="	96	"	EndPosY="	197	"	Direction="-1" Quantity="5" Element="1"/>	<!--	"	Old Crimson Minos	a"	-->
+<Config	Class="	892	"	Range="5"	BeginPosX="	52	"	BeginPosY="	237	"	EndPosX="	58	"	EndPosY="	243	"	Direction="-1" Quantity="5" Element="2"/>	<!--	"	Old Crimson Lycan	a"	-->
+<Config	Class="	894	"	Range="5"	BeginPosX="	15	"	BeginPosY="	208	"	EndPosX="	21	"	EndPosY="	214	"	Direction="-1" Quantity="5" Element="3"/>	<!--	"	Old Crimson Harpy	a"	-->
+<Config	Class="	893	"	Range="5"	BeginPosX="	55	"	BeginPosY="	200	"	EndPosX="	65	"	EndPosY="	210	"	Direction="-1" Quantity="5" Element="4"/>	<!--	"	Old Crimson Minos	a"	-->
+<Config	Class="	892	"	Range="5"	BeginPosX="	145	"	BeginPosY="	210	"	EndPosX="	151	"	EndPosY="	216	"	Direction="-1" Quantity="6" Element="5"/>	<!--	"	Old Crimson Lycan	a"	-->
+<Config	Class="	894	"	Range="5"	BeginPosX="	118	"	BeginPosY="	206	"	EndPosX="	124	"	EndPosY="	212	"	Direction="-1" Quantity="5" Element="1"/>	<!--	"	Old Crimson Harpy	a"	-->
+<Config	Class="	893	"	Range="5"	BeginPosX="	216	"	BeginPosY="	187	"	EndPosX="	222	"	EndPosY="	193	"	Direction="-1" Quantity="5" Element="2"/>	<!--	"	Old Crimson Minos	a"	-->
+<Config	Class="	892	"	Range="5"	BeginPosX="	229	"	BeginPosY="	140	"	EndPosX="	235	"	EndPosY="	146	"	Direction="-1" Quantity="5" Element="3"/>	<!--	"	Old Crimson Lycan	a"	-->
+<Config	Class="	894	"	Range="5"	BeginPosX="	221	"	BeginPosY="	108	"	EndPosX="	227	"	EndPosY="	114	"	Direction="-1" Quantity="5" Element="4"/>	<!--	"	Old Crimson Harpy	a"	-->
+<Config	Class="	893	"	Range="5"	BeginPosX="	194	"	BeginPosY="	102	"	EndPosX="	200	"	EndPosY="	108	"	Direction="-1" Quantity="5" Element="5"/>	<!--	"	Old Crimson Minos	a"	-->
+<Config	Class="	892	"	Range="5"	BeginPosX="	138	"	BeginPosY="	129	"	EndPosX="	144	"	EndPosY="	135	"	Direction="-1" Quantity="5" Element="1"/>	<!--	"	Old Crimson Lycan	a"	-->
+<Config	Class="	894	"	Range="5"	BeginPosX="	112	"	BeginPosY="	126	"	EndPosX="	118	"	EndPosY="	132	"	Direction="-1" Quantity="5" Element="2"/>	<!--	"	Old Crimson Harpy	a"	-->
+<Config	Class="	893	"	Range="5"	BeginPosX="	105	"	BeginPosY="	91	"	EndPosX="	111	"	EndPosY="	97	"	Direction="-1" Quantity="5" Element="3"/>	<!--	"	Old Crimson Minos	a"	-->
+<Config	Class="	892	"	Range="5"	BeginPosX="	145	"	BeginPosY="	92	"	EndPosX="	151	"	EndPosY="	98	"	Direction="-1" Quantity="5" Element="4"/>	<!--	"	Old Crimson Lycan	a"	-->
+<Config	Class="	894	"	Range="5"	BeginPosX="	161	"	BeginPosY="	12	"	EndPosX="	167	"	EndPosY="	18	"	Direction="-1" Quantity="5" Element="5"/>	<!--	"	Old Crimson Harpy	a"	-->
+<Config	Class="	893	"	Range="5"	BeginPosX="	186	"	BeginPosY="	14	"	EndPosX="	192	"	EndPosY="	20	"	Direction="-1" Quantity="5" Element="1"/>	<!--	"	Old Crimson Minos	a"	-->
+<Config	Class="	892	"	Range="5"	BeginPosX="	235	"	BeginPosY="	12	"	EndPosX="	241	"	EndPosY="	18	"	Direction="-1" Quantity="5" Element="2"/>	<!--	"	Old Crimson Lycan	a"	-->
+<Config	Class="	894	"	Range="5"	BeginPosX="	215	"	BeginPosY="	38	"	EndPosX="	221	"	EndPosY="	44	"	Direction="-1" Quantity="5" Element="3"/>	<!--	"	Old Crimson Harpy	a"	-->
+<Config	Class="	893	"	Range="5"	BeginPosX="	228	"	BeginPosY="	60	"	EndPosX="	234	"	EndPosY="	66	"	Direction="-1" Quantity="5" Element="4"/>	<!--	"	Old Crimson Minos	a"	-->
+<Config	Class="	892	"	Range="5"	BeginPosX="	162	"	BeginPosY="	56	"	EndPosX="	168	"	EndPosY="	62	"	Direction="-1" Quantity="6" Element="5"/>	<!--	"	Old Crimson Lycan	a"	-->
+<Config	Class="	894	"	Range="5"	BeginPosX="	185	"	BeginPosY="	69	"	EndPosX="	191	"	EndPosY="	75	"	Direction="-1" Quantity="5" Element="1"/>	<!--	"	Old Crimson Harpy	a"	-->
+	</SPOT>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+  	<MONSTER>
+	</MONSTER>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<EVENT>
+	</EVENT>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+</MonsterSetBase>

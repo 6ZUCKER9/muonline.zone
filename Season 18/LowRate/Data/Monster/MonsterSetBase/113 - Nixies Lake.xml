@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MonsterSetBase>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<NPC>
+		<Config Class="748" Range="0" PositionX="113" PositionY="109" Direction="1" Element="0" /> <!-- "The Spirit of Nixie" -->
+	</NPC>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<SPOT>
+<Config	Class="	743	"	Range="5"	BeginPosX="	76	"	BeginPosY="	78	"	EndPosX="	82	"	EndPosY="	84	"	Direction="-1" Quantity="5" Element="1"/>	<!--	"	Paraca	a"	-->
+<Config	Class="	745	"	Range="5"	BeginPosX="	92	"	BeginPosY="	61	"	EndPosX="	98	"	EndPosY="	67	"	Direction="-1" Quantity="5" Element="2"/>	<!--	"	Bass	a"	-->
+<Config	Class="	744	"	Range="5"	BeginPosX="	83	"	BeginPosY="	42	"	EndPosX="	89	"	EndPosY="	48	"	Direction="-1" Quantity="6" Element="3"/>	<!--	"	Vasuki	a"	-->
+<Config	Class="	743	"	Range="5"	BeginPosX="	59	"	BeginPosY="	69	"	EndPosX="	65	"	EndPosY="	75	"	Direction="-1" Quantity="5" Element="4"/>	<!--	"	Paraca	a"	-->
+<Config	Class="	745	"	Range="5"	BeginPosX="	17	"	BeginPosY="	61	"	EndPosX="	23	"	EndPosY="	67	"	Direction="-1" Quantity="5" Element="5"/>	<!--	"	Bass	a"	-->
+<Config	Class="	744	"	Range="5"	BeginPosX="	16	"	BeginPosY="	83	"	EndPosX="	22	"	EndPosY="	89	"	Direction="-1" Quantity="5" Element="1"/>	<!--	"	Vasuki	a"	-->
+<Config	Class="	743	"	Range="5"	BeginPosX="	42	"	BeginPosY="	48	"	EndPosX="	48	"	EndPosY="	54	"	Direction="-1" Quantity="5" Element="2"/>	<!--	"	Paraca	a"	-->
+<Config	Class="	745	"	Range="5"	BeginPosX="	14	"	BeginPosY="	42	"	EndPosX="	20	"	EndPosY="	48	"	Direction="-1" Quantity="5" Element="3"/>	<!--	"	Bass	a"	-->
+<Config	Class="	744	"	Range="5"	BeginPosX="	12	"	BeginPosY="	21	"	EndPosX="	18	"	EndPosY="	27	"	Direction="-1" Quantity="5" Element="4"/>	<!--	"	Vasuki	a"	-->
+<Config	Class="	743	"	Range="5"	BeginPosX="	31	"	BeginPosY="	9	"	EndPosX="	37	"	EndPosY="	15	"	Direction="-1" Quantity="5" Element="5"/>	<!--	"	Paraca	a"	-->
+<Config	Class="	745	"	Range="5"	BeginPosX="	51	"	BeginPosY="	9	"	EndPosX="	57	"	EndPosY="	15	"	Direction="-1" Quantity="5" Element="1"/>	<!--	"	Bass	a"	-->
+<Config	Class="	744	"	Range="5"	BeginPosX="	76	"	BeginPosY="	10	"	EndPosX="	82	"	EndPosY="	16	"	Direction="-1" Quantity="5" Element="2"/>	<!--	"	Vasuki	a"	-->
+<Config	Class="	743	"	Range="5"	BeginPosX="	112	"	BeginPosY="	66	"	EndPosX="	118	"	EndPosY="	72	"	Direction="-1" Quantity="5" Element="3"/>	<!--	"	Paraca	a"	-->
+<Config	Class="	745	"	Range="5"	BeginPosX="	114	"	BeginPosY="	50	"	EndPosX="	120	"	EndPosY="	56	"	Direction="-1" Quantity="5" Element="4"/>	<!--	"	Bass	a"	-->
+<Config	Class="	744	"	Range="5"	BeginPosX="	102	"	BeginPosY="	41	"	EndPosX="	108	"	EndPosY="	47	"	Direction="-1" Quantity="5" Element="5"/>	<!--	"	Vasuki	a"	-->
+<Config	Class="	743	"	Range="5"	BeginPosX="	92	"	BeginPosY="	16	"	EndPosX="	98	"	EndPosY="	22	"	Direction="-1" Quantity="5" Element="1"/>	<!--	"	Paraca	a"	-->
+<Config	Class="	745	"	Range="5"	BeginPosX="	117	"	BeginPosY="	11	"	EndPosX="	123	"	EndPosY="	17	"	Direction="-1" Quantity="5" Element="2"/>	<!--	"	Bass	a"	-->
+<Config	Class="	744	"	Range="5"	BeginPosX="	137	"	BeginPosY="	8	"	EndPosX="	147	"	EndPosY="	18	"	Direction="-1" Quantity="5" Element="3"/>	<!--	"	Vasuki	a"	-->
+<Config	Class="	743	"	Range="5"	BeginPosX="	150	"	BeginPosY="	23	"	EndPosX="	156	"	EndPosY="	29	"	Direction="-1" Quantity="7" Element="4"/>	<!--	"	Paraca	a"	-->
+<Config	Class="	745	"	Range="5"	BeginPosX="	145	"	BeginPosY="	42	"	EndPosX="	151	"	EndPosY="	48	"	Direction="-1" Quantity="5" Element="5"/>	<!--	"	Bass	a"	-->
+<Config	Class="	744	"	Range="5"	BeginPosX="	164	"	BeginPosY="	25	"	EndPosX="	170	"	EndPosY="	31	"	Direction="-1" Quantity="5" Element="1"/>	<!--	"	Vasuki	a"	-->
+<Config	Class="	743	"	Range="5"	BeginPosX="	174	"	BeginPosY="	11	"	EndPosX="	180	"	EndPosY="	17	"	Direction="-1" Quantity="5" Element="2"/>	<!--	"	Paraca	a"	-->
+<Config	Class="	745	"	Range="5"	BeginPosX="	194	"	BeginPosY="	14	"	EndPosX="	200	"	EndPosY="	20	"	Direction="-1" Quantity="5" Element="3"/>	<!--	"	Bass	a"	-->
+<Config	Class="	744	"	Range="5"	BeginPosX="	185	"	BeginPosY="	38	"	EndPosX="	191	"	EndPosY="	44	"	Direction="-1" Quantity="5" Element="4"/>	<!--	"	Vasuki	a"	-->
+<Config	Class="	743	"	Range="5"	BeginPosX="	178	"	BeginPosY="	53	"	EndPosX="	184	"	EndPosY="	59	"	Direction="-1" Quantity="5" Element="5"/>	<!--	"	Paraca	a"	-->
+<Config	Class="	745	"	Range="5"	BeginPosX="	204	"	BeginPosY="	60	"	EndPosX="	210	"	EndPosY="	66	"	Direction="-1" Quantity="5" Element="1"/>	<!--	"	Bass	a"	-->
+<Config	Class="	744	"	Range="5"	BeginPosX="	204	"	BeginPosY="	30	"	EndPosX="	210	"	EndPosY="	36	"	Direction="-1" Quantity="5" Element="2"/>	<!--	"	Vasuki	a"	-->
+<Config	Class="	743	"	Range="5"	BeginPosX="	225	"	BeginPosY="	10	"	EndPosX="	231	"	EndPosY="	16	"	Direction="-1" Quantity="5" Element="3"/>	<!--	"	Paraca	a"	-->
+<Config	Class="	745	"	Range="5"	BeginPosX="	238	"	BeginPosY="	23	"	EndPosX="	244	"	EndPosY="	29	"	Direction="-1" Quantity="5" Element="4"/>	<!--	"	Bass	a"	-->
+<Config	Class="	744	"	Range="5"	BeginPosX="	237	"	BeginPosY="	49	"	EndPosX="	243	"	EndPosY="	55	"	Direction="-1" Quantity="5" Element="5"/>	<!--	"	Vasuki	a"	-->
+<Config	Class="	743	"	Range="5"	BeginPosX="	215	"	BeginPosY="	50	"	EndPosX="	221	"	EndPosY="	56	"	Direction="-1" Quantity="5" Element="1"/>	<!--	"	Paraca	a"	-->
+<Config	Class="	745	"	Range="5"	BeginPosX="	238	"	BeginPosY="	66	"	EndPosX="	244	"	EndPosY="	72	"	Direction="-1" Quantity="5" Element="2"/>	<!--	"	Bass	a"	-->
+<Config	Class="	744	"	Range="5"	BeginPosX="	197	"	BeginPosY="	100	"	EndPosX="	203	"	EndPosY="	106	"	Direction="-1" Quantity="5" Element="3"/>	<!--	"	Vasuki	a"	-->
+<Config	Class="	743	"	Range="5"	BeginPosX="	212	"	BeginPosY="	105	"	EndPosX="	218	"	EndPosY="	111	"	Direction="-1" Quantity="5" Element="4"/>	<!--	"	Paraca	a"	-->
+<Config	Class="	745	"	Range="5"	BeginPosX="	233	"	BeginPosY="	106	"	EndPosX="	239	"	EndPosY="	112	"	Direction="-1" Quantity="5" Element="5"/>	<!--	"	Bass	a"	-->
+<Config	Class="	744	"	Range="5"	BeginPosX="	236	"	BeginPosY="	85	"	EndPosX="	242	"	EndPosY="	91	"	Direction="-1" Quantity="5" Element="1"/>	<!--	"	Vasuki	a"	-->
+<Config	Class="	743	"	Range="5"	BeginPosX="	148	"	BeginPosY="	130	"	EndPosX="	154	"	EndPosY="	136	"	Direction="-1" Quantity="5" Element="2"/>	<!--	"	Paraca	a"	-->
+<Config	Class="	745	"	Range="5"	BeginPosX="	180	"	BeginPosY="	114	"	EndPosX="	186	"	EndPosY="	120	"	Direction="-1" Quantity="5" Element="3"/>	<!--	"	Bass	a"	-->
+<Config	Class="	744	"	Range="5"	BeginPosX="	199	"	BeginPosY="	116	"	EndPosX="	205	"	EndPosY="	122	"	Direction="-1" Quantity="6" Element="4"/>	<!--	"	Vasuki	a"	-->
+<Config	Class="	743	"	Range="5"	BeginPosX="	158	"	BeginPosY="	152	"	EndPosX="	164	"	EndPosY="	158	"	Direction="-1" Quantity="5" Element="5"/>	<!--	"	Paraca	a"	-->
+<Config	Class="	745	"	Range="5"	BeginPosX="	181	"	BeginPosY="	161	"	EndPosX="	187	"	EndPosY="	167	"	Direction="-1" Quantity="5" Element="1"/>	<!--	"	Bass	a"	-->
+<Config	Class="	744	"	Range="5"	BeginPosX="	173	"	BeginPosY="	183	"	EndPosX="	179	"	EndPosY="	189	"	Direction="-1" Quantity="5" Element="2"/>	<!--	"	Vasuki	a"	-->
+<Config	Class="	743	"	Range="5"	BeginPosX="	175	"	BeginPosY="	215	"	EndPosX="	181	"	EndPosY="	221	"	Direction="-1" Quantity="5" Element="3"/>	<!--	"	Paraca	a"	-->
+<Config	Class="	745	"	Range="5"	BeginPosX="	232	"	BeginPosY="	215	"	EndPosX="	238	"	EndPosY="	221	"	Direction="-1" Quantity="5" Element="4"/>	<!--	"	Bass	a"	-->
+<Config	Class="	744	"	Range="5"	BeginPosX="	235	"	BeginPosY="	179	"	EndPosX="	241	"	EndPosY="	185	"	Direction="-1" Quantity="5" Element="5"/>	<!--	"	Vasuki	a"	-->
+<Config	Class="	743	"	Range="5"	BeginPosX="	232	"	BeginPosY="	158	"	EndPosX="	238	"	EndPosY="	164	"	Direction="-1" Quantity="5" Element="1"/>	<!--	"	Paraca	a"	-->
+<Config	Class="	745	"	Range="5"	BeginPosX="	230	"	BeginPosY="	127	"	EndPosX="	236	"	EndPosY="	133	"	Direction="-1" Quantity="5" Element="2"/>	<!--	"	Bass	a"	-->
+<Config	Class="	744	"	Range="5"	BeginPosX="	84	"	BeginPosY="	157	"	EndPosX="	90	"	EndPosY="	163	"	Direction="-1" Quantity="5" Element="3"/>	<!--	"	Vasuki	a"	-->
+<Config	Class="	743	"	Range="5"	BeginPosX="	95	"	BeginPosY="	170	"	EndPosX="	101	"	EndPosY="	176	"	Direction="-1" Quantity="5" Element="4"/>	<!--	"	Paraca	a"	-->
+<Config	Class="	745	"	Range="5"	BeginPosX="	133	"	BeginPosY="	152	"	EndPosX="	139	"	EndPosY="	158	"	Direction="-1" Quantity="5" Element="5"/>	<!--	"	Bass	a"	-->
+<Config	Class="	744	"	Range="5"	BeginPosX="	148	"	BeginPosY="	175	"	EndPosX="	154	"	EndPosY="	181	"	Direction="-1" Quantity="5" Element="1"/>	<!--	"	Vasuki	a"	-->
+<Config	Class="	743	"	Range="5"	BeginPosX="	157	"	BeginPosY="	205	"	EndPosX="	163	"	EndPosY="	211	"	Direction="-1" Quantity="5" Element="2"/>	<!--	"	Paraca	a"	-->
+<Config	Class="	745	"	Range="5"	BeginPosX="	140	"	BeginPosY="	223	"	EndPosX="	146	"	EndPosY="	229	"	Direction="-1" Quantity="5" Element="3"/>	<!--	"	Bass	a"	-->
+<Config	Class="	744	"	Range="5"	BeginPosX="	111	"	BeginPosY="	211	"	EndPosX="	117	"	EndPosY="	217	"	Direction="-1" Quantity="5" Element="4"/>	<!--	"	Vasuki	a"	-->
+<Config	Class="	743	"	Range="5"	BeginPosX="	120	"	BeginPosY="	195	"	EndPosX="	126	"	EndPosY="	201	"	Direction="-1" Quantity="5" Element="5"/>	  <!--	"	Paraca	a"	-->
+<Config	Class="	745	"	Range="5"	BeginPosX="	113	"	BeginPosY="	174	"	EndPosX="	119	"	EndPosY="	180	"	Direction="-1" Quantity="5" Element="1"/>	  <!--	"	Bass	a"	-->
+<Config	Class="	744	"	Range="5"	BeginPosX="	77	"	BeginPosY="	233	"	EndPosX="	83	"	EndPosY="	239	"	Direction="-1" Quantity="5" Element="2"/>	  <!--	"	Vasuki	a"	-->
+<Config	Class="	743	"	Range="5"	BeginPosX="	50	"	BeginPosY="	179	"	EndPosX="	56	"	EndPosY="	185	"	Direction="-1" Quantity="6" Element="3"/>	  <!--	"	Paraca	a"	-->
+<Config	Class="	745	"	Range="5"	BeginPosX="	35	"	BeginPosY="	159	"	EndPosX="	41	"	EndPosY="	165	"	Direction="-1" Quantity="5" Element="4"/>	  <!--	"	Bass	a"	-->
+
+
+	</SPOT>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<MONSTER>
+	</MONSTER>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<EVENT>
+	</EVENT>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+</MonsterSetBase>

@@ -1,0 +1,18 @@
+13:20:06 [SocketManager] Server started at port [55970]
+13:20:06 [SocketManager] Server started at port [55557]
+13:20:09 [ServerManager][0] AddServer (127.0.0.1)
+13:20:09 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+13:20:17 [ServerManager][1] AddServer (127.0.0.1)
+13:20:17 [ServerManager][1] ServerInfo (MuDevs) (55901) (20)
+13:20:20 [ServerManager][2] AddServer (127.0.0.1)
+13:20:20 [ServerManager][2] ServerInfo (GameServerCS) (55919) (19)
+13:20:20 [ServerManager][3] AddServer (127.0.0.1)
+13:22:59 [AllowConectionManager][ADD][+][HWID:55D3B74A-9689C29F-F428D523-8826B7EE-49656E69-00000016-BFEBFBFF-7FFAFBFF][ConectionCount:1][Account:admin1]
+13:30:48 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:55D3B74A-9689C29F-F428D523-8826B7EE-49656E69-00000016-BFEBFBFF-7FFAFBFF][ConectionCount:0][Account:admin1]
+13:44:15 [AllowConectionManager][ADD][+][HWID:55D3B74A-9689C29F-F428D523-8826B7EE-49656E69-00000016-BFEBFBFF-7FFAFBFF][ConectionCount:1][Account:admin1]
+18:09:29 AllowableIpList.txt reloaded
+18:09:29 AllowConectionManagerList.txt reloaded
+18:09:29 HardwareIdExceptionList.txt reloaded
+18:09:30 AllowableIpList.txt reloaded
+18:09:30 AllowConectionManagerList.txt reloaded
+18:09:30 HardwareIdExceptionList.txt reloaded

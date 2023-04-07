@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MonsterSetBase>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<NPC>
+	</NPC>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<SPOT>
+			<!--Wooden Beast-->
+			<Config Class="787" Range="5" BeginPosX="214" BeginPosY="239" EndPosX="214" EndPosY="239" Direction="-1" Quantity="3" Element="1" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="5" BeginPosX="157" BeginPosY="176" EndPosX="157" EndPosY="176" Direction="-1" Quantity="4" Element="1" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="5" BeginPosX="142" BeginPosY="31" EndPosX="153" EndPosY="41" Direction="-1" Quantity="5" Element="5" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="5" BeginPosX="79" BeginPosY="118" EndPosX="89" EndPosY="127" Direction="-1" Quantity="5" Element="1" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="5" BeginPosX="87" BeginPosY="139" EndPosX="96" EndPosY="149" Direction="-1" Quantity="5" Element="1" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="5" BeginPosX="105" BeginPosY="171" EndPosX="116" EndPosY="181" Direction="-1" Quantity="5" Element="1" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="5" BeginPosX="43" BeginPosY="214" EndPosX="51" EndPosY="225" Direction="-1" Quantity="5" Element="1" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="5" BeginPosX="67" BeginPosY="218" EndPosX="78" EndPosY="228" Direction="-1" Quantity="6" Element="1" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="5" BeginPosX="145" BeginPosY="177" EndPosX="153" EndPosY="190" Direction="-1" Quantity="6" Element="1" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="5" BeginPosX="206" BeginPosY="190" EndPosX="216" EndPosY="199" Direction="-1" Quantity="5" Element="4" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="5" BeginPosX="166" BeginPosY="178" EndPosX="175" EndPosY="189" Direction="-1" Quantity="5" Element="1" />
+			<!--Swamp Wizard-->
+			<Config Class="788" Range="5" BeginPosX="202" BeginPosY="203" EndPosX="202" EndPosY="203" Direction="-1" Quantity="4" Element="1" />
+			<!--Swamp Wizard-->
+			<Config Class="788" Range="5" BeginPosX="48" BeginPosY="22" EndPosX="59" EndPosY="30" Direction="-1" Quantity="5" Element="3" />
+			<!--Swamp Wizard-->
+			<Config Class="788" Range="5" BeginPosX="76" BeginPosY="33" EndPosX="85" EndPosY="40" Direction="-1" Quantity="5" Element="3" />
+			<!--Swamp Wizard-->
+			<Config Class="788" Range="5" BeginPosX="86" BeginPosY="51" EndPosX="95" EndPosY="62" Direction="-1" Quantity="6" Element="3" />
+			<!--Swamp Wizard-->
+			<Config Class="788" Range="5" BeginPosX="147" BeginPosY="16" EndPosX="157" EndPosY="24" Direction="-1" Quantity="5" Element="5" />
+			<!--Swamp Wizard-->
+			<Config Class="788" Range="5" BeginPosX="99" BeginPosY="71" EndPosX="107" EndPosY="80" Direction="-1" Quantity="5" Element="5" />
+			<!--Swamp Wizard-->
+			<Config Class="788" Range="5" BeginPosX="92" BeginPosY="185" EndPosX="105" EndPosY="195" Direction="-1" Quantity="5" Element="1" />
+			<!--Swamp Wizard-->
+			<Config Class="788" Range="5" BeginPosX="48" BeginPosY="158" EndPosX="58" EndPosY="167" Direction="-1" Quantity="5" Element="1" />
+			<!--Swamp Wizard-->
+			<Config Class="788" Range="5" BeginPosX="18" BeginPosY="130" EndPosX="28" EndPosY="142" Direction="-1" Quantity="6" Element="1" />
+			<!--Swamp Wizard-->
+			<Config Class="788" Range="5" BeginPosX="119" BeginPosY="213" EndPosX="129" EndPosY="227" Direction="-1" Quantity="6" Element="1" />
+			<!--Swamp Wizard-->
+			<Config Class="788" Range="5" BeginPosX="121" BeginPosY="186" EndPosX="132" EndPosY="195" Direction="-1" Quantity="5" Element="1" />
+			<!--Swamp Wizard-->
+			<Config Class="788" Range="5" BeginPosX="187" BeginPosY="221" EndPosX="197" EndPosY="231" Direction="-1" Quantity="5" Element="4" />
+			<!--Swamp Wizard-->
+			<Config Class="788" Range="5" BeginPosX="210" BeginPosY="217" EndPosX="224" EndPosY="227" Direction="-1" Quantity="6" Element="4" />
+			<!--Swamp Wizard-->
+			<Config Class="788" Range="5" BeginPosX="221" BeginPosY="190" EndPosX="231" EndPosY="199" Direction="-1" Quantity="5" Element="4" />
+			<!--Swamp Wizard-->
+			<Config Class="788" Range="5" BeginPosX="202" BeginPosY="138" EndPosX="212" EndPosY="148" Direction="-1" Quantity="5" Element="2" />
+			<!--Swamp Wizard-->
+			<Config Class="788" Range="5" BeginPosX="213" BeginPosY="125" EndPosX="225" EndPosY="133" Direction="-1" Quantity="5" Element="2" />
+			<!--Swamp Wizard-->
+			<Config Class="788" Range="5" BeginPosX="235" BeginPosY="108" EndPosX="244" EndPosY="122" Direction="-1" Quantity="6" Element="2" />
+			<!--Swamp Wizard-->
+			<Config Class="788" Range="5" BeginPosX="225" BeginPosY="67" EndPosX="233" EndPosY="74" Direction="-1" Quantity="5" Element="2" />
+			<!--Mutantile -->
+			<Config Class="789" Range="5" BeginPosX="162" BeginPosY="185" EndPosX="162" EndPosY="185" Direction="-1" Quantity="4" Element="1" />
+			<!--Mutantile -->
+			<Config Class="789" Range="5" BeginPosX="185" BeginPosY="66" EndPosX="185" EndPosY="66" Direction="-1" Quantity="4" Element="1" />
+			<!--Mutantile -->
+			<Config Class="789" Range="5" BeginPosX="185" BeginPosY="66" EndPosX="185" EndPosY="66" Direction="-1" Quantity="4" Element="1" />
+			<!--Mutantile -->
+			<Config Class="789" Range="5" BeginPosX="22" BeginPosY="7" EndPosX="30" EndPosY="15" Direction="-1" Quantity="5" Element="5" />
+			<!--Mutantile -->
+			<Config Class="789" Range="5" BeginPosX="14" BeginPosY="42" EndPosX="22" EndPosY="50" Direction="-1" Quantity="5" Element="5" />
+			<!--Mutantile -->
+			<Config Class="789" Range="5" BeginPosX="17" BeginPosY="87" EndPosX="28" EndPosY="101" Direction="-1" Quantity="6" Element="3" />
+			<!--Mutantile -->
+			<Config Class="789" Range="5" BeginPosX="45" BeginPosY="45" EndPosX="54" EndPosY="56" Direction="-1" Quantity="5" Element="5" />
+			<!--Mutantile -->
+			<Config Class="789" Range="5" BeginPosX="119" BeginPosY="9" EndPosX="130" EndPosY="19" Direction="-1" Quantity="5" Element="5" />
+			<!--Mutantile -->
+			<Config Class="789" Range="5" BeginPosX="108" BeginPosY="50" EndPosX="117" EndPosY="59" Direction="-1" Quantity="5" Element="5" />
+			<!--Mutantile -->
+			<Config Class="789" Range="5" BeginPosX="122" BeginPosY="157" EndPosX="132" EndPosY="170" Direction="-1" Quantity="6" Element="4" />
+			<!--Mutantile -->
+			<Config Class="789" Range="5" BeginPosX="166" BeginPosY="146" EndPosX="176" EndPosY="155" Direction="-1" Quantity="6" Element="4" />
+			<!--Mutantile -->
+			<Config Class="789" Range="5" BeginPosX="229" BeginPosY="36" EndPosX="240" EndPosY="46" Direction="-1" Quantity="5" Element="2" />
+			<!--Mutantile -->
+			<Config Class="789" Range="5" BeginPosX="214" BeginPosY="18" EndPosX="225" EndPosY="29" Direction="-1" Quantity="6" Element="2" />
+			<!--Mutantile -->
+			<Config Class="789" Range="5" BeginPosX="149" BeginPosY="218" EndPosX="161" EndPosY="228" Direction="-1" Quantity="5" Element="4" />
+	</SPOT>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<MONSTER>
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="92" BeginPosY="220" Direction="-1" Element="1" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="87" BeginPosY="219" Direction="-1" Element="1" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="75" BeginPosY="212" Direction="-1" Element="1" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="73" BeginPosY="196" Direction="-1" Element="1" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="77" BeginPosY="207" Direction="-1" Element="1" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="81" BeginPosY="187" Direction="-1" Element="1" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="92" BeginPosY="174" Direction="-1" Element="1" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="98" BeginPosY="176" Direction="-1" Element="1" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="72" BeginPosY="163" Direction="-1" Element="1" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="118" BeginPosY="204" Direction="-1" Element="1" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="116" BeginPosY="213" Direction="-1" Element="1" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="20" BeginPosY="163" Direction="-1" Element="1" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="48" BeginPosY="183" Direction="-1" Element="1" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="53" BeginPosY="192" Direction="-1" Element="1" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="52" BeginPosY="215" Direction="-1" Element="1" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="91" BeginPosY="227" Direction="-1" Element="1" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="65" BeginPosY="166" Direction="-1" Element="1" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="198" BeginPosY="167" Direction="-1" Element="4" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="190" BeginPosY="167" Direction="-1" Element="4" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="187" BeginPosY="171" Direction="-1" Element="4" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="197" BeginPosY="186" Direction="-1" Element="4" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="203" BeginPosY="190" Direction="-1" Element="4" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="5" BeginPosX="192" BeginPosY="200" Direction="-1" Element="4" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="184" BeginPosY="202" Direction="-1" Element="4" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="175" BeginPosY="210" Direction="-1" Element="4" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="145" BeginPosY="169" Direction="-1" Element="4" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="239" BeginPosY="141" Direction="-1" Element="2" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="232" BeginPosY="152" Direction="-1" Element="2" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="196" BeginPosY="153" Direction="-1" Element="2" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="195" BeginPosY="125" Direction="-1" Element="2" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="209" BeginPosY="70" Direction="-1" Element="2" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="210" BeginPosY="65" Direction="-1" Element="2" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="241" BeginPosY="63" Direction="-1" Element="2" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="131" BeginPosY="68" Direction="-1" Element="5" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="129" BeginPosY="73" Direction="-1" Element="5" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="142" BeginPosY="34" Direction="-1" Element="5" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="37" BeginPosY="30" Direction="-1" Element="3" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="23" BeginPosY="37" Direction="-1" Element="3" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="45" BeginPosY="85" Direction="-1" Element="3" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="68" BeginPosY="84" Direction="-1" Element="3" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="73" BeginPosY="63" Direction="-1" Element="3" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="20" BeginPosY="28" Direction="-1" Element="3" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="29" BeginPosY="33" Direction="-1" Element="3" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="70" BeginPosY="27" Direction="-1" Element="5" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="81" BeginPosY="15" Direction="-1" Element="5" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="97" BeginPosY="14" Direction="-1" Element="5" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="106" BeginPosY="17" Direction="-1" Element="5" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="118" BeginPosY="30" Direction="-1" Element="5" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="141" BeginPosY="23" Direction="-1" Element="5" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="130" BeginPosY="31" Direction="-1" Element="5" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="114" BeginPosY="41" Direction="-1" Element="5" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="103" BeginPosY="41" Direction="-1" Element="5" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="72" BeginPosY="101" Direction="-1" Element="3" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="85" BeginPosY="106" Direction="-1" Element="3" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="61" BeginPosY="97" Direction="-1" Element="3" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="42" BeginPosY="159" Direction="-1" Element="1" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="32" BeginPosY="163" Direction="-1" Element="1" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="5" BeginPosX="17" BeginPosY="158" Direction="-1" Element="1" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="50" BeginPosY="176" Direction="-1" Element="1" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="59" BeginPosY="175" Direction="-1" Element="1" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="76" BeginPosY="167" Direction="-1" Element="1" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="78" BeginPosY="155" Direction="-1" Element="1" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="90" BeginPosY="166" Direction="-1" Element="1" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="65" BeginPosY="155" Direction="-1" Element="1" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="65" BeginPosY="138" Direction="-1" Element="1" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="66" BeginPosY="119" Direction="-1" Element="1" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="73" BeginPosY="186" Direction="-1" Element="1" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="20" BeginPosY="187" Direction="-1" Element="1" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="23" BeginPosY="190" Direction="-1" Element="1" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="31" BeginPosY="181" Direction="-1" Element="1" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="40" BeginPosY="188" Direction="-1" Element="1" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="21" BeginPosY="205" Direction="-1" Element="1" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="34" BeginPosY="204" Direction="-1" Element="1" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="43" BeginPosY="195" Direction="-1" Element="1" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="106" BeginPosY="234" Direction="-1" Element="1" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="117" BeginPosY="230" Direction="-1" Element="1" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="128" BeginPosY="204" Direction="-1" Element="4" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="137" BeginPosY="204" Direction="-1" Element="4" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="151" BeginPosY="204" Direction="-1" Element="4" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="170" BeginPosY="216" Direction="-1" Element="4" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="185" BeginPosY="215" Direction="-1" Element="4" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="197" BeginPosY="207" Direction="-1" Element="4" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="207" BeginPosY="213" Direction="-1" Element="4" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="5" BeginPosX="191" BeginPosY="192" Direction="-1" Element="4" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="183" BeginPosY="188" Direction="-1" Element="4" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="180" BeginPosY="165" Direction="-1" Element="4" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="188" BeginPosY="159" Direction="-1" Element="4" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="210" BeginPosY="175" Direction="-1" Element="4" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="203" BeginPosY="178" Direction="-1" Element="4" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="222" BeginPosY="182" Direction="-1" Element="2" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="223" BeginPosY="170" Direction="-1" Element="2" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="225" BeginPosY="145" Direction="-1" Element="2" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="229" BeginPosY="147" Direction="-1" Element="2" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="237" BeginPosY="133" Direction="-1" Element="2" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="142" BeginPosY="162" Direction="-1" Element="4" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="159" BeginPosY="169" Direction="-1" Element="4" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="161" BeginPosY="174" Direction="-1" Element="4" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="135" BeginPosY="178" Direction="-1" Element="4" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="194" BeginPosY="137" Direction="-1" Element="2" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="193" BeginPosY="115" Direction="-1" Element="2" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="211" BeginPosY="111" Direction="-1" Element="2" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="224" BeginPosY="108" Direction="-1" Element="2" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="228" BeginPosY="111" Direction="-1" Element="2" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="211" BeginPosY="157" Direction="-1" Element="2" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="221" BeginPosY="88" Direction="-1" Element="2" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="203" BeginPosY="81" Direction="-1" Element="2" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="207" BeginPosY="96" Direction="-1" Element="2" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="195" BeginPosY="89" Direction="-1" Element="2" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="179" BeginPosY="90" Direction="-1" Element="2" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="214" BeginPosY="72" Direction="-1" Element="2" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="195" BeginPosY="53" Direction="-1" Element="2" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="202" BeginPosY="54" Direction="-1" Element="2" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="218" BeginPosY="48" Direction="-1" Element="2" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="223" BeginPosY="55" Direction="-1" Element="2" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="241" BeginPosY="56" Direction="-1" Element="2" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="245" BeginPosY="63" Direction="-1" Element="2" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="242" BeginPosY="76" Direction="-1" Element="2" />
+			<!--Swamp Ent-->
+			<Config Class="786" Range="3" BeginPosX="136" BeginPosY="58" Direction="-1" Element="5" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="3" BeginPosX="165" BeginPosY="181" Direction="-1" Element="4" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="3" BeginPosX="152" BeginPosY="68" Direction="-1" Element="5" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="3" BeginPosX="62" BeginPosY="50" Direction="-1" Element="3" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="3" BeginPosX="65" BeginPosY="79" Direction="-1" Element="3" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="3" BeginPosX="43" BeginPosY="73" Direction="-1" Element="3" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="3" BeginPosX="32" BeginPosY="65" Direction="-1" Element="3" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="3" BeginPosX="31" BeginPosY="58" Direction="-1" Element="3" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="3" BeginPosX="75" BeginPosY="75" Direction="-1" Element="3" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="3" BeginPosX="48" BeginPosY="114" Direction="-1" Element="3" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="3" BeginPosX="46" BeginPosY="96" Direction="-1" Element="3" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="3" BeginPosX="42" BeginPosY="97" Direction="-1" Element="3" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="3" BeginPosX="51" BeginPosY="108" Direction="-1" Element="3" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="3" BeginPosX="44" BeginPosY="12" Direction="-1" Element="3" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="3" BeginPosX="39" BeginPosY="16" Direction="-1" Element="3" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="3" BeginPosX="60" BeginPosY="9" Direction="-1" Element="3" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="3" BeginPosX="32" BeginPosY="41" Direction="-1" Element="3" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="3" BeginPosX="29" BeginPosY="51" Direction="-1" Element="3" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="3" BeginPosX="49" BeginPosY="68" Direction="-1" Element="3" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="3" BeginPosX="59" BeginPosY="69" Direction="-1" Element="3" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="3" BeginPosX="38" BeginPosY="67" Direction="-1" Element="3" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="3" BeginPosX="129" BeginPosY="46" Direction="-1" Element="5" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="3" BeginPosX="112" BeginPosY="79" Direction="-1" Element="5" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="3" BeginPosX="106" BeginPosY="85" Direction="-1" Element="5" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="3" BeginPosX="99" BeginPosY="93" Direction="-1" Element="5" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="3" BeginPosX="89" BeginPosY="101" Direction="-1" Element="5" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="3" BeginPosX="60" BeginPosY="41" Direction="-1" Element="3" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="3" BeginPosX="64" BeginPosY="43" Direction="-1" Element="3" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="3" BeginPosX="76" BeginPosY="58" Direction="-1" Element="3" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="3" BeginPosX="88" BeginPosY="74" Direction="-1" Element="3" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="3" BeginPosX="84" BeginPosY="71" Direction="-1" Element="3" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="3" BeginPosX="44" BeginPosY="124" Direction="-1" Element="3" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="3" BeginPosX="44" BeginPosY="139" Direction="-1" Element="3" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="3" BeginPosX="161" BeginPosY="199" Direction="-1" Element="4" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="3" BeginPosX="168" BeginPosY="196" Direction="-1" Element="4" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="3" BeginPosX="185" BeginPosY="101" Direction="-1" Element="5" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="3" BeginPosX="197" BeginPosY="95" Direction="-1" Element="5" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="3" BeginPosX="205" BeginPosY="86" Direction="-1" Element="5" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="3" BeginPosX="163" BeginPosY="66" Direction="-1" Element="2" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="3" BeginPosX="175" BeginPosY="71" Direction="-1" Element="2" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="3" BeginPosX="192" BeginPosY="71" Direction="-1" Element="2" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="3" BeginPosX="183" BeginPosY="78" Direction="-1" Element="2" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="3" BeginPosX="234" BeginPosY="85" Direction="-1" Element="2" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="3" BeginPosX="236" BeginPosY="89" Direction="-1" Element="2" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="3" BeginPosX="176" BeginPosY="56" Direction="-1" Element="2" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="3" BeginPosX="164" BeginPosY="51" Direction="-1" Element="2" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="3" BeginPosX="147" BeginPosY="70" Direction="-1" Element="5" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="3" BeginPosX="139" BeginPosY="70" Direction="-1" Element="5" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="3" BeginPosX="143" BeginPosY="53" Direction="-1" Element="5" />
+			<!--Wooden Beast-->
+			<Config Class="787" Range="3" BeginPosX="151" BeginPosY="60" Direction="-1" Element="5" />
+	</MONSTER>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<EVENT>
+	</EVENT>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+</MonsterSetBase>

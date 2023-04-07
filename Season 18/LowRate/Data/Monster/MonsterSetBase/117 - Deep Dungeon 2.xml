@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MonsterSetBase>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<NPC>
+	</NPC>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<SPOT>
+			<!--Deep Dungeon Chief Skeleton Archer-->
+			<Config Class="768" Range="5" BeginPosX="3" BeginPosY="32" EndPosX="15" EndPosY="43" Direction="-1" Quantity="5" Element="2" />
+			<!--Deep Dungeon Chief Skeleton Archer-->
+			<Config Class="768" Range="5" BeginPosX="4" BeginPosY="14" EndPosX="17" EndPosY="29" Direction="-1" Quantity="6" Element="2" />
+			<!--Deep Dungeon Chief Skeleton Archer-->
+			<Config Class="768" Range="5" BeginPosX="55" BeginPosY="78" EndPosX="69" EndPosY="91" Direction="-1" Quantity="6" Element="1" />
+			<!--Deep Dungeon Chief Skeleton Archer-->
+			<Config Class="768" Range="5" BeginPosX="69" BeginPosY="23" EndPosX="77" EndPosY="33" Direction="-1" Quantity="5" Element="2" />
+			<!--Deep Dungeon Chief Skeleton Archer-->
+			<Config Class="768" Range="5" BeginPosX="98" BeginPosY="36" EndPosX="107" EndPosY="45" Direction="-1" Quantity="5" Element="3" />
+			<!--Deep Dungeon Chief Skeleton Archer-->
+			<Config Class="768" Range="5" BeginPosX="42" BeginPosY="33" EndPosX="53" EndPosY="43" Direction="-1" Quantity="5" Element="2" />
+			<!--Deep Dungeon Chief Skeleton Archer-->
+			<Config Class="768" Range="5" BeginPosX="157" BeginPosY="108" EndPosX="165" EndPosY="115" Direction="-1" Quantity="5" Element="5" />
+			<!--Deep Dungeon Chief Skeleton Archer-->
+			<Config Class="768" Range="5" BeginPosX="158" BeginPosY="46" EndPosX="177" EndPosY="59" Direction="-1" Quantity="3" Element="4" />
+			<!--Deep Dungeon Chief Skeleton Archer-->
+			<Config Class="768" Range="5" BeginPosX="103" BeginPosY="21" EndPosX="111" EndPosY="30" Direction="-1" Quantity="5" Element="3" />
+			<!--Deep Dungeon Chief Skeleton Archer-->
+			<Config Class="768" Range="5" BeginPosX="162" BeginPosY="17" EndPosX="172" EndPosY="31" Direction="-1" Quantity="6" Element="4" />
+			<!--Deep Dungeon Chief Skeleton Archer-->
+			<Config Class="768" Range="5" BeginPosX="114" BeginPosY="93" EndPosX="123" EndPosY="101" Direction="-1" Quantity="5" Element="1" />
+			<!--Deep Dungeon Chief Skeleton Archer-->
+			<Config Class="768" Range="5" BeginPosX="195" BeginPosY="46" EndPosX="204" EndPosY="60" Direction="-1" Quantity="6" Element="4" />
+			<!--Deep Dungeon Chief Skeleton Archer-->
+			<Config Class="768" Range="5" BeginPosX="133" BeginPosY="4" EndPosX="141" EndPosY="12" Direction="-1" Quantity="5" Element="3" />
+			<!--Deep Dungeon Chief Skeleton Archer-->
+			<Config Class="768" Range="5" BeginPosX="111" BeginPosY="57" EndPosX="121" EndPosY="65" Direction="-1" Quantity="5" Element="2" />
+			<!--Deep Dungeon Chief Skeleton Archer-->
+			<Config Class="768" Range="5" BeginPosX="87" BeginPosY="17" EndPosX="99" EndPosY="25" Direction="-1" Quantity="5" Element="3" />
+			<!--Deep Dungeon Chief Skeleton Archer-->
+			<Config Class="768" Range="5" BeginPosX="30" BeginPosY="114" EndPosX="37" EndPosY="127" Direction="-1" Quantity="5" Element="1" />
+			<!--Deep Dungeon Chief Skeleton Archer-->
+			<Config Class="768" Range="5" BeginPosX="161" BeginPosY="3" EndPosX="171" EndPosY="9" Direction="-1" Quantity="5" Element="4" />
+			<!--Deep Dungeon Chief Skeleton Archer-->
+			<Config Class="768" Range="5" BeginPosX="94" BeginPosY="73" EndPosX="101" EndPosY="83" Direction="-1" Quantity="5" Element="2" />
+			<!--Deep Dungeon Chief Skeleton Archer-->
+			<Config Class="768" Range="5" BeginPosX="241" BeginPosY="76" EndPosX="249" EndPosY="83" Direction="-1" Quantity="5" Element="5" />
+			<!--Deep Dungeon Chief Skeleton Archer-->
+			<Config Class="768" Range="5" BeginPosX="219" BeginPosY="63" EndPosX="230" EndPosY="77" Direction="-1" Quantity="6" Element="5" />
+			<!--Deep Dungeon Chief Skeleton Archer-->
+			<Config Class="768" Range="5" BeginPosX="136" BeginPosY="49" EndPosX="147" EndPosY="62" Direction="-1" Quantity="6" Element="3" />
+			<!--Deep Dungeon Chief Skeleton Archer-->
+			<Config Class="768" Range="5" BeginPosX="49" BeginPosY="68" EndPosX="56" EndPosY="79" Direction="-1" Quantity="5" Element="3" />
+			<!--Deep Dungeon Cyclops-->
+			<Config Class="771" Range="5" BeginPosX="9" BeginPosY="99" EndPosX="22" EndPosY="116" Direction="-1" Quantity="6" Element="1" />
+			<!--Deep Dungeon Cyclops-->
+			<Config Class="771" Range="5" BeginPosX="51" BeginPosY="7" EndPosX="60" EndPosY="22" Direction="-1" Quantity="6" Element="2" />
+			<!--Deep Dungeon Cyclops-->
+			<Config Class="771" Range="5" BeginPosX="119" BeginPosY="3" EndPosX="126" EndPosY="10" Direction="-1" Quantity="5" Element="3" />
+			<!--Deep Dungeon Cyclops-->
+			<Config Class="771" Range="5" BeginPosX="24" BeginPosY="22" EndPosX="34" EndPosY="32" Direction="-1" Quantity="5" Element="2" />
+			<!--Deep Dungeon Cyclops-->
+			<Config Class="771" Range="5" BeginPosX="4" BeginPosY="47" EndPosX="21" EndPosY="60" Direction="-1" Quantity="6" Element="2" />
+			<!--Deep Dungeon Cyclops-->
+			<Config Class="771" Range="5" BeginPosX="66" BeginPosY="56" EndPosX="76" EndPosY="66" Direction="-1" Quantity="5" Element="2" />
+			<!--Deep Dungeon Cyclops-->
+			<Config Class="771" Range="5" BeginPosX="157" BeginPosY="55" EndPosX="176" EndPosY="69" Direction="-1" Quantity="3" Element="4" />
+			<!--Deep Dungeon Cyclops-->
+			<Config Class="771" Range="5" BeginPosX="232" BeginPosY="23" EndPosX="240" EndPosY="41" Direction="-1" Quantity="6" Element="4" />
+			<!--Deep Dungeon Cyclops-->
+			<Config Class="771" Range="5" BeginPosX="169" BeginPosY="93" EndPosX="176" EndPosY="102" Direction="-1" Quantity="5" Element="5" />
+			<!--Deep Dungeon Cyclops-->
+			<Config Class="771" Range="5" BeginPosX="242" BeginPosY="29" EndPosX="249" EndPosY="41" Direction="-1" Quantity="5" Element="4" />
+			<!--Deep Dungeon Cyclops-->
+			<Config Class="771" Range="5" BeginPosX="208" BeginPosY="84" EndPosX="220" EndPosY="99" Direction="-1" Quantity="6" Element="5" />
+			<!--Deep Dungeon Cyclops-->
+			<Config Class="771" Range="5" BeginPosX="163" BeginPosY="72" EndPosX="172" EndPosY="79" Direction="-1" Quantity="5" Element="4" />
+			<!--Deep Dungeon Cyclops-->
+			<Config Class="771" Range="5" BeginPosX="48" BeginPosY="120" EndPosX="59" EndPosY="133" Direction="-1" Quantity="5" Element="1" />
+			<!--Deep Dungeon Cyclops-->
+			<Config Class="771" Range="5" BeginPosX="32" BeginPosY="2" EndPosX="47" EndPosY="10" Direction="-1" Quantity="5" Element="2" />
+			<!--Deep Dungeon Cyclops-->
+			<Config Class="771" Range="5" BeginPosX="236" BeginPosY="61" EndPosX="248" EndPosY="72" Direction="-1" Quantity="5" Element="5" />
+			<!--Deep Dungeon Cyclops-->
+			<Config Class="771" Range="5" BeginPosX="113" BeginPosY="68" EndPosX="121" EndPosY="75" Direction="-1" Quantity="5" Element="2" />
+			<!--Deep Dungeon Cyclops-->
+			<Config Class="771" Range="5" BeginPosX="215" BeginPosY="114" EndPosX="227" EndPosY="125" Direction="-1" Quantity="5" Element="5" />
+			<!--Deep Dungeon Cyclops-->
+			<Config Class="771" Range="5" BeginPosX="13" BeginPosY="79" EndPosX="26" EndPosY="91" Direction="-1" Quantity="5" Element="1" />
+	</SPOT>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<MONSTER>
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="77" BeginPosY="38" Direction="-1" Element="2" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="99" BeginPosY="67" Direction="-1" Element="2" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="85" BeginPosY="7" Direction="-1" Element="3" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="115" BeginPosY="10" Direction="-1" Element="3" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="33" BeginPosY="38" Direction="-1" Element="2" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="20" BeginPosY="9" Direction="-1" Element="2" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="125" BeginPosY="83" Direction="-1" Element="2" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="104" BeginPosY="15" Direction="-1" Element="3" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="135" BeginPosY="36" Direction="-1" Element="3" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="127" BeginPosY="49" Direction="-1" Element="3" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="43" BeginPosY="111" Direction="-1" Element="1" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="104" BeginPosY="94" Direction="-1" Element="1" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="80" BeginPosY="63" Direction="-1" Element="2" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="120" BeginPosY="17" Direction="-1" Element="3" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="92" BeginPosY="42" Direction="-1" Element="3" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="142" BeginPosY="74" Direction="-1" Element="3" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="193" BeginPosY="9" Direction="-1" Element="4" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="176" BeginPosY="38" Direction="-1" Element="4" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="25" BeginPosY="41" Direction="-1" Element="2" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="36" BeginPosY="15" Direction="-1" Element="2" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="68" BeginPosY="46" Direction="-1" Element="2" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="98" BeginPosY="58" Direction="-1" Element="2" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="134" BeginPosY="91" Direction="-1" Element="2" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="109" BeginPosY="4" Direction="-1" Element="3" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="146" BeginPosY="18" Direction="-1" Element="3" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="146" BeginPosY="8" Direction="-1" Element="3" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="220" BeginPosY="28" Direction="-1" Element="4" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="224" BeginPosY="6" Direction="-1" Element="4" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="51" BeginPosY="82" Direction="-1" Element="1" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="15" BeginPosY="43" Direction="-1" Element="2" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="66" BeginPosY="41" Direction="-1" Element="2" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="105" BeginPosY="61" Direction="-1" Element="2" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="143" BeginPosY="87" Direction="-1" Element="3" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="160" BeginPosY="85" Direction="-1" Element="4" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="191" BeginPosY="68" Direction="-1" Element="4" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="185" BeginPosY="79" Direction="-1" Element="5" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="183" BeginPosY="119" Direction="-1" Element="5" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="194" BeginPosY="116" Direction="-1" Element="5" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="29" BeginPosY="76" Direction="-1" Element="1" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="48" BeginPosY="116" Direction="-1" Element="1" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="109" BeginPosY="101" Direction="-1" Element="1" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="45" BeginPosY="14" Direction="-1" Element="2" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="53" BeginPosY="24" Direction="-1" Element="2" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="106" BeginPosY="75" Direction="-1" Element="2" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="133" BeginPosY="26" Direction="-1" Element="3" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="139" BeginPosY="97" Direction="-1" Element="3" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="180" BeginPosY="22" Direction="-1" Element="4" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="196" BeginPosY="23" Direction="-1" Element="4" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="185" BeginPosY="93" Direction="-1" Element="5" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="198" BeginPosY="78" Direction="-1" Element="5" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="208" BeginPosY="118" Direction="-1" Element="5" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="193" BeginPosY="105" Direction="-1" Element="5" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="32" BeginPosY="84" Direction="-1" Element="1" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="98" BeginPosY="107" Direction="-1" Element="1" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="117" BeginPosY="107" Direction="-1" Element="1" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="33" BeginPosY="30" Direction="-1" Element="2" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="61" BeginPosY="27" Direction="-1" Element="2" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="82" BeginPosY="45" Direction="-1" Element="2" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="96" BeginPosY="8" Direction="-1" Element="3" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="145" BeginPosY="25" Direction="-1" Element="3" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="131" BeginPosY="55" Direction="-1" Element="3" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="132" BeginPosY="70" Direction="-1" Element="3" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="205" BeginPosY="40" Direction="-1" Element="4" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="220" BeginPosY="39" Direction="-1" Element="4" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="26" BeginPosY="110" Direction="-1" Element="1" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="80" BeginPosY="91" Direction="-1" Element="1" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="40" BeginPosY="104" Direction="-1" Element="1" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="54" BeginPosY="32" Direction="-1" Element="2" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="120" BeginPosY="35" Direction="-1" Element="3" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="111" BeginPosY="42" Direction="-1" Element="3" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="33" BeginPosY="110" Direction="-1" Element="1" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="80" BeginPosY="106" Direction="-1" Element="1" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="87" BeginPosY="56" Direction="-1" Element="2" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="116" BeginPosY="78" Direction="-1" Element="2" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="177" BeginPosY="13" Direction="-1" Element="4" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="161" BeginPosY="39" Direction="-1" Element="4" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="228" BeginPosY="21" Direction="-1" Element="4" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="240" BeginPosY="21" Direction="-1" Element="4" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="169" BeginPosY="120" Direction="-1" Element="5" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="173" BeginPosY="114" Direction="-1" Element="5" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="72" BeginPosY="117" Direction="-1" Element="1" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="91" BeginPosY="98" Direction="-1" Element="1" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="80" BeginPosY="84" Direction="-1" Element="1" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="65" BeginPosY="31" Direction="-1" Element="2" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="139" BeginPosY="111" Direction="-1" Element="3" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="158" BeginPosY="13" Direction="-1" Element="4" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="151" BeginPosY="94" Direction="-1" Element="4" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="162" BeginPosY="94" Direction="-1" Element="4" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="198" BeginPosY="93" Direction="-1" Element="5" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="144" BeginPosY="120" Direction="-1" Element="5" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="239" BeginPosY="105" Direction="-1" Element="5" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="241" BeginPosY="94" Direction="-1" Element="5" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="191" BeginPosY="42" Direction="-1" Element="4" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="191" BeginPosY="55" Direction="-1" Element="4" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="173" BeginPosY="67" Direction="-1" Element="4" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="160" BeginPosY="49" Direction="-1" Element="4" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="211" BeginPosY="108" Direction="-1" Element="5" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="229" BeginPosY="108" Direction="-1" Element="5" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="48" BeginPosY="90" Direction="-1" Element="1" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="61" BeginPosY="116" Direction="-1" Element="1" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="159" BeginPosY="119" Direction="-1" Element="5" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="163" BeginPosY="114" Direction="-1" Element="5" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="237" BeginPosY="82" Direction="-1" Element="5" />
+			<!--Deep Dungeon Ghost-->
+			<Config Class="772" Range="5" BeginPosX="235" BeginPosY="70" Direction="-1" Element="5" />
+	</MONSTER>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<EVENT>
+	</EVENT>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+</MonsterSetBase>

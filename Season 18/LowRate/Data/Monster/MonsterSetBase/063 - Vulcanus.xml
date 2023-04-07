@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MonsterSetBase>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<NPC>
+		<Config Class="479" Range="0" PositionX="122" PositionY="135" Direction="1" Element="0" /> <!-- "Doorkeeper Titus" -->
+	</NPC>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<SPOT>
+<Config	Class="	480	"	Range="5"	BeginPosX="	112	"	BeginPosY="	82	"	EndPosX="	118	"	EndPosY="	88	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Zombie Fighter	a"	-->
+<Config	Class="	480	"	Range="5"	BeginPosX="	109	"	BeginPosY="	59	"	EndPosX="	115	"	EndPosY="	65	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Zombie Fighter	a"	-->
+<Config	Class="	480	"	Range="5"	BeginPosX="	85	"	BeginPosY="	58	"	EndPosX="	91	"	EndPosY="	64	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Zombie Fighter	a"	-->
+<Config	Class="	480	"	Range="5"	BeginPosX="	71	"	BeginPosY="	85	"	EndPosX="	77	"	EndPosY="	91	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Zombie Fighter	a"	-->
+<Config	Class="	480	"	Range="5"	BeginPosX="	59	"	BeginPosY="	69	"	EndPosX="	65	"	EndPosY="	75	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Zombie Fighter	a"	-->
+<Config	Class="	482	"	Range="5"	BeginPosX="	77	"	BeginPosY="	40	"	EndPosX="	83	"	EndPosY="	46	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Resurrected Gladiator	a"	-->
+<Config	Class="	482	"	Range="5"	BeginPosX="	94	"	BeginPosY="	21	"	EndPosX="	100	"	EndPosY="	27	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Resurrected Gladiator	a"	-->
+<Config	Class="	482	"	Range="5"	BeginPosX="	70	"	BeginPosY="	21	"	EndPosX="	76	"	EndPosY="	27	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Resurrected Gladiator	a"	-->
+<Config	Class="	482	"	Range="5"	BeginPosX="	31	"	BeginPosY="	38	"	EndPosX="	37	"	EndPosY="	44	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Resurrected Gladiator	a"	-->
+<Config	Class="	482	"	Range="5"	BeginPosX="	27	"	BeginPosY="	57	"	EndPosX="	33	"	EndPosY="	63	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Resurrected Gladiator	a"	-->
+<Config	Class="	482	"	Range="5"	BeginPosX="	32	"	BeginPosY="	86	"	EndPosX="	38	"	EndPosY="	92	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Resurrected Gladiator	a"	-->
+<Config	Class="	484	"	Range="5"	BeginPosX="	88	"	BeginPosY="	177	"	EndPosX="	94	"	EndPosY="	183	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Ash Slaughterer	a"	-->
+<Config	Class="	484	"	Range="5"	BeginPosX="	56	"	BeginPosY="	136	"	EndPosX="	62	"	EndPosY="	142	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Ash Slaughterer	a"	-->
+<Config	Class="	484	"	Range="5"	BeginPosX="	32	"	BeginPosY="	129	"	EndPosX="	38	"	EndPosY="	135	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Ash Slaughterer	a"	-->
+<Config	Class="	484	"	Range="5"	BeginPosX="	29	"	BeginPosY="	173	"	EndPosX="	35	"	EndPosY="	179	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Ash Slaughterer	a"	-->
+<Config	Class="	484	"	Range="5"	BeginPosX="	62	"	BeginPosY="	160	"	EndPosX="	68	"	EndPosY="	166	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Ash Slaughterer	a"	-->
+<Config	Class="	484	"	Range="5"	BeginPosX="	35	"	BeginPosY="	197	"	EndPosX="	41	"	EndPosY="	203	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Ash Slaughterer	a"	-->
+<Config	Class="	484	"	Range="5"	BeginPosX="	40	"	BeginPosY="	222	"	EndPosX="	50	"	EndPosY="	232	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Ash Slaughterer	a"	-->
+<Config	Class="	484	"	Range="5"	BeginPosX="	80	"	BeginPosY="	197	"	EndPosX="	86	"	EndPosY="	203	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Ash Slaughterer	a"	-->
+<Config	Class="	486	"	Range="5"	BeginPosX="	173	"	BeginPosY="	106	"	EndPosX="	179	"	EndPosY="	112	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Blood Assassin	a"	-->
+<Config	Class="	486	"	Range="5"	BeginPosX="	195	"	BeginPosY="	103	"	EndPosX="	201	"	EndPosY="	109	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Blood Assassin	a"	-->
+<Config	Class="	486	"	Range="5"	BeginPosX="	215	"	BeginPosY="	112	"	EndPosX="	221	"	EndPosY="	118	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Blood Assassin	a"	-->
+<Config	Class="	486	"	Range="5"	BeginPosX="	235	"	BeginPosY="	117	"	EndPosX="	241	"	EndPosY="	123	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Blood Assassin	a"	-->
+<Config	Class="	486	"	Range="5"	BeginPosX="	203	"	BeginPosY="	139	"	EndPosX="	209	"	EndPosY="	145	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Blood Assassin	a"	-->
+<Config	Class="	487	"	Range="5"	BeginPosX="	179	"	BeginPosY="	168	"	EndPosX="	185	"	EndPosY="	174	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Cruel Blood Assassin	a"	-->
+<Config	Class="	487	"	Range="5"	BeginPosX="	219	"	BeginPosY="	175	"	EndPosX="	225	"	EndPosY="	181	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Cruel Blood Assassin	a"	-->
+<Config	Class="	487	"	Range="5"	BeginPosX="	234	"	BeginPosY="	205	"	EndPosX="	240	"	EndPosY="	211	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Cruel Blood Assassin	a"	-->
+<Config	Class="	487	"	Range="5"	BeginPosX="	219	"	BeginPosY="	225	"	EndPosX="	225	"	EndPosY="	231	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Cruel Blood Assassin	a"	-->
+<Config	Class="	487	"	Range="5"	BeginPosX="	114	"	BeginPosY="	223	"	EndPosX="	120	"	EndPosY="	229	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Cruel Blood Assassin	a"	-->
+<Config	Class="	487	"	Range="5"	BeginPosX="	139	"	BeginPosY="	206	"	EndPosX="	145	"	EndPosY="	212	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Cruel Blood Assassin	a"	-->
+<Config	Class="	489	"	Range="5"	BeginPosX="	138	"	BeginPosY="	73	"	EndPosX="	144	"	EndPosY="	79	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Burning Lava Giant	a"	-->
+<Config	Class="	489	"	Range="5"	BeginPosX="	152	"	BeginPosY="	50	"	EndPosX="	158	"	EndPosY="	56	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Burning Lava Giant	a"	-->
+<Config	Class="	489	"	Range="5"	BeginPosX="	176	"	BeginPosY="	69	"	EndPosX="	182	"	EndPosY="	75	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Burning Lava Giant	a"	-->
+<Config	Class="	490	"	Range="5"	BeginPosX="	147	"	BeginPosY="	14	"	EndPosX="	153	"	EndPosY="	20	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Ruthless Lava Giant	a"	-->
+<Config	Class="	490	"	Range="5"	BeginPosX="	188	"	BeginPosY="	12	"	EndPosX="	194	"	EndPosY="	18	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Ruthless Lava Giant	a"	-->
+<Config	Class="	490	"	Range="5"	BeginPosX="	207	"	BeginPosY="	24	"	EndPosX="	213	"	EndPosY="	30	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Ruthless Lava Giant	a"	-->
+<Config	Class="	490	"	Range="5"	BeginPosX="	210	"	BeginPosY="	45	"	EndPosX="	216	"	EndPosY="	51	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Ruthless Lava Giant	a"	-->
+<Config	Class="	490	"	Range="5"	BeginPosX="	233	"	BeginPosY="	55	"	EndPosX="	239	"	EndPosY="	61	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Ruthless Lava Giant	a"	-->
+
+	</SPOT>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<MONSTER>
+	</MONSTER>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<EVENT>
+	</EVENT>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+</MonsterSetBase>

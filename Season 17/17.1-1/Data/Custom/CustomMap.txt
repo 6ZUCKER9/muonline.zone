@@ -1,4 +1,0 @@
-0
-//MapIndex	Gate
-100		300
-end

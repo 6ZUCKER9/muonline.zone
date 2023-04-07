@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MonsterSetBase>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<NPC>
+		<Config Class="605" Range="3" PositionX="202" PositionY="75" Direction="-1" Element="0" /> <!-- "Mining Area (Small)			" -->
+		<Config Class="605" Range="3" PositionX="206" PositionY="80" Direction="-1" Element="0" /> <!-- "Mining Area (Small)		" -->
+		<Config Class="605" Range="3" PositionX="211" PositionY="80" Direction="-1" Element="0" /> <!-- "Mining Area (Small)		" -->
+		<Config Class="606" Range="3" PositionX="212" PositionY="76" Direction="-1" Element="0" /> <!-- "Mining Area (Medium)				" -->
+		<Config Class="606" Range="3" PositionX="208" PositionY="72" Direction="-1" Element="0" /> <!-- "Mining Area (Medium)				" -->
+		<Config Class="607" Range="3" PositionX="207" PositionY="76" Direction="-1" Element="0" /> <!-- "Mining Area (Large)	" -->
+		<Config Class="103" Range="0" PositionX="5" PositionY="175" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="6" PositionY="175" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="4" PositionY="175" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="15" PositionY="172" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="15" PositionY="173" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="15" PositionY="174" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="14" PositionY="207" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="4" PositionY="194" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="5" PositionY="194" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="6" PositionY="194" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="14" PositionY="208" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="5" PositionY="237" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="6" PositionY="237" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="7" PositionY="237" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="26" PositionY="104" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="26" PositionY="103" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="26" PositionY="102" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="26" PositionY="101" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="30" PositionY="101" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="30" PositionY="100" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="30" PositionY="99" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="29" PositionY="125" Direction="1" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="28" PositionY="125" Direction="1" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="27" PositionY="125" Direction="1" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="26" PositionY="125" Direction="1" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="27" PositionY="128" Direction="1" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="27" PositionY="129" Direction="1" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="27" PositionY="130" Direction="1" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="21" PositionY="243" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="22" PositionY="243" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="23" PositionY="243" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="45" PositionY="110" Direction="1" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="45" PositionY="110" Direction="1" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="45" PositionY="110" Direction="5" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="45" PositionY="109" Direction="5" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="45" PositionY="108" Direction="5" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="38" PositionY="110" Direction="5" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="38" PositionY="109" Direction="5" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="38" PositionY="108" Direction="5" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="35" PositionY="125" Direction="1" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="34" PositionY="125" Direction="1" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="33" PositionY="125" Direction="1" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="36" PositionY="125" Direction="1" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="37" PositionY="119" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="37" PositionY="120" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="34" PositionY="128" Direction="1" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="34" PositionY="129" Direction="1" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="34" PositionY="130" Direction="1" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="47" PositionY="131" Direction="1" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="47" PositionY="132" Direction="1" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="41" PositionY="132" Direction="1" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="41" PositionY="133" Direction="1" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="36" PositionY="133" Direction="1" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="36" PositionY="134" Direction="1" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="46" PositionY="169" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="46" PositionY="170" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="46" PositionY="171" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="46" PositionY="172" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="42" PositionY="245" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="42" PositionY="246" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="52" PositionY="114" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="53" PositionY="114" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="54" PositionY="114" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="53" PositionY="178" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="54" PositionY="178" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="52" PositionY="178" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="51" PositionY="198" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="51" PositionY="199" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="51" PositionY="200" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="51" PositionY="201" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="85" PositionY="120" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="86" PositionY="120" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="84" PositionY="120" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="93" PositionY="131" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="93" PositionY="130" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="93" PositionY="132" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="82" PositionY="175" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="83" PositionY="175" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="84" PositionY="175" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="85" PositionY="175" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="82" PositionY="184" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="83" PositionY="184" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="84" PositionY="184" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="82" PositionY="201" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="83" PositionY="201" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="84" PositionY="201" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="93" PositionY="243" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="93" PositionY="244" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="93" PositionY="245" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="93" PositionY="246" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="100" PositionY="185" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="101" PositionY="185" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="102" PositionY="185" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="103" PositionY="185" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="98" PositionY="225" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="99" PositionY="225" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="100" PositionY="225" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="101" PositionY="225" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="111" PositionY="227" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="110" PositionY="227" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="107" PositionY="242" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="107" PositionY="243" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="107" PositionY="244" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="126" PositionY="104" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="126" PositionY="105" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="126" PositionY="106" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="126" PositionY="107" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="126" PositionY="115" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="127" PositionY="115" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="125" PositionY="115" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="123" PositionY="135" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="123" PositionY="134" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="123" PositionY="133" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="123" PositionY="132" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="121" PositionY="208" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="122" PositionY="208" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="120" PositionY="208" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="112" PositionY="227" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="113" PositionY="227" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="132" PositionY="126" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="133" PositionY="126" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="134" PositionY="126" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="132" PositionY="178" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="133" PositionY="178" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="128" PositionY="221" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="129" PositionY="221" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="130" PositionY="221" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="202" PositionY="45" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="202" PositionY="46" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="202" PositionY="47" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="196" PositionY="62" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="198" PositionY="62" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="197" PositionY="62" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="199" PositionY="62" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="196" PositionY="58" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="196" PositionY="57" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="196" PositionY="56" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="202" PositionY="48" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="219" PositionY="234" Direction="1" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="219" PositionY="235" Direction="1" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="219" PositionY="236" Direction="1" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="219" PositionY="237" Direction="1" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="226" PositionY="115" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="226" PositionY="116" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="226" PositionY="117" Direction="3" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="226" PositionY="233" Direction="1" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="227" PositionY="233" Direction="1" Element="0" /> <!-- "Meteorite" -->
+		<Config Class="103" Range="0" PositionX="228" PositionY="233" Direction="1" Element="0" /> <!-- "Meteorite" -->
+	</NPC>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<SPOT>
+<Config	Class="	23	"	Range="5"	BeginPosX="	172	"	BeginPosY="	105	"	EndPosX="	178	"	EndPosY="	111	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Shadow	a"	-->
+<Config	Class="	36	"	Range="5"	BeginPosX="	191	"	BeginPosY="	104	"	EndPosX="	197	"	EndPosY="	110	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Shadow	a"	-->
+<Config	Class="	36	"	Range="5"	BeginPosX="	186	"	BeginPosY="	85	"	EndPosX="	192	"	EndPosY="	91	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Shadow	a"	-->
+<Config	Class="	36	"	Range="5"	BeginPosX="	206	"	BeginPosY="	110	"	EndPosX="	212	"	EndPosY="	116	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Shadow	a"	-->
+<Config	Class="	36	"	Range="5"	BeginPosX="	222	"	BeginPosY="	115	"	EndPosX="	228	"	EndPosY="	121	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Shadow	a"	-->
+<Config	Class="	36	"	Range="5"	BeginPosX="	191	"	BeginPosY="	127	"	EndPosX="	197	"	EndPosY="	133	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Shadow	a"	-->
+<Config	Class="	36	"	Range="5"	BeginPosX="	235	"	BeginPosY="	132	"	EndPosX="	241	"	EndPosY="	138	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Shadow	a"	-->
+<Config	Class="	39	"	Range="5"	BeginPosX="	191	"	BeginPosY="	36	"	EndPosX="	197	"	EndPosY="	42	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Poison Shadow	a"	-->
+<Config	Class="	39	"	Range="5"	BeginPosX="	200	"	BeginPosY="	23	"	EndPosX="	206	"	EndPosY="	29	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Poison Shadow	a"	-->
+<Config	Class="	36	"	Range="5"	BeginPosX="	224	"	BeginPosY="	20	"	EndPosX="	230	"	EndPosY="	26	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Shadow	a"	-->
+<Config	Class="	36	"	Range="5"	BeginPosX="	224	"	BeginPosY="	73	"	EndPosX="	230	"	EndPosY="	79	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Shadow	a"	-->
+<Config	Class="	36	"	Range="5"	BeginPosX="	220	"	BeginPosY="	107	"	EndPosX="	226	"	EndPosY="	113	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Shadow	a"	-->
+<Config	Class="	39	"	Range="5"	BeginPosX="	210	"	BeginPosY="	243	"	EndPosX="	216	"	EndPosY="	249	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Poison Shadow	a"	-->
+<Config	Class="	39	"	Range="5"	BeginPosX="	163	"	BeginPosY="	244	"	EndPosX="	169	"	EndPosY="	250	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Poison Shadow	a"	-->
+<Config	Class="	39	"	Range="5"	BeginPosX="	168	"	BeginPosY="	205	"	EndPosX="	174	"	EndPosY="	211	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Poison Shadow	a"	-->
+<Config	Class="	39	"	Range="5"	BeginPosX="	182	"	BeginPosY="	204	"	EndPosX="	188	"	EndPosY="	210	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Poison Shadow	a"	-->
+<Config	Class="	39	"	Range="5"	BeginPosX="	176	"	BeginPosY="	230	"	EndPosX="	182	"	EndPosY="	236	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Poison Shadow	a"	-->
+<Config	Class="	39	"	Range="5"	BeginPosX="	210	"	BeginPosY="	211	"	EndPosX="	216	"	EndPosY="	217	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Poison Shadow	a"	-->
+<Config	Class="	39	"	Range="5"	BeginPosX="	210	"	BeginPosY="	190	"	EndPosX="	216	"	EndPosY="	196	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Poison Shadow	a"	-->
+<Config	Class="	34	"	Range="5"	BeginPosX="	212	"	BeginPosY="	170	"	EndPosX="	218	"	EndPosY="	176	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Cursed Wizard	a"	-->
+<Config	Class="	34	"	Range="5"	BeginPosX="	242	"	BeginPosY="	164	"	EndPosX="	248	"	EndPosY="	170	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Cursed Wizard	a"	-->
+<Config	Class="	34	"	Range="5"	BeginPosX="	242	"	BeginPosY="	198	"	EndPosX="	248	"	EndPosY="	204	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Cursed Wizard	a"	-->
+<Config	Class="	34	"	Range="5"	BeginPosX="	233	"	BeginPosY="	209	"	EndPosX="	239	"	EndPosY="	215	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Cursed Wizard	a"	-->
+<Config	Class="	34	"	Range="5"	BeginPosX="	94	"	BeginPosY="	168	"	EndPosX="	100	"	EndPosY="	174	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Cursed Wizard	a"	-->
+<Config	Class="	34	"	Range="5"	BeginPosX="	80	"	BeginPosY="	190	"	EndPosX="	86	"	EndPosY="	196	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Cursed Wizard	a"	-->
+<Config	Class="	34	"	Range="5"	BeginPosX="	80	"	BeginPosY="	215	"	EndPosX="	86	"	EndPosY="	221	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Cursed Wizard	a"	-->
+<Config	Class="	34	"	Range="5"	BeginPosX="	80	"	BeginPosY="	243	"	EndPosX="	86	"	EndPosY="	249	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Cursed Wizard	a"	-->
+<Config	Class="	41	"	Range="5"	BeginPosX="	96	"	BeginPosY="	227	"	EndPosX="	102	"	EndPosY="	233	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Death cow	a"	-->
+<Config	Class="	41	"	Range="5"	BeginPosX="	97	"	BeginPosY="	184	"	EndPosX="	103	"	EndPosY="	190	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Death cow	a"	-->
+<Config	Class="	41	"	Range="5"	BeginPosX="	106	"	BeginPosY="	244	"	EndPosX="	112	"	EndPosY="	250	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Death cow	a"	-->
+<Config	Class="	41	"	Range="5"	BeginPosX="	117	"	BeginPosY="	222	"	EndPosX="	123	"	EndPosY="	228	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Death cow	a"	-->
+<Config	Class="	41	"	Range="5"	BeginPosX="	110	"	BeginPosY="	199	"	EndPosX="	116	"	EndPosY="	205	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Death cow	a"	-->
+<Config	Class="	41	"	Range="5"	BeginPosX="	122	"	BeginPosY="	183	"	EndPosX="	128	"	EndPosY="	189	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Death cow	a"	-->
+<Config	Class="	41	"	Range="5"	BeginPosX="	122	"	BeginPosY="	243	"	EndPosX="	128	"	EndPosY="	249	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Death cow	a"	-->
+<Config	Class="	41	"	Range="5"	BeginPosX="	82	"	BeginPosY="	109	"	EndPosX="	88	"	EndPosY="	115	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Death cow	a"	-->
+<Config	Class="	37	"	Range="5"	BeginPosX="	105	"	BeginPosY="	110	"	EndPosX="	111	"	EndPosY="	116	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Devil	a"	-->
+<Config	Class="	37	"	Range="5"	BeginPosX="	122	"	BeginPosY="	98	"	EndPosX="	128	"	EndPosY="	104	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Devil	a"	-->
+<Config	Class="	41	"	Range="5"	BeginPosX="	115	"	BeginPosY="	132	"	EndPosX="	121	"	EndPosY="	138	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Death cow	a"	-->
+<Config	Class="	41	"	Range="5"	BeginPosX="	101	"	BeginPosY="	133	"	EndPosX="	107	"	EndPosY="	139	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Death cow	a"	-->
+<Config	Class="	41	"	Range="5"	BeginPosX="	82	"	BeginPosY="	133	"	EndPosX="	88	"	EndPosY="	139	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Death cow	a"	-->
+<Config	Class="	40	"	Range="5"	BeginPosX="	125	"	BeginPosY="	38	"	EndPosX="	131	"	EndPosY="	44	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Death Knight	a"	-->
+<Config	Class="	40	"	Range="5"	BeginPosX="	125	"	BeginPosY="	122	"	EndPosX="	131	"	EndPosY="	128	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Death Knight	a"	-->
+<Config	Class="	40	"	Range="5"	BeginPosX="	108	"	BeginPosY="	6	"	EndPosX="	114	"	EndPosY="	12	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Death Knight	a"	-->
+<Config	Class="	40	"	Range="5"	BeginPosX="	83	"	BeginPosY="	23	"	EndPosX="	89	"	EndPosY="	29	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Death Knight	a"	-->
+<Config	Class="	40	"	Range="5"	BeginPosX="	82	"	BeginPosY="	52	"	EndPosX="	88	"	EndPosY="	58	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Death Knight	a"	-->
+<Config	Class="	40	"	Range="5"	BeginPosX="	100	"	BeginPosY="	54	"	EndPosX="	106	"	EndPosY="	60	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Death Knight	a"	-->
+<Config	Class="	40	"	Range="5"	BeginPosX="	108	"	BeginPosY="	38	"	EndPosX="	114	"	EndPosY="	44	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Death Knight	a"	-->
+<Config	Class="	40	"	Range="5"	BeginPosX="	51	"	BeginPosY="	23	"	EndPosX="	57	"	EndPosY="	29	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Death Knight	a"	-->
+<Config	Class="	40	"	Range="5"	BeginPosX="	52	"	BeginPosY="	5	"	EndPosX="	58	"	EndPosY="	11	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Death Knight	a"	-->
+<Config	Class="	40	"	Range="5"	BeginPosX="	20	"	BeginPosY="	7	"	EndPosX="	26	"	EndPosY="	13	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Death Knight	a"	-->
+<Config	Class="	40	"	Range="5"	BeginPosX="	4	"	BeginPosY="	13	"	EndPosX="	10	"	EndPosY="	19	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Death Knight	a"	-->
+<Config	Class="	40	"	Range="5"	BeginPosX="	11	"	BeginPosY="	46	"	EndPosX="	17	"	EndPosY="	52	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Death Knight	a"	-->
+<Config	Class="	40	"	Range="5"	BeginPosX="	27	"	BeginPosY="	38	"	EndPosX="	33	"	EndPosY="	44	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Death Knight	a"	-->
+<Config	Class="	40	"	Range="5"	BeginPosX="	50	"	BeginPosY="	88	"	EndPosX="	56	"	EndPosY="	94	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Death Knight	a"	-->
+<Config	Class="	35	"	Range="5"	BeginPosX="	23	"	BeginPosY="	105	"	EndPosX="	29	"	EndPosY="	111	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Death Gorgon	a"	-->
+<Config	Class="	35	"	Range="5"	BeginPosX="	3	"	BeginPosY="	96	"	EndPosX="	9	"	EndPosY="	102	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Death Gorgon	a"	-->
+<Config	Class="	35	"	Range="5"	BeginPosX="	50	"	BeginPosY="	116	"	EndPosX="	56	"	EndPosY="	122	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Death Gorgon	a"	-->
+<Config	Class="	35	"	Range="5"	BeginPosX="	13	"	BeginPosY="	125	"	EndPosX="	19	"	EndPosY="	131	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Death Gorgon	a"	-->
+<Config	Class="	35	"	Range="5"	BeginPosX="	26	"	BeginPosY="	134	"	EndPosX="	32	"	EndPosY="	140	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Death Gorgon	a"	-->
+<Config	Class="	35	"	Range="5"	BeginPosX="	49	"	BeginPosY="	132	"	EndPosX="	55	"	EndPosY="	138	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Death Gorgon	a"	-->
+<Config	Class="	35	"	Range="5"	BeginPosX="	27	"	BeginPosY="	167	"	EndPosX="	33	"	EndPosY="	173	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Death Gorgon	a"	-->
+<Config	Class="	35	"	Range="5"	BeginPosX="	49	"	BeginPosY="	173	"	EndPosX="	55	"	EndPosY="	179	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Death Gorgon	a"	-->
+<Config	Class="	35	"	Range="5"	BeginPosX="	6	"	BeginPosY="	200	"	EndPosX="	12	"	EndPosY="	206	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Death Gorgon	a"	-->
+<Config	Class="	35	"	Range="5"	BeginPosX="	51	"	BeginPosY="	205	"	EndPosX="	57	"	EndPosY="	211	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Death Gorgon	a"	-->
+<Config	Class="	35	"	Range="5"	BeginPosX="	52	"	BeginPosY="	235	"	EndPosX="	58	"	EndPosY="	241	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Death Gorgon	a"	-->
+	</SPOT>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<MONSTER>
+	</MONSTER>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<EVENT>
+	</EVENT>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+</MonsterSetBase>

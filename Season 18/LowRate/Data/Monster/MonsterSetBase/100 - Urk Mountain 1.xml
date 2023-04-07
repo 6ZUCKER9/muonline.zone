@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MonsterSetBase>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<NPC>
+	</NPC>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<SPOT>
+<Config	Class="	670	"	Range="5"	BeginPosX="	31	"	BeginPosY="	39	"	EndPosX="	37	"	EndPosY="	45	"	Direction="-1" Quantity="5" Element="1"/>	<!--	"	Uruk Devil Fairy	a"	-->
+<Config	Class="	670	"	Range="5"	BeginPosX="	95	"	BeginPosY="	8	"	EndPosX="	101	"	EndPosY="	14	"	Direction="-1" Quantity="5" Element="2"/>	<!--	"	Uruk Devil Fairy	a"	-->
+<Config	Class="	670	"	Range="5"	BeginPosX="	95	"	BeginPosY="	67	"	EndPosX="	101	"	EndPosY="	73	"	Direction="-1" Quantity="5" Element="3"/>	<!--	"	Uruk Devil Fairy	a"	-->
+<Config	Class="	670	"	Range="5"	BeginPosX="	84	"	BeginPosY="	92	"	EndPosX="	90	"	EndPosY="	98	"	Direction="-1" Quantity="5" Element="4"/>	<!--	"	Uruk Devil Fairy	a"	-->
+<Config	Class="	670	"	Range="5"	BeginPosX="	74	"	BeginPosY="	129	"	EndPosX="	80	"	EndPosY="	135	"	Direction="-1" Quantity="5" Element="5"/>	<!--	"	Uruk Devil Fairy	a"	-->
+<Config	Class="	670	"	Range="5"	BeginPosX="	28	"	BeginPosY="	158	"	EndPosX="	34	"	EndPosY="	164	"	Direction="-1" Quantity="5" Element="1"/>	<!--	"	Uruk Devil Fairy	a"	-->
+<Config	Class="	671	"	Range="5"	BeginPosX="	105	"	BeginPosY="	197	"	EndPosX="	111	"	EndPosY="	203	"	Direction="-1" Quantity="5" Element="2"/>	<!--	"	Uruk Elemental Beast	a"	-->
+<Config	Class="	671	"	Range="5"	BeginPosX="	94	"	BeginPosY="	168	"	EndPosX="	100	"	EndPosY="	174	"	Direction="-1" Quantity="5" Element="3"/>	<!--	"	Uruk Elemental Beast	a"	-->
+<Config	Class="	671	"	Range="5"	BeginPosX="	112	"	BeginPosY="	143	"	EndPosX="	118	"	EndPosY="	149	"	Direction="-1" Quantity="5" Element="4"/>	<!--	"	Uruk Elemental Beast	a"	-->
+<Config	Class="	671	"	Range="5"	BeginPosX="	130	"	BeginPosY="	151	"	EndPosX="	136	"	EndPosY="	157	"	Direction="-1" Quantity="5" Element="5"/>	<!--	"	Uruk Elemental Beast	a"	-->
+<Config	Class="	671	"	Range="5"	BeginPosX="	177	"	BeginPosY="	190	"	EndPosX="	183	"	EndPosY="	196	"	Direction="-1" Quantity="5" Element="1"/>	<!--	"	Uruk Elemental Beast	a"	-->
+<Config	Class="	671	"	Range="5"	BeginPosX="	210	"	BeginPosY="	212	"	EndPosX="	216	"	EndPosY="	218	"	Direction="-1" Quantity="5" Element="2"/>	<!--	"	Uruk Elemental Beast	a"	-->
+<Config	Class="	672	"	Range="5"	BeginPosX="	231	"	BeginPosY="	168	"	EndPosX="	237	"	EndPosY="	174	"	Direction="-1" Quantity="5" Element="3"/>	<!--	"	Uruk Elemental Knight	a"	-->
+<Config	Class="	672	"	Range="5"	BeginPosX="	236	"	BeginPosY="	133	"	EndPosX="	242	"	EndPosY="	139	"	Direction="-1" Quantity="5" Element="4"/>	<!--	"	Uruk Elemental Knight	a"	-->
+<Config	Class="	672	"	Range="5"	BeginPosX="	197	"	BeginPosY="	47	"	EndPosX="	203	"	EndPosY="	53	"	Direction="-1" Quantity="5" Element="5"/>	<!--	"	Uruk Elemental Knight	a"	-->
+<Config	Class="	672	"	Range="5"	BeginPosX="	160	"	BeginPosY="	52	"	EndPosX="	166	"	EndPosY="	58	"	Direction="-1" Quantity="5" Element="1"/>	<!--	"	Uruk Elemental Knight	a"	-->
+<Config	Class="	672	"	Range="5"	BeginPosX="	135	"	BeginPosY="	32	"	EndPosX="	141	"	EndPosY="	38	"	Direction="-1" Quantity="5" Element="2"/>	<!--	"	Uruk Elemental Knight	a"	-->
+<Config	Class="	672	"	Range="5"	BeginPosX="	161	"	BeginPosY="	79	"	EndPosX="	167	"	EndPosY="	85	"	Direction="-1" Quantity="5" Element="3"/>	<!--	"	Uruk Elemental Knight	a"	-->
+<Config	Class="	672	"	Range="5"	BeginPosX="	204	"	BeginPosY="	112	"	EndPosX="	210	"	EndPosY="	118	"	Direction="-1" Quantity="5" Element="4"/>	<!--	"	Uruk Elemental Knight	a"	-->
+<Config	Class="	672	"	Range="5"	BeginPosX="	170	"	BeginPosY="	132	"	EndPosX="	176	"	EndPosY="	138	"	Direction="-1" Quantity="5" Element="5"/>	<!--	"	Uruk Elemental Knight	a"	-->
+<Config	Class="	672	"	Range="5"	BeginPosX="	197	"	BeginPosY="	131	"	EndPosX="	203	"	EndPosY="	137	"	Direction="-1" Quantity="5" Element="1"/>	<!--	"	Uruk Elemental Knight	a"	-->
+
+
+
+
+
+
+			<!--Flame Trap-->
+			<Config Class="689" Range="0" BeginPosX="125" BeginPosY="128" EndPosX="126" EndPosY="129" Direction="-1" Quantity="1" Element="0" />
+			<!--Flame Trap-->
+			<Config Class="689" Range="0" BeginPosX="127" BeginPosY="132" EndPosX="129" EndPosY="133" Direction="-1" Quantity="1" Element="0" />
+			<!--Flame Trap-->
+			<Config Class="689" Range="0" BeginPosX="112" BeginPosY="115" EndPosX="113" EndPosY="117" Direction="-1" Quantity="1" Element="0" />
+			<!--Flame Trap-->
+			<Config Class="689" Range="0" BeginPosX="111" BeginPosY="112" EndPosX="113" EndPosY="113" Direction="-1" Quantity="1" Element="0" />
+			<!--Flame Trap-->
+			<Config Class="689" Range="0" BeginPosX="116" BeginPosY="109" EndPosX="117" EndPosY="110" Direction="-1" Quantity="1" Element="0" />
+			<!--Flame Trap-->
+			<Config Class="689" Range="0" BeginPosX="116" BeginPosY="105" EndPosX="117" EndPosY="106" Direction="-1" Quantity="1" Element="0" />
+			<!--Flame Trap-->
+			<Config Class="689" Range="0" BeginPosX="115" BeginPosY="100" EndPosX="117" EndPosY="101" Direction="-1" Quantity="1" Element="0" />
+			<!--Flame Trap-->
+			<Config Class="689" Range="0" BeginPosX="117" BeginPosY="120" EndPosX="118" EndPosY="121" Direction="-1" Quantity="1" Element="0" />
+			<!--Flame Trap-->
+			<Config Class="689" Range="0" BeginPosX="122" BeginPosY="97" EndPosX="124" EndPosY="98" Direction="-1" Quantity="1" Element="0" />
+			<!--Flame Trap-->
+			<Config Class="689" Range="0" BeginPosX="125" BeginPosY="99" EndPosX="127" EndPosY="100" Direction="-1" Quantity="1" Element="0" />
+			<!--Flame Trap-->
+			<Config Class="689" Range="0" BeginPosX="130" BeginPosY="97" EndPosX="131" EndPosY="98" Direction="-1" Quantity="1" Element="0" />
+			<!--Flame Trap-->
+			<Config Class="689" Range="0" BeginPosX="134" BeginPosY="94" EndPosX="135" EndPosY="95" Direction="-1" Quantity="1" Element="0" />
+			<!--Flame Trap-->
+			<Config Class="689" Range="0" BeginPosX="132" BeginPosY="101" EndPosX="134" EndPosY="102" Direction="-1" Quantity="1" Element="0" />
+			<!--Flame Trap-->
+			<Config Class="689" Range="0" BeginPosX="134" BeginPosY="105" EndPosX="135" EndPosY="106" Direction="-1" Quantity="1" Element="0" />
+			<!--Flame Trap-->
+			<Config Class="689" Range="0" BeginPosX="138" BeginPosY="107" EndPosX="139" EndPosY="108" Direction="-1" Quantity="1" Element="0" />
+			<!--Flame Trap-->
+			<Config Class="689" Range="0" BeginPosX="144" BeginPosY="107" EndPosX="146" EndPosY="108" Direction="-1" Quantity="1" Element="0" />
+			<!--Flame Trap-->
+			<Config Class="689" Range="0" BeginPosX="149" BeginPosY="111" EndPosX="150" EndPosY="112" Direction="-1" Quantity="1" Element="0" />
+			<!--Flame Trap-->
+			<Config Class="689" Range="0" BeginPosX="141" BeginPosY="112" EndPosX="142" EndPosY="113" Direction="-1" Quantity="1" Element="0" />
+			<!--Flame Trap-->
+			<Config Class="689" Range="0" BeginPosX="137" BeginPosY="116" EndPosX="138" EndPosY="117" Direction="-1" Quantity="1" Element="0" />
+			<!--Flame Trap-->
+			<Config Class="689" Range="0" BeginPosX="138" BeginPosY="123" EndPosX="139" EndPosY="122" Direction="-1" Quantity="1" Element="0" />
+			<!--Flame Trap-->
+			<Config Class="689" Range="0" BeginPosX="139" BeginPosY="127" EndPosX="141" EndPosY="128" Direction="-1" Quantity="1" Element="0" />
+			<!--Flame Trap-->
+			<Config Class="689" Range="0" BeginPosX="136" BeginPosY="128" EndPosX="137" EndPosY="129" Direction="-1" Quantity="1" Element="0" />
+			<!--Flame Trap-->
+			<Config Class="689" Range="0" BeginPosX="137" BeginPosY="132" EndPosX="138" EndPosY="133" Direction="-1" Quantity="1" Element="0" />
+			<!--Flame Trap-->
+			<Config Class="689" Range="0" BeginPosX="133" BeginPosY="132" EndPosX="134" EndPosY="133" Direction="-1" Quantity="1" Element="0" />
+			<!--Flame Trap-->
+			<Config Class="689" Range="0" BeginPosX="113" BeginPosY="122" EndPosX="114" EndPosY="123" Direction="-1" Quantity="1" Element="0" />
+			<!--Flame Trap-->
+			<Config Class="689" Range="0" BeginPosX="122" BeginPosY="122" EndPosX="123" EndPosY="123" Direction="-1" Quantity="1" Element="0" />
+			<!--Flame Trap-->
+			<Config Class="689" Range="0" BeginPosX="145" BeginPosY="113" EndPosX="146" EndPosY="114" Direction="-1" Quantity="1" Element="0" />
+			<!--Flame Trap-->
+			<Config Class="689" Range="0" BeginPosX="124" BeginPosY="124" EndPosX="126" EndPosY="125" Direction="-1" Quantity="1" Element="0" />
+			<!--Flame Trap-->
+			<Config Class="689" Range="0" BeginPosX="108" BeginPosY="120" EndPosX="109" EndPosY="121" Direction="-1" Quantity="1" Element="0" />
+			<!--Flame Trap-->
+			<Config Class="689" Range="0" BeginPosX="119" BeginPosY="132" EndPosX="120" EndPosY="133" Direction="-1" Quantity="1" Element="0" />
+			<!--Flame Trap-->
+			<Config Class="689" Range="0" BeginPosX="116" BeginPosY="129" EndPosX="117" EndPosY="130" Direction="-1" Quantity="1" Element="0" />
+			<!--Flame Trap-->
+			<Config Class="689" Range="0" BeginPosX="150" BeginPosY="107" EndPosX="151" EndPosY="108" Direction="-1" Quantity="1" Element="0" />
+			<!--Flame Trap-->
+			<Config Class="689" Range="0" BeginPosX="142" BeginPosY="133" EndPosX="143" EndPosY="134" Direction="-1" Quantity="1" Element="0" />
+			<!--Flame Trap-->
+			<Config Class="689" Range="0" BeginPosX="145" BeginPosY="131" EndPosX="146" EndPosY="132" Direction="-1" Quantity="1" Element="0" />
+			<!--Flame Trap-->
+			<Config Class="689" Range="0" BeginPosX="120" BeginPosY="90" EndPosX="121" EndPosY="91" Direction="-1" Quantity="1" Element="0" />
+			<!--Flame Trap-->
+			<Config Class="689" Range="0" BeginPosX="123" BeginPosY="92" EndPosX="124" EndPosY="93" Direction="-1" Quantity="1" Element="0" />
+			<!--Flame Trap-->
+			<Config Class="689" Range="0" BeginPosX="108" BeginPosY="124" EndPosX="109" EndPosY="125" Direction="-1" Quantity="1" Element="0" />
+			<!--Flame Trap-->
+			<Config Class="689" Range="0" BeginPosX="120" BeginPosY="100" EndPosX="121" EndPosY="101" Direction="-1" Quantity="1" Element="0" />
+			<!--Flame Trap-->
+			<Config Class="689" Range="0" BeginPosX="128" BeginPosY="89" EndPosX="129" EndPosY="90" Direction="-1" Quantity="1" Element="0" />
+			<!--Flame Trap-->
+			<Config Class="689" Range="0" BeginPosX="111" BeginPosY="96" EndPosX="112" EndPosY="97" Direction="-1" Quantity="1" Element="0" />
+			<!--Flame Trap-->
+			<Config Class="689" Range="0" BeginPosX="105" BeginPosY="110" EndPosX="106" EndPosY="111" Direction="-1" Quantity="1" Element="0" />
+			<!--Flame Trap-->
+			<Config Class="689" Range="0" BeginPosX="148" BeginPosY="126" EndPosX="149" EndPosY="127" Direction="-1" Quantity="1" Element="0" />
+			<!--Flame Trap-->
+			<Config Class="689" Range="0" BeginPosX="147" BeginPosY="135" EndPosX="148" EndPosY="136" Direction="-1" Quantity="1" Element="0" />
+			<!--Flame Trap-->
+			<Config Class="689" Range="0" BeginPosX="149" BeginPosY="122" EndPosX="150" EndPosY="123" Direction="-1" Quantity="1" Element="0" />
+			<!--Flame Trap-->
+			<Config Class="689" Range="0" BeginPosX="155" BeginPosY="109" EndPosX="156" EndPosY="110" Direction="-1" Quantity="1" Element="0" />
+			<!--Flame Trap-->
+			<Config Class="689" Range="0" BeginPosX="155" BeginPosY="115" EndPosX="156" EndPosY="116" Direction="-1" Quantity="1" Element="0" />
+			<!--Flame Trap-->
+			<Config Class="689" Range="0" BeginPosX="132" BeginPosY="134" EndPosX="133" EndPosY="135" Direction="-1" Quantity="1" Element="0" />
+			<!--Flame Trap-->
+			<Config Class="689" Range="0" BeginPosX="153" BeginPosY="100" EndPosX="154" EndPosY="101" Direction="-1" Quantity="1" Element="0" />
+			<!--Flame Trap-->
+			<Config Class="689" Range="0" BeginPosX="147" BeginPosY="99" EndPosX="148" EndPosY="100" Direction="-1" Quantity="1" Element="0" />
+			<!--Flame Trap-->
+			<Config Class="689" Range="0" BeginPosX="134" BeginPosY="90" EndPosX="135" EndPosY="91" Direction="-1" Quantity="1" Element="0" />
+	</SPOT>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<MONSTER>
+	</MONSTER>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<EVENT>
+	</EVENT>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+</MonsterSetBase>

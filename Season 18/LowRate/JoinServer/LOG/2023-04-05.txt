@@ -1,0 +1,50 @@
+19:44:34 [SocketManager] Server started at port [55970]
+19:44:34 [SocketManager] Server started at port [55557]
+19:44:35 [ServerManager][0] AddServer (127.0.0.1)
+19:44:35 [ServerManager][1] AddServer (127.0.0.1)
+19:44:35 [ServerManager][1] ServerInfo (ChatServer) (55906) (65533)
+19:44:46 [ServerManager][2] AddServer (127.0.0.1)
+19:44:46 [ServerManager][2] ServerInfo (MuDevs) (55901) (20)
+19:49:15 [AllowConectionManager][ADD][+][HWID:55D3B74A-9689C29F-F428D523-8826B7EE-49656E69-00000016-BFEBFBFF-7FFAFBFF][ConectionCount:1][Account:admin]
+19:55:48 EXEC WZ_GetAccountLevel 'admin'
+19:55:48 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][Shared Memory]ConnectionWrite (send()).
+19:55:48 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver][Shared Memory]General network error. Check your network documentation.
+19:56:48 EXEC WZ_GetAccountLevel 'admin'
+19:56:48 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+19:57:48 EXEC WZ_GetAccountLevel 'admin'
+19:57:48 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+19:58:48 EXEC WZ_GetAccountLevel 'admin'
+19:58:48 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+19:59:48 EXEC WZ_GetAccountLevel 'admin'
+19:59:48 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+20:00:48 EXEC WZ_GetAccountLevel 'admin'
+20:00:48 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+20:01:48 EXEC WZ_GetAccountLevel 'admin'
+20:01:48 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+20:02:48 EXEC WZ_GetAccountLevel 'admin'
+20:02:48 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+20:03:48 EXEC WZ_GetAccountLevel 'admin'
+20:03:48 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+20:04:48 EXEC WZ_GetAccountLevel 'admin'
+20:04:48 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+20:05:48 EXEC WZ_GetAccountLevel 'admin'
+20:05:48 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+20:06:48 EXEC WZ_GetAccountLevel 'admin'
+20:06:48 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+20:07:48 EXEC WZ_GetAccountLevel 'admin'
+20:07:48 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+20:08:48 EXEC WZ_GetAccountLevel 'admin'
+20:08:48 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+20:09:48 EXEC WZ_GetAccountLevel 'admin'
+20:09:48 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+20:10:24 [SocketManager] Server started at port [55970]
+20:10:24 [SocketManager] Server started at port [55557]
+20:10:26 [ServerManager][0] AddServer (127.0.0.1)
+20:10:26 [ServerManager][1] AddServer (127.0.0.1)
+20:10:26 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+20:10:28 [ServerManager][2] AddServer (127.0.0.1)
+20:10:28 [ServerManager][2] ServerInfo (MuDevs) (55901) (20)
+20:11:17 [AllowConectionManager][ADD][+][HWID:55D3B74A-9689C29F-F428D523-8826B7EE-49656E69-00000016-BFEBFBFF-7FFAFBFF][ConectionCount:1][Account:admin]
+20:11:17 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:55D3B74A-9689C29F-F428D523-8826B7EE-49656E69-00000016-BFEBFBFF-7FFAFBFF][ConectionCount:0][Account:admin]
+20:12:27 [AllowConectionManager][ADD][+][HWID:55D3B74A-9689C29F-F428D523-8826B7EE-49656E69-00000016-BFEBFBFF-7FFAFBFF][ConectionCount:1][Account:admin]
+20:12:28 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:55D3B74A-9689C29F-F428D523-8826B7EE-49656E69-00000016-BFEBFBFF-7FFAFBFF][ConectionCount:0][Account:admin]

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MonsterSetBase>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<NPC>
+	</NPC>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<SPOT>
+<Config	Class="	351	"	Range="5"	BeginPosX="	39	"	BeginPosY="	229	"	EndPosX="	45	"	EndPosY="	235	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Splinter Wolf	a"	-->
+<Config	Class="	351	"	Range="5"	BeginPosX="	70	"	BeginPosY="	231	"	EndPosX="	76	"	EndPosY="	237	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Splinter Wolf	a"	-->
+<Config	Class="	351	"	Range="5"	BeginPosX="	98	"	BeginPosY="	235	"	EndPosX="	104	"	EndPosY="	241	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Splinter Wolf	a"	-->
+<Config	Class="	351	"	Range="5"	BeginPosX="	149	"	BeginPosY="	235	"	EndPosX="	155	"	EndPosY="	241	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Splinter Wolf	a"	-->
+<Config	Class="	351	"	Range="5"	BeginPosX="	139	"	BeginPosY="	220	"	EndPosX="	145	"	EndPosY="	226	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Splinter Wolf	a"	-->
+<Config	Class="	351	"	Range="5"	BeginPosX="	154	"	BeginPosY="	195	"	EndPosX="	160	"	EndPosY="	201	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Splinter Wolf	a"	-->
+<Config	Class="	352	"	Range="5"	BeginPosX="	181	"	BeginPosY="	206	"	EndPosX="	187	"	EndPosY="	212	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Iron Rider	a"	-->
+<Config	Class="	352	"	Range="5"	BeginPosX="	196	"	BeginPosY="	180	"	EndPosX="	202	"	EndPosY="	186	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Iron Rider	a"	-->
+<Config	Class="	352	"	Range="5"	BeginPosX="	171	"	BeginPosY="	160	"	EndPosX="	177	"	EndPosY="	166	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Iron Rider	a"	-->
+<Config	Class="	352	"	Range="5"	BeginPosX="	193	"	BeginPosY="	151	"	EndPosX="	199	"	EndPosY="	157	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Iron Rider	a"	-->
+<Config	Class="	352	"	Range="5"	BeginPosX="	211	"	BeginPosY="	138	"	EndPosX="	217	"	EndPosY="	144	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Iron Rider	a"	-->
+<Config	Class="	353	"	Range="5"	BeginPosX="	233	"	BeginPosY="	132	"	EndPosX="	239	"	EndPosY="	138	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Satyros	a"	-->
+<Config	Class="	353	"	Range="5"	BeginPosX="	221	"	BeginPosY="	115	"	EndPosX="	227	"	EndPosY="	121	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Satyros	a"	-->
+<Config	Class="	353	"	Range="5"	BeginPosX="	232	"	BeginPosY="	93	"	EndPosX="	238	"	EndPosY="	99	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Satyros	a"	-->
+<Config	Class="	353	"	Range="5"	BeginPosX="	223	"	BeginPosY="	75	"	EndPosX="	229	"	EndPosY="	81	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Satyros	a"	-->
+<Config	Class="	353	"	Range="5"	BeginPosX="	225	"	BeginPosY="	57	"	EndPosX="	231	"	EndPosY="	63	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Satyros	a"	-->
+<Config	Class="	354	"	Range="5"	BeginPosX="	180	"	BeginPosY="	23	"	EndPosX="	186	"	EndPosY="	29	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Blade Hunter	a"	-->
+<Config	Class="	354	"	Range="5"	BeginPosX="	183	"	BeginPosY="	3	"	EndPosX="	193	"	EndPosY="	13	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Blade Hunter	a"	-->
+<Config	Class="	354	"	Range="5"	BeginPosX="	160	"	BeginPosY="	21	"	EndPosX="	166	"	EndPosY="	27	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Blade Hunter	a"	-->
+<Config	Class="	354	"	Range="5"	BeginPosX="	151	"	BeginPosY="	54	"	EndPosX="	157	"	EndPosY="	60	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Blade Hunter	a"	-->
+<Config	Class="	355	"	Range="5"	BeginPosX="	135	"	BeginPosY="	41	"	EndPosX="	141	"	EndPosY="	47	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Kentauros	a"	-->
+<Config	Class="	355	"	Range="5"	BeginPosX="	145	"	BeginPosY="	13	"	EndPosX="	151	"	EndPosY="	19	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Kentauros	a"	-->
+<Config	Class="	355	"	Range="5"	BeginPosX="	119	"	BeginPosY="	22	"	EndPosX="	125	"	EndPosY="	28	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Kentauros	a"	-->
+<Config	Class="	356	"	Range="5"	BeginPosX="	116	"	BeginPosY="	55	"	EndPosX="	122	"	EndPosY="	61	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Gigantis	a"	-->
+<Config	Class="	356	"	Range="5"	BeginPosX="	94	"	BeginPosY="	66	"	EndPosX="	100	"	EndPosY="	72	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Gigantis	a"	-->
+<Config	Class="	356	"	Range="5"	BeginPosX="	74	"	BeginPosY="	52	"	EndPosX="	80	"	EndPosY="	58	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Gigantis	a"	-->
+<Config	Class="	350	"	Range="5"	BeginPosX="	86	"	BeginPosY="	30	"	EndPosX="	92	"	EndPosY="	36	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Berserker	a"	-->
+<Config	Class="	350	"	Range="5"	BeginPosX="	56	"	BeginPosY="	31	"	EndPosX="	62	"	EndPosY="	37	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Berserker	a"	-->
+<Config	Class="	357	"	Range="5"	BeginPosX="	40	"	BeginPosY="	48	"	EndPosX="	46	"	EndPosY="	54	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Genocider	a"	-->
+<Config	Class="	357	"	Range="5"	BeginPosX="	37	"	BeginPosY="	70	"	EndPosX="	43	"	EndPosY="	76	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Genocider	a"	-->
+<Config	Class="	357	"	Range="5"	BeginPosX="	54	"	BeginPosY="	97	"	EndPosX="	60	"	EndPosY="	103	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Genocider	a"	-->
+<Config	Class="	553	"	Range="5"	BeginPosX="	56	"	BeginPosY="	152	"	EndPosX="	62	"	EndPosY="	158	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Berserker Warrior	a"	-->
+<Config	Class="	553	"	Range="5"	BeginPosX="	58	"	BeginPosY="	130	"	EndPosX="	64	"	EndPosY="	136	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Berserker Warrior	a"	-->
+<Config	Class="	554	"	Range="5"	BeginPosX="	98	"	BeginPosY="	153	"	EndPosX="	104	"	EndPosY="	159	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Kentauros Warrior	a"	-->
+<Config	Class="	554	"	Range="5"	BeginPosX="	88	"	BeginPosY="	120	"	EndPosX="	94	"	EndPosY="	126	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Kentauros Warrior	a"	-->
+<Config	Class="	555	"	Range="5"	BeginPosX="	110	"	BeginPosY="	97	"	EndPosX="	116	"	EndPosY="	103	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Gigantis Warrior	a"	-->
+<Config	Class="	555	"	Range="5"	BeginPosX="	128	"	BeginPosY="	116	"	EndPosX="	134	"	EndPosY="	122	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Gigantis Warrior	a"	-->
+<Config	Class="	555	"	Range="5"	BeginPosX="	136	"	BeginPosY="	152	"	EndPosX="	142	"	EndPosY="	158	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Gigantis Warrior	a"	-->
+<Config	Class="	556	"	Range="5"	BeginPosX="	168	"	BeginPosY="	109	"	EndPosX="	174	"	EndPosY="	115	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Genocider Warrior	a"	-->
+<Config	Class="	556	"	Range="5"	BeginPosX="	142	"	BeginPosY="	87	"	EndPosX="	148	"	EndPosY="	93	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Genocider Warrior	a"	-->
+
+	</SPOT>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<MONSTER>
+			<!--Berserker-->
+			<Config Class="350" Range="30" BeginPosX="101" BeginPosY="68" Direction="-1" />
+			<!--Berserker-->
+			<Config Class="350" Range="30" BeginPosX="129" BeginPosY="19" Direction="-1" />
+			<!--Berserker-->
+			<Config Class="350" Range="30" BeginPosX="137" BeginPosY="26" Direction="-1" />
+			<!--Splinter Wolf-->
+			<Config Class="351" Range="30" BeginPosX="159" BeginPosY="232" Direction="-1" />
+			<!--Splinter Wolf-->
+			<Config Class="351" Range="30" BeginPosX="118" BeginPosY="232" Direction="-1" />
+			<!--Splinter Wolf-->
+			<Config Class="351" Range="30" BeginPosX="55" BeginPosY="228" Direction="-1" />
+			<!--Splinter Wolf-->
+			<Config Class="351" Range="30" BeginPosX="75" BeginPosY="231" Direction="-1" />
+			<!--Splinter Wolf-->
+			<Config Class="351" Range="30" BeginPosX="69" BeginPosY="238" Direction="-1" />
+			<!--Splinter Wolf-->
+			<Config Class="351" Range="30" BeginPosX="174" BeginPosY="196" Direction="-1" />
+			<!--Splinter Wolf-->
+			<Config Class="351" Range="30" BeginPosX="94" BeginPosY="234" Direction="-1" />
+			<!--Splinter Wolf-->
+			<Config Class="351" Range="30" BeginPosX="100" BeginPosY="240" Direction="-1" />
+			<!--Splinter Wolf-->
+			<Config Class="351" Range="30" BeginPosX="114" BeginPosY="239" Direction="-1" />
+			<!--Splinter Wolf-->
+			<Config Class="351" Range="30" BeginPosX="135" BeginPosY="223" Direction="-1" />
+			<!--Splinter Wolf-->
+			<Config Class="351" Range="30" BeginPosX="143" BeginPosY="239" Direction="-1" />
+			<!--Splinter Wolf-->
+			<Config Class="351" Range="30" BeginPosX="172" BeginPosY="215" Direction="-1" />
+			<!--Iron Rider-->
+			<Config Class="352" Range="30" BeginPosX="172" BeginPosY="205" Direction="-1" />
+			<!--Iron Rider-->
+			<Config Class="352" Range="30" BeginPosX="198" BeginPosY="179" Direction="-1" />
+			<!--Iron Rider-->
+			<Config Class="352" Range="30" BeginPosX="185" BeginPosY="148" Direction="-1" />
+			<!--Iron Rider-->
+			<Config Class="352" Range="30" BeginPosX="175" BeginPosY="150" Direction="-1" />
+			<!--Iron Rider-->
+			<Config Class="352" Range="30" BeginPosX="212" BeginPosY="125" Direction="-1" />
+			<!--Iron Rider-->
+			<Config Class="352" Range="30" BeginPosX="222" BeginPosY="113" Direction="-1" />
+			<!--Satyros-->
+			<Config Class="353" Range="30" BeginPosX="193" BeginPosY="181" Direction="-1" />
+			<!--Satyros-->
+			<Config Class="353" Range="30" BeginPosX="224" BeginPosY="43" Direction="-1" />
+			<!--Blade Hunter-->
+			<Config Class="354" Range="30" BeginPosX="164" BeginPosY="22" Direction="-1" />
+			<!--Blade Hunter-->
+			<Config Class="354" Range="30" BeginPosX="165" BeginPosY="40" Direction="-1" />
+			<!--Blade Hunter-->
+			<Config Class="354" Range="30" BeginPosX="116" BeginPosY="43" Direction="-1" />
+			<!--Blade Hunter-->
+			<Config Class="354" Range="30" BeginPosX="122" BeginPosY="44" Direction="-1" />
+			<!--Kentauros-->
+			<Config Class="355" Range="30" BeginPosX="87" BeginPosY="71" Direction="-1" />
+			<!--Genocider-->
+			<Config Class="357" Range="30" BeginPosX="63" BeginPosY="101" Direction="-1" />
+			<!--Genocider Warrior-->
+			<Config Class="556" Range="30" BeginPosX="177" BeginPosY="89" Direction="-1" />
+	</MONSTER>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<EVENT>
+	</EVENT>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+</MonsterSetBase>

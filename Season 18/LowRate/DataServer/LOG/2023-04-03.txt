@@ -1,0 +1,83 @@
+00:07:34 [SocketManager] Server started at port [55960]
+00:07:39 [ServerManager][0] AddServer (127.0.0.1)
+00:07:39 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533) (0)
+00:07:55 [Connection] connect() failed with error: 10060
+00:07:56 [MainProc][2][Expire Mission Info][Restore] 2023-03-30 AM10:30
+00:07:56 [ImperialGuardianRenewal][MainProc][Play Info][Restore] [2023-03-30 AM10:30][MainAttr:4]
+17:03:55 [SocketManager] Server started at port [55960]
+17:04:03 [ServerManager][0] AddServer (127.0.0.1)
+17:04:03 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533) (0)
+17:04:05 [MainProc][2][Expire Mission Info][Restore] 2023-03-30 AM10:30
+17:04:05 [ImperialGuardianRenewal][MainProc][Play Info][Restore] [2023-03-30 AM10:30][MainAttr:4]
+17:04:06 [ServerManager][0] DelServer (127.0.0.1)
+17:04:24 [SocketManager] Server started at port [55960]
+17:04:32 [ServerManager][0] AddServer (127.0.0.1)
+17:04:32 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533) (0)
+17:04:34 [MainProc][2][Expire Mission Info][Restore] 2023-03-30 AM10:30
+17:04:35 [ImperialGuardianRenewal][MainProc][Play Info][Restore] [2023-03-30 AM10:30][MainAttr:4]
+17:05:23 [ServerManager][0] DelServer (127.0.0.1)
+17:10:27 [SocketManager] Server started at port [55960]
+17:27:33 [SocketManager] Server started at port [55960]
+17:27:40 [ServerManager][0] AddServer (127.0.0.1)
+17:27:40 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533) (0)
+17:27:43 [MainProc][2][Expire Mission Info][Restore] 2023-03-30 AM10:30
+17:27:43 [ImperialGuardianRenewal][MainProc][Play Info][Restore] [2023-03-30 AM10:30][MainAttr:4]
+17:28:31 [ServerManager][0] DelServer (127.0.0.1)
+17:32:39 [SocketManager] Server started at port [55960]
+17:33:01 [SocketManager] Server started at port [55960]
+17:33:22 [Connection] connect() failed with error: 10060
+17:33:23 [MainProc][2][Expire Mission Info][Restore] 2023-03-30 AM10:30
+17:33:23 [ImperialGuardianRenewal][MainProc][Play Info][Restore] [2023-03-30 AM10:30][MainAttr:4]
+17:37:19 [SocketManager] Server started at port [55960]
+17:37:40 [SocketManager] Server started at port [55960]
+17:37:57 [SocketManager] Server started at port [55960]
+17:38:23 [SocketManager] Server started at port [55960]
+17:38:27 [ServerManager][0] AddServer (127.0.0.1)
+17:38:27 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533) (0)
+17:39:02 [SocketManager] Server started at port [55960]
+17:40:09 [SocketManager] Server started at port [55960]
+17:40:34 [SocketManager] Server started at port [55960]
+17:40:35 [ServerManager][0] AddServer (127.0.0.1)
+17:40:35 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533) (0)
+17:40:55 [Connection] connect() failed with error: 10060
+17:40:55 [MainProc][2][Expire Mission Info][Restore] 2023-03-30 AM10:30
+17:40:55 [ImperialGuardianRenewal][MainProc][Play Info][Restore] [2023-03-30 AM10:30][MainAttr:4]
+17:41:32 [ServerManager][0] DelServer (127.0.0.1)
+17:50:46 [SocketManager] Server started at port [55960]
+17:50:51 [ServerManager][0] AddServer (127.0.0.1)
+17:50:51 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533) (0)
+17:50:58 [ServerManager][0] DelServer (127.0.0.1)
+17:52:02 [SocketManager] Server started at port [55960]
+17:52:06 [ServerManager][0] AddServer (127.0.0.1)
+17:52:07 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533) (0)
+17:52:23 [Connection] connect() failed with error: 10060
+17:52:23 [MainProc][2][Expire Mission Info][Restore] 2023-03-30 AM10:30
+17:52:23 [ImperialGuardianRenewal][MainProc][Play Info][Restore] [2023-03-30 AM10:30][MainAttr:4]
+17:55:15 [SocketManager] Server started at port [55960]
+17:55:17 [ServerManager][0] AddServer (127.0.0.1)
+17:55:17 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533) (0)
+17:55:25 [MainProc][2][Expire Mission Info][Restore] 2023-03-30 AM10:30
+17:55:25 [ImperialGuardianRenewal][MainProc][Play Info][Restore] [2023-03-30 AM10:30][MainAttr:4]
+18:03:22 [SocketManager] Server started at port [55960]
+18:03:27 [ServerManager][0] AddServer (127.0.0.1)
+18:03:27 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533) (0)
+18:03:43 [Connection] connect() failed with error: 10060
+18:03:44 [MainProc][2][Expire Mission Info][Restore] 2023-03-30 AM10:30
+18:03:44 [ImperialGuardianRenewal][MainProc][Play Info][Restore] [2023-03-30 AM10:30][MainAttr:4]
+18:10:20 [SocketManager] Server started at port [55960]
+18:10:28 [ServerManager][0] AddServer (127.0.0.1)
+18:10:28 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533) (0)
+18:10:30 [MainProc][2][Expire Mission Info][Restore] 2023-03-30 AM10:30
+18:10:30 [ImperialGuardianRenewal][MainProc][Play Info][Restore] [2023-03-30 AM10:30][MainAttr:4]
+19:42:08 [SocketManager] Server started at port [55960]
+19:42:09 [ServerManager][0] AddServer (127.0.0.1)
+19:42:09 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533) (0)
+19:42:29 [Connection] connect() failed with error: 10060
+19:42:29 [MainProc][2][Expire Mission Info][Restore] 2023-03-30 AM10:30
+19:42:29 [ImperialGuardianRenewal][MainProc][Play Info][Restore] [2023-03-30 AM10:30][MainAttr:4]
+19:44:55 [SocketManager] Server started at port [55960]
+19:44:57 [ServerManager][0] AddServer (127.0.0.1)
+19:44:57 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533) (0)
+19:45:02 [ServerManager][0] DelServer (127.0.0.1)
+19:45:05 [MainProc][2][Expire Mission Info][Restore] 2023-03-30 AM10:30
+19:45:05 [ImperialGuardianRenewal][MainProc][Play Info][Restore] [2023-03-30 AM10:30][MainAttr:4]

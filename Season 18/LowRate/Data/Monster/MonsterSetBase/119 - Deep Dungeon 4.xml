@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MonsterSetBase>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<NPC>
+	</NPC>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<SPOT>
+			<!--Deep Dungeon Chief Skeleton-->
+			<Config Class="769" Range="5" BeginPosX="135" BeginPosY="2" EndPosX="148" EndPosY="10" Direction="-1" Quantity="5" Element="2" />
+			<!--Deep Dungeon Chief Skeleton-->
+			<Config Class="769" Range="5" BeginPosX="157" BeginPosY="135" EndPosX="168" EndPosY="146" Direction="-1" Quantity="5" Element="4" />
+			<!--Deep Dungeon Chief Skeleton-->
+			<Config Class="769" Range="5" BeginPosX="177" BeginPosY="148" EndPosX="192" EndPosY="159" Direction="-1" Quantity="6" Element="5" />
+			<!--Deep Dungeon Chief Skeleton-->
+			<Config Class="769" Range="5" BeginPosX="97" BeginPosY="21" EndPosX="104" EndPosY="30" Direction="-1" Quantity="5" Element="1" />
+			<!--Deep Dungeon Chief Skeleton-->
+			<Config Class="769" Range="5" BeginPosX="180" BeginPosY="57" EndPosX="189" EndPosY="66" Direction="-1" Quantity="5" Element="2" />
+			<!--Deep Dungeon Chief Skeleton-->
+			<Config Class="769" Range="5" BeginPosX="218" BeginPosY="39" EndPosX="231" EndPosY="49" Direction="-1" Quantity="5" Element="3" />
+			<!--Deep Dungeon Chief Skeleton-->
+			<Config Class="769" Range="5" BeginPosX="197" BeginPosY="2" EndPosX="208" EndPosY="13" Direction="-1" Quantity="5" Element="3" />
+			<!--Deep Dungeon Chief Skeleton-->
+			<Config Class="769" Range="5" BeginPosX="195" BeginPosY="116" EndPosX="207" EndPosY="128" Direction="-1" Quantity="3" Element="4" />
+			<!--Deep Dungeon Chief Skeleton-->
+			<Config Class="769" Range="5" BeginPosX="227" BeginPosY="132" EndPosX="237" EndPosY="146" Direction="-1" Quantity="5" Element="5" />
+			<!--Deep Dungeon Chief Skeleton-->
+			<Config Class="769" Range="5" BeginPosX="62" BeginPosY="35" EndPosX="72" EndPosY="45" Direction="-1" Quantity="5" Element="1" />
+			<!--Deep Dungeon Chief Skeleton-->
+			<Config Class="769" Range="5" BeginPosX="217" BeginPosY="115" EndPosX="227" EndPosY="129" Direction="-1" Quantity="5" Element="5" />
+			<!--Deep Dungeon Chief Skeleton-->
+			<Config Class="769" Range="5" BeginPosX="120" BeginPosY="58" EndPosX="133" EndPosY="67" Direction="-1" Quantity="5" Element="2" />
+			<!--Deep Dungeon Chief Skeleton-->
+			<Config Class="769" Range="5" BeginPosX="111" BeginPosY="87" EndPosX="123" EndPosY="97" Direction="-1" Quantity="5" Element="1" />
+			<!--Deep Dungeon Chief Skeleton-->
+			<Config Class="769" Range="5" BeginPosX="112" BeginPosY="11" EndPosX="123" EndPosY="18" Direction="-1" Quantity="5" Element="1" />
+			<!--Deep Dungeon Chief Skeleton-->
+			<Config Class="769" Range="5" BeginPosX="20" BeginPosY="11" EndPosX="30" EndPosY="19" Direction="-1" Quantity="5" Element="1" />
+			<!--Deep Dungeon Chief Skeleton-->
+			<Config Class="769" Range="5" BeginPosX="246" BeginPosY="232" EndPosX="247" EndPosY="234" Direction="-1" Quantity="1" Element="3" />
+			<!--Deep Dungeon Chief Skeleton-->
+			<Config Class="769" Range="5" BeginPosX="231" BeginPosY="217" EndPosX="233" EndPosY="220" Direction="-1" Quantity="1" Element="3" />
+			<!--Deep Dungeon Chief Skeleton-->
+			<Config Class="769" Range="5" BeginPosX="225" BeginPosY="201" EndPosX="229" EndPosY="204" Direction="-1" Quantity="1" Element="3" />
+			<!--Deep Dungeon Chief Skeleton-->
+			<Config Class="769" Range="5" BeginPosX="234" BeginPosY="239" EndPosX="236" EndPosY="242" Direction="-1" Quantity="1" Element="3" />
+			<!--Deep Dungeon Chief Skeleton-->
+			<Config Class="769" Range="5" BeginPosX="146" BeginPosY="25" EndPosX="155" EndPosY="35" Direction="-1" Quantity="5" Element="5" />
+			<!--Deep Dungeon Chief Skeleton-->
+			<Config Class="769" Range="5" BeginPosX="1" BeginPosY="11" EndPosX="9" EndPosY="22" Direction="-1" Quantity="5" Element="1" />
+			<!--Deep Dungeon Thunder Lich-->
+			<Config Class="775" Range="5" BeginPosX="175" BeginPosY="12" EndPosX="185" EndPosY="21" Direction="-1" Quantity="5" Element="2" />
+			<!--Deep Dungeon Thunder Lich-->
+			<Config Class="775" Range="5" BeginPosX="177" BeginPosY="90" EndPosX="189" EndPosY="101" Direction="-1" Quantity="5" Element="2" />
+			<!--Deep Dungeon Thunder Lich-->
+			<Config Class="775" Range="5" BeginPosX="174" BeginPosY="113" EndPosX="189" EndPosY="123" Direction="-1" Quantity="5" Element="4" />
+			<!--Deep Dungeon Thunder Lich-->
+			<Config Class="775" Range="5" BeginPosX="176" BeginPosY="128" EndPosX="191" EndPosY="140" Direction="-1" Quantity="6" Element="4" />
+			<!--Deep Dungeon Thunder Lich-->
+			<Config Class="775" Range="5" BeginPosX="111" BeginPosY="32" EndPosX="125" EndPosY="41" Direction="-1" Quantity="5" Element="1" />
+			<!--Deep Dungeon Thunder Lich-->
+			<Config Class="775" Range="5" BeginPosX="174" BeginPosY="30" EndPosX="182" EndPosY="43" Direction="-1" Quantity="5" Element="2" />
+			<!--Deep Dungeon Thunder Lich-->
+			<Config Class="775" Range="5" BeginPosX="157" BeginPosY="60" EndPosX="170" EndPosY="70" Direction="-1" Quantity="5" Element="2" />
+			<!--Deep Dungeon Thunder Lich-->
+			<Config Class="775" Range="5" BeginPosX="232" BeginPosY="89" EndPosX="243" EndPosY="101" Direction="-1" Quantity="5" Element="4" />
+			<!--Deep Dungeon Thunder Lich-->
+			<Config Class="775" Range="5" BeginPosX="93" BeginPosY="74" EndPosX="104" EndPosY="85" Direction="-1" Quantity="5" Element="1" />
+			<!--Deep Dungeon Thunder Lich-->
+			<Config Class="775" Range="5" BeginPosX="82" BeginPosY="45" EndPosX="90" EndPosY="58" Direction="-1" Quantity="5" Element="1" />
+			<!--Deep Dungeon Thunder Lich-->
+			<Config Class="775" Range="5" BeginPosX="201" BeginPosY="61" EndPosX="209" EndPosY="73" Direction="-1" Quantity="3" Element="3" />
+			<!--Deep Dungeon Thunder Lich-->
+			<Config Class="775" Range="5" BeginPosX="44" BeginPosY="2" EndPosX="65" EndPosY="16" Direction="-1" Quantity="4" Element="1" />
+			<!--Deep Dungeon Thunder Lich-->
+			<Config Class="775" Range="5" BeginPosX="233" BeginPosY="178" EndPosX="247" EndPosY="195" Direction="-1" Quantity="6" Element="5" />
+			<!--Deep Dungeon Thunder Lich-->
+			<Config Class="775" Range="5" BeginPosX="93" BeginPosY="61" EndPosX="103" EndPosY="72" Direction="-1" Quantity="5" Element="1" />
+			<!--Deep Dungeon Thunder Lich-->
+			<Config Class="775" Range="5" BeginPosX="206" BeginPosY="79" EndPosX="217" EndPosY="90" Direction="-1" Quantity="5" Element="4" />
+			<!--Deep Dungeon Thunder Lich-->
+			<Config Class="775" Range="5" BeginPosX="200" BeginPosY="240" EndPosX="213" EndPosY="249" Direction="-1" Quantity="6" Element="1" />
+			<!--Deep Dungeon Thunder Lich-->
+			<Config Class="775" Range="5" BeginPosX="228" BeginPosY="13" EndPosX="239" EndPosY="25" Direction="-1" Quantity="6" Element="1" />
+	</SPOT>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<MONSTER>
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="46" BeginPosY="3" Direction="-1" Element="1" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="82" BeginPosY="4" Direction="-1" Element="1" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="87" BeginPosY="51" Direction="-1" Element="1" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="112" BeginPosY="52" Direction="-1" Element="1" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="147" BeginPosY="120" Direction="-1" Element="1" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="132" BeginPosY="31" Direction="-1" Element="2" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="164" BeginPosY="25" Direction="-1" Element="2" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="155" BeginPosY="65" Direction="-1" Element="2" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="157" BeginPosY="48" Direction="-1" Element="2" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="149" BeginPosY="83" Direction="-1" Element="2" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="214" BeginPosY="9" Direction="-1" Element="3" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="213" BeginPosY="23" Direction="-1" Element="3" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="196" BeginPosY="53" Direction="-1" Element="3" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="222" BeginPosY="52" Direction="-1" Element="3" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="139" BeginPosY="33" Direction="-1" Element="2" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="139" BeginPosY="20" Direction="-1" Element="2" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="167" BeginPosY="120" Direction="-1" Element="4" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="167" BeginPosY="111" Direction="-1" Element="4" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="233" BeginPosY="129" Direction="-1" Element="5" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="234" BeginPosY="112" Direction="-1" Element="5" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="62" BeginPosY="8" Direction="-1" Element="1" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="95" BeginPosY="13" Direction="-1" Element="1" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="109" BeginPosY="76" Direction="-1" Element="1" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="147" BeginPosY="89" Direction="-1" Element="1" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="133" BeginPosY="59" Direction="-1" Element="2" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="133" BeginPosY="17" Direction="-1" Element="2" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="161" BeginPosY="4" Direction="-1" Element="2" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="164" BeginPosY="40" Direction="-1" Element="2" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="190" BeginPosY="71" Direction="-1" Element="2" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="201" BeginPosY="7" Direction="-1" Element="3" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="238" BeginPosY="6" Direction="-1" Element="3" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="226" BeginPosY="6" Direction="-1" Element="3" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="237" BeginPosY="51" Direction="-1" Element="3" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="207" BeginPosY="84" Direction="-1" Element="3" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="149" BeginPosY="19" Direction="-1" Element="2" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="248" BeginPosY="78" Direction="-1" Element="4" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="203" BeginPosY="136" Direction="-1" Element="4" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="194" BeginPosY="144" Direction="-1" Element="4" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="218" BeginPosY="161" Direction="-1" Element="4" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="202" BeginPosY="167" Direction="-1" Element="4" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="223" BeginPosY="191" Direction="-1" Element="5" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="244" BeginPosY="201" Direction="-1" Element="5" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="38" BeginPosY="17" Direction="-1" Element="1" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="76" BeginPosY="21" Direction="-1" Element="1" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="99" BeginPosY="51" Direction="-1" Element="1" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="115" BeginPosY="72" Direction="-1" Element="1" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="150" BeginPosY="97" Direction="-1" Element="1" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="142" BeginPosY="13" Direction="-1" Element="2" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="182" BeginPosY="52" Direction="-1" Element="2" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="160" BeginPosY="87" Direction="-1" Element="2" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="190" BeginPosY="5" Direction="-1" Element="3" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="180" BeginPosY="5" Direction="-1" Element="3" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="194" BeginPosY="65" Direction="-1" Element="3" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="193" BeginPosY="87" Direction="-1" Element="3" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="206" BeginPosY="98" Direction="-1" Element="3" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="192" BeginPosY="106" Direction="-1" Element="3" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="247" BeginPosY="99" Direction="-1" Element="4" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="237" BeginPosY="106" Direction="-1" Element="4" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="212" BeginPosY="121" Direction="-1" Element="4" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="211" BeginPosY="137" Direction="-1" Element="4" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="200" BeginPosY="111" Direction="-1" Element="4" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="230" BeginPosY="156" Direction="-1" Element="4" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="244" BeginPosY="112" Direction="-1" Element="5" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="243" BeginPosY="122" Direction="-1" Element="5" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="191" BeginPosY="153" Direction="-1" Element="5" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="217" BeginPosY="127" Direction="-1" Element="5" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="26" BeginPosY="6" Direction="-1" Element="1" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="68" BeginPosY="20" Direction="-1" Element="1" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="95" BeginPosY="36" Direction="-1" Element="1" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="99" BeginPosY="67" Direction="-1" Element="1" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="137" BeginPosY="87" Direction="-1" Element="1" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="134" BeginPosY="108" Direction="-1" Element="1" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="135" BeginPosY="54" Direction="-1" Element="2" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="151" BeginPosY="11" Direction="-1" Element="2" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="171" BeginPosY="34" Direction="-1" Element="2" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="173" BeginPosY="18" Direction="-1" Element="2" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="174" BeginPosY="81" Direction="-1" Element="2" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="182" BeginPosY="75" Direction="-1" Element="2" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="220" BeginPosY="34" Direction="-1" Element="3" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="234" BeginPosY="35" Direction="-1" Element="3" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="174" BeginPosY="106" Direction="-1" Element="3" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="159" BeginPosY="106" Direction="-1" Element="3" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="225" BeginPosY="99" Direction="-1" Element="4" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="216" BeginPosY="107" Direction="-1" Element="4" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="178" BeginPosY="143" Direction="-1" Element="4" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="177" BeginPosY="137" Direction="-1" Element="4" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="247" BeginPosY="163" Direction="-1" Element="5" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="243" BeginPosY="134" Direction="-1" Element="5" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="250" BeginPosY="127" Direction="-1" Element="5" />
+			<!--Deep Dungeon Hell Spider-->
+			<Config Class="774" Range="5" BeginPosX="220" BeginPosY="179" Direction="-1" Element="5" />
+	</MONSTER>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<EVENT>
+	</EVENT>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+</MonsterSetBase>

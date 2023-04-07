@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MonsterSetBase>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<NPC>
+	</NPC>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<SPOT>
+<Config	Class="	608	"	Range="5"	BeginPosX="	77	"	BeginPosY="	92	"	EndPosX="	83	"	EndPosY="	98	"	Direction="-1" Quantity="5" Element="1"/>	<!--	"	Debenter Devilfairy	a"	-->
+<Config	Class="	608	"	Range="5"	BeginPosX="	62	"	BeginPosY="	71	"	EndPosX="	68	"	EndPosY="	77	"	Direction="-1" Quantity="5" Element="2"/>	<!--	"	Debenter Devilfairy	a"	-->
+<Config	Class="	608	"	Range="5"	BeginPosX="	32	"	BeginPosY="	55	"	EndPosX="	38	"	EndPosY="	61	"	Direction="-1" Quantity="5" Element="3"/>	<!--	"	Debenter Devilfairy	a"	-->
+<Config	Class="	608	"	Range="5"	BeginPosX="	32	"	BeginPosY="	21	"	EndPosX="	38	"	EndPosY="	27	"	Direction="-1" Quantity="5" Element="4"/>	<!--	"	Debenter Devilfairy	a"	-->
+<Config	Class="	608	"	Range="5"	BeginPosX="	57	"	BeginPosY="	11	"	EndPosX="	63	"	EndPosY="	17	"	Direction="-1" Quantity="5" Element="5"/>	<!--	"	Debenter Devilfairy	a"	-->
+<Config	Class="	609	"	Range="5"	BeginPosX="	114	"	BeginPosY="	9	"	EndPosX="	120	"	EndPosY="	15	"	Direction="-1" Quantity="5" Element="1"/>	<!--	"	Deventer Elemental Beast	a"	-->
+<Config	Class="	609	"	Range="5"	BeginPosX="	89	"	BeginPosY="	56	"	EndPosX="	95	"	EndPosY="	62	"	Direction="-1" Quantity="5" Element="2"/>	<!--	"	Deventer Elemental Beast	a"	-->
+<Config	Class="	609	"	Range="5"	BeginPosX="	132	"	BeginPosY="	97	"	EndPosX="	138	"	EndPosY="	103	"	Direction="-1" Quantity="5" Element="3"/>	<!--	"	Deventer Elemental Beast	a"	-->
+<Config	Class="	609	"	Range="5"	BeginPosX="	169	"	BeginPosY="	98	"	EndPosX="	175	"	EndPosY="	104	"	Direction="-1" Quantity="5" Element="4"/>	<!--	"	Deventer Elemental Beast	a"	-->
+<Config	Class="	609	"	Range="5"	BeginPosX="	142	"	BeginPosY="	23	"	EndPosX="	148	"	EndPosY="	29	"	Direction="-1" Quantity="5" Element="5"/>	<!--	"	Deventer Elemental Beast	a"	-->
+<Config	Class="	610	"	Range="5"	BeginPosX="	201	"	BeginPosY="	9	"	EndPosX="	207	"	EndPosY="	15	"	Direction="-1" Quantity="5" Element="1"/>	<!--	"	Debenter Elemental Knight	a"	-->
+<Config	Class="	610	"	Range="5"	BeginPosX="	221	"	BeginPosY="	12	"	EndPosX="	227	"	EndPosY="	18	"	Direction="-1" Quantity="5" Element="2"/>	<!--	"	Debenter Elemental Knight	a"	-->
+<Config	Class="	610	"	Range="5"	BeginPosX="	234	"	BeginPosY="	42	"	EndPosX="	240	"	EndPosY="	48	"	Direction="-1" Quantity="5" Element="3"/>	<!--	"	Debenter Elemental Knight	a"	-->
+<Config	Class="	610	"	Range="5"	BeginPosX="	236	"	BeginPosY="	81	"	EndPosX="	242	"	EndPosY="	87	"	Direction="-1" Quantity="5" Element="4"/>	<!--	"	Debenter Elemental Knight	a"	-->
+<Config	Class="	610	"	Range="5"	BeginPosX="	183	"	BeginPosY="	93	"	EndPosX="	189	"	EndPosY="	99	"	Direction="-1" Quantity="5" Element="5"/>	<!--	"	Debenter Elemental Knight	a"	-->
+	</SPOT>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<MONSTER>
+	</MONSTER>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<EVENT>
+	</EVENT>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+</MonsterSetBase>

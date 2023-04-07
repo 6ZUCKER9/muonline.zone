@@ -1,0 +1,746 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MonsterSetBase>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<NPC>
+	</NPC>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<SPOT>
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="5" BeginPosX="180" BeginPosY="164" EndPosX="185" EndPosY="169" Direction="-1" Quantity="3" Element="1" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="5" BeginPosX="199" BeginPosY="170" EndPosX="195" EndPosY="175" Direction="-1" Quantity="3" Element="1" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="5" BeginPosX="210" BeginPosY="121" EndPosX="215" EndPosY="126" Direction="-1" Quantity="3" Element="1" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="5" BeginPosX="235" BeginPosY="120" EndPosX="140" EndPosY="125" Direction="-1" Quantity="3" Element="1" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="5" BeginPosX="233" BeginPosY="151" EndPosX="238" EndPosY="156" Direction="-1" Quantity="3" Element="1" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="5" BeginPosX="229" BeginPosY="50" EndPosX="234" EndPosY="55" Direction="-1" Quantity="3" Element="4" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="5" BeginPosX="219" BeginPosY="18" EndPosX="224" EndPosY="23" Direction="-1" Quantity="3" Element="2" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="5" BeginPosX="172" BeginPosY="43" EndPosX="177" EndPosY="48" Direction="-1" Quantity="3" Element="2" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="5" BeginPosX="198" BeginPosY="68" EndPosX="203" EndPosY="73" Direction="-1" Quantity="3" Element="4" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="5" BeginPosX="173" BeginPosY="65" EndPosX="178" EndPosY="70" Direction="-1" Quantity="3" Element="4" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="5" BeginPosX="158" BeginPosY="57" EndPosX="163" EndPosY="62" Direction="-1" Quantity="3" Element="2" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="5" BeginPosX="126" BeginPosY="88" EndPosX="131" EndPosY="93" Direction="-1" Quantity="3" Element="2" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="5" BeginPosX="90" BeginPosY="35" EndPosX="95" EndPosY="40" Direction="-1" Quantity="3" Element="5" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="5" BeginPosX="99" BeginPosY="74" EndPosX="104" EndPosY="79" Direction="-1" Quantity="3" Element="5" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="5" BeginPosX="69" BeginPosY="63" EndPosX="74" EndPosY="68" Direction="-1" Quantity="3" Element="5" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="5" BeginPosX="47" BeginPosY="20" EndPosX="53" EndPosY="25" Direction="-1" Quantity="3" Element="5" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="5" BeginPosX="23" BeginPosY="54" EndPosX="27" EndPosY="59" Direction="-1" Quantity="3" Element="5" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="5" BeginPosX="49" BeginPosY="105" EndPosX="54" EndPosY="110" Direction="-1" Quantity="3" Element="5" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="5" BeginPosX="32" BeginPosY="146" EndPosX="37" EndPosY="151" Direction="-1" Quantity="3" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="5" BeginPosX="20" BeginPosY="195" EndPosX="25" EndPosY="200" Direction="-1" Quantity="3" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="5" BeginPosX="75" BeginPosY="173" EndPosX="80" EndPosY="179" Direction="-1" Quantity="3" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="5" BeginPosX="75" BeginPosY="190" EndPosX="80" EndPosY="195" Direction="-1" Quantity="3" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="5" BeginPosX="65" BeginPosY="235" EndPosX="70" EndPosY="240" Direction="-1" Quantity="3" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="5" BeginPosX="94" BeginPosY="145" EndPosX="99" EndPosY="150" Direction="-1" Quantity="3" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="5" BeginPosX="145" BeginPosY="170" EndPosX="150" EndPosY="175" Direction="-1" Quantity="3" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="5" BeginPosX="126" BeginPosY="182" EndPosX="131" EndPosY="187" Direction="-1" Quantity="3" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="5" BeginPosX="132" BeginPosY="205" EndPosX="137" EndPosY="210" Direction="-1" Quantity="3" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="5" BeginPosX="150" BeginPosY="200" EndPosX="155" EndPosY="205" Direction="-1" Quantity="3" Element="1" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="5" BeginPosX="115" BeginPosY="235" EndPosX="120" EndPosY="240" Direction="-1" Quantity="3" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="5" BeginPosX="170" BeginPosY="230" EndPosX="175" EndPosY="235" Direction="-1" Quantity="3" Element="1" />
+	</SPOT>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<MONSTER>
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="139" BeginPosY="140" Direction="-1" Element="1" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="142" BeginPosY="145" Direction="-1" Element="1" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="157" BeginPosY="158" Direction="-1" Element="1" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="165" BeginPosY="152" Direction="-1" Element="1" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="172" BeginPosY="147" Direction="-1" Element="1" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="183" BeginPosY="159" Direction="-1" Element="1" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="184" BeginPosY="152" Direction="-1" Element="1" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="183" BeginPosY="142" Direction="-1" Element="1" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="188" BeginPosY="147" Direction="-1" Element="1" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="191" BeginPosY="143" Direction="-1" Element="1" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="187" BeginPosY="129" Direction="-1" Element="1" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="186" BeginPosY="123" Direction="-1" Element="1" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="221" BeginPosY="124" Direction="-1" Element="1" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="219" BeginPosY="132" Direction="-1" Element="1" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="214" BeginPosY="146" Direction="-1" Element="1" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="224" BeginPosY="138" Direction="-1" Element="1" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="210" BeginPosY="156" Direction="-1" Element="1" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="228" BeginPosY="184" Direction="-1" Element="1" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="232" BeginPosY="171" Direction="-1" Element="1" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="239" BeginPosY="164" Direction="-1" Element="1" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="194" BeginPosY="195" Direction="-1" Element="1" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="162" BeginPosY="170" Direction="-1" Element="1" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="175" BeginPosY="213" Direction="-1" Element="1" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="168" BeginPosY="209" Direction="-1" Element="1" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="168" BeginPosY="229" Direction="-1" Element="1" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="163" BeginPosY="222" Direction="-1" Element="1" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="139" BeginPosY="194" Direction="-1" Element="1" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="177" BeginPosY="189" Direction="-1" Element="1" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="188" BeginPosY="193" Direction="-1" Element="1" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="204" BeginPosY="163" Direction="-1" Element="1" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="187" BeginPosY="215" Direction="-1" Element="1" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="193" BeginPosY="209" Direction="-1" Element="1" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="208" BeginPosY="189" Direction="-1" Element="1" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="202" BeginPosY="192" Direction="-1" Element="1" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="133" BeginPosY="221" Direction="-1" Element="3" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="145" BeginPosY="218" Direction="-1" Element="3" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="116" BeginPosY="199" Direction="-1" Element="3" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="115" BeginPosY="219" Direction="-1" Element="3" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="102" BeginPosY="225" Direction="-1" Element="3" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="92" BeginPosY="229" Direction="-1" Element="3" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="91" BeginPosY="216" Direction="-1" Element="3" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="93" BeginPosY="199" Direction="-1" Element="3" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="106" BeginPosY="185" Direction="-1" Element="3" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="108" BeginPosY="174" Direction="-1" Element="3" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="107" BeginPosY="165" Direction="-1" Element="3" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="100" BeginPosY="178" Direction="-1" Element="3" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="117" BeginPosY="151" Direction="-1" Element="3" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="110" BeginPosY="156" Direction="-1" Element="3" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="134" BeginPosY="157" Direction="-1" Element="3" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="83" BeginPosY="159" Direction="-1" Element="3" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="71" BeginPosY="154" Direction="-1" Element="3" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="59" BeginPosY="187" Direction="-1" Element="3" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="55" BeginPosY="176" Direction="-1" Element="3" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="50" BeginPosY="171" Direction="-1" Element="3" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="47" BeginPosY="182" Direction="-1" Element="3" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="56" BeginPosY="191" Direction="-1" Element="3" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="59" BeginPosY="205" Direction="-1" Element="3" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="64" BeginPosY="211" Direction="-1" Element="3" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="26" BeginPosY="172" Direction="-1" Element="3" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="19" BeginPosY="157" Direction="-1" Element="3" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="33" BeginPosY="200" Direction="-1" Element="3" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="33" BeginPosY="120" Direction="-1" Element="3" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="23" BeginPosY="124" Direction="-1" Element="3" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="27" BeginPosY="131" Direction="-1" Element="3" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="28" BeginPosY="116" Direction="-1" Element="3" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="77" BeginPosY="137" Direction="-1" Element="3" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="75" BeginPosY="130" Direction="-1" Element="3" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="63" BeginPosY="160" Direction="-1" Element="3" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="48" BeginPosY="123" Direction="-1" Element="3" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="85" BeginPosY="125" Direction="-1" Element="3" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="37" BeginPosY="159" Direction="-1" Element="3" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="37" BeginPosY="165" Direction="-1" Element="3" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="42" BeginPosY="173" Direction="-1" Element="3" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="75" BeginPosY="225" Direction="-1" Element="3" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="112" BeginPosY="194" Direction="-1" Element="3" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="92" BeginPosY="118" Direction="-1" Element="3" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="57" BeginPosY="161" Direction="-1" Element="3" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="36" BeginPosY="146" Direction="-1" Element="3" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="44" BeginPosY="32" Direction="-1" Element="5" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="44" BeginPosY="41" Direction="-1" Element="5" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="28" BeginPosY="53" Direction="-1" Element="5" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="43" BeginPosY="50" Direction="-1" Element="5" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="51" BeginPosY="19" Direction="-1" Element="5" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="75" BeginPosY="21" Direction="-1" Element="5" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="90" BeginPosY="13" Direction="-1" Element="5" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="110" BeginPosY="10" Direction="-1" Element="5" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="97" BeginPosY="19" Direction="-1" Element="5" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="102" BeginPosY="40" Direction="-1" Element="5" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="110" BeginPosY="47" Direction="-1" Element="5" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="123" BeginPosY="40" Direction="-1" Element="5" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="122" BeginPosY="47" Direction="-1" Element="5" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="97" BeginPosY="67" Direction="-1" Element="5" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="99" BeginPosY="59" Direction="-1" Element="5" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="93" BeginPosY="73" Direction="-1" Element="5" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="88" BeginPosY="79" Direction="-1" Element="5" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="84" BeginPosY="85" Direction="-1" Element="5" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="63" BeginPosY="77" Direction="-1" Element="5" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="53" BeginPosY="65" Direction="-1" Element="5" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="36" BeginPosY="86" Direction="-1" Element="5" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="32" BeginPosY="102" Direction="-1" Element="5" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="114" BeginPosY="114" Direction="-1" Element="5" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="113" BeginPosY="105" Direction="-1" Element="5" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="99" BeginPosY="111" Direction="-1" Element="5" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="98" BeginPosY="104" Direction="-1" Element="5" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="72" BeginPosY="92" Direction="-1" Element="5" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="70" BeginPosY="25" Direction="-1" Element="5" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="65" BeginPosY="36" Direction="-1" Element="5" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="79" BeginPosY="50" Direction="-1" Element="5" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="86" BeginPosY="96" Direction="-1" Element="5" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="152" BeginPosY="121" Direction="-1" Element="4" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="164" BeginPosY="115" Direction="-1" Element="4" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="169" BeginPosY="117" Direction="-1" Element="4" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="182" BeginPosY="109" Direction="-1" Element="4" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="181" BeginPosY="115" Direction="-1" Element="4" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="198" BeginPosY="118" Direction="-1" Element="4" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="205" BeginPosY="115" Direction="-1" Element="4" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="222" BeginPosY="111" Direction="-1" Element="4" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="223" BeginPosY="119" Direction="-1" Element="4" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="221" BeginPosY="88" Direction="-1" Element="4" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="204" BeginPosY="87" Direction="-1" Element="4" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="200" BeginPosY="96" Direction="-1" Element="4" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="195" BeginPosY="79" Direction="-1" Element="4" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="188" BeginPosY="79" Direction="-1" Element="4" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="179" BeginPosY="82" Direction="-1" Element="4" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="179" BeginPosY="75" Direction="-1" Element="4" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="221" BeginPosY="73" Direction="-1" Element="4" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="199" BeginPosY="68" Direction="-1" Element="4" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="170" BeginPosY="85" Direction="-1" Element="4" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="162" BeginPosY="83" Direction="-1" Element="4" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="225" BeginPosY="55" Direction="-1" Element="4" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="216" BeginPosY="55" Direction="-1" Element="4" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="207" BeginPosY="51" Direction="-1" Element="4" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="200" BeginPosY="57" Direction="-1" Element="4" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="189" BeginPosY="71" Direction="-1" Element="4" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="207" BeginPosY="45" Direction="-1" Element="2" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="201" BeginPosY="48" Direction="-1" Element="2" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="204" BeginPosY="32" Direction="-1" Element="2" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="197" BeginPosY="34" Direction="-1" Element="2" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="208" BeginPosY="27" Direction="-1" Element="2" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="214" BeginPosY="24" Direction="-1" Element="2" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="219" BeginPosY="19" Direction="-1" Element="2" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="195" BeginPosY="24" Direction="-1" Element="2" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="176" BeginPosY="21" Direction="-1" Element="2" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="191" BeginPosY="30" Direction="-1" Element="2" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="155" BeginPosY="32" Direction="-1" Element="2" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="162" BeginPosY="27" Direction="-1" Element="2" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="160" BeginPosY="40" Direction="-1" Element="2" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="158" BeginPosY="46" Direction="-1" Element="2" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="156" BeginPosY="54" Direction="-1" Element="2" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="132" BeginPosY="39" Direction="-1" Element="2" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="135" BeginPosY="58" Direction="-1" Element="2" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="139" BeginPosY="69" Direction="-1" Element="2" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="144" BeginPosY="87" Direction="-1" Element="2" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="142" BeginPosY="103" Direction="-1" Element="2" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="129" BeginPosY="107" Direction="-1" Element="2" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="123" BeginPosY="104" Direction="-1" Element="2" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="133" BeginPosY="88" Direction="-1" Element="2" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="154" BeginPosY="88" Direction="-1" Element="2" />
+			<!--Bahamut of Abyss-->
+			<Config Class="832" Range="4" BeginPosX="193" BeginPosY="97" Direction="-1" Element="2" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="144" BeginPosY="147" Direction="-1" Element="1" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="152" BeginPosY="153" Direction="-1" Element="1" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="159" BeginPosY="161" Direction="-1" Element="1" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="178" BeginPosY="231" Direction="-1" Element="1" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="175" BeginPosY="236" Direction="-1" Element="1" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="138" BeginPosY="220" Direction="-1" Element="1" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="150" BeginPosY="217" Direction="-1" Element="1" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="164" BeginPosY="214" Direction="-1" Element="1" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="155" BeginPosY="197" Direction="-1" Element="1" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="154" BeginPosY="202" Direction="-1" Element="1" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="146" BeginPosY="190" Direction="-1" Element="1" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="152" BeginPosY="183" Direction="-1" Element="1" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="162" BeginPosY="179" Direction="-1" Element="1" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="189" BeginPosY="137" Direction="-1" Element="1" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="206" BeginPosY="138" Direction="-1" Element="1" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="177" BeginPosY="145" Direction="-1" Element="1" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="206" BeginPosY="124" Direction="-1" Element="1" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="210" BeginPosY="124" Direction="-1" Element="1" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="239" BeginPosY="120" Direction="-1" Element="1" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="238" BeginPosY="124" Direction="-1" Element="1" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="232" BeginPosY="135" Direction="-1" Element="1" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="218" BeginPosY="142" Direction="-1" Element="1" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="236" BeginPosY="152" Direction="-1" Element="1" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="240" BeginPosY="156" Direction="-1" Element="1" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="233" BeginPosY="176" Direction="-1" Element="1" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="228" BeginPosY="190" Direction="-1" Element="1" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="226" BeginPosY="169" Direction="-1" Element="1" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="216" BeginPosY="159" Direction="-1" Element="1" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="213" BeginPosY="178" Direction="-1" Element="1" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="215" BeginPosY="182" Direction="-1" Element="1" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="204" BeginPosY="203" Direction="-1" Element="1" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="198" BeginPosY="201" Direction="-1" Element="1" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="204" BeginPosY="153" Direction="-1" Element="1" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="183" BeginPosY="219" Direction="-1" Element="1" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="181" BeginPosY="192" Direction="-1" Element="1" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="172" BeginPosY="183" Direction="-1" Element="1" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="117" BeginPosY="235" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="120" BeginPosY="239" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="121" BeginPosY="235" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="130" BeginPosY="231" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="151" BeginPosY="173" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="147" BeginPosY="174" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="145" BeginPosY="166" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="137" BeginPosY="160" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="124" BeginPosY="155" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="115" BeginPosY="144" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="96" BeginPosY="147" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="103" BeginPosY="148" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="131" BeginPosY="183" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="128" BeginPosY="187" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="112" BeginPosY="182" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="100" BeginPosY="166" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="87" BeginPosY="163" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="78" BeginPosY="154" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="95" BeginPosY="233" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="90" BeginPosY="224" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="110" BeginPosY="221" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="121" BeginPosY="216" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="118" BeginPosY="207" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="139" BeginPosY="206" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="133" BeginPosY="202" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="79" BeginPosY="172" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="75" BeginPosY="179" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="67" BeginPosY="183" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="81" BeginPosY="191" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="78" BeginPosY="193" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="65" BeginPosY="200" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="69" BeginPosY="217" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="67" BeginPosY="236" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="72" BeginPosY="238" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="55" BeginPosY="231" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="55" BeginPosY="218" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="25" BeginPosY="197" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="21" BeginPosY="197" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="39" BeginPosY="195" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="39" BeginPosY="149" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="32" BeginPosY="148" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="24" BeginPosY="137" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="17" BeginPosY="136" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="17" BeginPosY="151" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="21" BeginPosY="164" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="31" BeginPosY="176" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="42" BeginPosY="179" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="60" BeginPosY="166" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="104" BeginPosY="132" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="100" BeginPosY="131" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="83" BeginPosY="131" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="75" BeginPosY="144" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="62" BeginPosY="143" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="59" BeginPosY="139" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="52" BeginPosY="127" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="39" BeginPosY="121" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="98" BeginPosY="184" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="92" BeginPosY="208" Direction="-1" Element="3" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="117" BeginPosY="111" Direction="-1" Element="5" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="106" BeginPosY="107" Direction="-1" Element="5" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="90" BeginPosY="99" Direction="-1" Element="5" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="81" BeginPosY="91" Direction="-1" Element="5" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="65" BeginPosY="83" Direction="-1" Element="5" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="56" BeginPosY="73" Direction="-1" Element="5" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="31" BeginPosY="55" Direction="-1" Element="5" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="24" BeginPosY="57" Direction="-1" Element="5" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="73" BeginPosY="61" Direction="-1" Element="5" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="71" BeginPosY="64" Direction="-1" Element="5" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="55" BeginPosY="19" Direction="-1" Element="5" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="47" BeginPosY="24" Direction="-1" Element="5" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="96" BeginPosY="36" Direction="-1" Element="5" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="92" BeginPosY="40" Direction="-1" Element="5" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="106" BeginPosY="69" Direction="-1" Element="5" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="102" BeginPosY="74" Direction="-1" Element="5" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="53" BeginPosY="107" Direction="-1" Element="5" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="45" BeginPosY="111" Direction="-1" Element="5" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="48" BeginPosY="81" Direction="-1" Element="5" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="33" BeginPosY="91" Direction="-1" Element="5" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="54" BeginPosY="54" Direction="-1" Element="5" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="51" BeginPosY="49" Direction="-1" Element="5" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="72" BeginPosY="17" Direction="-1" Element="5" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="81" BeginPosY="12" Direction="-1" Element="5" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="94" BeginPosY="12" Direction="-1" Element="5" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="92" BeginPosY="21" Direction="-1" Element="5" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="110" BeginPosY="25" Direction="-1" Element="5" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="113" BeginPosY="12" Direction="-1" Element="5" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="119" BeginPosY="34" Direction="-1" Element="5" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="110" BeginPosY="55" Direction="-1" Element="5" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="84" BeginPosY="56" Direction="-1" Element="5" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="71" BeginPosY="46" Direction="-1" Element="5" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="63" BeginPosY="41" Direction="-1" Element="5" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="33" BeginPosY="109" Direction="-1" Element="5" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="146" BeginPosY="123" Direction="-1" Element="4" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="159" BeginPosY="118" Direction="-1" Element="4" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="172" BeginPosY="120" Direction="-1" Element="4" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="173" BeginPosY="114" Direction="-1" Element="4" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="191" BeginPosY="119" Direction="-1" Element="4" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="213" BeginPosY="110" Direction="-1" Element="4" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="223" BeginPosY="100" Direction="-1" Element="4" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="222" BeginPosY="92" Direction="-1" Element="4" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="216" BeginPosY="82" Direction="-1" Element="4" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="212" BeginPosY="88" Direction="-1" Element="4" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="198" BeginPosY="90" Direction="-1" Element="4" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="190" BeginPosY="102" Direction="-1" Element="4" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="187" BeginPosY="91" Direction="-1" Element="4" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="185" BeginPosY="85" Direction="-1" Element="4" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="202" BeginPosY="70" Direction="-1" Element="4" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="201" BeginPosY="75" Direction="-1" Element="4" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="178" BeginPosY="66" Direction="-1" Element="4" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="174" BeginPosY="66" Direction="-1" Element="4" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="219" BeginPosY="66" Direction="-1" Element="4" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="234" BeginPosY="49" Direction="-1" Element="4" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="233" BeginPosY="54" Direction="-1" Element="4" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="192" BeginPosY="63" Direction="-1" Element="4" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="209" BeginPosY="56" Direction="-1" Element="4" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="227" BeginPosY="18" Direction="-1" Element="2" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="224" BeginPosY="20" Direction="-1" Element="2" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="192" BeginPosY="12" Direction="-1" Element="2" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="187" BeginPosY="14" Direction="-1" Element="2" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="188" BeginPosY="9" Direction="-1" Element="2" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="178" BeginPosY="43" Direction="-1" Element="2" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="173" BeginPosY="47" Direction="-1" Element="2" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="163" BeginPosY="57" Direction="-1" Element="2" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="160" BeginPosY="61" Direction="-1" Element="2" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="158" BeginPosY="74" Direction="-1" Element="2" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="136" BeginPosY="111" Direction="-1" Element="2" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="142" BeginPosY="96" Direction="-1" Element="2" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="132" BeginPosY="93" Direction="-1" Element="2" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="129" BeginPosY="91" Direction="-1" Element="2" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="141" BeginPosY="77" Direction="-1" Element="2" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="138" BeginPosY="60" Direction="-1" Element="2" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="131" BeginPosY="53" Direction="-1" Element="2" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="139" BeginPosY="35" Direction="-1" Element="2" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="147" BeginPosY="33" Direction="-1" Element="2" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="154" BeginPosY="37" Direction="-1" Element="2" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="168" BeginPosY="24" Direction="-1" Element="2" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="178" BeginPosY="26" Direction="-1" Element="2" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="183" BeginPosY="28" Direction="-1" Element="2" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="202" BeginPosY="40" Direction="-1" Element="2" />
+			<!--Vepar of Abyss-->
+			<Config Class="833" Range="4" BeginPosX="198" BeginPosY="28" Direction="-1" Element="2" />
+	</MONSTER>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<EVENT>
+	</EVENT>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+</MonsterSetBase>

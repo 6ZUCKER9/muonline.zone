@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<MonsterSetBase>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<NPC>
+		<Config Class="605" Range="5" PositionX="139" PositionY="113" Direction="-1" Element="0" /> <!-- "Mining Area (Small)		" -->
+		<Config Class="605" Range="5" PositionX="145" PositionY="109" Direction="-1" Element="0" /> <!-- "Mining Area (Small)" -->
+		<Config Class="605" Range="5" PositionX="143" PositionY="99" Direction="-1" Element="0" /> <!-- "Mining Area (Small)" -->
+		<Config Class="605" Range="5" PositionX="135" PositionY="100" Direction="-1" Element="0" /> <!-- "Mining Area (Small)" -->
+		<Config Class="605" Range="5" PositionX="130" PositionY="111" Direction="-1" Element="0" /> <!-- "Mining Area (Small)	" -->
+		<Config Class="606" Range="5" PositionX="134" PositionY="105" Direction="-1" Element="0" /> <!-- "Mining Area (Medium)" -->
+		<Config Class="606" Range="5" PositionX="142" PositionY="105" Direction="-1" Element="0" /> <!-- "Mining Area (Medium)" -->
+		<Config Class="606" Range="5" PositionX="138" PositionY="109" Direction="-1" Element="0" /> <!-- "Mining Area (Medium)" -->
+		<Config Class="606" Range="5" PositionX="137" PositionY="101" Direction="-1" Element="0" /> <!-- "Mining Area (Medium)" -->
+		<Config Class="607" Range="5" PositionX="141" PositionY="105" Direction="-1" Element="0" /> <!-- "Mining Area (Large)" -->
+		<Config Class="607" Range="5" PositionX="145" PositionY="119" Direction="-1" Element="0" /> <!-- "Mining Area (Large)" -->
+		<Config Class="607" Range="5" PositionX="142" PositionY="109" Direction="-1" Element="0" /> <!-- "Mining Area (Large)" -->
+	</NPC>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<SPOT>
+<Config	Class="	441	"	Range="5"	BeginPosX="	171	"	BeginPosY="	215	"	EndPosX="	177	"	EndPosY="	221	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Sapi-Unus	a"	-->
+<Config	Class="	441	"	Range="5"	BeginPosX="	196	"	BeginPosY="	225	"	EndPosX="	202	"	EndPosY="	231	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Sapi-Unus	a"	-->
+<Config	Class="	441	"	Range="5"	BeginPosX="	232	"	BeginPosY="	230	"	EndPosX="	238	"	EndPosY="	236	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Sapi-Unus	a"	-->
+<Config	Class="	442	"	Range="5"	BeginPosX="	218	"	BeginPosY="	213	"	EndPosX="	224	"	EndPosY="	219	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Sapi-Duo	a"	-->
+<Config	Class="	442	"	Range="5"	BeginPosX="	234	"	BeginPosY="	190	"	EndPosX="	240	"	EndPosY="	196	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Sapi-Duo	a"	-->
+<Config	Class="	442	"	Range="5"	BeginPosX="	213	"	BeginPosY="	175	"	EndPosX="	219	"	EndPosY="	181	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Sapi-Duo	a"	-->
+<Config	Class="	443	"	Range="5"	BeginPosX="	215	"	BeginPosY="	134	"	EndPosX="	221	"	EndPosY="	140	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Sapi-Tres	a"	-->
+<Config	Class="	443	"	Range="5"	BeginPosX="	198	"	BeginPosY="	107	"	EndPosX="	204	"	EndPosY="	113	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Sapi-Tres	a"	-->
+<Config	Class="	443	"	Range="5"	BeginPosX="	171	"	BeginPosY="	137	"	EndPosX="	177	"	EndPosY="	143	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Sapi-Tres	a"	-->
+<Config	Class="	447	"	Range="5"	BeginPosX="	44	"	BeginPosY="	200	"	EndPosX="	50	"	EndPosY="	206	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Thunder Napin	a"	-->
+<Config	Class="	447	"	Range="5"	BeginPosX="	35	"	BeginPosY="	182	"	EndPosX="	41	"	EndPosY="	188	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Thunder Napin	a"	-->
+<Config	Class="	447	"	Range="5"	BeginPosX="	6	"	BeginPosY="	192	"	EndPosX="	12	"	EndPosY="	198	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Thunder Napin	a"	-->
+<Config	Class="	448	"	Range="5"	BeginPosX="	9	"	BeginPosY="	231	"	EndPosX="	15	"	EndPosY="	237	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Ghost Napin	a"	-->
+<Config	Class="	448	"	Range="5"	BeginPosX="	62	"	BeginPosY="	234	"	EndPosX="	68	"	EndPosY="	240	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Ghost Napin	a"	-->
+<Config	Class="	448	"	Range="5"	BeginPosX="	41	"	BeginPosY="	226	"	EndPosX="	47	"	EndPosY="	232	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Ghost Napin	a"	-->
+<Config	Class="	449	"	Range="5"	BeginPosX="	106	"	BeginPosY="	228	"	EndPosX="	112	"	EndPosY="	234	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Blaze Napin	a"	-->
+<Config	Class="	449	"	Range="5"	BeginPosX="	97	"	BeginPosY="	164	"	EndPosX="	103	"	EndPosY="	170	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Blaze Napin	a"	-->
+<Config	Class="	449	"	Range="5"	BeginPosX="	127	"	BeginPosY="	163	"	EndPosX="	137	"	EndPosY="	173	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Blaze Napin	a"	-->
+<Config	Class="	444	"	Range="5"	BeginPosX="	36	"	BeginPosY="	45	"	EndPosX="	42	"	EndPosY="	51	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Shadow Pawn	a"	-->
+<Config	Class="	444	"	Range="5"	BeginPosX="	64	"	BeginPosY="	12	"	EndPosX="	70	"	EndPosY="	18	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Shadow Pawn	a"	-->
+<Config	Class="	444	"	Range="5"	BeginPosX="	35	"	BeginPosY="	18	"	EndPosX="	41	"	EndPosY="	24	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Shadow Pawn	a"	-->
+<Config	Class="	445	"	Range="5"	BeginPosX="	22	"	BeginPosY="	7	"	EndPosX="	28	"	EndPosY="	13	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Shadow Knight	a"	-->
+<Config	Class="	445	"	Range="5"	BeginPosX="	9	"	BeginPosY="	46	"	EndPosX="	15	"	EndPosY="	52	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Shadow Knight	a"	-->
+<Config	Class="	445	"	Range="5"	BeginPosX="	23	"	BeginPosY="	96	"	EndPosX="	29	"	EndPosY="	102	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Shadow Knight	a"	-->
+<Config	Class="	446	"	Range="5"	BeginPosX="	20	"	BeginPosY="	123	"	EndPosX="	26	"	EndPosY="	129	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Shadow Look	a"	-->
+<Config	Class="	446	"	Range="5"	BeginPosX="	41	"	BeginPosY="	120	"	EndPosX="	47	"	EndPosY="	126	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Shadow Look	a"	-->
+<Config	Class="	446	"	Range="5"	BeginPosX="	56	"	BeginPosY="	75	"	EndPosX="	62	"	EndPosY="	81	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Shadow Look	a"	-->
+<Config	Class="	557	"	Range="5"	BeginPosX="	231	"	BeginPosY="	9	"	EndPosX="	237	"	EndPosY="	15	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Sapi Queen	a"	-->
+<Config	Class="	558	"	Range="5"	BeginPosX="	152	"	BeginPosY="	11	"	EndPosX="	158	"	EndPosY="	17	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Ice Napin	a"	-->
+<Config	Class="	559	"	Range="5"	BeginPosX="	215	"	BeginPosY="	80	"	EndPosX="	221	"	EndPosY="	86	"	Direction="-1" Quantity="5" Element="0"/>	<!--	"	Shadow Master	a"	-->
+
+	</SPOT>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<MONSTER>
+	</MONSTER>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+	<EVENT>
+	</EVENT>
+<!-- ================================================================================================================================================================================================================================================================================= -->
+</MonsterSetBase>
