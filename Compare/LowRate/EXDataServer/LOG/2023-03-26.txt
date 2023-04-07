@@ -1,0 +1,51 @@
+00:17:31 [SocketManager] Server started at port [55981]
+00:17:40 [ServerManager][0] AddServer (127.0.0.1)
+00:17:40 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)(0)
+00:29:53 [SocketManager] Server started at port [55981]
+00:30:03 [ServerManager][0] AddServer (127.0.0.1)
+00:30:03 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)(0)
+01:06:31 [SocketManager] Server started at port [55981]
+01:06:41 [ServerManager][0] AddServer (127.0.0.1)
+01:06:41 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)(0)
+05:43:02 EXEC WZ_DeleteWaitPartyMatchingList 'ZUCKER'
+05:43:02 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][Shared Memory]ConnectionWrite (send()).
+05:43:02 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver][Shared Memory]General network error. Check your network documentation.
+12:23:02 [SocketManager] Server started at port [55981]
+12:23:18 [ServerManager][0] AddServer (127.0.0.1)
+12:23:18 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)(0)
+12:23:20 [ServerManager][1] AddServer (127.0.0.1)
+12:23:20 [ServerManager][1] ServerInfo (GameServerCS) (55919) (19)(0)
+12:23:36 [ServerManager][1] DelServer (127.0.0.1)
+13:44:49 [SocketManager] Server started at port [55981]
+13:45:08 [ServerManager][0] AddServer (127.0.0.1)
+13:45:08 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)(0)
+13:45:31 [ServerManager][1] AddServer (127.0.0.1)
+13:45:32 [ServerManager][1] ServerInfo (GameServerCS) (55919) (19)(0)
+14:01:39 [SocketManager] Server started at port [55981]
+14:02:14 [ServerManager][0] AddServer (127.0.0.1)
+14:02:14 [ServerManager][0] ServerInfo (GameServerCS) (55919) (19)(0)
+14:03:04 [ServerManager][0] DelServer (127.0.0.1)
+14:03:29 [SocketManager] Server started at port [55981]
+14:03:53 [ServerManager][0] AddServer (127.0.0.1)
+14:03:53 [ServerManager][0] ServerInfo (GameServerCS) (55919) (19)(0)
+14:04:19 [ServerManager][0] DelServer (127.0.0.1)
+14:06:16 [SocketManager] Server started at port [55981]
+14:35:31 [SocketManager] Server started at port [55981]
+14:35:41 [ServerManager][0] AddServer (127.0.0.1)
+14:35:41 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)(0)
+14:35:43 [ServerManager][1] AddServer (127.0.0.1)
+14:35:43 [ServerManager][1] ServerInfo (GameServerCS) (55919) (19)(0)
+14:35:45 [ServerManager][1] DelServer (127.0.0.1)
+14:36:11 [SocketManager] Server started at port [55981]
+14:36:46 [ServerManager][0] AddServer (127.0.0.1)
+14:36:46 [ServerManager][0] ServerInfo (GameServerCS) (55919) (19)(0)
+14:36:55 [ServerManager][0] DelServer (127.0.0.1)
+14:40:11 [SocketManager] Server started at port [55981]
+14:41:16 [ServerManager][0] AddServer (127.0.0.1)
+14:41:16 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)(0)
+14:54:27 [SocketManager] Server started at port [55981]
+14:54:48 [ServerManager][0] AddServer (127.0.0.1)
+14:54:48 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)(0)
+15:51:38 [SocketManager] Server started at port [55981]
+15:51:54 [ServerManager][0] AddServer (127.0.0.1)
+15:51:54 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)(0)

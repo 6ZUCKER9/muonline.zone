@@ -1,0 +1,7 @@
+23:19:04 [SocketManager] Server started at port [55981]
+23:19:04 SELECT * FROM PartyRenewaInfo WHERE DATEDIFF(DAY,GETDATE(),LastUseDate) > 30
+23:19:04 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'PartyRenewaInfo'.
+23:19:04 SELECT * FROM PartyRenewaInfo
+23:19:04 [QueryManager] State (42S02), Diagnostic: [Microsoft][ODBC SQL Server Driver][SQL Server]Invalid object name 'PartyRenewaInfo'.
+23:19:14 [ServerManager][0] AddServer (127.0.0.1)
+23:19:14 [ServerManager][0] ServerInfo (MuDevs) (55901) (20)(0)

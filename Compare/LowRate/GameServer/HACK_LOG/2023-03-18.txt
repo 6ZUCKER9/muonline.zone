@@ -1,0 +1,1 @@
+10:23:10 [Unauthenticated Package][Type:1][Head:18][Sub:6][Connect:2][MapSvMoveQuit:0][MapSvMoveReq:0][Account:admin1][Name:][IP:80.134.4.235][HWID:55D3B74A-9689C29F-F428D523-8826B7EE-49656E69-00000016-BFEBFBFF-7FFAFBFF]

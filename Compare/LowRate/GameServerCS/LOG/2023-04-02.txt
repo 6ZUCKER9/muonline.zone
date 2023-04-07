@@ -1,0 +1,946 @@
+16:04:01 [Connection] connect() failed with error: 10060
+16:04:02 [ServerInfo] CashShop loaded successfully
+16:04:02 [ServerInfo] ChaosMix loaded successfully
+16:04:02 [ServerInfo] Character loaded successfully
+16:04:02 [ServerInfo] Command loaded successfully
+16:04:02 [AntiDDoS] Status: 0
+16:04:02 [Language] Load English.xml language definition
+16:04:02 [ServerInfo] Common loaded successfully
+16:04:02 [ Crywolf ] State (0) -> NONE
+16:04:02 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+16:04:02 [ServerInfo] Event loaded successfully
+16:04:02 [ServerInfo] EventItemBag loaded successfully
+16:04:02 [ServerInfo] Hack loaded successfully
+16:04:03 [ServerInfo] Item loaded successfully
+16:04:03 [FereaBossZone][SummonMon] AddMonster fail!! [INDEX]:735
+16:04:03 [FereaBossZone][CrystalBallRegen] FAIL!!!
+16:04:03 [NixiesBoss][SummonMon] AddMonster fail!! [INDEX]:746
+16:04:03 [NixiesBoss][Regen] Regen Boss Nix. [-1], Attr:[4]
+16:04:03 [SwampMonsterAI][CreateMonster] Error Monster Dont Create [aIndex:-1]
+16:04:03 [ServerInfo] Monster loaded successfully
+16:04:03 [ServerInfo] Custom loaded successfully
+16:04:03 [ServerInfo] Move loaded successfully
+16:04:03 [ServerInfo] Quest loaded successfully
+16:04:03 [ServerInfo] Shop loaded successfully
+16:04:03 [ServerInfo] Skill loaded successfully
+16:04:03 [ServerInfo] Util loaded successfully
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1505 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:2 - Y:-2 - Dir :2 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1506 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:1 - Y:2 - Dir :0 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1507 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:-2 - Y:0 - Dir :3 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1508 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:2 - Y:1 - Dir :4 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1509 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:2 - Y:-2 - Dir :7 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1510 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:-1 - Y:-2 - Dir :6 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1511 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:-2 - Y:3 - Dir :2 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1512 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:1 - Y:3 - Dir :4 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1513 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:-1 - Y:-2 - Dir :0 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1514 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:-3 - Y:0 - Dir :2 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1515 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:2 - Y:2 - Dir :2 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1516 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:-3 - Y:-3 - Dir :0 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1517 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:1 - Y:-1 - Dir :1 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1518 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:1 - Y:-3 - Dir :3 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1519 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:3 - Y:-3 - Dir :7 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1520 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:-2 - Y:3 - Dir :3 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1521 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:0 - Y:-1 - Dir :1 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1522 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:-3 - Y:-3 - Dir :1 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1523 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:2 - Y:-3 - Dir :4 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1524 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:3 - Y:-3 - Dir :5 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1525 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:1 - Y:1 - Dir :6 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1526 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:-2 - Y:-1 - Dir :1 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1527 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:1 - Y:0 - Dir :7 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1528 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:-3 - Y:3 - Dir :3 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1529 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:2 - Y:0 - Dir :1 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1530 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:0 - Y:-2 - Dir :6 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1531 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:-3 - Y:2 - Dir :4 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1532 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:3 - Y:2 - Dir :0 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1533 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:1 - Y:-1 - Dir :6 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1534 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:2 - Y:1 - Dir :3 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1535 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:3 - Y:3 - Dir :3 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1536 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:1 - Y:1 - Dir :5 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1537 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:-2 - Y:2 - Dir :5 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1538 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:0 - Y:0 - Dir :0 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1539 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:2 - Y:-3 - Dir :3 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1540 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:0 - Y:-2 - Dir :6 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1541 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:0 - Y:0 - Dir :1 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1542 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:3 - Y:2 - Dir :2 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1543 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:-2 - Y:-1 - Dir :3 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1544 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:-2 - Y:0 - Dir :3 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1545 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:2 - Y:-2 - Dir :5 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1546 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:0 - Y:0 - Dir :4 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1547 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:-3 - Y:2 - Dir :4 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1548 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:-1 - Y:2 - Dir :2 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1549 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:2 - Y:2 - Dir :3 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1550 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:3 - Y:0 - Dir :7 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1551 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:1 - Y:-1 - Dir :1 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1552 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:3 - Y:-3 - Dir :0 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1553 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:-3 - Y:2 - Dir :0 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1554 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:-3 - Y:-3 - Dir :5 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1555 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:-1 - Y:2 - Dir :6 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1556 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:0 - Y:0 - Dir :1 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1557 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:-2 - Y:2 - Dir :7 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1558 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:0 - Y:0 - Dir :0 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1559 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:2 - Y:0 - Dir :5 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1560 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:0 - Y:3 - Dir :4 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1561 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:2 - Y:3 - Dir :7 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1562 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:2 - Y:-2 - Dir :4 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1563 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:-1 - Y:-3 - Dir :6 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1564 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:-2 - Y:-2 - Dir :2 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1565 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:0 - Y:-3 - Dir :1 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1566 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:1 - Y:3 - Dir :6 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1567 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:2 - Y:2 - Dir :4 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1568 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:3 - Y:0 - Dir :0 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1569 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:-2 - Y:-3 - Dir :3 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1570 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:3 - Y:3 - Dir :2 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1571 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:0 - Y:2 - Dir :5 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1572 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:-3 - Y:0 - Dir :2 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1573 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:-3 - Y:-1 - Dir :6 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1574 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:1 - Y:0 - Dir :7 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1575 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:3 - Y:3 - Dir :1 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1576 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:1 - Y:-2 - Dir :0 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1577 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:-1 - Y:3 - Dir :2 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1578 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:-3 - Y:-1 - Dir :7 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1579 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:-3 - Y:0 - Dir :0 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1580 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:2 - Y:1 - Dir :7 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1581 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:-2 - Y:-2 - Dir :3 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1582 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:-2 - Y:1 - Dir :6 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1583 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:2 - Y:-2 - Dir :5 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1584 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:1 - Y:-1 - Dir :2 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1585 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:2 - Y:-3 - Dir :3 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1586 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:-2 - Y:2 - Dir :4 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1587 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:-3 - Y:-2 - Dir :6 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1588 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:3 - Y:3 - Dir :1 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1589 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:1 - Y:2 - Dir :6 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1590 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:3 - Y:2 - Dir :7 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1591 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:-3 - Y:0 - Dir :3 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1592 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:-1 - Y:0 - Dir :7 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1593 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:1 - Y:0 - Dir :1 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1594 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:-2 - Y:3 - Dir :3 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1595 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:-1 - Y:0 - Dir :6 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1596 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:-1 - Y:-3 - Dir :0 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1597 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:-2 - Y:2 - Dir :5 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1598 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:2 - Y:2 - Dir :7 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1599 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:-3 - Y:2 - Dir :6 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1600 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:1 - Y:-3 - Dir :4 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1601 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:-1 - Y:1 - Dir :1 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1602 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:2 - Y:-3 - Dir :1 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1603 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:2 - Y:3 - Dir :1 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1604 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:2 - Y:0 - Dir :0 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1605 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:-1 - Y:1 - Dir :1 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1606 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:1 - Y:-1 - Dir :0 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1607 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:-2 - Y:3 - Dir :7 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1608 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:2 - Y:0 - Dir :3 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1609 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:-3 - Y:-2 - Dir :1 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1610 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:2 - Y:1 - Dir :7 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1611 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:0 - Y:0 - Dir :0 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1612 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:3 - Y:0 - Dir :4 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1613 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:2 - Y:2 - Dir :1 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1614 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:0 - Y:-1 - Dir :1 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1615 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:-2 - Y:3 - Dir :4 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1616 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:0 - Y:1 - Dir :0 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1617 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:1 - Y:-1 - Dir :5 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1618 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:3 - Y:0 - Dir :0 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:1619 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:-2 - Y:-2 - Dir :0 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2056 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:66 - Y:25 - Dir :5 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2057 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:71 - Y:38 - Dir :6 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2058 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:77 - Y:23 - Dir :0 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2059 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:80 - Y:35 - Dir :1 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2060 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:80 - Y:49 - Dir :7 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2061 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:79 - Y:45 - Dir :5 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2062 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:80 - Y:11 - Dir :6 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2067 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:152 - Y:61 - Dir :3 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2079 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:200 - Y:61 - Dir :7 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2084 - Type:2 - MonsterClass:311 - Map:34 - Dis:30 - X:23 - Y:103 - Dir :3 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2092 - Type:2 - MonsterClass:311 - Map:34 - Dis:30 - X:106 - Y:73 - Dir :1 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2099 - Type:2 - MonsterClass:311 - Map:34 - Dis:30 - X:153 - Y:68 - Dir :2 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2100 - Type:2 - MonsterClass:311 - Map:34 - Dis:30 - X:156 - Y:76 - Dir :4 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2106 - Type:2 - MonsterClass:311 - Map:34 - Dis:30 - X:177 - Y:78 - Dir :1 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2114 - Type:2 - MonsterClass:312 - Map:34 - Dis:30 - X:20 - Y:88 - Dir :0 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2116 - Type:2 - MonsterClass:312 - Map:34 - Dis:30 - X:28 - Y:89 - Dir :4 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2118 - Type:2 - MonsterClass:312 - Map:34 - Dis:30 - X:69 - Y:116 - Dir :1 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2119 - Type:2 - MonsterClass:312 - Map:34 - Dis:30 - X:75 - Y:91 - Dir :0 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2120 - Type:2 - MonsterClass:312 - Map:34 - Dis:30 - X:80 - Y:117 - Dir :3 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2123 - Type:2 - MonsterClass:312 - Map:34 - Dis:30 - X:100 - Y:91 - Dir :4 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2131 - Type:2 - MonsterClass:312 - Map:34 - Dis:30 - X:155 - Y:84 - Dir :6 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2133 - Type:2 - MonsterClass:312 - Map:34 - Dis:30 - X:181 - Y:87 - Dir :7 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2144 - Type:2 - MonsterClass:313 - Map:34 - Dis:30 - X:74 - Y:109 - Dir :6 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2150 - Type:2 - MonsterClass:313 - Map:34 - Dis:30 - X:120 - Y:131 - Dir :4 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2151 - Type:2 - MonsterClass:313 - Map:34 - Dis:30 - X:124 - Y:146 - Dir :1 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2157 - Type:2 - MonsterClass:313 - Map:34 - Dis:30 - X:205 - Y:128 - Dir :2 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2158 - Type:2 - MonsterClass:313 - Map:34 - Dis:30 - X:204 - Y:128 - Dir :3 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2165 - Type:2 - MonsterClass:314 - Map:34 - Dis:30 - X:18 - Y:159 - Dir :2 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2166 - Type:2 - MonsterClass:314 - Map:34 - Dis:30 - X:31 - Y:156 - Dir :3 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2175 - Type:2 - MonsterClass:315 - Map:34 - Dis:30 - X:31 - Y:171 - Dir :2 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2176 - Type:2 - MonsterClass:315 - Map:34 - Dis:30 - X:50 - Y:192 - Dir :6 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2196 - Type:2 - MonsterClass:315 - Map:34 - Dis:30 - X:223 - Y:187 - Dir :4 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2198 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:85 - Y:198 - Dir :0 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2199 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:106 - Y:194 - Dir :1 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2201 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:147 - Y:181 - Dir :2 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2203 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:172 - Y:186 - Dir :0 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2205 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:226 - Y:180 - Dir :2 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2206 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:17 - Y:166 - Dir :7 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2207 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:22 - Y:165 - Dir :3 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2213 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:113 - Y:173 - Dir :0 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2215 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:142 - Y:177 - Dir :3 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2216 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:146 - Y:167 - Dir :0 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2219 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:231 - Y:170 - Dir :5 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2223 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:100 - Y:217 - Dir :0 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2226 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:117 - Y:222 - Dir :6 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2229 - Type:2 - MonsterClass:409 - Map:41 - Dis:30 - X:1 - Y:3 - Dir :0 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2230 - Type:2 - MonsterClass:409 - Map:41 - Dis:30 - X:-1 - Y:-1 - Dir :6 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2231 - Type:2 - MonsterClass:409 - Map:41 - Dis:30 - X:-2 - Y:-1 - Dir :4 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2232 - Type:2 - MonsterClass:409 - Map:41 - Dis:30 - X:1 - Y:3 - Dir :4 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2233 - Type:2 - MonsterClass:409 - Map:41 - Dis:30 - X:-2 - Y:0 - Dir :1 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2234 - Type:2 - MonsterClass:409 - Map:41 - Dis:30 - X:1 - Y:-1 - Dir :5 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2235 - Type:2 - MonsterClass:409 - Map:41 - Dis:30 - X:0 - Y:2 - Dir :2 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2236 - Type:2 - MonsterClass:409 - Map:41 - Dis:30 - X:-3 - Y:-3 - Dir :2 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2237 - Type:2 - MonsterClass:409 - Map:41 - Dis:30 - X:-1 - Y:1 - Dir :6 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2238 - Type:2 - MonsterClass:409 - Map:41 - Dis:30 - X:-2 - Y:-3 - Dir :7 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2239 - Type:2 - MonsterClass:409 - Map:41 - Dis:30 - X:1 - Y:0 - Dir :4 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2240 - Type:2 - MonsterClass:409 - Map:41 - Dis:30 - X:-2 - Y:-2 - Dir :3 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2241 - Type:2 - MonsterClass:409 - Map:41 - Dis:30 - X:3 - Y:3 - Dir :2 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2242 - Type:2 - MonsterClass:409 - Map:41 - Dis:30 - X:1 - Y:-2 - Dir :1 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2243 - Type:2 - MonsterClass:409 - Map:41 - Dis:30 - X:3 - Y:-2 - Dir :3 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2244 - Type:2 - MonsterClass:410 - Map:41 - Dis:30 - X:0 - Y:-3 - Dir :3 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2245 - Type:2 - MonsterClass:410 - Map:41 - Dis:30 - X:-2 - Y:2 - Dir :6 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2246 - Type:2 - MonsterClass:410 - Map:41 - Dis:30 - X:-3 - Y:3 - Dir :5 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2247 - Type:2 - MonsterClass:410 - Map:41 - Dis:30 - X:3 - Y:1 - Dir :3 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2248 - Type:2 - MonsterClass:410 - Map:41 - Dis:30 - X:3 - Y:2 - Dir :6 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2249 - Type:2 - MonsterClass:410 - Map:41 - Dis:30 - X:-2 - Y:2 - Dir :3 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2250 - Type:2 - MonsterClass:410 - Map:41 - Dis:30 - X:0 - Y:-3 - Dir :4 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2251 - Type:2 - MonsterClass:410 - Map:41 - Dis:30 - X:1 - Y:-1 - Dir :1 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2252 - Type:2 - MonsterClass:410 - Map:41 - Dis:30 - X:3 - Y:0 - Dir :6 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2253 - Type:2 - MonsterClass:410 - Map:41 - Dis:30 - X:3 - Y:-3 - Dir :4 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2254 - Type:2 - MonsterClass:410 - Map:41 - Dis:30 - X:-3 - Y:1 - Dir :3 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2255 - Type:2 - MonsterClass:410 - Map:41 - Dis:30 - X:2 - Y:-2 - Dir :7 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2256 - Type:2 - MonsterClass:410 - Map:41 - Dis:30 - X:0 - Y:3 - Dir :6 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2257 - Type:2 - MonsterClass:410 - Map:41 - Dis:30 - X:0 - Y:2 - Dir :2 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2258 - Type:2 - MonsterClass:410 - Map:41 - Dis:30 - X:1 - Y:2 - Dir :7 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2259 - Type:2 - MonsterClass:411 - Map:41 - Dis:30 - X:-3 - Y:-1 - Dir :0 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2260 - Type:2 - MonsterClass:411 - Map:41 - Dis:30 - X:1 - Y:-3 - Dir :0 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2261 - Type:2 - MonsterClass:411 - Map:41 - Dis:30 - X:0 - Y:-1 - Dir :3 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2262 - Type:2 - MonsterClass:411 - Map:41 - Dis:30 - X:1 - Y:-2 - Dir :1 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2263 - Type:2 - MonsterClass:411 - Map:41 - Dis:30 - X:3 - Y:2 - Dir :6 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2264 - Type:2 - MonsterClass:411 - Map:41 - Dis:30 - X:-1 - Y:-1 - Dir :1 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2265 - Type:2 - MonsterClass:411 - Map:41 - Dis:30 - X:1 - Y:3 - Dir :2 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2266 - Type:2 - MonsterClass:411 - Map:41 - Dis:30 - X:0 - Y:-2 - Dir :4 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2267 - Type:2 - MonsterClass:411 - Map:41 - Dis:30 - X:3 - Y:-2 - Dir :3 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2268 - Type:2 - MonsterClass:411 - Map:41 - Dis:30 - X:-1 - Y:0 - Dir :4 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2269 - Type:2 - MonsterClass:411 - Map:41 - Dis:30 - X:-1 - Y:3 - Dir :3 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2270 - Type:2 - MonsterClass:411 - Map:41 - Dis:30 - X:2 - Y:3 - Dir :2 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2271 - Type:2 - MonsterClass:411 - Map:41 - Dis:30 - X:-1 - Y:0 - Dir :0 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2272 - Type:2 - MonsterClass:410 - Map:42 - Dis:30 - X:2 - Y:-1 - Dir :2 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2273 - Type:2 - MonsterClass:410 - Map:42 - Dis:30 - X:2 - Y:-2 - Dir :3 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2274 - Type:2 - MonsterClass:410 - Map:42 - Dis:30 - X:-1 - Y:1 - Dir :6 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2275 - Type:2 - MonsterClass:410 - Map:42 - Dis:30 - X:-2 - Y:1 - Dir :2 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2276 - Type:2 - MonsterClass:411 - Map:42 - Dis:30 - X:3 - Y:3 - Dir :0 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2277 - Type:2 - MonsterClass:411 - Map:42 - Dis:30 - X:-3 - Y:1 - Dir :6 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2278 - Type:2 - MonsterClass:411 - Map:42 - Dis:30 - X:0 - Y:0 - Dir :5 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2279 - Type:2 - MonsterClass:411 - Map:42 - Dis:30 - X:0 - Y:0 - Dir :3 - TX:0 - TY:0 - Element:0
+16:04:03 [gObjSetPosMonster][GetPosition] Location Error number:2280 - Type:2 - MonsterClass:412 - Map:42 - Dis:30 - X:3 - Y:3 - Dir :7 - TX:0 - TY:0 - Element:0
+16:04:03 [Blood Castle] (1) Sync Start Time. [115] min remain
+16:04:03 [Blood Castle] (1) SetState EMPTY
+16:04:03 [Blood Castle] (2) Sync Start Time. [115] min remain
+16:04:03 [Blood Castle] (2) SetState EMPTY
+16:04:03 [Blood Castle] (3) Sync Start Time. [115] min remain
+16:04:03 [Blood Castle] (3) SetState EMPTY
+16:04:03 [Blood Castle] (4) Sync Start Time. [115] min remain
+16:04:03 [Blood Castle] (4) SetState EMPTY
+16:04:03 [Blood Castle] (5) Sync Start Time. [115] min remain
+16:04:03 [Blood Castle] (5) SetState EMPTY
+16:04:03 [Blood Castle] (6) Sync Start Time. [115] min remain
+16:04:03 [Blood Castle] (6) SetState EMPTY
+16:04:03 [Blood Castle] (7) Sync Start Time. [115] min remain
+16:04:03 [Blood Castle] (7) SetState EMPTY
+16:04:03 [Blood Castle] (8) Sync Start Time. [115] min remain
+16:04:03 [Blood Castle] (8) SetState EMPTY
+16:04:03 [Castle Deep] Sync Start Time. [235] min remain
+16:04:03 [Castle Deep] SetState EMPTY
+16:04:03 [Chaos Castle] (1) Sync Start Time. [45] min remain
+16:04:03 [Chaos Castle] (1) SetState EMPTY
+16:04:03 [Chaos Castle] (2) Sync Start Time. [45] min remain
+16:04:03 [Chaos Castle] (2) SetState EMPTY
+16:04:03 [Chaos Castle] (3) Sync Start Time. [45] min remain
+16:04:03 [Chaos Castle] (3) SetState EMPTY
+16:04:03 [Chaos Castle] (4) Sync Start Time. [45] min remain
+16:04:03 [Chaos Castle] (4) SetState EMPTY
+16:04:03 [Chaos Castle] (5) Sync Start Time. [45] min remain
+16:04:03 [Chaos Castle] (5) SetState EMPTY
+16:04:03 [Chaos Castle] (6) Sync Start Time. [45] min remain
+16:04:03 [Chaos Castle] (6) SetState EMPTY
+16:04:03 [Chaos Castle] (7) Sync Start Time. [45] min remain
+16:04:03 [Chaos Castle] (7) SetState EMPTY
+16:04:03 [Chaos Castle Survival] SetState BLANK
+16:04:03 [Devil Square] (1) Sync Start Time. [25] min remain
+16:04:03 [Devil Square] (1) SetState EMPTY
+16:04:03 [Devil Square] (2) Sync Start Time. [25] min remain
+16:04:03 [Devil Square] (2) SetState EMPTY
+16:04:03 [Devil Square] (3) Sync Start Time. [25] min remain
+16:04:03 [Devil Square] (3) SetState EMPTY
+16:04:03 [Devil Square] (4) Sync Start Time. [25] min remain
+16:04:03 [Devil Square] (4) SetState EMPTY
+16:04:03 [Devil Square] (5) Sync Start Time. [25] min remain
+16:04:03 [Devil Square] (5) SetState EMPTY
+16:04:03 [Devil Square] (6) Sync Start Time. [25] min remain
+16:04:03 [Devil Square] (6) SetState EMPTY
+16:04:03 [Devil Square] (7) Sync Start Time. [25] min remain
+16:04:03 [Devil Square] (7) SetState EMPTY
+16:04:03 [AcheronGuardian] Sync Start Time. [421] min remain
+16:04:03 [ RAKLION ] State(0) -> END
+16:04:03 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+16:04:03 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+16:04:03 [ RAKLION ] [ BossEggRegen ] : BossEgg(0 ea)
+16:04:03 [Bot Hide][0] (BotHide) Sync Start Time. [1085] min remain
+16:04:03 [Bot Hide][0] (BotHide) SetState EMPTY
+16:04:03 [DSN][DSNEventInit] Event initialization
+16:04:03 [Boss Battle Event] SetState BLANK
+16:04:03 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:0][MissionInx0:2]
+16:04:03 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:0][MissionInx1:4]
+16:04:03 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:1][MissionInx0:3]
+16:04:03 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:1][MissionInx1:4]
+16:04:03 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:2][MissionInx0:3]
+16:04:03 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:2][MissionInx1:1]
+16:04:03 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:2][MissionInx2:2]
+16:04:03 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:3][MissionInx0:2]
+16:04:03 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:3][MissionInx1:1]
+16:04:03 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:3][MissionInx2:4]
+16:04:03 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:4][MissionInx0:4]
+16:04:03 [DGMonsterSoulConverterWeeklyMissionInfoRecv][Expire Mission Info] 2023-03-30 AM10:30
+16:04:03 [DGImperialGuardianRenewalWeeklyInfoRecv][UpdateType:3] MainAttribute:4
+16:04:04 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+16:04:04 [ Crywolf ][ ApplyDBInfo] OccupationState : 0
+16:04:04 [CastleSiege] CCastleSiege::LoadData() - Siege Schedule Start Date (2022-10-3)
+16:04:04 [CastleSiege] CCastleSiege::LoadData() - Siege Schedule Date (7-0-0)
+16:04:04 [CastleSiege] CCastleSiege::LoadData() - Siege Schedule End Date (2022-10-10(0:0:0))
+16:04:04 [CastleSiege] CCastleSiege::Init() - START
+16:04:04 [CastleSiege] CASTLE SIEGE DATA SETTING FAILED [0x81] - m_iCastleDataLoadState != CASTLESIEGE_DATALOAD_2 (0)
+16:04:04 [ArcaBattle] ArcaBattle Proc State [0]
+16:04:05 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+17:39:37 [Connection] connect() failed with error: 10060
+17:39:38 [ServerInfo] CashShop loaded successfully
+17:39:38 [ServerInfo] ChaosMix loaded successfully
+17:39:38 [ServerInfo] Character loaded successfully
+17:39:38 [ServerInfo] Command loaded successfully
+17:39:38 [AntiDDoS] Status: 0
+17:39:38 [Language] Load English.xml language definition
+17:39:38 [ServerInfo] Common loaded successfully
+17:39:38 [ Crywolf ] State (0) -> NONE
+17:39:38 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+17:39:38 [ServerInfo] Event loaded successfully
+17:39:38 [ServerInfo] EventItemBag loaded successfully
+17:39:38 [ServerInfo] Hack loaded successfully
+17:39:38 [ServerInfo] Item loaded successfully
+17:39:39 [FereaBossZone][SummonMon] AddMonster fail!! [INDEX]:735
+17:39:39 [FereaBossZone][CrystalBallRegen] FAIL!!!
+17:39:39 [NixiesBoss][SummonMon] AddMonster fail!! [INDEX]:746
+17:39:39 [NixiesBoss][Regen] Regen Boss Nix. [-1], Attr:[5]
+17:39:39 [SwampMonsterAI][CreateMonster] Error Monster Dont Create [aIndex:-1]
+17:39:39 [ServerInfo] Monster loaded successfully
+17:39:39 [ServerInfo] Custom loaded successfully
+17:39:39 [ServerInfo] Move loaded successfully
+17:39:39 [ServerInfo] Quest loaded successfully
+17:39:39 [ServerInfo] Shop loaded successfully
+17:39:39 [ServerInfo] Skill loaded successfully
+17:39:39 [ServerInfo] Util loaded successfully
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1505 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:3 - Y:0 - Dir :2 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1506 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:-2 - Y:2 - Dir :6 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1507 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:0 - Y:2 - Dir :3 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1508 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:-2 - Y:3 - Dir :1 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1509 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:0 - Y:1 - Dir :6 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1510 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:0 - Y:2 - Dir :0 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1511 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:1 - Y:-1 - Dir :6 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1512 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:-1 - Y:-1 - Dir :2 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1513 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:2 - Y:3 - Dir :2 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1514 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:3 - Y:-2 - Dir :2 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1515 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:1 - Y:1 - Dir :3 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1516 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:0 - Y:-2 - Dir :7 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1517 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:1 - Y:-2 - Dir :5 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1518 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:-1 - Y:3 - Dir :0 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1519 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:0 - Y:-1 - Dir :6 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1520 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:2 - Y:-1 - Dir :3 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1521 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:1 - Y:1 - Dir :0 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1522 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:-1 - Y:1 - Dir :6 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1523 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:0 - Y:3 - Dir :3 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1524 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:-3 - Y:0 - Dir :7 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1525 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:-1 - Y:3 - Dir :3 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1526 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:3 - Y:0 - Dir :7 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1527 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:0 - Y:2 - Dir :2 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1528 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:1 - Y:-1 - Dir :4 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1529 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:-1 - Y:0 - Dir :6 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1530 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:-3 - Y:-1 - Dir :4 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1531 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:3 - Y:2 - Dir :7 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1532 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:3 - Y:1 - Dir :3 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1533 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:3 - Y:2 - Dir :1 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1534 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:-2 - Y:-1 - Dir :2 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1535 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:2 - Y:3 - Dir :6 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1536 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:-3 - Y:2 - Dir :3 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1537 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:3 - Y:-2 - Dir :2 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1538 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:1 - Y:3 - Dir :4 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1539 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:2 - Y:2 - Dir :2 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1540 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:1 - Y:0 - Dir :7 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1541 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:-2 - Y:-2 - Dir :0 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1542 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:3 - Y:3 - Dir :1 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1543 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:2 - Y:-3 - Dir :5 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1544 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:-2 - Y:2 - Dir :7 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1545 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:0 - Y:0 - Dir :7 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1546 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:3 - Y:0 - Dir :5 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1547 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:0 - Y:-2 - Dir :0 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1548 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:1 - Y:3 - Dir :4 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1549 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:-3 - Y:3 - Dir :5 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1550 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:0 - Y:1 - Dir :0 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1551 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:1 - Y:0 - Dir :6 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1552 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:0 - Y:0 - Dir :2 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1553 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:3 - Y:2 - Dir :0 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1554 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:3 - Y:0 - Dir :5 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1555 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:1 - Y:0 - Dir :6 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1556 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:2 - Y:3 - Dir :3 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1557 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:0 - Y:2 - Dir :7 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1558 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:0 - Y:1 - Dir :3 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1559 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:-2 - Y:0 - Dir :7 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1560 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:-1 - Y:-2 - Dir :4 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1561 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:-1 - Y:1 - Dir :1 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1562 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:-3 - Y:1 - Dir :7 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1563 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:-3 - Y:-2 - Dir :2 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1564 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:-3 - Y:2 - Dir :5 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1565 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:-3 - Y:-2 - Dir :7 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1566 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:1 - Y:3 - Dir :1 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1567 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:-1 - Y:1 - Dir :4 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1568 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:3 - Y:0 - Dir :1 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1569 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:2 - Y:1 - Dir :0 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1570 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:-3 - Y:-1 - Dir :3 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1571 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:0 - Y:-3 - Dir :7 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1572 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:-2 - Y:1 - Dir :6 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1573 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:2 - Y:1 - Dir :5 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1574 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:-1 - Y:-2 - Dir :0 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1575 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:-3 - Y:0 - Dir :1 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1576 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:-2 - Y:1 - Dir :4 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1577 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:0 - Y:0 - Dir :7 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1578 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:3 - Y:2 - Dir :2 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1579 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:1 - Y:-3 - Dir :3 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1580 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:0 - Y:1 - Dir :4 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1581 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:-1 - Y:-3 - Dir :0 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1582 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:2 - Y:3 - Dir :7 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1583 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:-3 - Y:-2 - Dir :2 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1584 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:-3 - Y:-1 - Dir :7 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1585 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:3 - Y:3 - Dir :4 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1586 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:-2 - Y:3 - Dir :0 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1587 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:3 - Y:3 - Dir :5 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1588 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:-1 - Y:0 - Dir :3 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1589 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:3 - Y:-1 - Dir :1 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1590 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:3 - Y:-3 - Dir :5 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1591 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:1 - Y:-2 - Dir :4 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1592 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:-3 - Y:2 - Dir :2 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1593 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:-2 - Y:3 - Dir :0 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1594 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:-2 - Y:-3 - Dir :3 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1595 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:1 - Y:-1 - Dir :6 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1596 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:2 - Y:2 - Dir :0 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1597 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:-3 - Y:-3 - Dir :1 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1598 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:3 - Y:2 - Dir :2 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1599 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:3 - Y:-1 - Dir :3 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1600 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:0 - Y:1 - Dir :3 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1601 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:2 - Y:0 - Dir :0 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1602 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:-2 - Y:3 - Dir :3 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1603 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:-2 - Y:0 - Dir :3 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1604 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:2 - Y:3 - Dir :6 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1605 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:3 - Y:-3 - Dir :5 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1606 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:-1 - Y:0 - Dir :2 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1607 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:1 - Y:2 - Dir :1 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1608 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:1 - Y:2 - Dir :6 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1609 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:1 - Y:-1 - Dir :7 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1610 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:-2 - Y:-2 - Dir :5 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1611 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:-2 - Y:2 - Dir :2 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1612 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:2 - Y:-3 - Dir :4 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1613 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:1 - Y:1 - Dir :3 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1614 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:0 - Y:-3 - Dir :2 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1615 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:1 - Y:-2 - Dir :2 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1616 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:2 - Y:3 - Dir :7 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1617 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:3 - Y:-2 - Dir :1 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1618 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:0 - Y:-3 - Dir :3 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:1619 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:3 - Y:-1 - Dir :2 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2056 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:62 - Y:24 - Dir :2 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2057 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:72 - Y:35 - Dir :3 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2058 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:71 - Y:18 - Dir :6 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2059 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:76 - Y:34 - Dir :7 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2060 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:75 - Y:53 - Dir :6 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2061 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:80 - Y:42 - Dir :2 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2062 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:86 - Y:12 - Dir :6 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2067 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:147 - Y:62 - Dir :2 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2072 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:174 - Y:34 - Dir :2 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2074 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:180 - Y:50 - Dir :0 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2084 - Type:2 - MonsterClass:311 - Map:34 - Dis:30 - X:19 - Y:99 - Dir :0 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2092 - Type:2 - MonsterClass:311 - Map:34 - Dis:30 - X:104 - Y:73 - Dir :5 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2098 - Type:2 - MonsterClass:311 - Map:34 - Dis:30 - X:149 - Y:68 - Dir :4 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2106 - Type:2 - MonsterClass:311 - Map:34 - Dis:30 - X:177 - Y:80 - Dir :6 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2114 - Type:2 - MonsterClass:312 - Map:34 - Dis:30 - X:24 - Y:88 - Dir :5 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2116 - Type:2 - MonsterClass:312 - Map:34 - Dis:30 - X:32 - Y:86 - Dir :1 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2118 - Type:2 - MonsterClass:312 - Map:34 - Dis:30 - X:68 - Y:118 - Dir :5 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2120 - Type:2 - MonsterClass:312 - Map:34 - Dis:30 - X:76 - Y:117 - Dir :6 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2123 - Type:2 - MonsterClass:312 - Map:34 - Dis:30 - X:98 - Y:86 - Dir :4 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2125 - Type:2 - MonsterClass:312 - Map:34 - Dis:30 - X:120 - Y:117 - Dir :5 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2131 - Type:2 - MonsterClass:312 - Map:34 - Dis:30 - X:157 - Y:87 - Dir :2 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2133 - Type:2 - MonsterClass:312 - Map:34 - Dis:30 - X:177 - Y:91 - Dir :3 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2144 - Type:2 - MonsterClass:313 - Map:34 - Dis:30 - X:69 - Y:108 - Dir :6 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2150 - Type:2 - MonsterClass:313 - Map:34 - Dis:30 - X:122 - Y:129 - Dir :0 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2151 - Type:2 - MonsterClass:313 - Map:34 - Dis:30 - X:126 - Y:143 - Dir :0 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2157 - Type:2 - MonsterClass:313 - Map:34 - Dis:30 - X:206 - Y:128 - Dir :2 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2158 - Type:2 - MonsterClass:313 - Map:34 - Dis:30 - X:202 - Y:131 - Dir :7 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2165 - Type:2 - MonsterClass:314 - Map:34 - Dis:30 - X:19 - Y:156 - Dir :2 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2166 - Type:2 - MonsterClass:314 - Map:34 - Dis:30 - X:28 - Y:159 - Dir :7 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2175 - Type:2 - MonsterClass:315 - Map:34 - Dis:30 - X:29 - Y:172 - Dir :4 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2183 - Type:2 - MonsterClass:315 - Map:34 - Dis:30 - X:93 - Y:221 - Dir :0 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2194 - Type:2 - MonsterClass:315 - Map:34 - Dis:30 - X:178 - Y:196 - Dir :0 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2196 - Type:2 - MonsterClass:315 - Map:34 - Dis:30 - X:223 - Y:189 - Dir :4 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2197 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:50 - Y:186 - Dir :1 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2198 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:82 - Y:202 - Dir :3 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2199 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:107 - Y:194 - Dir :5 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2203 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:170 - Y:184 - Dir :3 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2205 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:227 - Y:179 - Dir :7 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2206 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:12 - Y:162 - Dir :3 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2207 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:26 - Y:166 - Dir :2 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2213 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:119 - Y:171 - Dir :6 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2215 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:145 - Y:174 - Dir :4 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2216 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:149 - Y:164 - Dir :2 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2219 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:230 - Y:166 - Dir :3 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2223 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:101 - Y:216 - Dir :7 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2226 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:116 - Y:221 - Dir :1 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2229 - Type:2 - MonsterClass:409 - Map:41 - Dis:30 - X:0 - Y:2 - Dir :2 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2230 - Type:2 - MonsterClass:409 - Map:41 - Dis:30 - X:2 - Y:-3 - Dir :3 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2231 - Type:2 - MonsterClass:409 - Map:41 - Dis:30 - X:-3 - Y:0 - Dir :0 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2232 - Type:2 - MonsterClass:409 - Map:41 - Dis:30 - X:-3 - Y:2 - Dir :1 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2233 - Type:2 - MonsterClass:409 - Map:41 - Dis:30 - X:-3 - Y:-2 - Dir :0 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2234 - Type:2 - MonsterClass:409 - Map:41 - Dis:30 - X:0 - Y:1 - Dir :5 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2235 - Type:2 - MonsterClass:409 - Map:41 - Dis:30 - X:-1 - Y:2 - Dir :6 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2236 - Type:2 - MonsterClass:409 - Map:41 - Dis:30 - X:0 - Y:0 - Dir :7 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2237 - Type:2 - MonsterClass:409 - Map:41 - Dis:30 - X:1 - Y:0 - Dir :2 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2238 - Type:2 - MonsterClass:409 - Map:41 - Dis:30 - X:0 - Y:2 - Dir :3 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2239 - Type:2 - MonsterClass:409 - Map:41 - Dis:30 - X:-1 - Y:0 - Dir :1 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2240 - Type:2 - MonsterClass:409 - Map:41 - Dis:30 - X:2 - Y:3 - Dir :3 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2241 - Type:2 - MonsterClass:409 - Map:41 - Dis:30 - X:3 - Y:-2 - Dir :2 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2242 - Type:2 - MonsterClass:409 - Map:41 - Dis:30 - X:2 - Y:1 - Dir :2 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2243 - Type:2 - MonsterClass:409 - Map:41 - Dis:30 - X:3 - Y:-2 - Dir :4 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2244 - Type:2 - MonsterClass:410 - Map:41 - Dis:30 - X:-2 - Y:1 - Dir :2 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2245 - Type:2 - MonsterClass:410 - Map:41 - Dis:30 - X:-1 - Y:-2 - Dir :7 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2246 - Type:2 - MonsterClass:410 - Map:41 - Dis:30 - X:1 - Y:-1 - Dir :0 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2247 - Type:2 - MonsterClass:410 - Map:41 - Dis:30 - X:-3 - Y:3 - Dir :0 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2248 - Type:2 - MonsterClass:410 - Map:41 - Dis:30 - X:3 - Y:-2 - Dir :1 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2249 - Type:2 - MonsterClass:410 - Map:41 - Dis:30 - X:-2 - Y:1 - Dir :6 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2250 - Type:2 - MonsterClass:410 - Map:41 - Dis:30 - X:1 - Y:-2 - Dir :5 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2251 - Type:2 - MonsterClass:410 - Map:41 - Dis:30 - X:-2 - Y:-2 - Dir :3 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2252 - Type:2 - MonsterClass:410 - Map:41 - Dis:30 - X:-1 - Y:-3 - Dir :1 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2253 - Type:2 - MonsterClass:410 - Map:41 - Dis:30 - X:3 - Y:-1 - Dir :3 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2254 - Type:2 - MonsterClass:410 - Map:41 - Dis:30 - X:2 - Y:-2 - Dir :5 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2255 - Type:2 - MonsterClass:410 - Map:41 - Dis:30 - X:-1 - Y:-2 - Dir :7 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2256 - Type:2 - MonsterClass:410 - Map:41 - Dis:30 - X:0 - Y:-2 - Dir :0 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2257 - Type:2 - MonsterClass:410 - Map:41 - Dis:30 - X:-3 - Y:0 - Dir :1 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2258 - Type:2 - MonsterClass:410 - Map:41 - Dis:30 - X:0 - Y:-2 - Dir :3 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2259 - Type:2 - MonsterClass:411 - Map:41 - Dis:30 - X:2 - Y:0 - Dir :6 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2260 - Type:2 - MonsterClass:411 - Map:41 - Dis:30 - X:-1 - Y:-1 - Dir :3 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2261 - Type:2 - MonsterClass:411 - Map:41 - Dis:30 - X:-2 - Y:-3 - Dir :5 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2262 - Type:2 - MonsterClass:411 - Map:41 - Dis:30 - X:-3 - Y:1 - Dir :2 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2263 - Type:2 - MonsterClass:411 - Map:41 - Dis:30 - X:1 - Y:-1 - Dir :5 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2264 - Type:2 - MonsterClass:411 - Map:41 - Dis:30 - X:-1 - Y:-1 - Dir :0 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2265 - Type:2 - MonsterClass:411 - Map:41 - Dis:30 - X:-3 - Y:0 - Dir :2 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2266 - Type:2 - MonsterClass:411 - Map:41 - Dis:30 - X:1 - Y:-2 - Dir :6 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2267 - Type:2 - MonsterClass:411 - Map:41 - Dis:30 - X:-3 - Y:-1 - Dir :0 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2268 - Type:2 - MonsterClass:411 - Map:41 - Dis:30 - X:3 - Y:-2 - Dir :7 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2269 - Type:2 - MonsterClass:411 - Map:41 - Dis:30 - X:-1 - Y:1 - Dir :6 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2270 - Type:2 - MonsterClass:411 - Map:41 - Dis:30 - X:-3 - Y:-2 - Dir :7 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2271 - Type:2 - MonsterClass:411 - Map:41 - Dis:30 - X:-1 - Y:2 - Dir :0 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2272 - Type:2 - MonsterClass:410 - Map:42 - Dis:30 - X:-1 - Y:-1 - Dir :1 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2273 - Type:2 - MonsterClass:410 - Map:42 - Dis:30 - X:3 - Y:-3 - Dir :1 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2274 - Type:2 - MonsterClass:410 - Map:42 - Dis:30 - X:2 - Y:-1 - Dir :6 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2275 - Type:2 - MonsterClass:410 - Map:42 - Dis:30 - X:2 - Y:-3 - Dir :1 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2276 - Type:2 - MonsterClass:411 - Map:42 - Dis:30 - X:3 - Y:2 - Dir :2 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2277 - Type:2 - MonsterClass:411 - Map:42 - Dis:30 - X:0 - Y:-1 - Dir :7 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2278 - Type:2 - MonsterClass:411 - Map:42 - Dis:30 - X:-2 - Y:-3 - Dir :6 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2279 - Type:2 - MonsterClass:411 - Map:42 - Dis:30 - X:-2 - Y:3 - Dir :3 - TX:0 - TY:0 - Element:0
+17:39:39 [gObjSetPosMonster][GetPosition] Location Error number:2280 - Type:2 - MonsterClass:412 - Map:42 - Dis:30 - X:1 - Y:-1 - Dir :6 - TX:0 - TY:0 - Element:0
+17:39:39 [Blood Castle] (1) Sync Start Time. [20] min remain
+17:39:39 [Blood Castle] (1) SetState EMPTY
+17:39:39 [Blood Castle] (2) Sync Start Time. [20] min remain
+17:39:39 [Blood Castle] (2) SetState EMPTY
+17:39:39 [Blood Castle] (3) Sync Start Time. [20] min remain
+17:39:39 [Blood Castle] (3) SetState EMPTY
+17:39:39 [Blood Castle] (4) Sync Start Time. [20] min remain
+17:39:39 [Blood Castle] (4) SetState EMPTY
+17:39:39 [Blood Castle] (5) Sync Start Time. [20] min remain
+17:39:39 [Blood Castle] (5) SetState EMPTY
+17:39:39 [Blood Castle] (6) Sync Start Time. [20] min remain
+17:39:39 [Blood Castle] (6) SetState EMPTY
+17:39:39 [Blood Castle] (7) Sync Start Time. [20] min remain
+17:39:39 [Blood Castle] (7) SetState EMPTY
+17:39:39 [Blood Castle] (8) Sync Start Time. [20] min remain
+17:39:39 [Blood Castle] (8) SetState EMPTY
+17:39:39 [Castle Deep] Sync Start Time. [140] min remain
+17:39:39 [Castle Deep] SetState EMPTY
+17:39:39 [Chaos Castle] (1) Sync Start Time. [80] min remain
+17:39:39 [Chaos Castle] (1) SetState EMPTY
+17:39:39 [Chaos Castle] (2) Sync Start Time. [80] min remain
+17:39:39 [Chaos Castle] (2) SetState EMPTY
+17:39:39 [Chaos Castle] (3) Sync Start Time. [80] min remain
+17:39:39 [Chaos Castle] (3) SetState EMPTY
+17:39:39 [Chaos Castle] (4) Sync Start Time. [80] min remain
+17:39:39 [Chaos Castle] (4) SetState EMPTY
+17:39:39 [Chaos Castle] (5) Sync Start Time. [80] min remain
+17:39:39 [Chaos Castle] (5) SetState EMPTY
+17:39:39 [Chaos Castle] (6) Sync Start Time. [80] min remain
+17:39:39 [Chaos Castle] (6) SetState EMPTY
+17:39:39 [Chaos Castle] (7) Sync Start Time. [80] min remain
+17:39:39 [Chaos Castle] (7) SetState EMPTY
+17:39:39 [Chaos Castle Survival] SetState BLANK
+17:39:39 [Devil Square] (1) Sync Start Time. [170] min remain
+17:39:39 [Devil Square] (1) SetState EMPTY
+17:39:39 [Devil Square] (2) Sync Start Time. [170] min remain
+17:39:39 [Devil Square] (2) SetState EMPTY
+17:39:39 [Devil Square] (3) Sync Start Time. [170] min remain
+17:39:39 [Devil Square] (3) SetState EMPTY
+17:39:39 [Devil Square] (4) Sync Start Time. [170] min remain
+17:39:39 [Devil Square] (4) SetState EMPTY
+17:39:39 [Devil Square] (5) Sync Start Time. [170] min remain
+17:39:39 [Devil Square] (5) SetState EMPTY
+17:39:39 [Devil Square] (6) Sync Start Time. [170] min remain
+17:39:39 [Devil Square] (6) SetState EMPTY
+17:39:39 [Devil Square] (7) Sync Start Time. [170] min remain
+17:39:39 [Devil Square] (7) SetState EMPTY
+17:39:39 [AcheronGuardian] Sync Start Time. [326] min remain
+17:39:39 [ RAKLION ] State(0) -> END
+17:39:39 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+17:39:39 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+17:39:39 [ RAKLION ] [ BossEggRegen ] : BossEgg(0 ea)
+17:39:39 [Bot Hide][0] (BotHide) Sync Start Time. [990] min remain
+17:39:39 [Bot Hide][0] (BotHide) SetState EMPTY
+17:39:39 [DSN][DSNEventInit] Event initialization
+17:39:39 [Boss Battle Event] SetState BLANK
+17:39:39 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:0][MissionInx0:2]
+17:39:39 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:0][MissionInx1:4]
+17:39:39 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:1][MissionInx0:3]
+17:39:39 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:1][MissionInx1:4]
+17:39:39 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:2][MissionInx0:3]
+17:39:39 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:2][MissionInx1:1]
+17:39:39 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:2][MissionInx2:2]
+17:39:39 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:3][MissionInx0:2]
+17:39:39 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:3][MissionInx1:1]
+17:39:39 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:3][MissionInx2:4]
+17:39:39 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:4][MissionInx0:4]
+17:39:39 [DGMonsterSoulConverterWeeklyMissionInfoRecv][Expire Mission Info] 2023-03-30 AM10:30
+17:39:39 [DGImperialGuardianRenewalWeeklyInfoRecv][UpdateType:3] MainAttribute:4
+17:39:40 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+17:39:40 [ Crywolf ][ ApplyDBInfo] OccupationState : 0
+17:39:40 [CastleSiege] CCastleSiege::LoadData() - Siege Schedule Start Date (2022-10-3)
+17:39:40 [CastleSiege] CCastleSiege::LoadData() - Siege Schedule Date (7-0-0)
+17:39:40 [CastleSiege] CCastleSiege::LoadData() - Siege Schedule End Date (2022-10-10(0:0:0))
+17:39:40 [CastleSiege] CCastleSiege::Init() - START
+17:39:40 [CastleSiege] CASTLE SIEGE DATA SETTING FAILED [0x81] - m_iCastleDataLoadState != CASTLESIEGE_DATALOAD_2 (0)
+17:39:40 [ArcaBattle] ArcaBattle Proc State [0]
+17:39:41 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+17:51:06 [Connection] connect() failed with error: 10060
+17:51:07 [ServerInfo] CashShop loaded successfully
+17:51:07 [ServerInfo] ChaosMix loaded successfully
+17:51:07 [ServerInfo] Character loaded successfully
+17:51:07 [ServerInfo] Command loaded successfully
+17:51:07 [AntiDDoS] Status: 0
+17:51:07 [Language] Load English.xml language definition
+17:51:07 [ServerInfo] Common loaded successfully
+17:51:07 [ Crywolf ] State (0) -> NONE
+17:51:07 [ Crywolf ] SetState - StateInfo : Occupation/0, State/0
+17:51:07 [ServerInfo] Event loaded successfully
+17:51:07 [ServerInfo] EventItemBag loaded successfully
+17:51:07 [ServerInfo] Hack loaded successfully
+17:51:07 [ServerInfo] Item loaded successfully
+17:51:07 [FereaBossZone][SummonMon] AddMonster fail!! [INDEX]:735
+17:51:07 [FereaBossZone][CrystalBallRegen] FAIL!!!
+17:51:07 [NixiesBoss][SummonMon] AddMonster fail!! [INDEX]:746
+17:51:07 [NixiesBoss][Regen] Regen Boss Nix. [-1], Attr:[2]
+17:51:07 [SwampMonsterAI][CreateMonster] Error Monster Dont Create [aIndex:-1]
+17:51:07 [ServerInfo] Monster loaded successfully
+17:51:07 [ServerInfo] Custom loaded successfully
+17:51:07 [ServerInfo] Move loaded successfully
+17:51:07 [ServerInfo] Quest loaded successfully
+17:51:07 [ServerInfo] Shop loaded successfully
+17:51:08 [ServerInfo] Skill loaded successfully
+17:51:08 [ServerInfo] Util loaded successfully
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1505 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:2 - Y:3 - Dir :3 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1506 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:-1 - Y:3 - Dir :1 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1507 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:3 - Y:2 - Dir :5 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1508 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:2 - Y:-3 - Dir :5 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1509 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:3 - Y:1 - Dir :0 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1510 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:3 - Y:2 - Dir :4 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1511 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:3 - Y:0 - Dir :7 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1512 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:2 - Y:3 - Dir :6 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1513 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:2 - Y:1 - Dir :2 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1514 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:0 - Y:3 - Dir :5 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1515 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:-2 - Y:-3 - Dir :5 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1516 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:-2 - Y:2 - Dir :4 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1517 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:3 - Y:-1 - Dir :6 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1518 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:2 - Y:3 - Dir :1 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1519 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:0 - Y:-2 - Dir :3 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1520 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:2 - Y:-1 - Dir :5 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1521 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:0 - Y:0 - Dir :0 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1522 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:2 - Y:-2 - Dir :2 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1523 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:-2 - Y:0 - Dir :0 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1524 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:1 - Y:-1 - Dir :4 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1525 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:0 - Y:-1 - Dir :0 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1526 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:3 - Y:-3 - Dir :5 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1527 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:1 - Y:3 - Dir :3 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1528 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:3 - Y:-3 - Dir :7 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1529 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:3 - Y:3 - Dir :6 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1530 - Type:2 - MonsterClass:290 - Map:31 - Dis:30 - X:1 - Y:0 - Dir :1 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1531 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:0 - Y:1 - Dir :0 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1532 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:1 - Y:-2 - Dir :7 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1533 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:1 - Y:-3 - Dir :3 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1534 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:-2 - Y:-1 - Dir :3 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1535 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:2 - Y:1 - Dir :3 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1536 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:-1 - Y:-3 - Dir :6 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1537 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:-1 - Y:3 - Dir :4 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1538 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:3 - Y:3 - Dir :1 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1539 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:3 - Y:0 - Dir :6 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1540 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:2 - Y:2 - Dir :3 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1541 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:-2 - Y:0 - Dir :2 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1542 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:-2 - Y:-2 - Dir :0 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1543 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:2 - Y:2 - Dir :4 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1544 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:-2 - Y:3 - Dir :4 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1545 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:3 - Y:-1 - Dir :1 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1546 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:-2 - Y:-1 - Dir :1 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1547 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:3 - Y:3 - Dir :6 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1548 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:-2 - Y:-2 - Dir :3 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1549 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:-3 - Y:2 - Dir :2 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1550 - Type:2 - MonsterClass:291 - Map:31 - Dis:30 - X:-2 - Y:2 - Dir :6 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1551 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:-2 - Y:0 - Dir :3 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1552 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:0 - Y:0 - Dir :5 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1553 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:2 - Y:1 - Dir :5 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1554 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:1 - Y:2 - Dir :1 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1555 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:0 - Y:1 - Dir :7 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1556 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:-2 - Y:2 - Dir :7 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1557 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:-3 - Y:0 - Dir :1 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1558 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:3 - Y:3 - Dir :5 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1559 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:-2 - Y:-2 - Dir :3 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1560 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:1 - Y:-3 - Dir :2 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1561 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:1 - Y:-2 - Dir :1 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1562 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:2 - Y:0 - Dir :5 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1563 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:3 - Y:-2 - Dir :1 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1564 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:0 - Y:-1 - Dir :1 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1565 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:-3 - Y:2 - Dir :6 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1566 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:3 - Y:0 - Dir :5 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1567 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:-3 - Y:2 - Dir :0 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1568 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:0 - Y:3 - Dir :0 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1569 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:-1 - Y:3 - Dir :0 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1570 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:1 - Y:1 - Dir :0 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1571 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:2 - Y:-1 - Dir :0 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1572 - Type:2 - MonsterClass:292 - Map:31 - Dis:30 - X:1 - Y:3 - Dir :0 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1573 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:1 - Y:3 - Dir :6 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1574 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:0 - Y:-1 - Dir :2 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1575 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:1 - Y:-3 - Dir :7 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1576 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:-1 - Y:-2 - Dir :4 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1577 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:-2 - Y:-1 - Dir :0 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1578 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:3 - Y:-1 - Dir :4 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1579 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:0 - Y:0 - Dir :6 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1580 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:-1 - Y:1 - Dir :6 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1581 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:-1 - Y:0 - Dir :7 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1582 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:-1 - Y:1 - Dir :5 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1583 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:0 - Y:-3 - Dir :6 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1584 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:-3 - Y:-2 - Dir :5 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1585 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:1 - Y:-1 - Dir :2 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1586 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:-3 - Y:2 - Dir :3 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1587 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:-2 - Y:0 - Dir :3 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1588 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:1 - Y:0 - Dir :7 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1589 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:-1 - Y:3 - Dir :6 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1590 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:-3 - Y:-1 - Dir :7 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1591 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:-1 - Y:1 - Dir :1 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1592 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:2 - Y:-2 - Dir :1 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1593 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:0 - Y:-2 - Dir :3 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1594 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:1 - Y:3 - Dir :2 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1595 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:1 - Y:2 - Dir :7 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1596 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:0 - Y:1 - Dir :1 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1597 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:-3 - Y:0 - Dir :7 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1598 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:-2 - Y:3 - Dir :7 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1599 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:0 - Y:2 - Dir :2 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1600 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:2 - Y:-2 - Dir :3 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1601 - Type:2 - MonsterClass:293 - Map:31 - Dis:30 - X:3 - Y:-1 - Dir :7 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1602 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:3 - Y:-1 - Dir :5 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1603 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:1 - Y:-1 - Dir :4 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1604 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:2 - Y:2 - Dir :5 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1605 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:3 - Y:-3 - Dir :1 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1606 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:-2 - Y:-2 - Dir :1 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1607 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:2 - Y:-2 - Dir :4 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1608 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:-3 - Y:2 - Dir :2 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1609 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:2 - Y:3 - Dir :6 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1610 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:1 - Y:1 - Dir :0 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1611 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:-3 - Y:-1 - Dir :0 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1612 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:-3 - Y:0 - Dir :0 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1613 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:2 - Y:-2 - Dir :7 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1614 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:-2 - Y:1 - Dir :2 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1615 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:2 - Y:1 - Dir :1 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1616 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:-2 - Y:-1 - Dir :2 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1617 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:-2 - Y:0 - Dir :2 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1618 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:-3 - Y:0 - Dir :5 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:1619 - Type:2 - MonsterClass:294 - Map:31 - Dis:30 - X:2 - Y:-2 - Dir :0 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2055 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:63 - Y:38 - Dir :2 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2056 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:63 - Y:27 - Dir :1 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2057 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:70 - Y:34 - Dir :1 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2058 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:74 - Y:21 - Dir :6 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2059 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:74 - Y:34 - Dir :4 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2060 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:77 - Y:52 - Dir :2 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2061 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:77 - Y:43 - Dir :4 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2062 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:84 - Y:11 - Dir :6 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2067 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:150 - Y:63 - Dir :7 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2072 - Type:2 - MonsterClass:310 - Map:34 - Dis:30 - X:177 - Y:32 - Dir :3 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2084 - Type:2 - MonsterClass:311 - Map:34 - Dis:30 - X:21 - Y:98 - Dir :0 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2092 - Type:2 - MonsterClass:311 - Map:34 - Dis:30 - X:106 - Y:72 - Dir :3 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2098 - Type:2 - MonsterClass:311 - Map:34 - Dis:30 - X:146 - Y:65 - Dir :0 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2114 - Type:2 - MonsterClass:312 - Map:34 - Dis:30 - X:23 - Y:87 - Dir :6 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2118 - Type:2 - MonsterClass:312 - Map:34 - Dis:30 - X:66 - Y:114 - Dir :0 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2120 - Type:2 - MonsterClass:312 - Map:34 - Dis:30 - X:78 - Y:115 - Dir :3 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2125 - Type:2 - MonsterClass:312 - Map:34 - Dis:30 - X:120 - Y:118 - Dir :6 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2144 - Type:2 - MonsterClass:313 - Map:34 - Dis:30 - X:72 - Y:106 - Dir :3 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2146 - Type:2 - MonsterClass:313 - Map:34 - Dis:30 - X:79 - Y:105 - Dir :3 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2150 - Type:2 - MonsterClass:313 - Map:34 - Dis:30 - X:124 - Y:129 - Dir :3 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2151 - Type:2 - MonsterClass:313 - Map:34 - Dis:30 - X:125 - Y:144 - Dir :0 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2158 - Type:2 - MonsterClass:313 - Map:34 - Dis:30 - X:205 - Y:132 - Dir :7 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2165 - Type:2 - MonsterClass:314 - Map:34 - Dis:30 - X:17 - Y:156 - Dir :1 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2166 - Type:2 - MonsterClass:314 - Map:34 - Dis:30 - X:26 - Y:157 - Dir :2 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2175 - Type:2 - MonsterClass:315 - Map:34 - Dis:30 - X:27 - Y:174 - Dir :0 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2192 - Type:2 - MonsterClass:315 - Map:34 - Dis:30 - X:159 - Y:204 - Dir :0 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2196 - Type:2 - MonsterClass:315 - Map:34 - Dis:30 - X:223 - Y:189 - Dir :0 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2197 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:50 - Y:187 - Dir :4 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2198 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:82 - Y:201 - Dir :0 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2201 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:148 - Y:183 - Dir :0 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2203 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:175 - Y:186 - Dir :1 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2205 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:231 - Y:177 - Dir :6 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2206 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:16 - Y:162 - Dir :4 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2207 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:28 - Y:162 - Dir :2 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2213 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:116 - Y:174 - Dir :7 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2215 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:143 - Y:177 - Dir :2 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2216 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:147 - Y:161 - Dir :6 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2219 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:232 - Y:169 - Dir :2 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2223 - Type:2 - MonsterClass:316 - Map:34 - Dis:30 - X:98 - Y:218 - Dir :4 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2226 - Type:2 - MonsterClass:317 - Map:34 - Dis:30 - X:115 - Y:223 - Dir :2 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2229 - Type:2 - MonsterClass:409 - Map:41 - Dis:30 - X:1 - Y:-3 - Dir :7 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2230 - Type:2 - MonsterClass:409 - Map:41 - Dis:30 - X:-3 - Y:-3 - Dir :6 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2231 - Type:2 - MonsterClass:409 - Map:41 - Dis:30 - X:3 - Y:1 - Dir :3 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2232 - Type:2 - MonsterClass:409 - Map:41 - Dis:30 - X:3 - Y:-1 - Dir :6 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2233 - Type:2 - MonsterClass:409 - Map:41 - Dis:30 - X:0 - Y:-1 - Dir :0 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2234 - Type:2 - MonsterClass:409 - Map:41 - Dis:30 - X:1 - Y:3 - Dir :5 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2235 - Type:2 - MonsterClass:409 - Map:41 - Dis:30 - X:-1 - Y:1 - Dir :6 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2236 - Type:2 - MonsterClass:409 - Map:41 - Dis:30 - X:3 - Y:1 - Dir :6 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2237 - Type:2 - MonsterClass:409 - Map:41 - Dis:30 - X:2 - Y:2 - Dir :0 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2238 - Type:2 - MonsterClass:409 - Map:41 - Dis:30 - X:2 - Y:1 - Dir :0 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2239 - Type:2 - MonsterClass:409 - Map:41 - Dis:30 - X:-1 - Y:2 - Dir :6 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2240 - Type:2 - MonsterClass:409 - Map:41 - Dis:30 - X:2 - Y:0 - Dir :1 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2241 - Type:2 - MonsterClass:409 - Map:41 - Dis:30 - X:1 - Y:2 - Dir :1 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2242 - Type:2 - MonsterClass:409 - Map:41 - Dis:30 - X:-2 - Y:-1 - Dir :5 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2243 - Type:2 - MonsterClass:409 - Map:41 - Dis:30 - X:-2 - Y:0 - Dir :7 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2244 - Type:2 - MonsterClass:410 - Map:41 - Dis:30 - X:-3 - Y:2 - Dir :6 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2245 - Type:2 - MonsterClass:410 - Map:41 - Dis:30 - X:2 - Y:-2 - Dir :1 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2246 - Type:2 - MonsterClass:410 - Map:41 - Dis:30 - X:-3 - Y:1 - Dir :7 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2247 - Type:2 - MonsterClass:410 - Map:41 - Dis:30 - X:0 - Y:3 - Dir :0 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2248 - Type:2 - MonsterClass:410 - Map:41 - Dis:30 - X:-2 - Y:-2 - Dir :1 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2249 - Type:2 - MonsterClass:410 - Map:41 - Dis:30 - X:-3 - Y:1 - Dir :2 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2250 - Type:2 - MonsterClass:410 - Map:41 - Dis:30 - X:-3 - Y:-3 - Dir :3 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2251 - Type:2 - MonsterClass:410 - Map:41 - Dis:30 - X:0 - Y:3 - Dir :3 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2252 - Type:2 - MonsterClass:410 - Map:41 - Dis:30 - X:-1 - Y:3 - Dir :5 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2253 - Type:2 - MonsterClass:410 - Map:41 - Dis:30 - X:-3 - Y:2 - Dir :4 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2254 - Type:2 - MonsterClass:410 - Map:41 - Dis:30 - X:-1 - Y:0 - Dir :2 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2255 - Type:2 - MonsterClass:410 - Map:41 - Dis:30 - X:1 - Y:-1 - Dir :0 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2256 - Type:2 - MonsterClass:410 - Map:41 - Dis:30 - X:0 - Y:0 - Dir :6 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2257 - Type:2 - MonsterClass:410 - Map:41 - Dis:30 - X:2 - Y:-2 - Dir :2 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2258 - Type:2 - MonsterClass:410 - Map:41 - Dis:30 - X:-3 - Y:-2 - Dir :5 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2259 - Type:2 - MonsterClass:411 - Map:41 - Dis:30 - X:-2 - Y:3 - Dir :6 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2260 - Type:2 - MonsterClass:411 - Map:41 - Dis:30 - X:-2 - Y:2 - Dir :6 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2261 - Type:2 - MonsterClass:411 - Map:41 - Dis:30 - X:2 - Y:-3 - Dir :7 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2262 - Type:2 - MonsterClass:411 - Map:41 - Dis:30 - X:-1 - Y:1 - Dir :1 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2263 - Type:2 - MonsterClass:411 - Map:41 - Dis:30 - X:2 - Y:2 - Dir :0 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2264 - Type:2 - MonsterClass:411 - Map:41 - Dis:30 - X:3 - Y:-2 - Dir :5 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2265 - Type:2 - MonsterClass:411 - Map:41 - Dis:30 - X:0 - Y:-3 - Dir :5 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2266 - Type:2 - MonsterClass:411 - Map:41 - Dis:30 - X:-3 - Y:-3 - Dir :2 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2267 - Type:2 - MonsterClass:411 - Map:41 - Dis:30 - X:1 - Y:-1 - Dir :5 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2268 - Type:2 - MonsterClass:411 - Map:41 - Dis:30 - X:3 - Y:1 - Dir :0 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2269 - Type:2 - MonsterClass:411 - Map:41 - Dis:30 - X:-1 - Y:1 - Dir :0 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2270 - Type:2 - MonsterClass:411 - Map:41 - Dis:30 - X:2 - Y:-3 - Dir :3 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2271 - Type:2 - MonsterClass:411 - Map:41 - Dis:30 - X:3 - Y:0 - Dir :5 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2272 - Type:2 - MonsterClass:410 - Map:42 - Dis:30 - X:3 - Y:-1 - Dir :0 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2273 - Type:2 - MonsterClass:410 - Map:42 - Dis:30 - X:-2 - Y:2 - Dir :1 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2274 - Type:2 - MonsterClass:410 - Map:42 - Dis:30 - X:2 - Y:1 - Dir :3 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2275 - Type:2 - MonsterClass:410 - Map:42 - Dis:30 - X:0 - Y:-2 - Dir :0 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2276 - Type:2 - MonsterClass:411 - Map:42 - Dis:30 - X:3 - Y:1 - Dir :0 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2277 - Type:2 - MonsterClass:411 - Map:42 - Dis:30 - X:-1 - Y:2 - Dir :1 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2278 - Type:2 - MonsterClass:411 - Map:42 - Dis:30 - X:-2 - Y:-3 - Dir :0 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2279 - Type:2 - MonsterClass:411 - Map:42 - Dis:30 - X:3 - Y:2 - Dir :4 - TX:0 - TY:0 - Element:0
+17:51:08 [gObjSetPosMonster][GetPosition] Location Error number:2280 - Type:2 - MonsterClass:412 - Map:42 - Dis:30 - X:0 - Y:-3 - Dir :4 - TX:0 - TY:0 - Element:0
+17:51:08 [Blood Castle] (1) Sync Start Time. [8] min remain
+17:51:08 [Blood Castle] (1) SetState EMPTY
+17:51:08 [Blood Castle] (2) Sync Start Time. [8] min remain
+17:51:08 [Blood Castle] (2) SetState EMPTY
+17:51:08 [Blood Castle] (3) Sync Start Time. [8] min remain
+17:51:08 [Blood Castle] (3) SetState EMPTY
+17:51:08 [Blood Castle] (4) Sync Start Time. [8] min remain
+17:51:08 [Blood Castle] (4) SetState EMPTY
+17:51:08 [Blood Castle] (5) Sync Start Time. [8] min remain
+17:51:08 [Blood Castle] (5) SetState EMPTY
+17:51:08 [Blood Castle] (6) Sync Start Time. [8] min remain
+17:51:08 [Blood Castle] (6) SetState EMPTY
+17:51:08 [Blood Castle] (7) Sync Start Time. [8] min remain
+17:51:08 [Blood Castle] (7) SetState EMPTY
+17:51:08 [Blood Castle] (8) Sync Start Time. [8] min remain
+17:51:08 [Blood Castle] (8) SetState EMPTY
+17:51:08 [Castle Deep] Sync Start Time. [128] min remain
+17:51:08 [Castle Deep] SetState EMPTY
+17:51:08 [Chaos Castle] (1) Sync Start Time. [68] min remain
+17:51:08 [Chaos Castle] (1) SetState EMPTY
+17:51:08 [Chaos Castle] (2) Sync Start Time. [68] min remain
+17:51:08 [Chaos Castle] (2) SetState EMPTY
+17:51:08 [Chaos Castle] (3) Sync Start Time. [68] min remain
+17:51:08 [Chaos Castle] (3) SetState EMPTY
+17:51:08 [Chaos Castle] (4) Sync Start Time. [68] min remain
+17:51:08 [Chaos Castle] (4) SetState EMPTY
+17:51:08 [Chaos Castle] (5) Sync Start Time. [68] min remain
+17:51:08 [Chaos Castle] (5) SetState EMPTY
+17:51:08 [Chaos Castle] (6) Sync Start Time. [68] min remain
+17:51:08 [Chaos Castle] (6) SetState EMPTY
+17:51:08 [Chaos Castle] (7) Sync Start Time. [68] min remain
+17:51:08 [Chaos Castle] (7) SetState EMPTY
+17:51:08 [Chaos Castle Survival] SetState BLANK
+17:51:08 [Devil Square] (1) Sync Start Time. [158] min remain
+17:51:08 [Devil Square] (1) SetState EMPTY
+17:51:08 [Devil Square] (2) Sync Start Time. [158] min remain
+17:51:08 [Devil Square] (2) SetState EMPTY
+17:51:08 [Devil Square] (3) Sync Start Time. [158] min remain
+17:51:08 [Devil Square] (3) SetState EMPTY
+17:51:08 [Devil Square] (4) Sync Start Time. [158] min remain
+17:51:08 [Devil Square] (4) SetState EMPTY
+17:51:08 [Devil Square] (5) Sync Start Time. [158] min remain
+17:51:08 [Devil Square] (5) SetState EMPTY
+17:51:08 [Devil Square] (6) Sync Start Time. [158] min remain
+17:51:08 [Devil Square] (6) SetState EMPTY
+17:51:08 [Devil Square] (7) Sync Start Time. [158] min remain
+17:51:08 [Devil Square] (7) SetState EMPTY
+17:51:08 [AcheronGuardian] Sync Start Time. [314] min remain
+17:51:08 [ RAKLION ] State(0) -> END
+17:51:08 [ RAKLION ] [ BossEggDelete ] : BossEgg(0 ea)
+17:51:08 [ RAKLION ] [ DeleteSummonMonster ] Delete All SummonMonster
+17:51:08 [ RAKLION ] [ BossEggRegen ] : BossEgg(0 ea)
+17:51:08 [Bot Hide][0] (BotHide) Sync Start Time. [978] min remain
+17:51:08 [Bot Hide][0] (BotHide) SetState EMPTY
+17:51:08 [DSN][DSNEventInit] Event initialization
+17:51:08 [Boss Battle Event] SetState BLANK
+17:51:08 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:0][MissionInx0:2]
+17:51:08 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:0][MissionInx1:4]
+17:51:08 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:1][MissionInx0:3]
+17:51:08 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:1][MissionInx1:4]
+17:51:08 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:2][MissionInx0:3]
+17:51:08 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:2][MissionInx1:1]
+17:51:08 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:2][MissionInx2:2]
+17:51:08 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:3][MissionInx0:2]
+17:51:08 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:3][MissionInx1:1]
+17:51:08 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:3][MissionInx2:4]
+17:51:08 [DGMonsterSoulConverterWeeklyMissionInfoRecv] MissionInfo [Level:4][MissionInx0:4]
+17:51:08 [DGMonsterSoulConverterWeeklyMissionInfoRecv][Expire Mission Info] 2023-03-30 AM10:30
+17:51:08 [DGImperialGuardianRenewalWeeklyInfoRecv][UpdateType:3] MainAttribute:4
+17:51:09 [CastleSiege] CCastleSiege::DataRequest() - REQUEST DATA FIRST
+17:51:09 [ Crywolf ][ ApplyDBInfo] OccupationState : 0
+17:51:09 [CastleSiege] CCastleSiege::LoadData() - Siege Schedule Start Date (2022-10-3)
+17:51:09 [CastleSiege] CCastleSiege::LoadData() - Siege Schedule Date (7-0-0)
+17:51:09 [CastleSiege] CCastleSiege::LoadData() - Siege Schedule End Date (2022-10-10(0:0:0))
+17:51:09 [CastleSiege] CCastleSiege::Init() - START
+17:51:09 [CastleSiege] CASTLE SIEGE DATA SETTING FAILED [0x81] - m_iCastleDataLoadState != CASTLESIEGE_DATALOAD_2 (0)
+17:51:09 [ArcaBattle] ArcaBattle Proc State [0]
+17:51:10 [ CRYWOLF ] SYNC Occupation: 0, State: 0
+18:38:02 [Connection] connect() failed with error: 10060
+18:43:10 [Connection] connect() failed with error: 10060

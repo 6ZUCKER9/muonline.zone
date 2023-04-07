@@ -1,0 +1,2 @@
+22:20:56 [Offattack LOG][Disconnect condition] Name:Lasuczi | type:2
+22:20:56 [Offattack LOG][Disconnect Character] Name:Lasuczi | type:3

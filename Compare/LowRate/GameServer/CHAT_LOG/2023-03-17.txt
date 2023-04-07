@@ -1,0 +1,11 @@
+22:14:08 [General][admin1][DarkWizard] - (Message: /clear)
+22:14:11 [General][admin1][DarkWizard] - (Message: /clearinv)
+22:14:21 [General][admin1][DarkWizard] - (Message: /clearinv)
+22:58:47 [General][admin1][ZUCKER] - (Message: /addstr 20000)
+22:59:32 [General][admin1][ZUCKER] - (Message: T2/make 7 45 15 0 1 7 63)
+22:59:36 [General][admin1][ZUCKER] - (Message: /make 5 35 15 0 1 7 63)
+23:01:45 [General][admin1][ZUCKER] - (Message: /make 87 0 0 0 0 0 0)
+23:02:22 [General][admin1][ZUCKER] - (Message: /make 12 87 0 0 0 0 0)
+23:02:36 [General][admin1][ZUCKER] - (Message: /make 12 88 0 0 0 0 0)
+23:02:40 [General][admin1][ZUCKER] - (Message: /make 12 89 0 0 0 0 0)
+23:02:44 [General][admin1][ZUCKER] - (Message: /make 12 86 0 0 0 0 0)

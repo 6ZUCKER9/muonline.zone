@@ -1,0 +1,9 @@
+17:20:57 [General][admin1][DarkWizard] - (Message: ZEDIX NOOB)
+22:08:59 [General][admin1][ZUCKER] - (Message: /make 32)
+22:09:10 [General][admin1][ZUCKER] - (Message: /male 32 0 0 0 0 0 0)
+22:09:16 [General][admin1][ZUCKER] - (Message: /make 3212)
+22:09:53 [General][admin1][ZUCKER] - (Message: T2/make 7 45 15 0 1 7 63)
+22:10:01 [General][admin1][ZUCKER] - (Message: /make 7 45 15 0 1 7 63)
+22:10:23 [General][admin1][ZUCKER] - (Message: /make 4 32 15 0 1 7 63)
+22:12:54 [General][admin1][ZUCKER] - (Message: /move noria)
+22:49:34 [General][admin1][ZUCKER] - (Message: /make 5 35 15 0 1 7 63)

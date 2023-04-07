@@ -1,0 +1,639 @@
+10:18:12 [AllowConectionManager][ADD][+][HWID:21A5B34D-D6C5F5DA-C569E07D-BE1EEAA4-49656E69-00000016-BFEBFBFF-7FFAFBBF][ConectionCount:1][Account:grun]
+10:22:25 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:21A5B34D-D6C5F5DA-C569E07D-BE1EEAA4-49656E69-00000016-BFEBFBFF-7FFAFBBF][ConectionCount:0][Account:grun]
+12:00:04 [SocketManager] Server started at port [55970]
+12:00:04 [SocketManager] Server started at port [55557]
+12:00:08 [ServerManager][0] AddServer (127.0.0.1)
+12:00:08 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+12:00:12 [ServerManager][1] AddServer (127.0.0.1)
+12:00:12 [ServerManager][1] ServerInfo (MuDevs) (55901) (20)
+12:00:15 [ServerManager][2] AddServer (127.0.0.1)
+12:02:10 [ServerManager][0] DelServer (127.0.0.1)
+12:02:24 [SocketManager] Server started at port [55970]
+12:02:24 [SocketManager] Server started at port [55557]
+12:02:24 [ServerManager][0] AddServer (127.0.0.1)
+12:02:24 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+12:02:35 [ServerManager][1] AddServer (127.0.0.1)
+12:02:35 [ServerManager][1] ServerInfo (MuDevs) (55901) (20)
+12:02:37 [ServerManager][2] AddServer (127.0.0.1)
+12:06:20 [AllowConectionManager][ADD][+][HWID:55D3B74A-9689C29F-F428D523-8826B7EE-49656E69-00000016-BFEBFBFF-7FFAFBFF][ConectionCount:1][Account:admin]
+12:08:30 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:55D3B74A-9689C29F-F428D523-8826B7EE-49656E69-00000016-BFEBFBFF-7FFAFBFF][ConectionCount:0][Account:admin]
+12:09:19 [AllowConectionManager][ADD][+][HWID:55D3B74A-9689C29F-F428D523-8826B7EE-49656E69-00000016-BFEBFBFF-7FFAFBFF][ConectionCount:1][Account:admin]
+12:10:20 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:55D3B74A-9689C29F-F428D523-8826B7EE-49656E69-00000016-BFEBFBFF-7FFAFBFF][ConectionCount:0][Account:admin]
+12:10:41 [AllowConectionManager][ADD][+][HWID:55D3B74A-9689C29F-F428D523-8826B7EE-49656E69-00000016-BFEBFBFF-7FFAFBFF][ConectionCount:1][Account:admin]
+12:12:01 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:55D3B74A-9689C29F-F428D523-8826B7EE-49656E69-00000016-BFEBFBFF-7FFAFBFF][ConectionCount:0][Account:admin]
+12:12:12 [AllowConectionManager][ADD][+][HWID:55D3B74A-9689C29F-F428D523-8826B7EE-49656E69-00000016-BFEBFBFF-7FFAFBFF][ConectionCount:1][Account:admin]
+12:52:49 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:55D3B74A-9689C29F-F428D523-8826B7EE-49656E69-00000016-BFEBFBFF-7FFAFBFF][ConectionCount:0][Account:admin]
+12:54:43 [AllowConectionManager][ADD][+][HWID:55D3B74A-9689C29F-F428D523-8826B7EE-49656E69-00000016-BFEBFBFF-7FFAFBFF][ConectionCount:1][Account:admin]
+12:55:24 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:55D3B74A-9689C29F-F428D523-8826B7EE-49656E69-00000016-BFEBFBFF-7FFAFBFF][ConectionCount:0][Account:admin]
+12:55:40 [AllowConectionManager][ADD][+][HWID:55D3B74A-9689C29F-F428D523-8826B7EE-49656E69-00000016-BFEBFBFF-7FFAFBFF][ConectionCount:1][Account:admin]
+13:23:53 [AllowConectionManager][ADD][+][HWID:21A5B34D-D6C5F5DA-C569E07D-BE1EEAA4-49656E69-00000016-BFEBFBFF-7FFAFBBF][ConectionCount:1][Account:grun]
+13:50:48 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:21A5B34D-D6C5F5DA-C569E07D-BE1EEAA4-49656E69-00000016-BFEBFBFF-7FFAFBBF][ConectionCount:0][Account:grun]
+14:31:36 EXEC WZ_GetAccountLevel 'admin'
+14:31:36 [QueryManager] State (01000), Diagnostic: [Microsoft][ODBC SQL Server Driver][Shared Memory]ConnectionWrite (send()).
+14:31:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver][Shared Memory]General network error. Check your network documentation.
+14:32:36 EXEC WZ_GetAccountLevel 'admin'
+14:32:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+14:33:36 EXEC WZ_GetAccountLevel 'admin'
+14:33:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+14:34:36 EXEC WZ_GetAccountLevel 'admin'
+14:34:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+14:35:36 EXEC WZ_GetAccountLevel 'admin'
+14:35:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+14:36:36 EXEC WZ_GetAccountLevel 'admin'
+14:36:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+14:37:36 EXEC WZ_GetAccountLevel 'admin'
+14:37:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+14:38:36 EXEC WZ_GetAccountLevel 'admin'
+14:38:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+14:39:36 EXEC WZ_GetAccountLevel 'admin'
+14:39:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+14:40:36 EXEC WZ_GetAccountLevel 'admin'
+14:40:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+14:41:36 EXEC WZ_GetAccountLevel 'admin'
+14:41:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+14:42:36 EXEC WZ_GetAccountLevel 'admin'
+14:42:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+14:43:36 EXEC WZ_GetAccountLevel 'admin'
+14:43:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+14:44:36 EXEC WZ_GetAccountLevel 'admin'
+14:44:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+14:45:36 EXEC WZ_GetAccountLevel 'admin'
+14:45:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+14:46:36 EXEC WZ_GetAccountLevel 'admin'
+14:46:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+14:47:36 EXEC WZ_GetAccountLevel 'admin'
+14:47:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+14:48:36 EXEC WZ_GetAccountLevel 'admin'
+14:48:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+14:49:36 EXEC WZ_GetAccountLevel 'admin'
+14:49:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+14:50:36 EXEC WZ_GetAccountLevel 'admin'
+14:50:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+14:51:36 EXEC WZ_GetAccountLevel 'admin'
+14:51:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+14:52:36 EXEC WZ_GetAccountLevel 'admin'
+14:52:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+14:53:36 EXEC WZ_GetAccountLevel 'admin'
+14:53:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+14:54:36 EXEC WZ_GetAccountLevel 'admin'
+14:54:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+14:55:36 EXEC WZ_GetAccountLevel 'admin'
+14:55:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+14:56:36 EXEC WZ_GetAccountLevel 'admin'
+14:56:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+14:57:36 EXEC WZ_GetAccountLevel 'admin'
+14:57:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+14:58:36 EXEC WZ_GetAccountLevel 'admin'
+14:58:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+14:59:36 EXEC WZ_GetAccountLevel 'admin'
+14:59:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:00:36 EXEC WZ_GetAccountLevel 'admin'
+15:00:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:01:36 EXEC WZ_GetAccountLevel 'admin'
+15:01:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:02:36 EXEC WZ_GetAccountLevel 'admin'
+15:02:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:03:36 EXEC WZ_GetAccountLevel 'admin'
+15:03:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:04:36 EXEC WZ_GetAccountLevel 'admin'
+15:04:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:05:36 EXEC WZ_GetAccountLevel 'admin'
+15:05:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:06:36 EXEC WZ_GetAccountLevel 'admin'
+15:06:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:07:36 EXEC WZ_GetAccountLevel 'admin'
+15:07:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:08:36 EXEC WZ_GetAccountLevel 'admin'
+15:08:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:09:36 EXEC WZ_GetAccountLevel 'admin'
+15:09:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:10:36 EXEC WZ_GetAccountLevel 'admin'
+15:10:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:11:36 EXEC WZ_GetAccountLevel 'admin'
+15:11:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:12:36 EXEC WZ_GetAccountLevel 'admin'
+15:12:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:13:36 EXEC WZ_GetAccountLevel 'admin'
+15:13:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:14:36 EXEC WZ_GetAccountLevel 'admin'
+15:14:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:15:36 EXEC WZ_GetAccountLevel 'admin'
+15:15:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:16:36 EXEC WZ_GetAccountLevel 'admin'
+15:16:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:17:36 EXEC WZ_GetAccountLevel 'admin'
+15:17:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:18:36 EXEC WZ_GetAccountLevel 'admin'
+15:18:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:19:36 EXEC WZ_GetAccountLevel 'admin'
+15:19:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:20:36 EXEC WZ_GetAccountLevel 'admin'
+15:20:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:21:36 EXEC WZ_GetAccountLevel 'admin'
+15:21:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:22:36 EXEC WZ_GetAccountLevel 'admin'
+15:22:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:23:36 EXEC WZ_GetAccountLevel 'admin'
+15:23:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:24:36 EXEC WZ_GetAccountLevel 'admin'
+15:24:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:25:36 EXEC WZ_GetAccountLevel 'admin'
+15:25:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:26:36 EXEC WZ_GetAccountLevel 'admin'
+15:26:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:27:36 EXEC WZ_GetAccountLevel 'admin'
+15:27:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:28:36 EXEC WZ_GetAccountLevel 'admin'
+15:28:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:29:36 EXEC WZ_GetAccountLevel 'admin'
+15:29:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:30:36 EXEC WZ_GetAccountLevel 'admin'
+15:30:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:31:36 EXEC WZ_GetAccountLevel 'admin'
+15:31:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:32:36 EXEC WZ_GetAccountLevel 'admin'
+15:32:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:33:36 EXEC WZ_GetAccountLevel 'admin'
+15:33:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:34:36 EXEC WZ_GetAccountLevel 'admin'
+15:34:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:35:36 EXEC WZ_GetAccountLevel 'admin'
+15:35:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:36:36 EXEC WZ_GetAccountLevel 'admin'
+15:36:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:37:36 EXEC WZ_GetAccountLevel 'admin'
+15:37:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:38:15 SELECT * FROM BanMacInfo WHERE HardwareId=?
+15:38:15 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:38:15 SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='grun'
+15:38:15 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:38:20 SELECT * FROM BanMacInfo WHERE HardwareId=?
+15:38:20 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:38:20 SELECT memb__pwd FROM MEMB_INFO WHERE memb___id='grun'
+15:38:20 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:38:36 EXEC WZ_GetAccountLevel 'admin'
+15:38:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:39:36 EXEC WZ_GetAccountLevel 'admin'
+15:39:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:40:36 EXEC WZ_GetAccountLevel 'admin'
+15:40:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:41:36 EXEC WZ_GetAccountLevel 'admin'
+15:41:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:42:36 EXEC WZ_GetAccountLevel 'admin'
+15:42:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:43:36 EXEC WZ_GetAccountLevel 'admin'
+15:43:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:44:36 EXEC WZ_GetAccountLevel 'admin'
+15:44:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:45:36 EXEC WZ_GetAccountLevel 'admin'
+15:45:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:46:36 EXEC WZ_GetAccountLevel 'admin'
+15:46:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:47:36 EXEC WZ_GetAccountLevel 'admin'
+15:47:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:48:36 EXEC WZ_GetAccountLevel 'admin'
+15:48:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:49:36 EXEC WZ_GetAccountLevel 'admin'
+15:49:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:50:36 EXEC WZ_GetAccountLevel 'admin'
+15:50:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:51:36 EXEC WZ_GetAccountLevel 'admin'
+15:51:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:52:36 EXEC WZ_GetAccountLevel 'admin'
+15:52:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:53:36 EXEC WZ_GetAccountLevel 'admin'
+15:53:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:54:36 EXEC WZ_GetAccountLevel 'admin'
+15:54:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:55:36 EXEC WZ_GetAccountLevel 'admin'
+15:55:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:56:36 EXEC WZ_GetAccountLevel 'admin'
+15:56:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:57:36 EXEC WZ_GetAccountLevel 'admin'
+15:57:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:58:36 EXEC WZ_GetAccountLevel 'admin'
+15:58:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+15:59:36 EXEC WZ_GetAccountLevel 'admin'
+15:59:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:00:36 EXEC WZ_GetAccountLevel 'admin'
+16:00:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:01:36 EXEC WZ_GetAccountLevel 'admin'
+16:01:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:02:36 EXEC WZ_GetAccountLevel 'admin'
+16:02:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:03:36 EXEC WZ_GetAccountLevel 'admin'
+16:03:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:04:36 EXEC WZ_GetAccountLevel 'admin'
+16:04:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:05:36 EXEC WZ_GetAccountLevel 'admin'
+16:05:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:06:36 EXEC WZ_GetAccountLevel 'admin'
+16:06:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:07:36 EXEC WZ_GetAccountLevel 'admin'
+16:07:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:08:36 EXEC WZ_GetAccountLevel 'admin'
+16:08:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:09:36 EXEC WZ_GetAccountLevel 'admin'
+16:09:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:10:36 EXEC WZ_GetAccountLevel 'admin'
+16:10:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:11:36 EXEC WZ_GetAccountLevel 'admin'
+16:11:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:12:36 EXEC WZ_GetAccountLevel 'admin'
+16:12:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:13:36 EXEC WZ_GetAccountLevel 'admin'
+16:13:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:14:36 EXEC WZ_GetAccountLevel 'admin'
+16:14:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:15:36 EXEC WZ_GetAccountLevel 'admin'
+16:15:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:16:36 EXEC WZ_GetAccountLevel 'admin'
+16:16:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:17:36 EXEC WZ_GetAccountLevel 'admin'
+16:17:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:18:36 EXEC WZ_GetAccountLevel 'admin'
+16:18:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:19:36 EXEC WZ_GetAccountLevel 'admin'
+16:19:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:20:36 EXEC WZ_GetAccountLevel 'admin'
+16:20:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:21:36 EXEC WZ_GetAccountLevel 'admin'
+16:21:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:22:36 EXEC WZ_GetAccountLevel 'admin'
+16:22:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:23:36 EXEC WZ_GetAccountLevel 'admin'
+16:23:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:24:36 EXEC WZ_GetAccountLevel 'admin'
+16:24:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:25:36 EXEC WZ_GetAccountLevel 'admin'
+16:25:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:26:36 EXEC WZ_GetAccountLevel 'admin'
+16:26:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:27:36 EXEC WZ_GetAccountLevel 'admin'
+16:27:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:28:36 EXEC WZ_GetAccountLevel 'admin'
+16:28:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:29:36 EXEC WZ_GetAccountLevel 'admin'
+16:29:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:30:36 EXEC WZ_GetAccountLevel 'admin'
+16:30:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:31:36 EXEC WZ_GetAccountLevel 'admin'
+16:31:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:32:36 EXEC WZ_GetAccountLevel 'admin'
+16:32:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:33:36 EXEC WZ_GetAccountLevel 'admin'
+16:33:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:34:36 EXEC WZ_GetAccountLevel 'admin'
+16:34:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:35:36 EXEC WZ_GetAccountLevel 'admin'
+16:35:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:36:36 EXEC WZ_GetAccountLevel 'admin'
+16:36:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:37:36 EXEC WZ_GetAccountLevel 'admin'
+16:37:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:38:36 EXEC WZ_GetAccountLevel 'admin'
+16:38:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:39:36 EXEC WZ_GetAccountLevel 'admin'
+16:39:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:40:36 EXEC WZ_GetAccountLevel 'admin'
+16:40:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:41:36 EXEC WZ_GetAccountLevel 'admin'
+16:41:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:42:36 EXEC WZ_GetAccountLevel 'admin'
+16:42:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:43:36 EXEC WZ_GetAccountLevel 'admin'
+16:43:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:44:36 EXEC WZ_GetAccountLevel 'admin'
+16:44:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:45:36 EXEC WZ_GetAccountLevel 'admin'
+16:45:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:46:36 EXEC WZ_GetAccountLevel 'admin'
+16:46:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:47:36 EXEC WZ_GetAccountLevel 'admin'
+16:47:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:48:36 EXEC WZ_GetAccountLevel 'admin'
+16:48:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:49:36 EXEC WZ_GetAccountLevel 'admin'
+16:49:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:50:36 EXEC WZ_GetAccountLevel 'admin'
+16:50:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:51:36 EXEC WZ_GetAccountLevel 'admin'
+16:51:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:52:36 EXEC WZ_GetAccountLevel 'admin'
+16:52:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:53:36 EXEC WZ_GetAccountLevel 'admin'
+16:53:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:54:36 EXEC WZ_GetAccountLevel 'admin'
+16:54:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:55:36 EXEC WZ_GetAccountLevel 'admin'
+16:55:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:56:36 EXEC WZ_GetAccountLevel 'admin'
+16:56:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:57:36 EXEC WZ_GetAccountLevel 'admin'
+16:57:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:58:36 EXEC WZ_GetAccountLevel 'admin'
+16:58:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+16:59:36 EXEC WZ_GetAccountLevel 'admin'
+16:59:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:00:36 EXEC WZ_GetAccountLevel 'admin'
+17:00:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:01:36 EXEC WZ_GetAccountLevel 'admin'
+17:01:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:02:36 EXEC WZ_GetAccountLevel 'admin'
+17:02:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:03:36 EXEC WZ_GetAccountLevel 'admin'
+17:03:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:04:36 EXEC WZ_GetAccountLevel 'admin'
+17:04:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:05:36 EXEC WZ_GetAccountLevel 'admin'
+17:05:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:06:36 EXEC WZ_GetAccountLevel 'admin'
+17:06:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:07:36 EXEC WZ_GetAccountLevel 'admin'
+17:07:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:08:36 EXEC WZ_GetAccountLevel 'admin'
+17:08:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:09:36 EXEC WZ_GetAccountLevel 'admin'
+17:09:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:10:36 EXEC WZ_GetAccountLevel 'admin'
+17:10:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:11:36 EXEC WZ_GetAccountLevel 'admin'
+17:11:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:12:36 EXEC WZ_GetAccountLevel 'admin'
+17:12:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:13:36 EXEC WZ_GetAccountLevel 'admin'
+17:13:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:14:36 EXEC WZ_GetAccountLevel 'admin'
+17:14:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:15:36 EXEC WZ_GetAccountLevel 'admin'
+17:15:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:16:36 EXEC WZ_GetAccountLevel 'admin'
+17:16:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:17:36 EXEC WZ_GetAccountLevel 'admin'
+17:17:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:18:36 EXEC WZ_GetAccountLevel 'admin'
+17:18:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:19:36 EXEC WZ_GetAccountLevel 'admin'
+17:19:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:20:36 EXEC WZ_GetAccountLevel 'admin'
+17:20:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:21:36 EXEC WZ_GetAccountLevel 'admin'
+17:21:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:22:36 EXEC WZ_GetAccountLevel 'admin'
+17:22:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:23:36 EXEC WZ_GetAccountLevel 'admin'
+17:23:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:24:36 EXEC WZ_GetAccountLevel 'admin'
+17:24:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:25:36 EXEC WZ_GetAccountLevel 'admin'
+17:25:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:26:36 EXEC WZ_GetAccountLevel 'admin'
+17:26:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:27:36 EXEC WZ_GetAccountLevel 'admin'
+17:27:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:28:36 EXEC WZ_GetAccountLevel 'admin'
+17:28:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:29:36 EXEC WZ_GetAccountLevel 'admin'
+17:29:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:30:36 EXEC WZ_GetAccountLevel 'admin'
+17:30:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:31:36 EXEC WZ_GetAccountLevel 'admin'
+17:31:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:32:36 EXEC WZ_GetAccountLevel 'admin'
+17:32:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:33:36 EXEC WZ_GetAccountLevel 'admin'
+17:33:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:34:36 EXEC WZ_GetAccountLevel 'admin'
+17:34:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:35:36 EXEC WZ_GetAccountLevel 'admin'
+17:35:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:36:36 EXEC WZ_GetAccountLevel 'admin'
+17:36:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:37:36 EXEC WZ_GetAccountLevel 'admin'
+17:37:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:38:36 EXEC WZ_GetAccountLevel 'admin'
+17:38:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:39:36 EXEC WZ_GetAccountLevel 'admin'
+17:39:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:40:36 EXEC WZ_GetAccountLevel 'admin'
+17:40:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:41:36 EXEC WZ_GetAccountLevel 'admin'
+17:41:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:42:36 EXEC WZ_GetAccountLevel 'admin'
+17:42:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:43:36 EXEC WZ_GetAccountLevel 'admin'
+17:43:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:44:36 EXEC WZ_GetAccountLevel 'admin'
+17:44:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:45:36 EXEC WZ_GetAccountLevel 'admin'
+17:45:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:46:36 EXEC WZ_GetAccountLevel 'admin'
+17:46:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:47:36 EXEC WZ_GetAccountLevel 'admin'
+17:47:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:48:36 EXEC WZ_GetAccountLevel 'admin'
+17:48:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:49:36 EXEC WZ_GetAccountLevel 'admin'
+17:49:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:50:36 EXEC WZ_GetAccountLevel 'admin'
+17:50:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:51:36 EXEC WZ_GetAccountLevel 'admin'
+17:51:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:52:36 EXEC WZ_GetAccountLevel 'admin'
+17:52:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:53:36 EXEC WZ_GetAccountLevel 'admin'
+17:53:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:54:36 EXEC WZ_GetAccountLevel 'admin'
+17:54:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:55:36 EXEC WZ_GetAccountLevel 'admin'
+17:55:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:56:36 EXEC WZ_GetAccountLevel 'admin'
+17:56:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:57:36 EXEC WZ_GetAccountLevel 'admin'
+17:57:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:58:36 EXEC WZ_GetAccountLevel 'admin'
+17:58:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+17:59:36 EXEC WZ_GetAccountLevel 'admin'
+17:59:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:00:36 EXEC WZ_GetAccountLevel 'admin'
+18:00:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:01:36 EXEC WZ_GetAccountLevel 'admin'
+18:01:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:02:36 EXEC WZ_GetAccountLevel 'admin'
+18:02:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:03:36 EXEC WZ_GetAccountLevel 'admin'
+18:03:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:04:36 EXEC WZ_GetAccountLevel 'admin'
+18:04:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:05:36 EXEC WZ_GetAccountLevel 'admin'
+18:05:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:06:36 EXEC WZ_GetAccountLevel 'admin'
+18:06:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:07:36 EXEC WZ_GetAccountLevel 'admin'
+18:07:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:08:36 EXEC WZ_GetAccountLevel 'admin'
+18:08:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:09:36 EXEC WZ_GetAccountLevel 'admin'
+18:09:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:10:36 EXEC WZ_GetAccountLevel 'admin'
+18:10:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:11:36 EXEC WZ_GetAccountLevel 'admin'
+18:11:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:12:36 EXEC WZ_GetAccountLevel 'admin'
+18:12:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:13:36 EXEC WZ_GetAccountLevel 'admin'
+18:13:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:14:36 EXEC WZ_GetAccountLevel 'admin'
+18:14:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:15:36 EXEC WZ_GetAccountLevel 'admin'
+18:15:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:16:36 EXEC WZ_GetAccountLevel 'admin'
+18:16:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:17:36 EXEC WZ_GetAccountLevel 'admin'
+18:17:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:18:36 EXEC WZ_GetAccountLevel 'admin'
+18:18:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:19:36 EXEC WZ_GetAccountLevel 'admin'
+18:19:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:20:36 EXEC WZ_GetAccountLevel 'admin'
+18:20:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:21:36 EXEC WZ_GetAccountLevel 'admin'
+18:21:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:22:36 EXEC WZ_GetAccountLevel 'admin'
+18:22:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:23:36 EXEC WZ_GetAccountLevel 'admin'
+18:23:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:24:36 EXEC WZ_GetAccountLevel 'admin'
+18:24:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:25:36 EXEC WZ_GetAccountLevel 'admin'
+18:25:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:26:36 EXEC WZ_GetAccountLevel 'admin'
+18:26:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:27:36 EXEC WZ_GetAccountLevel 'admin'
+18:27:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:28:36 EXEC WZ_GetAccountLevel 'admin'
+18:28:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:29:36 EXEC WZ_GetAccountLevel 'admin'
+18:29:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:30:36 EXEC WZ_GetAccountLevel 'admin'
+18:30:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:31:36 EXEC WZ_GetAccountLevel 'admin'
+18:31:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:32:36 EXEC WZ_GetAccountLevel 'admin'
+18:32:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:33:36 EXEC WZ_GetAccountLevel 'admin'
+18:33:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:34:36 EXEC WZ_GetAccountLevel 'admin'
+18:34:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:35:36 EXEC WZ_GetAccountLevel 'admin'
+18:35:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:36:36 EXEC WZ_GetAccountLevel 'admin'
+18:36:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:37:36 EXEC WZ_GetAccountLevel 'admin'
+18:37:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:38:36 EXEC WZ_GetAccountLevel 'admin'
+18:38:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:39:36 EXEC WZ_GetAccountLevel 'admin'
+18:39:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:40:36 EXEC WZ_GetAccountLevel 'admin'
+18:40:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:41:36 EXEC WZ_GetAccountLevel 'admin'
+18:41:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:42:36 EXEC WZ_GetAccountLevel 'admin'
+18:42:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:43:36 EXEC WZ_GetAccountLevel 'admin'
+18:43:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:44:36 EXEC WZ_GetAccountLevel 'admin'
+18:44:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:45:36 EXEC WZ_GetAccountLevel 'admin'
+18:45:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:46:36 EXEC WZ_GetAccountLevel 'admin'
+18:46:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:47:36 EXEC WZ_GetAccountLevel 'admin'
+18:47:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:48:36 EXEC WZ_GetAccountLevel 'admin'
+18:48:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:49:36 EXEC WZ_GetAccountLevel 'admin'
+18:49:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:50:36 EXEC WZ_GetAccountLevel 'admin'
+18:50:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:51:36 EXEC WZ_GetAccountLevel 'admin'
+18:51:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:52:36 EXEC WZ_GetAccountLevel 'admin'
+18:52:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:53:36 EXEC WZ_GetAccountLevel 'admin'
+18:53:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:54:36 EXEC WZ_GetAccountLevel 'admin'
+18:54:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:55:36 EXEC WZ_GetAccountLevel 'admin'
+18:55:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:56:36 EXEC WZ_GetAccountLevel 'admin'
+18:56:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:57:36 EXEC WZ_GetAccountLevel 'admin'
+18:57:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:58:36 EXEC WZ_GetAccountLevel 'admin'
+18:58:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+18:59:36 EXEC WZ_GetAccountLevel 'admin'
+18:59:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+19:00:36 EXEC WZ_GetAccountLevel 'admin'
+19:00:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+19:01:36 EXEC WZ_GetAccountLevel 'admin'
+19:01:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+19:02:36 EXEC WZ_GetAccountLevel 'admin'
+19:02:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+19:03:36 EXEC WZ_GetAccountLevel 'admin'
+19:03:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+19:04:36 EXEC WZ_GetAccountLevel 'admin'
+19:04:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+19:05:36 EXEC WZ_GetAccountLevel 'admin'
+19:05:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+19:06:36 EXEC WZ_GetAccountLevel 'admin'
+19:06:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+19:07:36 EXEC WZ_GetAccountLevel 'admin'
+19:07:36 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+19:08:34 EXEC WZ_DISCONNECT_MEMB 'admin'
+19:08:34 [QueryManager] State (08S01), Diagnostic: [Microsoft][ODBC SQL Server Driver]Communication link failure
+19:08:34 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:55D3B74A-9689C29F-F428D523-8826B7EE-49656E69-00000016-BFEBFBFF-7FFAFBFF][ConectionCount:0][Account:admin]
+19:37:08 [ServerManager][0] DelServer (127.0.0.1)
+19:37:27 [SocketManager] Server started at port [55970]
+19:37:27 [SocketManager] Server started at port [55557]
+19:37:33 [ServerManager][0] AddServer (127.0.0.1)
+19:37:33 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+19:37:37 [ServerManager][1] AddServer (127.0.0.1)
+19:37:37 [ServerManager][1] ServerInfo (MuDevs) (55901) (20)
+19:37:40 [ServerManager][2] AddServer (127.0.0.1)
+19:39:09 [AllowConectionManager][ADD][+][HWID:55D3B74A-9689C29F-F428D523-8826B7EE-49656E69-00000016-BFEBFBFF-7FFAFBFF][ConectionCount:1][Account:admin]
+20:08:11 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:55D3B74A-9689C29F-F428D523-8826B7EE-49656E69-00000016-BFEBFBFF-7FFAFBFF][ConectionCount:0][Account:admin]
+20:08:28 [ServerManager][0] DelServer (127.0.0.1)
+20:08:52 [SocketManager] Server started at port [55970]
+20:08:52 [SocketManager] Server started at port [55557]
+20:08:52 [ServerManager][0] AddServer (127.0.0.1)
+20:08:52 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+20:09:03 [ServerManager][1] AddServer (127.0.0.1)
+20:09:03 [ServerManager][1] ServerInfo (MuDevs) (55901) (20)
+20:09:07 [ServerManager][2] AddServer (127.0.0.1)
+20:15:49 [SocketManager] Server started at port [55970]
+20:15:49 [SocketManager] Server started at port [55557]
+20:15:54 [ServerManager][0] AddServer (127.0.0.1)
+20:15:54 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+20:16:00 [ServerManager][1] AddServer (127.0.0.1)
+20:16:18 [ServerManager][0] DelServer (127.0.0.1)
+20:16:20 [ServerManager][1] DelServer (127.0.0.1)
+20:16:34 [SocketManager] Server started at port [55970]
+20:16:34 [SocketManager] Server started at port [55557]
+20:17:18 [SocketManager] Server started at port [55970]
+20:17:18 [SocketManager] Server started at port [55557]
+20:17:20 [ServerManager][0] AddServer (127.0.0.1)
+20:17:20 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+20:17:28 [ServerManager][1] AddServer (127.0.0.1)
+20:17:49 [ServerManager][1] DelServer (127.0.0.1)
+20:17:51 [ServerManager][0] DelServer (127.0.0.1)
+20:50:05 [SocketManager] Server started at port [55970]
+20:50:05 [SocketManager] Server started at port [55557]
+20:50:07 [ServerManager][0] AddServer (127.0.0.1)
+20:50:07 [ServerManager][0] ServerInfo (ChatServer) (55906) (65533)
+20:50:13 [ServerManager][1] AddServer (127.0.0.1)
+20:50:13 [ServerManager][1] ServerInfo (MuDevs) (55901) (20)
+20:50:16 [ServerManager][2] AddServer (127.0.0.1)
+21:04:36 [AllowConectionManager][ADD][+][HWID:55D3B74A-9689C29F-F428D523-8826B7EE-49656E69-00000016-BFEBFBFF-7FFAFBFF][ConectionCount:1][Account:admin]
+22:20:56 [AllowConectionManager][DELALL][OK][AccountInfo][HWID:55D3B74A-9689C29F-F428D523-8826B7EE-49656E69-00000016-BFEBFBFF-7FFAFBFF][ConectionCount:0][Account:admin]
